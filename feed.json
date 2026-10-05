@@ -1,7 +1,43 @@
 {
-  "version": 2,
-  "generated_at": "2026-10-05T14:44:25-05:00",
+  "version": 1,
+  "generated_at": "2026-10-05T15:03:37-05:00",
   "posts": [
+    {
+      "id": "c46a09b8-470b-4903-bbe1-ab72be3626a9",
+      "kicker": "SPARK'S RIVAL",
+      "title": "AMD's 192GB Ryzen AI Max+ Pro 495 takes on Nvidia's RTX Spark",
+      "category": "PC Hardware",
+      "published_at": "2026-10-05T14:49:46-05:00",
+      "excerpt": "AMD's Ryzen AI Max+ Pro 495 carries up to 192GB of unified memory, per Tom's Guide. The timing is the tell: it lands two days before Nvidia's RTX Spark launch, rumored for Wednesday alongside…",
+      "body": "AMD's Ryzen AI Max+ Pro 495 carries up to 192GB of unified memory, [per Tom's Guide](https://www.tomsguide.com/computing/cpus/amd-just-flaunted-its-own-192gb-monster-chip-to-spoil-nvidias-rtx-spark-party-ryzen-ai-max-pro-495-should-worry-apple-too). The timing is the tell: it lands two days before Nvidia's RTX Spark launch, rumored for Wednesday alongside Microsoft, [per the same report](https://www.tomsguide.com/computing/cpus/amd-just-flaunted-its-own-192gb-monster-chip-to-spoil-nvidias-rtx-spark-party-ryzen-ai-max-pro-495-should-worry-apple-too).",
+      "url": "https://www.tomsguide.com/computing/cpus/amd-just-flaunted-its-own-192gb-monster-chip-to-spoil-nvidias-rtx-spark-party-ryzen-ai-max-pro-495-should-worry-apple-too",
+      "icon": "📰",
+      "image_url": "https://i.iinfo.cz/images/116/odhaleni-procesoru-ryzen-ai-max-300-na-ces-2025-2.webp"
+    },
+    {
+      "id": "c5ca5dc5-dd73-4595-98b9-5b043685778c",
+      "kicker": "Worth building",
+      "title": "When a real coupon deal posts, I can ping you",
+      "category": "💡 Ideas",
+      "published_at": "2026-10-05T14:23:23-05:00",
+      "excerpt": "Same-day deals can sell out before your 7 PM check. I can watch your four Facebook couponing groups every 30 minutes during the day and ping you on WhatsApp and in chat when a real deal posts, with…",
+      "body": "Same-day deals can sell out before your 7 PM check. I can watch your four Facebook couponing groups every 30 minutes during the day and ping you on WhatsApp and in chat when a real deal posts, with the full breakdown and product link.",
+      "url": null,
+      "icon": "📰",
+      "image_url": "https://pluskalite.com/upload/6a8b5ee5dea79.png"
+    },
+    {
+      "id": "30db5e05-e834-48e2-93ae-b4d11d9cac23",
+      "kicker": "NOBEL WEEK CONTINUES",
+      "title": "Physics prize lands tomorrow morning",
+      "category": "General news",
+      "published_at": "2026-10-05T13:39:08-05:00",
+      "excerpt": "The Royal Swedish Academy of Sciences announces the physics laureates Tuesday at 11:45 AM Stockholm time, 4:45 AM your time, with the reveal streamed live, per the week's schedule. The sequence…",
+      "body": "The Royal Swedish Academy of Sciences announces the physics laureates Tuesday at 11:45 AM Stockholm time, 4:45 AM your time, with the reveal streamed live, [per the week's schedule](https://genznewz.com/nobel-prize-2026-begins-monday-medicine-to-peace-preview). The sequence closes with the economics prize next Monday, [per the AP's rundown](https://thehimalayantimes.com/photo-gallery/the-nobel-prize-week-is-kicking-off-in-stockholm-with-the-medicine-award).",
+      "url": "https://genznewz.com/nobel-prize-2026-begins-monday-medicine-to-peace-preview",
+      "icon": "📰",
+      "image_url": "https://s46615.pcdn.co/wp-content/uploads/2026/03/nobel-prize-medal-copy-1017x1024.png"
+    },
     {
       "id": "2ce4fbc8-884f-46bd-a7f1-be1c56cdda71",
       "kicker": "THE ODDS GO UP",
@@ -24,43 +60,7 @@
       "body": "Prime Big Deal Days opens at 12:01 AM PDT tomorrow and runs 48 hours, [per Don't Pay Full's run-up guide](https://www.dontpayfull.com/explore/amazon-prime-big-deal-days-deals), with fresh drops at midnight, 8 AM, and 1 PM PDT each day.\nThe U6 Pro sits at $648, so Tuesday morning's first wave is the one to measure your Best Buy cart against.",
       "url": "https://www.dontpayfull.com/explore/amazon-prime-big-deal-days-deals",
       "icon": "🏷️",
-      "image_url": "https://www.dontpayfull.com/explore/content/2025/10/amazon-prime-big-deal-days-social.jpg?v=1791202897"
-    },
-    {
-      "id": "430a646b-b8a3-4f20-92e8-832bad472570",
-      "kicker": "CHECKOUT IN THE CHAT",
-      "title": "Constructor builds Stripe checkout into its shopping agents",
-      "category": "AI",
-      "published_at": "2026-10-05T10:55:01-05:00",
-      "excerpt": "Constructor announced Agentic Checkout today, embedding Stripe payments directly into its onsite AI shopping agents so shoppers can discover and buy inside one conversation, per Unite.AI. The company…",
-      "body": "Constructor announced Agentic Checkout today, embedding Stripe payments directly into its onsite AI shopping agents so shoppers can discover and buy inside one conversation, [per Unite.AI](https://www.unite.ai/constructor-embeds-stripe-checkout-in-its-onsite-ai-shopping-agents/). The company says it is the first to offer Stripe-powered checkout inside an onsite shopping agent, and reports the number of companies deploying its AI agents is up 900% over the past year, [per the same write-up](https://www.unite.ai/constructor-embeds-stripe-checkout-in-its-onsite-ai-shopping-agents/).",
-      "url": "https://www.unite.ai/constructor-embeds-stripe-checkout-in-its-onsite-ai-shopping-agents/",
-      "icon": "🤖",
-      "image_url": "https://www.unite.ai/wp-content/uploads/2026/10/constructor-embeds-stripe-checkout-onsite-ai-shopping-agents.jpg"
-    },
-    {
-      "id": "a5798699-a312-4e3b-86de-5bc6b856f73e",
-      "kicker": "LOCKED OUT",
-      "title": "GTA 6 will require firmware 14.10.00, blocking PS5 jailbreak",
-      "category": "Gaming",
-      "published_at": "2026-10-05T10:08:15-05:00",
-      "excerpt": "GTA 6's release build will require PS5 firmware 14.10.00.00, per the PlayStation Game Size datamine. Sony's October 1 patch killed the Relapse jailbreak that ran on firmware up to 13.60.",
-      "body": "GTA 6's release build will require PS5 firmware 14.10.00.00, [per the PlayStation Game Size datamine](https://www.notebookcheck.net/GTA-6-blocks-PS5-jailbreak-and-piracy-on-release-date-requiring-14-10-00-firmware.1414828.0.html). Sony's October 1 patch killed the Relapse jailbreak that ran on firmware up to 13.60.",
-      "url": "https://www.notebookcheck.net/GTA-6-blocks-PS5-jailbreak-and-piracy-on-release-date-requiring-14-10-00-firmware.1414828.0.html",
-      "icon": "🎮",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Grand_Theft_Auto_VI_logo_%28with_gradient%29.svg/1280px-Grand_Theft_Auto_VI_logo_%28with_gradient%29.svg.png?utm_source=en.wikibooks.org&utm_campaign=index&utm_content=thumbnail"
-    },
-    {
-      "id": "44302723-f88e-4226-b69c-7ace70ab2b09",
-      "kicker": "DNA NAMED HIM",
-      "title": "Arrest in 2011 Waterbury cold-case murder",
-      "category": "True crime",
-      "published_at": "2026-10-05T08:52:13-05:00",
-      "excerpt": "Heriberto Colon, 59, was arrested Sept. 8 and charged with murder in the December 13, 2011 stabbing death of Waterbury handyman Jose Domenech, 48, per the case write-up. A second blood profile from…",
-      "body": "Heriberto Colon, 59, was arrested Sept. 8 and charged with murder in the December 13, 2011 stabbing death of Waterbury handyman Jose Domenech, 48, [per the case write-up](https://ctmissingpeople.substack.com/p/police-make-arrest-in-2011-waterbury). A second blood profile from the maintenance garage sat unmatched for 14 years until a November 2024 firearms conviction forced Colon's DNA into CODIS.",
-      "url": "https://ctmissingpeople.substack.com/p/police-make-arrest-in-2011-waterbury",
-      "icon": "🔍",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!NHhb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d2d7a9c-3d3a-43fc-880e-e736f00ee55e_710x499.jpeg"
+      "image_url": "https://www.melhorescartoes.com.br/wp-content/uploads/2025/07/amazon-prime-day-capa-04-820x430.jpg"
     }
   ]
 }
