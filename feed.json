@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T11:14:33-05:00",
+  "generated_at": "2026-10-05T13:31:02-05:00",
   "posts": [
+    {
+      "id": "2ce4fbc8-884f-46bd-a7f1-be1c56cdda71",
+      "kicker": "THE ODDS GO UP",
+      "title": "Isaias may form in the Gulf this week",
+      "category": "Texas",
+      "published_at": "2026-10-05T12:17:36-05:00",
+      "excerpt": "The National Hurricane Center raised the Gulf low's development odds this morning, with a tropical depression or storm now possible later this week, per weather.com. The northern Gulf Coast could see…",
+      "body": "The National Hurricane Center raised the Gulf low's development odds this morning, with a tropical depression or storm now possible later this week, [per weather.com](https://weather.com/2026/10/05/storms/hurricane/video/gulf-tropical-development-chance-nhc-forecast-isaias). The northern Gulf Coast could see impacts this weekend, [per the same page](https://weather.com/2026/10/05/storms/hurricane/video/gulf-tropical-development-chance-nhc-forecast-isaias).",
+      "url": "https://weather.com/2026/10/05/storms/hurricane/video/gulf-tropical-development-chance-nhc-forecast-isaias"
+    },
     {
       "id": "fb41b0da-123e-4ae4-9fc9-e973f36ee4b9",
       "kicker": "PRIME DAY EVE",
@@ -41,16 +51,6 @@
       "excerpt": "Heriberto Colon, 59, was arrested Sept. 8 and charged with murder in the December 13, 2011 stabbing death of Waterbury handyman Jose Domenech, 48, per the case write-up. A second blood profile from…",
       "body": "Heriberto Colon, 59, was arrested Sept. 8 and charged with murder in the December 13, 2011 stabbing death of Waterbury handyman Jose Domenech, 48, [per the case write-up](https://ctmissingpeople.substack.com/p/police-make-arrest-in-2011-waterbury). A second blood profile from the maintenance garage sat unmatched for 14 years until a November 2024 firearms conviction forced Colon's DNA into CODIS.",
       "url": "https://ctmissingpeople.substack.com/p/police-make-arrest-in-2011-waterbury"
-    },
-    {
-      "id": "2cc4c651-46b4-4b33-a9b6-8c5a0e9f3fd9",
-      "kicker": "BRAINS, MEET LIGHT",
-      "title": "Deisseroth, Hegemann and Nagel win 2026 Nobel medicine prize",
-      "category": "General news",
-      "published_at": "2026-10-05T06:39:12-05:00",
-      "excerpt": "Karl Deisseroth of Stanford, Peter Hegemann of Humboldt University and Georg Nagel of the University of Würzburg won the 2026 Nobel Prize in Physiology or Medicine for their discoveries on…",
-      "body": "Karl Deisseroth of Stanford, Peter Hegemann of Humboldt University and Georg Nagel of the University of Würzburg won the [2026 Nobel Prize in Physiology or Medicine](https://www.reuters.com/business/healthcare-pharmaceuticals/deisseroth-hegemann-nagelwin-2026-nobel-medicine-prize-2026-10-05/) for their discoveries on light-gated ion channels and optogenetics. The technique turns light into a precision switch for individual nerve cells in a living brain, and it is now standard equipment in neuroscience labs worldwide.",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/deisseroth-hegemann-nagelwin-2026-nobel-medicine-prize-2026-10-05/"
     }
   ]
 }
