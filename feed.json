@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-05T11:14:33-05:00",
+  "posts": [
+    {
+      "id": "fb41b0da-123e-4ae4-9fc9-e973f36ee4b9",
+      "kicker": "PRIME DAY EVE",
+      "title": "Prime Big Deal Days starts tomorrow",
+      "category": "Deals",
+      "published_at": "2026-10-05T11:11:59-05:00",
+      "excerpt": "Prime Big Deal Days opens at 12:01 AM PDT tomorrow and runs 48 hours, per Don't Pay Full's run-up guide, with fresh drops at midnight, 8 AM, and 1 PM PDT each day. The U6 Pro sits at $648, so Tuesday…",
+      "body": "Prime Big Deal Days opens at 12:01 AM PDT tomorrow and runs 48 hours, [per Don't Pay Full's run-up guide](https://www.dontpayfull.com/explore/amazon-prime-big-deal-days-deals), with fresh drops at midnight, 8 AM, and 1 PM PDT each day.\nThe U6 Pro sits at $648, so Tuesday morning's first wave is the one to measure your Best Buy cart against.",
+      "url": "https://www.dontpayfull.com/explore/amazon-prime-big-deal-days-deals"
+    },
+    {
+      "id": "430a646b-b8a3-4f20-92e8-832bad472570",
+      "kicker": "CHECKOUT IN THE CHAT",
+      "title": "Constructor builds Stripe checkout into its shopping agents",
+      "category": "AI",
+      "published_at": "2026-10-05T10:55:01-05:00",
+      "excerpt": "Constructor announced Agentic Checkout today, embedding Stripe payments directly into its onsite AI shopping agents so shoppers can discover and buy inside one conversation, per Unite.AI. The company…",
+      "body": "Constructor announced Agentic Checkout today, embedding Stripe payments directly into its onsite AI shopping agents so shoppers can discover and buy inside one conversation, [per Unite.AI](https://www.unite.ai/constructor-embeds-stripe-checkout-in-its-onsite-ai-shopping-agents/). The company says it is the first to offer Stripe-powered checkout inside an onsite shopping agent, and reports the number of companies deploying its AI agents is up 900% over the past year, [per the same write-up](https://www.unite.ai/constructor-embeds-stripe-checkout-in-its-onsite-ai-shopping-agents/).",
+      "url": "https://www.unite.ai/constructor-embeds-stripe-checkout-in-its-onsite-ai-shopping-agents/"
+    },
+    {
+      "id": "a5798699-a312-4e3b-86de-5bc6b856f73e",
+      "kicker": "LOCKED OUT",
+      "title": "GTA 6 will require firmware 14.10.00, blocking PS5 jailbreak",
+      "category": "Gaming",
+      "published_at": "2026-10-05T10:08:15-05:00",
+      "excerpt": "GTA 6's release build will require PS5 firmware 14.10.00.00, per the PlayStation Game Size datamine. Sony's October 1 patch killed the Relapse jailbreak that ran on firmware up to 13.60.",
+      "body": "GTA 6's release build will require PS5 firmware 14.10.00.00, [per the PlayStation Game Size datamine](https://www.notebookcheck.net/GTA-6-blocks-PS5-jailbreak-and-piracy-on-release-date-requiring-14-10-00-firmware.1414828.0.html). Sony's October 1 patch killed the Relapse jailbreak that ran on firmware up to 13.60.",
+      "url": "https://www.notebookcheck.net/GTA-6-blocks-PS5-jailbreak-and-piracy-on-release-date-requiring-14-10-00-firmware.1414828.0.html"
+    },
+    {
+      "id": "44302723-f88e-4226-b69c-7ace70ab2b09",
+      "kicker": "DNA NAMED HIM",
+      "title": "Arrest in 2011 Waterbury cold-case murder",
+      "category": "True crime",
+      "published_at": "2026-10-05T08:52:13-05:00",
+      "excerpt": "Heriberto Colon, 59, was arrested Sept. 8 and charged with murder in the December 13, 2011 stabbing death of Waterbury handyman Jose Domenech, 48, per the case write-up. A second blood profile from…",
+      "body": "Heriberto Colon, 59, was arrested Sept. 8 and charged with murder in the December 13, 2011 stabbing death of Waterbury handyman Jose Domenech, 48, [per the case write-up](https://ctmissingpeople.substack.com/p/police-make-arrest-in-2011-waterbury). A second blood profile from the maintenance garage sat unmatched for 14 years until a November 2024 firearms conviction forced Colon's DNA into CODIS.",
+      "url": "https://ctmissingpeople.substack.com/p/police-make-arrest-in-2011-waterbury"
+    },
+    {
+      "id": "2cc4c651-46b4-4b33-a9b6-8c5a0e9f3fd9",
+      "kicker": "BRAINS, MEET LIGHT",
+      "title": "Deisseroth, Hegemann and Nagel win 2026 Nobel medicine prize",
+      "category": "General news",
+      "published_at": "2026-10-05T06:39:12-05:00",
+      "excerpt": "Karl Deisseroth of Stanford, Peter Hegemann of Humboldt University and Georg Nagel of the University of Würzburg won the 2026 Nobel Prize in Physiology or Medicine for their discoveries on…",
+      "body": "Karl Deisseroth of Stanford, Peter Hegemann of Humboldt University and Georg Nagel of the University of Würzburg won the [2026 Nobel Prize in Physiology or Medicine](https://www.reuters.com/business/healthcare-pharmaceuticals/deisseroth-hegemann-nagelwin-2026-nobel-medicine-prize-2026-10-05/) for their discoveries on light-gated ion channels and optogenetics. The technique turns light into a precision switch for individual nerve cells in a living brain, and it is now standard equipment in neuroscience labs worldwide.",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/deisseroth-hegemann-nagelwin-2026-nobel-medicine-prize-2026-10-05/"
+    }
+  ]
+}
