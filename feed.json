@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T17:41:32-05:00",
+  "generated_at": "2026-10-05T18:11:16-05:00",
   "posts": [
+    {
+      "id": "18d93584-fe63-4e8e-8a7d-b0ca766b5c65",
+      "kicker": "SBA RULES RESET",
+      "title": "SBA loan rules reset Oct 1 for business buyers",
+      "category": "Business",
+      "published_at": "2026-10-05T18:09:31-05:00",
+      "excerpt": "The SBA's SOP 50 10 8.1 took effect October 1 for 7(a) and 504 applications receiving an SBA loan number on or after that date, per Market Daily. Acquisitions lose the light-touch Small Loan lane and…",
+      "body": "The SBA's SOP 50 10 8.1 took effect October 1 for 7(a) and 504 applications receiving an SBA loan number on or after that date, [per Market Daily](https://marketdaily.com/sba-loan-rules-change-under-sop-50-10-8-1-as-new-acquisition-standards-and-fy2027-fees-take-effect-october-1/). Acquisitions lose the light-touch Small Loan lane and now go through standard 7(a) underwriting.",
+      "url": "https://marketdaily.com/sba-loan-rules-change-under-sop-50-10-8-1-as-new-acquisition-standards-and-fy2027-fees-take-effect-october-1/",
+      "icon": "📰",
+      "image_url": "https://marketdaily.com/wp-content/uploads/2026/10/SBA-Loan-Rules-Change-Under-SOP-50-10-8.1-as-New-Acquisition-Standards-and-FY2027-Fees-Take-Effect-October-1.jpg"
+    },
     {
       "id": "d42e7650-2a88-4e3d-acd0-c342c6a3febe",
       "kicker": "THE VETTING BILL",
@@ -685,30 +697,6 @@
       "url": "https://www.floridatoday.com/story/tech/science/space/spacex/2026/10/02/how-starship-launches-changed-life-in-south-texas-spacex-starbase-florida-ksc/92035106007/",
       "icon": "🤠",
       "image_url": "https://imgix.bustle.com/uploads/getty/2021/9/24/7f011b05-d471-487b-84d0-c3032e69d89c-getty-1171857001.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.484&fp-y=0.624"
-    },
-    {
-      "id": "3ec1c572-9b36-4734-9261-75adf18b1080",
-      "kicker": "CUSTODY SHIFT",
-      "title": "Louisiana ICE site for unaccompanied minors may open next week",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-02T18:11:02-05:00",
-      "excerpt": "The 528-bed Alexandria Family Staging Center at England Airpark in Louisiana would hold families with children, unaccompanied minors and single adult females awaiting removal, per the draft agreement…",
-      "body": "The 528-bed Alexandria Family Staging Center at England Airpark in Louisiana would hold families with children, unaccompanied minors and single adult females awaiting removal, [per the draft agreement reviewed by ABC News](https://www.mycentraloregon.com/2026/10/02/new-ice-facility-to-hold-families-unaccompanied-minors-could-open-in-louisiana-next-week/). It would be the first facility to hold unaccompanied minors outside HHS custody, [per the same reporting](https://www.akamaidailynews.com/national/new-ice-facility-to-hold-families-unaccompanied-minors-could-open-in-louisiana-next-week/).",
-      "url": "https://www.mycentraloregon.com/2026/10/02/new-ice-facility-to-hold-families-unaccompanied-minors-could-open-in-louisiana-next-week/",
-      "icon": "📰",
-      "image_url": "https://kcet.brightspotcdn.com/dims4/default/f6be87e/2147483647/strip/true/crop/1094x615+0+64/resize/448x252!/quality/90/?url=https%3A%2F%2Fimage.pbs.org%2Fvideo-assets%2FftoHmka-asset-mezzanine-16x9-jhSwJ7U.jpg"
-    },
-    {
-      "id": "2c7f32e0-32bc-44e6-9dd9-8ca331982edd",
-      "kicker": "COUPON ENDS TODAY",
-      "title": "Dollar General 6 coupon scenarios from $6",
-      "category": "Deals",
-      "published_at": "2026-10-02T17:53:09-05:00",
-      "excerpt": "The weekday $5 off $25 digital coupon runs through today, Oct 2, with a separate $5 off $25 coupon for Saturday, Oct 3, per the breakdown. The six scenarios start at $6 for seven personal-care items…",
-      "body": "The weekday $5 off $25 digital coupon runs through today, Oct 2, with a separate $5 off $25 coupon for Saturday, Oct 3, [per the breakdown](https://dealseek.com/shopping-guides/dollar-general-5-off-25-september29). The six scenarios start at $6 for seven personal-care items after the store coupon and manufacturer coupons stack, [per the same guide](https://dealseek.com/shopping-guides/dollar-general-5-off-25-september29).",
-      "url": "https://dealseek.com/shopping-guides/dollar-general-5-off-25-september29",
-      "icon": "🏷️",
-      "image_url": "https://flyerify.com/images/offers/564592/dollar-general-sc-weekly-ad-flyer-may-30-to-june-6-1653954481121-1-600.jpg"
     }
   ]
 }
