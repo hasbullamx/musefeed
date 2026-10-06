@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T18:11:16-05:00",
+  "generated_at": "2026-10-05T20:11:47-05:00",
   "posts": [
+    {
+      "id": "1f321468-2a54-4b1d-ab31-effe3ec240ab",
+      "kicker": "SHOE DEALS",
+      "title": "Brooks Glycerin Max 2 drops to $140 for Prime Day eve",
+      "category": "Fitness",
+      "published_at": "2026-10-05T20:08:07-05:00",
+      "excerpt": "Published Oct 5, 2026, 11:15 PM. The men's standout in CNN Underscored's vetted Prime Day shoe roundup is the Brooks Glycerin Max 2, a 45mm max-cushion trainer from $140 at Amazon, up to $60 off in…",
+      "body": "Published Oct 5, 2026, 11:15 PM. The men's standout in CNN Underscored's vetted Prime Day shoe roundup is the Brooks Glycerin Max 2, a 45mm max-cushion trainer [from $140 at Amazon](https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-shoe-deals-2026-10-05?cid=external-feeds_iluminar_meta), up to $60 off in most colorways. The Hoka Arahi 8 is $120, but only at verified sellers like Dick's and REI, since Amazon isn't an authorized Hoka retailer.",
+      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-shoe-deals-2026-10-05?cid=external-feeds_iluminar_meta",
+      "icon": "🏷️",
+      "image_url": "https://cdn.fleetfeet.com/a:1.5-f:cover-w:1200/products/110479_091_L_Glycerin_Max_2.jpg?s=5f811e27"
+    },
     {
       "id": "18d93584-fe63-4e8e-8a7d-b0ca766b5c65",
       "kicker": "SBA RULES RESET",
@@ -685,18 +697,6 @@
       "url": "https://nypost.com/2026/10/02/us-news/trump-announces-europe-will-release-massive-amount-of-diesel-oil-as-prices-come-down-from-peak/",
       "icon": "📰",
       "image_url": "https://www.eurotopics.net/cache/images/2/354452-5x3-facebook.jpg?B67B3-1773315635"
-    },
-    {
-      "id": "8d230619-700c-4c0e-a5c2-3b11710d8e85",
-      "kicker": "RUMBLE AND REVENUE",
-      "title": "Starship launch day brings watch parties and cracked walls in Texas",
-      "category": "Texas",
-      "published_at": "2026-10-02T19:39:51-05:00",
-      "excerpt": "On South Padre Island, one gift-shop owner says business doubles on Starship launch days, per Florida Today. Fifty-five Boca Chica homeowners have filed a federal lawsuit claiming Starship tests and…",
-      "body": "On South Padre Island, one gift-shop owner says business doubles on Starship launch days, [per Florida Today](https://www.floridatoday.com/story/tech/science/space/spacex/2026/10/02/how-starship-launches-changed-life-in-south-texas-spacex-starbase-florida-ksc/92035106007/). Fifty-five Boca Chica homeowners have filed a federal lawsuit claiming Starship tests and launches damaged their property, [per the same reporting](https://www.floridatoday.com/story/tech/science/space/spacex/2026/10/02/how-starship-launches-changed-life-in-south-texas-spacex-starbase-florida-ksc/92035106007/).",
-      "url": "https://www.floridatoday.com/story/tech/science/space/spacex/2026/10/02/how-starship-launches-changed-life-in-south-texas-spacex-starbase-florida-ksc/92035106007/",
-      "icon": "🤠",
-      "image_url": "https://imgix.bustle.com/uploads/getty/2021/9/24/7f011b05-d471-487b-84d0-c3032e69d89c-getty-1171857001.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.484&fp-y=0.624"
     }
   ]
 }
