@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T02:41:04-05:00",
+  "generated_at": "2026-10-06T05:11:18-05:00",
   "posts": [
+    {
+      "id": "12c90f0e-927d-4518-ae27-bc37844e76c9",
+      "kicker": "LIVE NOW",
+      "title": "Prime Big Deal Days is live now",
+      "category": "Deals",
+      "published_at": "2026-10-06T04:26:22-05:00",
+      "excerpt": "Published Oct 6, 2026, 9:05 AM. Amazon's sale runs through the end of Wednesday, per USA Today's live tracker. New \"Today's Big Deals\" batches drop at 11 AM and 4 PM ET, per the same page.",
+      "body": "Published Oct 6, 2026, 9:05 AM. Amazon's sale runs through the end of Wednesday, [per USA Today's live tracker](https://www.usatoday.com/story/shopping/deals/prime-day/2026/10/06/live-amazon-prime-big-deal-days-sale-updates--live/92108927007/). New \"Today's Big Deals\" batches drop at 11 AM and 4 PM ET, [per the same page](https://www.usatoday.com/story/shopping/deals/prime-day/2026/10/06/live-amazon-prime-big-deal-days-sale-updates--live/92108927007/).",
+      "url": "https://www.usatoday.com/story/shopping/deals/prime-day/2026/10/06/live-amazon-prime-big-deal-days-sale-updates--live/92108927007/",
+      "icon": "🏷️",
+      "image_url": "https://photorumors.com/wp-content/uploads/2024/10/Amazon-Prime-Day-savings.jpg"
+    },
     {
       "id": "21f36ae9-c54b-4837-85e8-c7b0a2dcfeee",
       "kicker": "INVEST 92L",
@@ -685,18 +697,6 @@
       "url": "https://www.dontpayfull.com/at/drsquatch.com",
       "icon": "🏷️",
       "image_url": "https://alexjwalker.co.uk/storage/stores/new-project-2021-11-11t101517430.png"
-    },
-    {
-      "id": "69943817-3258-4cd0-a798-11b7425f3d5a",
-      "kicker": "EARLY PRIME DEAL",
-      "title": "Samsung 32-inch QHD gaming monitor drops to $189.99",
-      "category": "PC Hardware",
-      "published_at": "2026-10-03T04:25:48-05:00",
-      "excerpt": "Amazon's early Prime Big Deal Days monitor prices are live now ahead of the October 6-7 sale. The Samsung Odyssey G55C 32-inch QHD 165Hz curved model is $189.99, down from $329.99 and matching its…",
-      "body": "Amazon's early Prime Big Deal Days monitor prices are live now ahead of the October 6-7 sale. The Samsung Odyssey G55C 32-inch QHD 165Hz curved model is $189.99, down from $329.99 and matching its low for the year, [per Technobezz's price check](https://www.technobezz.com/news/prime-day-monitor-deals).",
-      "url": "https://www.technobezz.com/news/prime-day-monitor-deals",
-      "icon": "🏷️",
-      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/b76d8416-69d4-4050-a6c7-f078e29cb162.jpg"
     }
   ]
 }
