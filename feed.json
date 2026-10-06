@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T11:42:51-05:00",
+  "generated_at": "2026-10-06T14:41:44-05:00",
   "posts": [
+    {
+      "id": "d2bc2db0-73f4-4f56-a7cf-5b660f77f918",
+      "kicker": "SHOE DEAL",
+      "title": "Nike Run Defy down to $55 in first price cut in months",
+      "category": "Deals",
+      "published_at": "2026-10-06T14:29:00-05:00",
+      "excerpt": "Amazon's 15% markdown on Nike's Men's Run Defy road running shoe is the first price cut on it in months. The sale runs through Wednesday.",
+      "body": "Amazon's 15% markdown on [Nike's Men's Run Defy road running shoe](https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2026-10-06?cid=external-feeds_iluminar_meta) is the first price cut on it in months. The sale runs through Wednesday.",
+      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2026-10-06?cid=external-feeds_iluminar_meta",
+      "icon": "🏷️",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/a-z-main-cnnu-20261006063417781.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "id": "50d6c6ea-876f-47c0-9bd1-315c2cb22652",
+      "kicker": "RETAIL AGENTS",
+      "title": "Fujitsu opens trial environment for retail AI agents",
+      "category": "AI",
+      "published_at": "2026-10-06T12:18:00-05:00",
+      "excerpt": "Fujitsu put four retail AI agents on trial today through one shared execution platform, per the JCN Newswire announcement. Seven retailers will run phased demonstration experiments with them.",
+      "body": "Fujitsu put four retail AI agents on trial today through one shared execution platform, per the JCN Newswire announcement. Seven retailers will run phased demonstration experiments with them.",
+      "url": null,
+      "icon": "🤖",
+      "image_url": "https://prtimes.jp/i/19970/13/resize/d19970-13-127998-7.jpg"
+    },
     {
       "id": "a759b464-ae9d-4437-8242-a06eb4eaeede",
       "kicker": "COLD CASE ID",
@@ -673,42 +697,6 @@
       "url": "https://dev.to/mehdimohseni82/your-ai-cost-model-is-already-wrong-tokenizers-context-cliffs-and-session-hours-1aj2",
       "icon": "🤖",
       "image_url": "https://i.prt.news/b91cf61990637bf65d9ff5177fd919f1.jpg"
-    },
-    {
-      "id": "21d6d852-8db2-4f23-b5ca-62d20d236513",
-      "kicker": "MIDTERM MONEY",
-      "title": "Trump's $90 checks to 20 million seniors",
-      "category": "General news",
-      "published_at": "2026-10-03T14:37:20-05:00",
-      "excerpt": "Trump is sending a one-time $90 payment to more than 20 million Medicare Part B seniors a month before the November 3 midterms, per USA Today's review of the White House breakdown. Texas gets…",
-      "body": "Trump is sending a one-time $90 payment to more than 20 million Medicare Part B seniors a month before the November 3 midterms, [per USA Today's review of the White House breakdown](https://www.usatoday.com/story/news/politics/2026/10/03/trump-90-checks-seniors-midterm-election/92076828007/). Texas gets 1,432,000 of the checks, second only to California, with most paid by direct deposit in early October, [per the same state-by-state breakdown](https://www.usatoday.com/story/news/politics/2026/10/03/trump-90-checks-seniors-midterm-election/92076828007/).",
-      "url": "https://www.usatoday.com/story/news/politics/2026/10/03/trump-90-checks-seniors-midterm-election/92076828007/",
-      "icon": "📰",
-      "image_url": "https://assets.growers.social/cache/media_attachments/files/115/616/951/993/437/115/original/69ba7e356accb643.jpeg"
-    },
-    {
-      "id": "1d4813f2-7c6b-4c40-bc89-dd0461766a06",
-      "kicker": "THE FINGERNAIL EVIDENCE",
-      "title": "Fingernail DNA solves two-year-old murder, three arrested",
-      "category": "True crime",
-      "published_at": "2026-10-03T14:27:41-05:00",
-      "excerpt": "Raipur police arrested three men Friday for the August 2024 murder of Lata Sahu. The break came from biological traces preserved under her fingernails, matched to the accused's DNA two years later,…",
-      "body": "Raipur police arrested three men Friday for the August 2024 murder of Lata Sahu. The break came from biological traces preserved under her fingernails, matched to the accused's DNA two years later, [per ETV Bharat](https://www.etvbharat.com/en/state/dna-evidence-under-victims-fingernails-solves-two-year-old-raipur-murder-case-3-arrested-enn26100300258).",
-      "url": "https://www.etvbharat.com/en/state/dna-evidence-under-victims-fingernails-solves-two-year-old-raipur-murder-case-3-arrested-enn26100300258",
-      "icon": "🔍",
-      "image_url": "https://s.hdnux.com/photos/14/52/71/3321419/4/1920x0.jpg"
-    },
-    {
-      "id": "348119c7-0d8e-4f98-80a8-4227cc43bf51",
-      "kicker": "POWER BI GOES AGENTIC",
-      "title": "Power BI's agentic experiences go generally available",
-      "category": "Power Platform",
-      "published_at": "2026-10-03T12:13:06-05:00",
-      "excerpt": "Point a coding agent at a requirements doc or a screenshot, and it can now take the first pass on your semantic models and reports itself, grounding its work in your business context through Fabric…",
-      "body": "Point a coding agent at a requirements doc or a screenshot, and it can now take the first pass on your semantic models and reports itself, grounding its work in your business context through Fabric IQ, [per Microsoft's September 2026 Feature Summary](https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/power-bi-september-2026-feature-summary/5325831). You can also create and edit DirectQuery semantic models right in the Power BI service now, no Desktop download required, [per the same summary](https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/power-bi-september-2026-feature-summary/5325831).",
-      "url": "https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/power-bi-september-2026-feature-summary/5325831",
-      "icon": "📰",
-      "image_url": "https://dev.riseupp.com/_next/image?url=https%3A%2F%2Fimages.riseupp.com%2Fnew-thumbnails%2F10114.png&w=1920&q=75"
     }
   ]
 }
