@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T22:41:29-05:00",
+  "generated_at": "2026-10-06T01:11:37-05:00",
   "posts": [
+    {
+      "id": "c62c620f-a3ec-4209-92d9-a231cff8a289",
+      "kicker": "HANDS OFF",
+      "title": "ServiceNow launches Autonomous Engineer for unattended coding",
+      "category": "AI",
+      "published_at": "2026-10-06T00:19:47-05:00",
+      "excerpt": "Published Oct 6, 2026, 7:00 AM. ServiceNow's Autonomous Engineer is in early access on request, built to plan, build, and test implementation work on its own while developers keep the critical…",
+      "body": "Published Oct 6, 2026, 7:00 AM. ServiceNow's [Autonomous Engineer](https://www.rediff.com/business/report/servicenow-launches-ai-workflow-factory-and-autonomous-engineer/20261006.htm) is in early access on request, built to plan, build, and test implementation work on its own while developers keep the critical decisions. The companion launch, AI Workflow Factory, is available globally now, giving teams one platform to build, run, and extend AI workflows.",
+      "url": "https://www.rediff.com/business/report/servicenow-launches-ai-workflow-factory-and-autonomous-engineer/20261006.htm",
+      "icon": "🤖",
+      "image_url": "https://www.hsc.com/wp-content/uploads/2025/07/ServiceNow-AI-Agents-Banner.png"
+    },
     {
       "id": "f23dc09d-de55-4ee1-a0c1-2261e0a43e90",
       "kicker": "COLD CASE COURT DATE",
@@ -697,18 +709,6 @@
       "url": "https://explainx.ai/blog/chatgpt-sites-hacker-news-what-builders-should-know-2026",
       "icon": "🤖",
       "image_url": "https://www.networksolutions.com/blog/wp-content/uploads/2025/09/how-to-build-a-website-with-chatgpt.png"
-    },
-    {
-      "id": "cbdbf79c-e72f-420e-b23a-90bbddcfb266",
-      "kicker": "CLEARANCE WEEK",
-      "title": "Dollar General clearance adds extra 50% off through Oct 8",
-      "category": "Deals",
-      "published_at": "2026-10-03T00:20:03-05:00",
-      "excerpt": "The in-store clearance event runs Oct 1 through Oct 8 with an extra 50% off already-reduced items, per the Krazy Coupon Lady roundup. Clip the Saturday $5 off $25 coupon in the DG app before you go,…",
-      "body": "The in-store clearance event runs Oct 1 through Oct 8 with an extra 50% off already-reduced items, [per the Krazy Coupon Lady roundup](https://thekrazycouponlady.com/tips/store-hacks/dollar-general-clearance-event). Clip the Saturday $5 off $25 coupon in the DG app before you go, since it stacks on the clearance price, [per the same guide](https://thekrazycouponlady.com/tips/store-hacks/dollar-general-clearance-event).",
-      "url": "https://thekrazycouponlady.com/tips/store-hacks/dollar-general-clearance-event",
-      "icon": "🏷️",
-      "image_url": "https://media.thefreebieguy.com/wp-content/uploads/2022/06/Dollar-General-Clearance-Event-2048x1152.jpg"
     }
   ]
 }
