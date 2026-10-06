@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T05:11:18-05:00",
+  "generated_at": "2026-10-06T06:40:57-05:00",
   "posts": [
+    {
+      "id": "4cb8d482-05b2-43e7-945c-9595a442fce7",
+      "kicker": "GHOST HUNTER",
+      "title": "Francis Halzen wins Nobel physics prize for IceCube neutrino work",
+      "category": "General news",
+      "published_at": "2026-10-06T06:39:01-05:00",
+      "excerpt": "Published Oct 6, 2026, 11:00 AM. The 82-year-old Belgian astrophysicist proposed the IceCube Neutrino Observatory back in 1988, betting a cubic kilometer of Antarctic ice threaded with light sensors…",
+      "body": "Published Oct 6, 2026, 11:00 AM. The 82-year-old Belgian astrophysicist proposed the IceCube Neutrino Observatory back in 1988, betting a cubic kilometer of Antarctic ice threaded with light sensors could trap particles that pass through planets untouched. The Royal Swedish Academy of Sciences [awarded him the 2026 physics prize Tuesday](https://www.cnn.com/2026/10/06/science/nobel-prize-physics-francis-halzen-winner-intl?cid=external-feeds_iluminar_meta) for the discovery of high-energy cosmic neutrinos.",
+      "url": "https://www.cnn.com/2026/10/06/science/nobel-prize-physics-francis-halzen-winner-intl?cid=external-feeds_iluminar_meta",
+      "icon": "📰",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/uncropped-francis-halzen-1450x2048.jpg?c=16x9&q=w_800,c_fill"
+    },
     {
       "id": "12c90f0e-927d-4518-ae27-bc37844e76c9",
       "kicker": "LIVE NOW",
@@ -685,18 +697,6 @@
       "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/anthropic-eyes-mid-november-ipo-targets-up-to-2-trillion-valuation-report/134654927",
       "icon": "📰",
       "image_url": "https://www.startup-news.it/wp-content/uploads/2026/09/Anthropic-IPO-780x450.jpg"
-    },
-    {
-      "id": "c13e27ca-5b78-41ac-bcb1-75ba842633d8",
-      "kicker": "SOAP DEAL",
-      "title": "Dr. Squatch 20% off code, verified yesterday",
-      "category": "Deals",
-      "published_at": "2026-10-03T06:40:39-05:00",
-      "excerpt": "The code DSQJAHNS took 20% off Dr. Squatch orders at checkout yesterday, confirmed by multiple shopper tests in the last day, per the coupon tracker. It expires Tuesday, Oct 6, per the same tracker.",
-      "body": "The code DSQJAHNS took 20% off Dr. Squatch orders at checkout yesterday, confirmed by multiple shopper tests in the last day, [per the coupon tracker](https://www.dontpayfull.com/at/drsquatch.com). It expires Tuesday, Oct 6, [per the same tracker](https://www.dontpayfull.com/at/drsquatch.com).",
-      "url": "https://www.dontpayfull.com/at/drsquatch.com",
-      "icon": "🏷️",
-      "image_url": "https://alexjwalker.co.uk/storage/stores/new-project-2021-11-11t101517430.png"
     }
   ]
 }
