@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T06:40:57-05:00",
+  "generated_at": "2026-10-06T08:11:48-05:00",
   "posts": [
+    {
+      "id": "5483f512-14cd-4588-8519-54afa7563f44",
+      "kicker": "CORE WORK PAYS",
+      "title": "Core training speeds sprints and lifts jumps, 49 studies show",
+      "category": "Fitness",
+      "published_at": "2026-10-06T07:36:13-05:00",
+      "excerpt": "A Frontiers in Physiology meta-analysis of 49 studies found core training raised sprint speed and jump height across sports. The verdict: treat core work as the complement to sport-specific sprint,…",
+      "body": "A [Frontiers in Physiology meta-analysis](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1946447/full) of 49 studies found core training raised sprint speed and jump height across sports. The verdict: treat core work as the complement to sport-specific sprint, strength, and plyometric blocks, not the program itself.",
+      "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1946447/full",
+      "icon": "📰",
+      "image_url": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/8661D86F-DC44-47C3-8EDF5AC7C3010522/CADBD0FC-2672-4E45-A7D1A3BAE338337E/WebsiteWebP_XL-FPHYS_Main Visual_Red_Website.webp"
+    },
     {
       "id": "4cb8d482-05b2-43e7-945c-9595a442fce7",
       "kicker": "GHOST HUNTER",
