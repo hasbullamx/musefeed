@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T20:11:47-05:00",
+  "generated_at": "2026-10-05T21:11:37-05:00",
   "posts": [
+    {
+      "id": "049d979f-75ac-48b5-a7dc-490bcc3925bf",
+      "kicker": "HEALTH FORMS",
+      "title": "ORR proposes revamped health forms for kids in custody",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-05T21:04:43-05:00",
+      "excerpt": "The Administration for Children and Families published a notice on October 5, 2026 proposing revisions to ORR's Mental Health Assessment Form and a consolidated Onsite Health Intervention Form, with…",
+      "body": "The Administration for Children and Families published a notice on October 5, 2026 proposing revisions to ORR's Mental Health Assessment Form and a consolidated Onsite Health Intervention Form, with public comments open through November 4, 2026. For children with health needs who are identified for repatriation, the proposal would let limited health information follow them, keeping care continuous during transfer and stopping short of a blanket records handoff, [per the write-up](https://inusnews.com/unaccompanied-children-orr-health-safeguards/).",
+      "url": "https://inusnews.com/unaccompanied-children-orr-health-safeguards/",
+      "icon": "📰",
+      "image_url": "https://i0.wp.com/inusnews.com/wp-content/uploads/2026/10/unaccompanied-children-orr-health-safeguards-featured-1200x801-1.webp"
+    },
+    {
+      "id": "49df127f-a018-4b12-9fbd-b228bf92ef80",
+      "kicker": "OPEN WEIGHTS",
+      "title": "Reflection debuts open-weight Beam AI model",
+      "category": "AI",
+      "published_at": "2026-10-05T20:42:51-05:00",
+      "excerpt": "Published Oct 5, 2026, 11:30 PM. Reflection unveiled Beam, its first frontier open-weight model, with full details in a company blog post Monday. The company says Beam matches leading Chinese open…",
+      "body": "Published Oct 5, 2026, 11:30 PM. Reflection unveiled Beam, its first frontier open-weight model, with full details in a [company blog post](https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/) Monday. The company says Beam matches leading Chinese open models on reasoning benchmarks at a fraction of the inference cost.",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "icon": "🤖",
+      "image_url": "https://techgenyz.com/wp-content/uploads/2025/09/Open-Weight-AI-Open-Weight-AI.webp"
+    },
     {
       "id": "1f321468-2a54-4b1d-ab31-effe3ec240ab",
       "kicker": "SHOE DEALS",
@@ -685,18 +709,6 @@
       "url": "https://itbrief.in/story/openai-launches-gpt-6-1-sol-as-cheaper-coding-model",
       "icon": "🤖",
       "image_url": "https://i.nextmedia.com.au/News/2023-11-03T191909Z_1_LYNXMPEJA20QE_RTROPTP_4_TECH-AI-OPENAI-DEVDAY.JPG"
-    },
-    {
-      "id": "376467e0-8446-468c-92ef-1a15c8ff42c4",
-      "kicker": "PUMP RELIEF",
-      "title": "Europe to release 100M barrels of diesel as prices fall",
-      "category": "General news",
-      "published_at": "2026-10-02T21:02:59-05:00",
-      "excerpt": "Macron announced the release Friday after an emergency G7 meeting, the fuel flowing over the next four months in coordination with the IEA. The national average for regular gas stood at $4.40 a…",
-      "body": "Macron [announced the release Friday after an emergency G7 meeting](https://nypost.com/2026/10/02/us-news/trump-announces-europe-will-release-massive-amount-of-diesel-oil-as-prices-come-down-from-peak/), the fuel flowing over the next four months in coordination with the IEA. The national average for regular gas stood at $4.40 a gallon Friday morning, down more than nine cents from last week per AAA.",
-      "url": "https://nypost.com/2026/10/02/us-news/trump-announces-europe-will-release-massive-amount-of-diesel-oil-as-prices-come-down-from-peak/",
-      "icon": "📰",
-      "image_url": "https://www.eurotopics.net/cache/images/2/354452-5x3-facebook.jpg?B67B3-1773315635"
     }
   ]
 }
