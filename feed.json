@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T10:11:57-05:00",
+  "generated_at": "2026-10-06T11:42:51-05:00",
   "posts": [
+    {
+      "id": "a759b464-ae9d-4437-8242-a06eb4eaeede",
+      "kicker": "COLD CASE ID",
+      "title": "Betty Jo Norris identified 43 years after highway shooting",
+      "category": "True crime",
+      "published_at": "2026-10-06T10:53:53-05:00",
+      "excerpt": "Texas DPS on Monday identified the woman found shot dead along Highway 36 in Hamilton County in September 1983 as 44-year-old Betty Jo Norris, per the New York Post. The breakthrough came in July…",
+      "body": "Texas DPS on Monday identified the woman found shot dead along Highway 36 in Hamilton County in September 1983 as 44-year-old Betty Jo Norris, [per the New York Post](https://nypost.com/2026/10/06/us-news/texas-murder-victim-betty-jo-norris-finally-idd-43-years-after-being-fatally-shot-dumped-by-highway/).\nThe breakthrough came in July 2026 from advanced DNA testing and genealogy that traced her to relatives in Brazos and Bell counties.",
+      "url": "https://nypost.com/2026/10/06/us-news/texas-murder-victim-betty-jo-norris-finally-idd-43-years-after-being-fatally-shot-dumped-by-highway/",
+      "icon": "🔍",
+      "image_url": "https://93qcountry.com/wp-content/uploads/sites/106/2023/08/KIQUPMJNR5GBRKQ6R6JGYIZH2Q.jpg?quality=80&strip=all&w=1680&crop=0,0,100,960px"
+    },
+    {
+      "id": "4149865a-db5a-4c0d-8a48-518f43c2aa55",
+      "kicker": "CITY HALL",
+      "title": "Brownsville proposes stormwater utility and fee",
+      "category": "Texas",
+      "published_at": "2026-10-06T10:12:26-05:00",
+      "excerpt": "The stated goal is fighting flooding and protecting the city's resacas, per Texas Border Business. It's a proposal for now, so the fee's size and when it would land on bills are still open.",
+      "body": "The stated goal is fighting flooding and protecting the city's resacas, [per Texas Border Business](https://texasborderbusiness.com/category/news/). It's a proposal for now, so the fee's size and when it would land on bills are still open.",
+      "url": "https://texasborderbusiness.com/category/news/",
+      "icon": "🤠",
+      "image_url": "https://s.hdnux.com/photos/01/26/03/01/22556741/4/1080x0.webp"
+    },
     {
       "id": "aed1f671-63e0-426c-a422-e113603f4e4f",
       "kicker": "MEET YOUR INTERVIEWER",
@@ -685,30 +709,6 @@
       "url": "https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/power-bi-september-2026-feature-summary/5325831",
       "icon": "📰",
       "image_url": "https://dev.riseupp.com/_next/image?url=https%3A%2F%2Fimages.riseupp.com%2Fnew-thumbnails%2F10114.png&w=1920&q=75"
-    },
-    {
-      "id": "b3c40eae-9950-419a-b73d-667017500f70",
-      "kicker": "SHADER DELIVERY",
-      "title": "NVIDIA RTX gets shader delivery this month, after AMD's 96% cut",
-      "category": "PC Hardware",
-      "published_at": "2026-10-03T11:15:27-05:00",
-      "excerpt": "Your RX 9070 XT already has Microsoft's Advanced Shader Delivery in public preview, with load-time cuts as steep as 96% in early tests, while every NVIDIA RTX card waits for a rollout later this…",
-      "body": "Your RX 9070 XT already has Microsoft's Advanced Shader Delivery in public preview, with load-time cuts as steep as 96% in early tests, while every NVIDIA RTX card waits for a rollout later this month, [per Tech Insider](https://tech-insider.org/nvidia-rtx-advanced-shader-delivery-2026/). Games have to ship GPU-specific shader packages through Microsoft's pipeline to use it, with Call of Duty: Modern Warfare 4 on Oct 23 the next big title in line, and the whole thing needs Windows 11 24H2 or newer, [per the same write-up](https://tech-insider.org/nvidia-rtx-advanced-shader-delivery-2026/).",
-      "url": "https://tech-insider.org/nvidia-rtx-advanced-shader-delivery-2026/",
-      "icon": "📰",
-      "image_url": "https://www.club386.com/wp-content/uploads/2026/04/nvidia-auto-shader-compilation.jpg"
-    },
-    {
-      "id": "421fb6e9-6cbe-4017-ac0a-673050ab9e5f",
-      "kicker": "THE AI TAB",
-      "title": "AI's borrowing binge is rattling the bond market",
-      "category": "Finance",
-      "published_at": "2026-10-03T10:51:02-05:00",
-      "excerpt": "The gap between corporate and government borrowing costs jumped by its most since March, hitting a six-month high. Broadcom is arranging $60 billion to fund AI infrastructure for Anthropic and…",
-      "body": "The gap between corporate and government borrowing costs jumped by its most since March, hitting a six-month high. Broadcom is arranging $60 billion to fund AI infrastructure for Anthropic and others, [per Finimize's daily brief](https://finimize.com/content/your-daily-brief-for-october-3rd-2026).",
-      "url": "https://finimize.com/content/your-daily-brief-for-october-3rd-2026",
-      "icon": "🤖",
-      "image_url": "https://d15bya8fi85z1v.cloudfront.net/chat/EORaotpyJOhXQrnzEaHzxW1xXhD2/images/80FDFF541BE87F54CB8B/5A850040D7002411E9E7.png"
     }
   ]
 }
