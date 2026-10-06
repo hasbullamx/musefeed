@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T21:11:37-05:00",
+  "generated_at": "2026-10-05T22:41:29-05:00",
   "posts": [
+    {
+      "id": "f23dc09d-de55-4ee1-a0c1-2261e0a43e90",
+      "kicker": "COLD CASE COURT DATE",
+      "title": "Man arrested in 2006 Dickus double murder due in court Oct 8",
+      "category": "True crime",
+      "published_at": "2026-10-05T22:28:28-05:00",
+      "excerpt": "Michael Jerome James, who was 14 when 10-year-old Blake Dickus and his stepmother Chynna were killed in Franklin, Indiana in 2006, faces four murder charges after his October 2 arrest, per the…",
+      "body": "Michael Jerome James, who was 14 when 10-year-old Blake Dickus and his stepmother Chynna were killed in Franklin, Indiana in 2006, faces four murder charges after his October 2 arrest, [per the Indianapolis Star](https://www.indystar.com/story/news/crime/2026/10/05/blake-dickus-chynna-franklin-her-son-was-killed-in-2006-the-man-arrested-will-soon-appear-in-court/92104168007/). Charging documents allege he killed them while committing or attempting to commit burglary.",
+      "url": "https://www.indystar.com/story/news/crime/2026/10/05/blake-dickus-chynna-franklin-her-son-was-killed-in-2006-the-man-arrested-will-soon-appear-in-court/92104168007/",
+      "icon": "🔍",
+      "image_url": "https://www.nzherald.co.nz/resizer/v2/XLY52CREBHJ6C7F6UTRJ6XP6LI.jpg?auth=83a48f7953a1dfe487e95bcb93d8025a28059ce8dcca1818a0ca737136b7ce00&smart=true&width=1024&height=768"
+    },
+    {
+      "id": "12157e78-b2f0-4503-a12b-2ef67b0747e0",
+      "kicker": "GONE NATIONAL",
+      "title": "Takaichi raises Marine murder case in parliament speech",
+      "category": "General news",
+      "published_at": "2026-10-05T22:18:17-05:00",
+      "excerpt": "The suspect is 20-year-old Devin Jacob Ballard, a Marine stationed at Futenma accused of killing a 39-year-old woman at a Naha hotel and stealing her backpack and wallet. With the case now a national…",
+      "body": "The suspect is 20-year-old Devin Jacob Ballard, a Marine stationed at Futenma [accused of killing a 39-year-old woman at a Naha hotel and stealing her backpack and wallet](https://www.japantimes.co.jp/news/2026/10/05/japan/crime-legal/okinawa-murder-us-marine-arrest-japan-protest/). With the case now a national issue, the U.S. military is weighing its response.",
+      "url": "https://www.japantimes.co.jp/news/2026/10/05/japan/crime-legal/okinawa-murder-us-marine-arrest-japan-protest/",
+      "icon": "📰",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2026-02/260220-Takaichi-rs-63266b.jpg"
+    },
     {
       "id": "049d979f-75ac-48b5-a7dc-490bcc3925bf",
       "kicker": "HEALTH FORMS",
@@ -685,30 +709,6 @@
       "url": "https://thekrazycouponlady.com/tips/store-hacks/dollar-general-clearance-event",
       "icon": "🏷️",
       "image_url": "https://media.thefreebieguy.com/wp-content/uploads/2022/06/Dollar-General-Clearance-Event-2048x1152.jpg"
-    },
-    {
-      "id": "340a4c04-9480-4b58-bbb2-ba162c398bbe",
-      "kicker": "WAREHOUSE WATCH",
-      "title": "Costco opening new warehouses this October",
-      "category": "Business",
-      "published_at": "2026-10-02T22:24:05-05:00",
-      "excerpt": "Five U.S. locations are scheduled for October, per Parade. The Texas opening is in The Colony, in Grandscape near Spring Creek Parkway and Grandscape Boulevard, though an exact date has not been…",
-      "body": "Five U.S. locations are scheduled for October, [per Parade](https://parade.com/news/costco-is-opening-new-warehouses-this-october-and-heres-where). The Texas opening is in The Colony, in Grandscape near Spring Creek Parkway and Grandscape Boulevard, though an exact date has not been announced, [per the same report](https://parade.com/news/costco-is-opening-new-warehouses-this-october-and-heres-where).",
-      "url": "https://parade.com/news/costco-is-opening-new-warehouses-this-october-and-heres-where",
-      "icon": "📰",
-      "image_url": "https://stage.eatthis.com/wp-content/uploads/sites/4/2022/02/Costco-construction-1.jpg?resize=768,563&quality=82&strip=all"
-    },
-    {
-      "id": "7b2ae4c2-b4d3-4a65-ae6d-568b572a144f",
-      "kicker": "CHEAPER CODING MODEL",
-      "title": "OpenAI launches GPT-6.1 Sol as cheaper coding model",
-      "category": "AI",
-      "published_at": "2026-10-02T21:13:52-05:00",
-      "excerpt": "Through the OpenAI API it is priced at USD $2 per million input tokens and USD $0.10 per million cached input tokens, one-fifth of GPT-6 Astra's standard rates, per IT Brief. On DeepSWE v1.1 it…",
-      "body": "Through the OpenAI API it is priced at USD $2 per million input tokens and USD $0.10 per million cached input tokens, one-fifth of GPT-6 Astra's standard rates, [per IT Brief](https://itbrief.in/story/openai-launches-gpt-6-1-sol-as-cheaper-coding-model). On DeepSWE v1.1 it matched GPT-6 Astra at about one-fifth of the cost per task, [per the same report](https://itbrief.in/story/openai-launches-gpt-6-1-sol-as-cheaper-coding-model).",
-      "url": "https://itbrief.in/story/openai-launches-gpt-6-1-sol-as-cheaper-coding-model",
-      "icon": "🤖",
-      "image_url": "https://i.nextmedia.com.au/News/2023-11-03T191909Z_1_LYNXMPEJA20QE_RTROPTP_4_TECH-AI-OPENAI-DEVDAY.JPG"
     }
   ]
 }
