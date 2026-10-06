@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T08:11:48-05:00",
+  "generated_at": "2026-10-06T10:11:57-05:00",
   "posts": [
+    {
+      "id": "aed1f671-63e0-426c-a422-e113603f4e4f",
+      "kicker": "MEET YOUR INTERVIEWER",
+      "title": "HackerRank's AI interviewer Chakra goes live",
+      "category": "AI",
+      "published_at": "2026-10-06T08:50:32-05:00",
+      "excerpt": "An AI agent has already run more than 500,000 job interviews, and HackerRank made Chakra generally available Monday. It watches candidates work a real code repository and scores judgment and 'AI…",
+      "body": "An AI agent has already run more than 500,000 job interviews, and HackerRank made Chakra [generally available Monday](https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/). It watches candidates work a real code repository and scores judgment and 'AI fluency,' HackerRank's term for how well a candidate frames a problem for AI, judges its output, and steers it toward a solution.",
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "icon": "🤖",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/ai-avatar-simpleshow-2154151760.jpg?resize=1200,826"
+    },
     {
       "id": "5483f512-14cd-4588-8519-54afa7563f44",
       "kicker": "CORE WORK PAYS",
@@ -697,18 +709,6 @@
       "url": "https://finimize.com/content/your-daily-brief-for-october-3rd-2026",
       "icon": "🤖",
       "image_url": "https://d15bya8fi85z1v.cloudfront.net/chat/EORaotpyJOhXQrnzEaHzxW1xXhD2/images/80FDFF541BE87F54CB8B/5A850040D7002411E9E7.png"
-    },
-    {
-      "id": "91c68c4e-c1bb-49ac-b77e-cf327d6093dd",
-      "kicker": "IPO COUNTDOWN",
-      "title": "Anthropic targets mid-November IPO at up to $2 trillion",
-      "category": "Business",
-      "published_at": "2026-10-03T08:47:58-05:00",
-      "excerpt": "Anthropic is aiming to start formal marketing for its share sale the week of November 9, per Bloomberg's reporting. The push is to begin trading before Thanksgiving, when dealmaking typically slows.",
-      "body": "Anthropic is aiming to start formal marketing for its share sale the week of November 9, [per Bloomberg's reporting](https://enterpriseai.economictimes.indiatimes.com/news/industry/anthropic-eyes-mid-november-ipo-targets-up-to-2-trillion-valuation-report/134654927). The push is to begin trading before Thanksgiving, when dealmaking typically slows.",
-      "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/anthropic-eyes-mid-november-ipo-targets-up-to-2-trillion-valuation-report/134654927",
-      "icon": "📰",
-      "image_url": "https://www.startup-news.it/wp-content/uploads/2026/09/Anthropic-IPO-780x450.jpg"
     }
   ]
 }
