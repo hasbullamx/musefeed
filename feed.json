@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T14:41:44-05:00",
+  "generated_at": "2026-10-06T17:43:41-05:00",
   "posts": [
+    {
+      "id": "9fd8b2b3-8e62-4898-ad6f-7964d7710699",
+      "kicker": "41-YEAR COLD CASE",
+      "title": "Man charged in 1985 Hellewell murder",
+      "category": "True crime",
+      "published_at": "2026-10-06T16:27:50-05:00",
+      "excerpt": "Rhode Island's attorney general announced Tuesday afternoon that 61-year-old William \"Billy\" Morton has been arrested and charged with murder in the 1985 strangling death of 22-year-old Hillary L.…",
+      "body": "Rhode Island's attorney general announced Tuesday afternoon that 61-year-old William \"Billy\" Morton has been arrested and charged with murder in the 1985 strangling death of 22-year-old Hillary L. Hellewell, [per the Providence Journal](https://www.providencejournal.com/story/news/crime/2026/10/06/arrest-made-in-1985-killing-of-jamestown-woman-hillary-hellewell/92120455007/). Her fully clothed but shoeless body was found on a Newport sidewalk at about 4:15 a.m. one Sunday morning in May 1985.",
+      "url": "https://www.providencejournal.com/story/news/crime/2026/10/06/arrest-made-in-1985-killing-of-jamestown-woman-hillary-hellewell/92120455007/",
+      "icon": "🔍",
+      "image_url": "https://crimerecords.info/wp-content/uploads/2021/07/word-image-401.jpeg"
+    },
+    {
+      "id": "5e965053-c353-43a6-9a73-5cc54c900a13",
+      "kicker": "PROTON, PS5 EDITION",
+      "title": "Prospero Win 0.1.0 runs Windows games natively on PS5",
+      "category": "Gaming",
+      "published_at": "2026-10-06T15:53:46-05:00",
+      "excerpt": "Homebrew developer mpereiraesaa has published the first ready-made release of Prospero Win, a Wine-and-DXVK compatibility layer for jailbroken PS5 consoles. While the x86-64 Zen 2 CPU runs 64-bit…",
+      "body": "Homebrew developer mpereiraesaa has published the [first ready-made release](https://pantspantsrevolution.com/prospero-win-0-1-0-runs-windows-games-natively-on-a-ps5/) of Prospero Win, a Wine-and-DXVK compatibility layer for jailbroken PS5 consoles. While the x86-64 Zen 2 CPU runs 64-bit Windows code natively, DXVK translates Direct3D 8 through 11 calls for the RDNA 2 GPU.",
+      "url": "https://pantspantsrevolution.com/prospero-win-0-1-0-runs-windows-games-natively-on-a-ps5/",
+      "icon": "🎮",
+      "image_url": "https://pantspantsrevolution.com/content/images/2026/10/prospero-win-0-1-0-runs-windows-games-natively-on-a-ps5-inline-1.jpg"
+    },
+    {
+      "id": "cca03805-c6a3-4c47-be90-14abe7ca08cd",
+      "kicker": "INVEST 92L",
+      "title": "Invest 92L odds hit 100%, landfall eyed Saturday",
+      "category": "Texas",
+      "published_at": "2026-10-06T15:27:45-05:00",
+      "excerpt": "The National Hurricane Center raised Invest 92L's chance of becoming a tropical depression to 100% over the next 48 hours, up from 90% this morning. AccuWeather forecasts a Saturday-morning landfall…",
+      "body": "The National Hurricane Center raised Invest 92L's chance of becoming a tropical depression to 100% over the next 48 hours, up from 90% this morning. AccuWeather forecasts a Saturday-morning landfall as a strong tropical storm, likely between southeast Louisiana and the western Florida Panhandle, [per the Pensacola News Journal](https://www.pnj.com/story/weather/hurricanes/2026/10/06/invest-92l-isaias-florida-panhandle-impacts/92117114007/).",
+      "url": "https://www.pnj.com/story/weather/hurricanes/2026/10/06/invest-92l-isaias-florida-panhandle-impacts/92117114007/",
+      "icon": "🤠",
+      "image_url": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2023/06/1024/512/Invest-92L-1.png?ve=1&tl=1"
+    },
     {
       "id": "d2bc2db0-73f4-4f56-a7cf-5b660f77f918",
       "kicker": "SHOE DEAL",
@@ -673,30 +709,6 @@
       "url": "https://www.bairdmaritime.com/security/naval/naval-auxiliary-support/us-navy-awards-three-prototype-agreements-to-accelerate-landing-craft-production",
       "icon": "📰",
       "image_url": "https://www.naval-technology.com/wp-content/uploads/sites/15/2026/07/Saronic.jpg"
-    },
-    {
-      "id": "971e6973-a184-45b7-aab7-2d78a40a6814",
-      "kicker": "LIFTING PAYS OFF FAST",
-      "title": "Strength training may cut visceral fat in seven days in mice",
-      "category": "Fitness",
-      "published_at": "2026-10-03T16:25:06-05:00",
-      "excerpt": "Researchers found seven days of resistance exercise reduced visceral fat around the organs and shrank inflamed fat cells in mice, per Mid-Day. The change traced to reactivated fat-clearing proteins…",
-      "body": "Researchers found seven days of resistance exercise reduced visceral fat around the organs and shrank inflamed fat cells in mice, [per Mid-Day](https://www.mid-day.com/news/world-news/article/strength-training-may-reduce-visceral-fat-in-just-seven-days-study-finds-in-mice-23653084). The change traced to reactivated fat-clearing proteins and lower fat-producing gene activity, improving metabolic health at the cellular level, [per the same report](https://www.mid-day.com/news/world-news/article/strength-training-may-reduce-visceral-fat-in-just-seven-days-study-finds-in-mice-23653084).",
-      "url": "https://www.mid-day.com/news/world-news/article/strength-training-may-reduce-visceral-fat-in-just-seven-days-study-finds-in-mice-23653084",
-      "icon": "📰",
-      "image_url": "https://rixahealth.com/wp-content/uploads/2025/02/training-sessions-for-visceral-fat-1024x538.jpg"
-    },
-    {
-      "id": "fa1dd6f7-5999-42f3-983b-6a71a701ddfa",
-      "kicker": "WATCH THE TOKENIZER",
-      "title": "Newer Claude models emit ~30% more tokens, so re-measure your budgets",
-      "category": "AI",
-      "published_at": "2026-10-03T16:04:37-05:00",
-      "excerpt": "Claude 4.7 and later models use a newer tokenizer that produces about 30 percent more tokens for the same text, so upgrading from Sonnet 4.6 to a 5.x model can raise your bill even though the…",
-      "body": "Claude 4.7 and later models use a newer tokenizer that produces about 30 percent more tokens for the same text, so upgrading from Sonnet 4.6 to a 5.x model can raise your bill even though the per-token price went down, [per the breakdown](https://dev.to/mehdimohseni82/your-ai-cost-model-is-already-wrong-tokenizers-context-cliffs-and-session-hours-1aj2). That silently breaks any cost projection or local token-budget logic you built on the old tokenizer, so re-measure on the new one rather than assuming your numbers still hold, [per the same analysis](https://dev.to/mehdimohseni82/your-ai-cost-model-is-already-wrong-tokenizers-context-cliffs-and-session-hours-1aj2).",
-      "url": "https://dev.to/mehdimohseni82/your-ai-cost-model-is-already-wrong-tokenizers-context-cliffs-and-session-hours-1aj2",
-      "icon": "🤖",
-      "image_url": "https://i.prt.news/b91cf61990637bf65d9ff5177fd919f1.jpg"
     }
   ]
 }
