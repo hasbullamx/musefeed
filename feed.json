@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T15:11:04-05:00",
+  "generated_at": "2026-10-07T17:41:26-05:00",
   "posts": [
+    {
+      "id": "2b45d0f9-acdd-4d24-b0a4-c3273e7e9976",
+      "kicker": "SCENE DRAMA",
+      "title": "AI-built GoldHEN copy sparks homebrew scene backlash",
+      "category": "Gaming",
+      "published_at": "2026-10-07T17:23:54-05:00",
+      "excerpt": "A homebrew developer going by Zer0Day used AI to reverse-engineer GoldHEN, the closed-source PS4 homebrew tool Sistro spent roughly five years building, and published the copy on GitHub while…",
+      "body": "A homebrew developer going by Zer0Day used AI to reverse-engineer GoldHEN, the closed-source PS4 homebrew tool Sistro spent roughly five years building, and published the copy on GitHub while brushing off the team's objections ([Kotaku](https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098)). Meanwhile the AI-generated glut keeps spreading: the PS5 emulators KytyPS5, SharpEmu and AnyPS5 now sit at roughly 1,840 GitHub forks, up from about 1,300 just three days earlier.",
+      "url": "https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098",
+      "icon": "🎮",
+      "image_url": "https://via-news.es/wp-content/uploads/2020/08/homebrew_destacada-450x215.jpg"
+    },
+    {
+      "id": "d2f598ba-5e3c-419b-9836-dcef9b21d9d9",
+      "kicker": "TEN CENTS A MILLION",
+      "title": "Decisions API is now available in public beta",
+      "category": "AI",
+      "published_at": "2026-10-07T16:26:27-05:00",
+      "excerpt": "The Decisions API takes text and images and returns one of three verdicts: a probability that a statement is true, a pick from preset options, or a score on a numeric range (OpenAI's announcement).…",
+      "body": "The Decisions API takes text and images and returns one of three verdicts: a probability that a statement is true, a pick from preset options, or a score on a numeric range ([OpenAI's announcement](https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877)). It runs on GPT-6 Luna at $0.10 per million input tokens, with output, cache-read, and cache-write tokens all free.",
+      "url": "https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877",
+      "icon": "🤖",
+      "image_url": "https://allyyio.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DDecision%2BAPI%26title%3DGet%2Bdecisions%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fallyyio%252FPeFW4TsGB5UlZQNv%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DPeFW4TsGB5UlZQNv%2526q%253D85%2526s%253Dbd0b5c580b7f7a476867d0e2792fc1c6%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fallyyio%252FPeFW4TsGB5UlZQNv%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DPeFW4TsGB5UlZQNv%2526q%253D85%2526s%253Defc9ac09802312d7e22a557a1b92b228%26primaryColor%3D%25235C58E9%26lightColor%3D%2523C9D1FC%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230d0d10&w=1200&q=100"
+    },
     {
       "id": "55548600-2e75-4aeb-9517-432af43c9694",
       "kicker": "THE PAYOFF",
@@ -577,54 +601,6 @@
       "url": "https://www.navalnews.com/naval-news/2026/09/saronic-awarded-production-contract-for-marauder-under-u-s-navys-musv-marketplace/",
       "icon": "📰",
       "image_url": "https://www.navaltoday.com/_next/image?url=%2Fapi%2Fmedia%2Ffile%2Fwp-import-1783078041808-627x417.jpg%3Fprefix%3Dmedia&w=384&q=75&dpl=dpl_H3CybsF3oWUAEsEPakCzNYLXNa1f"
-    },
-    {
-      "id": "718741dc-86b8-440a-b160-adc8368a0ad9",
-      "kicker": "COLD CASE ARREST",
-      "title": "Arrest made in 28-year-old Georgia cold case",
-      "category": "True crime",
-      "published_at": "2026-10-04T17:35:35-05:00",
-      "excerpt": "James Lawrence III, 47, was arrested Thursday and charged with malice murder, felony murder, and aggravated assault in the 1998 stabbing death of 20-year-old Christy Dawn Myers. Forensic evidence is…",
-      "body": "James Lawrence III, 47, was arrested Thursday and [charged with malice murder, felony murder, and aggravated assault](https://www.savannahnow.com/story/news/crime/2026/10/02/georgia-bureau-of-investigation-makes-arrest-in-1998-cold-case/92059151007/) in the 1998 stabbing death of 20-year-old Christy Dawn Myers. Forensic evidence is what named him, in a case that had sat unsolved since Myers was found stabbed beside her car along a Coffee County highway.",
-      "url": "https://www.savannahnow.com/story/news/crime/2026/10/02/georgia-bureau-of-investigation-makes-arrest-in-1998-cold-case/92059151007/",
-      "icon": "🔍",
-      "image_url": "https://pasalavoznoticias.org/wp-content/uploads/2026/06/quiros-soto-asesinato-89.png"
-    },
-    {
-      "id": "74f00b82-0aba-4795-a5a4-5dd12eab6778",
-      "kicker": "FUNDING FREEZE",
-      "title": "Wisconsin clinic loses funding to represent detained kids",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-04T16:29:36-05:00",
-      "excerpt": "Erin Barbato, director of the University of Wisconsin Law School's Immigrant Justice Clinic, told Wisconsin Public Radio the clinic will not receive the federal funding it expected, after two years…",
-      "body": "Erin Barbato, director of the University of Wisconsin Law School's Immigrant Justice Clinic, told Wisconsin Public Radio the clinic will not receive the federal funding it expected, after two years of work toward hiring a staff attorney and a paralegal for detained children under 12 in removal proceedings. [WPR, via MigraPrep](https://migraprep.com/en/news/wisconsin-detained-children-legal-funding-cut-2026-10-02/), tied the expected money to the $810 million in congressionally approved spending the White House moved to withhold on September 25, a \"pocket rescission\" that GAO's standing position says can violate federal law without Congress's approval, with MigraPrep stressing the loss is potential and no case yet shown decided.",
-      "url": "https://migraprep.com/en/news/wisconsin-detained-children-legal-funding-cut-2026-10-02/",
-      "icon": "📰",
-      "image_url": "https://news-live.in/wp-content/uploads/2026/08/urlhttp3A2F2Fnpr-brightspot.s3.amazonaws.com2F672F982Ff843ec2f4cb79784e20c9b005b1f2Fgettyimages-2288466180-1-scaled.jpg"
-    },
-    {
-      "id": "8f2d5251-48ab-40fc-95a9-c36f2c87cb3b",
-      "kicker": "DAILY TRAINER",
-      "title": "Novablast 6 is the live replacement at $155",
-      "category": "Fitness",
-      "published_at": "2026-10-04T16:27:32-05:00",
-      "excerpt": "Your 300-mile Novablast 5s have a direct replacement, since the Novablast 6 launched July 6 at $155 per the specs roundup. The headline change is a two-zone midsole pairing FF Blast MAX in the heel…",
-      "body": "Your 300-mile Novablast 5s have a direct replacement, since the Novablast 6 launched July 6 at $155 [per the specs roundup](https://fatmarathoner.com/asics-novablast-6-india-release-date-price/). The headline change is a two-zone midsole pairing FF Blast MAX in the heel with a FF Turbo Squared trampoline pod up front [per the same roundup](https://fatmarathoner.com/asics-novablast-6-india-release-date-price/).",
-      "url": "https://fatmarathoner.com/asics-novablast-6-india-release-date-price/",
-      "icon": "📰",
-      "image_url": "https://images.milledcdn.com/2026-07-01/Wx9kBQAQV3SclQbs/uqlaCPitaktB.png"
-    },
-    {
-      "id": "45383f64-ad50-43c9-b52e-fd7ceefe7878",
-      "kicker": "REPEATABLE AGENTS",
-      "title": "GitHub ships code-defined dynamic workflows for Copilot",
-      "category": "AI",
-      "published_at": "2026-10-04T16:01:11-05:00",
-      "excerpt": "GitHub's October 1 changelog shipped code-defined dynamic workflows for Copilot in public preview across the CLI, the app, and the SDK, per Pondero's write-up. A workflow is a program, written in…",
-      "body": "GitHub's October 1 changelog shipped code-defined dynamic workflows for Copilot in public preview across the CLI, the app, and the SDK, [per Pondero's write-up](https://pondero.ai/news/2026-10-04-copilot-dynamic-workflows/). A workflow is a program, written in code, that mixes automated steps with agent judgment calls and pauses at checkpoints for a human to resume, [per the same write-up](https://pondero.ai/news/2026-10-04-copilot-dynamic-workflows/).",
-      "url": "https://pondero.ai/news/2026-10-04-copilot-dynamic-workflows/",
-      "icon": "🤖",
-      "image_url": "https://hashnode.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1642258306588%2FhJYF6V1p8.png%3Fw%3D800%26h%3D420%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=2048&q=75"
     }
   ]
 }
