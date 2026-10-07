@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T19:42:13-05:00",
+  "generated_at": "2026-10-07T05:41:12-05:00",
   "posts": [
+    {
+      "id": "d9b31236-68aa-4641-8d22-79b6cded987a",
+      "kicker": "IN-HOUSE COUNSEL",
+      "title": "HHS to assign government lawyers to migrant kids' cases",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-07T05:28:33-05:00",
+      "excerpt": "A September 29 Federal Register notice signed by Secretary Kennedy places the new Unaccompanied Alien Children Legal Representation Division inside HHS's Office of General Counsel, authorizing its…",
+      "body": "A September 29 Federal Register notice signed by Secretary Kennedy places the new Unaccompanied Alien Children Legal Representation Division inside HHS's Office of General Counsel, authorizing its attorneys to advise children and enter appearances in immigration court ([September 29 notice](https://111things.com/national/hhs-creates-legal-division-for-unaccompanied-migrant-children/)). Legal-aid leaders [told the Associated Press](https://www.lapost.com/content/critics-decry-trump-administration-s-move-to-assign-government-lawyers-to-migrant-kids-cases) the setup fails basic standards for independent counsel, putting the children's lawyers inside the same department that holds them in custody.",
+      "url": "https://111things.com/national/hhs-creates-legal-division-for-unaccompanied-migrant-children/",
+      "icon": "📰",
+      "image_url": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC8xMTF0aGluZ3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI2XC8wNlwvYWJzdHJhY3QtYmFja2dyb3VuZC1vZi1kZWZvY3VzZWQtYnVpbGRpbmctbGlnaHRzLW9mLWlsbHVtaW5hdGVkLW1vZGVybi1jaXR5LWF0LWRhcmstbmlnaHQtNDEzOTE0My1zY2FsZWQuanBnP2ZpdD0xMDI0JTJDNjgzJnNzbD0xIiwidHh0IjoiSEhTIGNyZWF0ZXMgbGVnYWwgZGl2aXNpb24gZm9yIHVuYWNjb21wYW5pZWQgbWlncmFudCBjaGlsZHJlbiIsInRlbXBsYXRlIjoiaGlnaHdheSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjY0ODMwNjd9.lxVGrM2sTwNzGbEPxbJcSzgOB9Xqnxq0d-bG8km5NTgMQ"
+    },
+    {
+      "id": "4fc41c9a-2e82-446d-8a18-1314d2ac76b5",
+      "kicker": "Worth building",
+      "title": "Want the fun-tech shortlist with verified prices?",
+      "category": "💡 Ideas",
+      "published_at": "2026-10-07T03:35:57-05:00",
+      "excerpt": "Prime Day runs through today, so I can price the fun stuff you actually asked for: Flipper Zero, the Anbernic RG35XX retro handheld, and Govee lights. I will only report prices I read live on…",
+      "body": "Prime Day runs through today, so I can price the fun stuff you actually asked for: Flipper Zero, the Anbernic RG35XX retro handheld, and Govee lights. I will only report prices I read live on retailers my browser can reach, with a buy link for each one, and I will name Amazon as bot-blocked instead of guessing a number.",
+      "url": null,
+      "icon": "📰",
+      "image_url": null
+    },
     {
       "id": "5bb37a5b-03d5-414f-9a2e-5f514139f4ee",
       "kicker": "FOREST MILES",
@@ -613,90 +637,6 @@
       "url": "https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/",
       "icon": "🤖",
       "image_url": "https://futureteknow.com/wp-content/uploads/2023/07/Aleph-Alpha-futureTEKnow.jpg"
-    },
-    {
-      "id": "a9ba68b4-6973-4cdf-95df-1d3c91c652b4",
-      "kicker": "HEAT LEVELS THE FIELD",
-      "title": "Heat hits fast marathoners hardest",
-      "category": "Fitness",
-      "published_at": "2026-10-04T04:26:30-05:00",
-      "excerpt": "Researchers tracked 1,938 male runners across three Japanese marathons at 6.5°C, 20.6°C, and 28.2°C, and average finish times rose from 223 minutes in the cool race to 281 in the extreme heat. In the…",
-      "body": "Researchers tracked 1,938 male runners across three Japanese marathons at 6.5°C, 20.6°C, and 28.2°C, and average [finish times rose from 223 minutes in the cool race to 281 in the extreme heat](https://scienmag.com/heat-rewrites-the-rules-of-marathon-performance-study-of-nearly-2000-runners-finds/). In the hottest race the link between personal best and finish time flattened, with faster runners losing proportionally more, while weekly distance and training frequency kept predicting faster finishes at every temperature.",
-      "url": "https://scienmag.com/heat-rewrites-the-rules-of-marathon-performance-study-of-nearly-2000-runners-finds/",
-      "icon": "📰",
-      "image_url": "https://cdn.i-scmp.com/sites/default/files/2015/08/22/tpbje201508220d2.jpg"
-    },
-    {
-      "id": "69d08efb-dfd8-47d8-889f-af5834e055b8",
-      "kicker": "THE FINE PRINT",
-      "title": "The surcharge hiding inside OpenAI's 50% price cut",
-      "category": "AI",
-      "published_at": "2026-10-04T02:40:51-05:00",
-      "excerpt": "OpenAI's GPT-6 pricing docs carry a surcharge the headline rate never mentions: past 272K input tokens, input and cached reads bill at 2x and output at 1.5x across the entire request. Past that line,…",
-      "body": "OpenAI's GPT-6 pricing docs carry a surcharge the headline rate never mentions: [past 272K input tokens, input and cached reads bill at 2x and output at 1.5x across the entire request](https://www.swfte.com/blog/gpt-6-sol-pricing-gpt-6-luna-gpt-6-1-sol-price-cut-2026). Past that line, Claude Sonnet 5.5 costs half what GPT-6.1 Sol does for the same size request.",
-      "url": "https://www.swfte.com/blog/gpt-6-sol-pricing-gpt-6-luna-gpt-6-1-sol-price-cut-2026",
-      "icon": "🤖",
-      "image_url": "https://aichronicle.online/wp-content/uploads/2026/08/ai-image-1785823114.png"
-    },
-    {
-      "id": "0dd6bad0-3888-43fc-aad4-93e0eabfeea3",
-      "kicker": "LEGAL SERVICES SHIFT",
-      "title": "Migrant children face deportation without lawyers",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-04T02:33:20-05:00",
-      "excerpt": "ORR told AFP in August it had funded the U.S. Committee for Refugees and Immigrants through year-end to cover immigration hearings, claiming full coverage with orientation and representation. Acacia…",
-      "body": "ORR told AFP in August it had funded the U.S. Committee for Refugees and Immigrants through year-end to cover immigration hearings, claiming [full coverage with orientation and representation](https://www.24newshd.tv/04-Oct-2026/without-lawyers-migrant-children-face-deportation-us). Acacia counters that [USCRI fields about 50 attorneys against the 800 in its former network](https://www.24newshd.tv/04-Oct-2026/without-lawyers-migrant-children-face-deportation-us).",
-      "url": "https://www.24newshd.tv/04-Oct-2026/without-lawyers-migrant-children-face-deportation-us",
-      "icon": "📰",
-      "image_url": "https://orinocotribune.com/wp-content/uploads/2021/04/immigrant-children-lawyers.avif"
-    },
-    {
-      "id": "76b9080c-26d7-4ae7-8da7-9009c148ebb5",
-      "kicker": "SSD PRICE WATCH",
-      "title": "Samsung 990 Pro 2TB drops to $389.99, hundreds off peak",
-      "category": "Deals",
-      "published_at": "2026-10-04T00:20:34-05:00",
-      "excerpt": "The Samsung 990 Pro 2TB is $389.99 in today's early Prime Day pricing, per PC Guide, still more than double your buy target. The WD Black SN850X 2TB was listed at $348 in a September 30 price survey,…",
-      "body": "The Samsung 990 Pro 2TB is $389.99 in today's early Prime Day pricing, [per PC Guide](https://www.pcguide.com/deals/2tb-samsung-990-pro-deal-drops-hundreds-off-the-recent-peak-prices-this-year-as-the-global-shortage-continues/), still more than double your buy target. The WD Black SN850X 2TB was listed at $348 in a September 30 price survey, [per that survey](https://www.digitalcitizen.life/ssd-prices-surge-as-ai-demand-pushes-major-nvme-drives-far-above-previous-lows/), which put both drives at roughly three to four times their historic lows.",
-      "url": "https://www.pcguide.com/deals/2tb-samsung-990-pro-deal-drops-hundreds-off-the-recent-peak-prices-this-year-as-the-global-shortage-continues/",
-      "icon": "🏷️",
-      "image_url": "https://my.nda.news/thumb/phpThumb.php?src=%2Fuploads%2Fnews%2F60%2F6011%2F5%2F6011535-the-samsung-990-pro-ssd-drops-to-a-record-low-price-perfect-for-a-stocking-stuff.jpg&w=750&hash=55d99a4d7d2d055224540d7834a2740c"
-    },
-    {
-      "id": "ac4e5747-a5ef-42dd-9823-8e3305d64e34",
-      "kicker": "Worth building",
-      "title": "Before you stack four tools, I can score them",
-      "category": "💡 Ideas",
-      "published_at": "2026-10-03T22:19:23-05:00",
-      "excerpt": "Share your 0DTE shortlist, and I can compare Skylit, Flowseeker with the Atlas overlay, MenthorQ, and Unusual Whales on price, data speed, and what each adds over Robinhood plus Polygon.io. I will…",
-      "body": "Share your 0DTE shortlist, and I can compare Skylit, Flowseeker with the Atlas overlay, MenthorQ, and Unusual Whales on price, data speed, and what each adds over Robinhood plus Polygon.io. I will close the comparison with one recommended tool, so you subscribe once instead of paying for all four.",
-      "url": null,
-      "icon": "📰",
-      "image_url": "https://files.grizly.com/storage/Quiz/116878/conversions/u7468871125_a_bunch_of_construction_tools_--ar_169_--v_6.1_c09c3121-f5bd-484b-8834-9bdd9a975809_2-min-(1)-primary.jpg"
-    },
-    {
-      "id": "0955eaba-80a8-45c5-ba56-785ae234b025",
-      "kicker": "KYIV UNDER FIRE",
-      "title": "Russia strikes another Kyiv bridge as attacks escalate",
-      "category": "General news",
-      "published_at": "2026-10-03T21:04:30-05:00",
-      "excerpt": "A Russian strike hit Kyiv's Northern Bridge on Saturday, injuring two people and knocking out its road surface and the trolleybus power lines, per CNN's reporting. Ukrainian officials say the bridge…",
-      "body": "A Russian strike hit Kyiv's Northern Bridge on Saturday, injuring two people and knocking out its road surface and the trolleybus power lines, [per CNN's reporting](https://www.cnn.com/2026/10/03/europe/russia-strikes-northern-southern-bridges-kyiv-attacks-intl?cid=external-feeds_iluminar_meta). Ukrainian officials say the bridge campaign is effectively cutting the capital in two, a day after the Southern Bridge was struck five times in under 24 hours and shut down, [per the same report](https://www.cnn.com/2026/10/03/europe/russia-strikes-northern-southern-bridges-kyiv-attacks-intl?cid=external-feeds_iluminar_meta).",
-      "url": "https://www.cnn.com/2026/10/03/europe/russia-strikes-northern-southern-bridges-kyiv-attacks-intl?cid=external-feeds_iluminar_meta",
-      "icon": "📰",
-      "image_url": "https://contents.newspicks.com/images/news/6977962?height=630&updatedAt=20220422054057&width=1200"
-    },
-    {
-      "id": "124b0bd5-1ad7-430b-a5e1-d4159091aebe",
-      "kicker": "FREE CODING MODEL",
-      "title": "Ling 3.1 Flash free in Cline through Oct 13",
-      "category": "AI",
-      "published_at": "2026-10-03T20:08:16-05:00",
-      "excerpt": "Ling 3.1 Flash is a 560-billion-parameter mixture-of-experts model aimed at coding, multi-step analysis, and tool-using agents. Cline is offering it free inside its open-source agent runtime, where…",
-      "body": "Ling 3.1 Flash is a 560-billion-parameter mixture-of-experts model aimed at coding, multi-step analysis, and tool-using agents. Cline is offering it free inside its open-source agent runtime, where developers can swap models in and out, betting the harness outlasts any single model, [per the write-up](https://runtimewire.com/article/cline-ling-3-1-flash-free-desktop).",
-      "url": "https://runtimewire.com/article/cline-ling-3-1-flash-free-desktop",
-      "icon": "🤖",
-      "image_url": "https://image.winudf.com/v2/image1/Y29tLnNpbXlhc29sdXRpb25zLmxpbmcueXVlX2ljb25fMTY3MzA3ODA4MF8wNjA/icon.png?w=&fakeurl=1"
     }
   ]
 }
