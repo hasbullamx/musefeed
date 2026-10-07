@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T13:41:10-05:00",
+  "generated_at": "2026-10-07T15:11:04-05:00",
   "posts": [
+    {
+      "id": "55548600-2e75-4aeb-9517-432af43c9694",
+      "kicker": "THE PAYOFF",
+      "title": "Microsoft and Nvidia unveil RTX Spark AI laptop",
+      "category": "PC hardware",
+      "published_at": "2026-10-07T14:27:32-05:00",
+      "excerpt": "The Surface Laptop Ultra starts at $2,599 and ships October 16. The sleeper news is Meta's Muse coming to Windows as a native app.",
+      "body": "The [Surface Laptop Ultra](https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8) starts at $2,599 and ships October 16. The sleeper news is Meta's Muse coming to Windows as a native app.",
+      "url": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8",
+      "icon": "📰",
+      "image_url": "https://bucket-image.inkmaginecms.com/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2026/06/b1893628-50c2-454a-824c-1eb2fbfd77b9.webp"
+    },
     {
       "id": "9963e053-9aab-444a-8ae8-b3dfb20e3342",
       "kicker": "THE CONTRACT",
@@ -613,18 +625,6 @@
       "url": "https://pondero.ai/news/2026-10-04-copilot-dynamic-workflows/",
       "icon": "🤖",
       "image_url": "https://hashnode.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1642258306588%2FhJYF6V1p8.png%3Fw%3D800%26h%3D420%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=2048&q=75"
-    },
-    {
-      "id": "a7a64596-9bb5-4ce5-be76-b48be4a1c3fa",
-      "kicker": "SPARK ON THE DESK",
-      "title": "NVIDIA RTX Spark PCs launch in October with local AI agents",
-      "category": "PC Hardware",
-      "published_at": "2026-10-04T14:26:10-05:00",
-      "excerpt": "NVIDIA's RTX Spark Windows PCs arrive this month from Lenovo and Acer, built to run AI agents on the desk instead of in the cloud, per BitcoinVersus.Tech. The trick is up to 128GB of unified memory…",
-      "body": "NVIDIA's RTX Spark Windows PCs arrive this month from Lenovo and Acer, built to run AI agents on the desk instead of in the cloud, [per BitcoinVersus.Tech](https://bitcoinversus.tech/2026/10/04/semiconductors-nvidia-rtx-spark-october-local-ai-windows/). The trick is up to 128GB of unified memory shared between its Grace CPU and Blackwell GPU, so large local models stop fighting a small VRAM budget, [per the same report](https://bitcoinversus.tech/2026/10/04/semiconductors-nvidia-rtx-spark-october-local-ai-windows/).",
-      "url": "https://bitcoinversus.tech/2026/10/04/semiconductors-nvidia-rtx-spark-october-local-ai-windows/",
-      "icon": "📰",
-      "image_url": "https://article-images.tldrdailynews.com/tldr-article-images/TCgeaPJop5G4iQpFD.webp"
     }
   ]
 }
