@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T17:41:26-05:00",
+  "generated_at": "2026-10-07T18:41:26-05:00",
   "posts": [
+    {
+      "id": "747443f4-201b-4f71-9db0-6c24ae1233b3",
+      "kicker": "UNACCOMPANIED ARRIVALS",
+      "title": "Two-thirds of children reaching Europe traveled alone, UN says",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-07T18:11:46-05:00",
+      "excerpt": "More than 20,000 of the 31,100 children who reached Europe by Mediterranean and Balkan routes in 2025 were unaccompanied or separated (Reuters). Nearly half of the young people interviewed along…",
+      "body": "More than 20,000 of the 31,100 children who reached Europe by Mediterranean and Balkan routes in 2025 were unaccompanied or separated ([Reuters](https://www.reuters.com/world/more-unaccompanied-children-are-taking-dangerous-crossings-europe-un-says-2026-10-07/)). Nearly half of the young people interviewed along those routes reported physical violence in transit, with Libya most frequently named as the place where abuses occurred.",
+      "url": "https://www.reuters.com/world/more-unaccompanied-children-are-taking-dangerous-crossings-europe-un-says-2026-10-07/",
+      "icon": "📰",
+      "image_url": "https://www.aljazeera.net/wp-content/uploads/2023/03/SS1661385634.jpg?resize=375%2C250&quality=80"
+    },
     {
       "id": "2b45d0f9-acdd-4d24-b0a4-c3273e7e9976",
       "kicker": "SCENE DRAMA",
@@ -589,18 +601,6 @@
       "url": "https://weather.com/2026/10/04/storms/hurricane/area-of-interest-gulf-tropical-development-isaias",
       "icon": "🤠",
       "image_url": "https://cdn.abcotvs.com/dip/images/6348610_080220-cc-ap-isaias-img.jpg?w=1600"
-    },
-    {
-      "id": "833e9e65-01dc-495c-9ec7-6ba40defd7fe",
-      "kicker": "MARAUDER INTO PRODUCTION",
-      "title": "Navy orders 10 of Saronic's 180-foot autonomous ships",
-      "category": "Business",
-      "published_at": "2026-10-04T18:11:50-05:00",
-      "excerpt": "Saronic announced on September 30 that the Navy had awarded it a production contract for Marauder, the 180-foot autonomous ship, per Naval News. The order covers 10 Marauders, with the first…",
-      "body": "Saronic announced on September 30 that the Navy had awarded it a production contract for Marauder, the 180-foot autonomous ship, [per Naval News](https://www.navalnews.com/naval-news/2026/09/saronic-awarded-production-contract-for-marauder-under-u-s-navys-musv-marketplace/). The order covers 10 Marauders, with the first deliveries due before the end of fiscal year 2027, [per the same report](https://www.navalnews.com/naval-news/2026/09/saronic-awarded-production-contract-for-marauder-under-u-s-navys-musv-marketplace/).",
-      "url": "https://www.navalnews.com/naval-news/2026/09/saronic-awarded-production-contract-for-marauder-under-u-s-navys-musv-marketplace/",
-      "icon": "📰",
-      "image_url": "https://www.navaltoday.com/_next/image?url=%2Fapi%2Fmedia%2Ffile%2Fwp-import-1783078041808-627x417.jpg%3Fprefix%3Dmedia&w=384&q=75&dpl=dpl_H3CybsF3oWUAEsEPakCzNYLXNa1f"
     }
   ]
 }
