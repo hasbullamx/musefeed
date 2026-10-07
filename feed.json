@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T17:43:41-05:00",
+  "generated_at": "2026-10-06T19:42:13-05:00",
   "posts": [
+    {
+      "id": "5bb37a5b-03d5-414f-9a2e-5f514139f4ee",
+      "kicker": "FOREST MILES",
+      "title": "Forest runs go further at the same effort",
+      "category": "Fitness",
+      "published_at": "2026-10-06T18:13:05-05:00",
+      "excerpt": "Forty-seven runners went significantly further in the forest than on city streets at the same prescribed effort, with heart rate matching the urban run, per Loughborough University. They also…",
+      "body": "Forty-seven runners went significantly further in the forest than on city streets at the same prescribed effort, with heart rate matching the urban run, [per Loughborough University](https://www.lboro.ac.uk/news-events/news/2026/october/exercise-in-nature-study/). They also reported greater enjoyment, better mood, and far stronger intention to exercise again.",
+      "url": "https://www.lboro.ac.uk/news-events/news/2026/october/exercise-in-nature-study/",
+      "icon": "📰",
+      "image_url": "https://www.mensjournal.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_380/MjExNDY2Njg5ODEwODAyNjc2/man-trail-running-in-the-forest.jpg"
+    },
     {
       "id": "9fd8b2b3-8e62-4898-ad6f-7964d7710699",
       "kicker": "41-YEAR COLD CASE",
@@ -685,30 +697,6 @@
       "url": "https://runtimewire.com/article/cline-ling-3-1-flash-free-desktop",
       "icon": "🤖",
       "image_url": "https://image.winudf.com/v2/image1/Y29tLnNpbXlhc29sdXRpb25zLmxpbmcueXVlX2ljb25fMTY3MzA3ODA4MF8wNjA/icon.png?w=&fakeurl=1"
-    },
-    {
-      "id": "c8820a08-b068-4bd7-9bd7-aba92aa6483c",
-      "kicker": "GUT CHECK",
-      "title": "Long runs take 90g of carbs per hour",
-      "category": "Fitness",
-      "published_at": "2026-10-03T19:09:54-05:00",
-      "excerpt": "Eight elite runners taking 120g of carbohydrate per hour used 8% less oxygen at the same pace than those taking 60g in a Journal of Applied Physiology trial, per a roundup that states no publication…",
-      "body": "Eight elite runners taking 120g of carbohydrate per hour used 8% less oxygen at the same pace than those taking 60g in a Journal of Applied Physiology trial, [per a roundup that states no publication date](https://www.newsbeep.com/ie/643392/). The tradeoff was more nausea, fullness, and cramps at the high dose, which is why the advice is to train the gut upward gradually.",
-      "url": "https://www.newsbeep.com/ie/643392/",
-      "icon": "📰",
-      "image_url": "https://www.otc-run.com/wp-content/uploads/2026/04/carbohydrate-intake-per-hour-running-guide-768x512.jpg"
-    },
-    {
-      "id": "0f134d07-5ea9-4867-ac76-8cc8f40491d5",
-      "kicker": "PORT ALPHA'S FIRST NAVY WORK",
-      "title": "Navy taps Saronic among three yards for $280M LCU 1700 push",
-      "category": "Business",
-      "published_at": "2026-10-03T18:10:24-05:00",
-      "excerpt": "Baird Maritime reported Sept 16 that the Navy had handed Saronic Technologies of Brownsville one of three competitive prototype agreements for its next-generation LCU 1700 landing craft, under a…",
-      "body": "[Baird Maritime](https://www.bairdmaritime.com/security/naval/naval-auxiliary-support/us-navy-awards-three-prototype-agreements-to-accelerate-landing-craft-production) reported Sept 16 that the Navy had handed Saronic Technologies of Brownsville one of three competitive prototype agreements for its next-generation LCU 1700 landing craft, under a $280,521,389 initial construction obligation. Each yard will build two or three prototypes and refine its manufacturing plans for high-rate production.",
-      "url": "https://www.bairdmaritime.com/security/naval/naval-auxiliary-support/us-navy-awards-three-prototype-agreements-to-accelerate-landing-craft-production",
-      "icon": "📰",
-      "image_url": "https://www.naval-technology.com/wp-content/uploads/sites/15/2026/07/Saronic.jpg"
     }
   ]
 }
