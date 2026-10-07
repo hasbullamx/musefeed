@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T11:41:14-05:00",
+  "generated_at": "2026-10-07T13:41:10-05:00",
   "posts": [
+    {
+      "id": "9963e053-9aab-444a-8ae8-b3dfb20e3342",
+      "kicker": "THE CONTRACT",
+      "title": "Alexandria lease lets ICE set how long families stay",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-07T12:13:54-05:00",
+      "excerpt": "The Alexandria Family Staging Center's \"within a week or two\" opening window has arrived. An Oct. 4 review of the lease by Gambit found ICE's operational requirements will determine how long anyone…",
+      "body": "The Alexandria Family Staging Center's \"within a week or two\" opening window has arrived. An Oct. 4 review of the lease by Gambit found ICE's operational requirements will determine how long anyone stays, which undercuts the operators' under-48-hour figure ([MigraPrep's Oct. 5 report](https://migraprep.com/en/news/alexandria-ice-family-staging-2026-10-05/)).",
+      "url": "https://migraprep.com/en/news/alexandria-ice-family-staging-2026-10-05/",
+      "icon": "📰",
+      "image_url": "https://cache.getarchive.net/Prod/thumb/cdn2/L3Bob3RvLzIwMTUvMDQvMjkvcmVzaWRlbnRzLXdhbGstaW4tY29tbW9uLWNhbXB1cy1hcmVhLWF0LXRoZS1zdGZyYy1pbi1lNDYxZWMtMTAyNC5qcGc%3D/512/341/webp"
+    },
     {
       "id": "3636da30-69bd-42d3-8061-d28e9da5ad17",
       "kicker": "ORDER MATTERS",
@@ -613,30 +625,6 @@
       "url": "https://bitcoinversus.tech/2026/10/04/semiconductors-nvidia-rtx-spark-october-local-ai-windows/",
       "icon": "📰",
       "image_url": "https://article-images.tldrdailynews.com/tldr-article-images/TCgeaPJop5G4iQpFD.webp"
-    },
-    {
-      "id": "77d2b33b-7095-49a5-83ab-e915ae879f9f",
-      "kicker": "FOURTH DAY OF STRIKES",
-      "title": "Russian drone hits Kyiv bridge as Germany's chancellor arrives",
-      "category": "General news",
-      "published_at": "2026-10-04T13:12:51-05:00",
-      "excerpt": "A Russian drone struck Kyiv's Northern Bridge on Sunday morning as German Chancellor Friedrich Merz arrived in the city, injuring two people. Berlin is expected to release €1 billion in military aid.",
-      "body": "A Russian drone [struck Kyiv's Northern Bridge on Sunday morning](https://www.cnn.com/2026/10/04/europe/russian-drone-kyiv-merz-ukraine?cid=external-feeds_iluminar_meta) as German Chancellor Friedrich Merz arrived in the city, injuring two people. Berlin is expected to release €1 billion in military aid.",
-      "url": "https://www.cnn.com/2026/10/04/europe/russian-drone-kyiv-merz-ukraine?cid=external-feeds_iluminar_meta",
-      "icon": "📰",
-      "image_url": "https://contents.newspicks.com/images/news/6977962?height=630&updatedAt=20220422054057&width=1200"
-    },
-    {
-      "id": "28372df6-b3ac-4a33-9460-69a0835b954a",
-      "kicker": "STEAM SALE",
-      "title": "Steam kicks off Autumn Sale",
-      "category": "Deals",
-      "published_at": "2026-10-04T12:16:46-05:00",
-      "excerpt": "From October 1 through October 8, Steam's Autumn Sale cuts prices across new releases and back-catalog PC games, per MobileSyrup's roundup. Resident Evil Requiem, the RE9 in your benchmark rotation,…",
-      "body": "From October 1 through October 8, Steam's Autumn Sale cuts prices across new releases and back-catalog PC games, [per MobileSyrup's roundup](https://mobilesyrup.com/2026/10/01/steam-kicks-off-big-autumn-sale/). Resident Evil Requiem, the RE9 in your benchmark rotation, is down to $66.49 from $94.99, [per the same roundup](https://mobilesyrup.com/2026/10/01/steam-kicks-off-big-autumn-sale/).",
-      "url": "https://mobilesyrup.com/2026/10/01/steam-kicks-off-big-autumn-sale/",
-      "icon": "🏷️",
-      "image_url": "https://totalgamingnetwork.com/filedata/fetch?id=3527526"
     }
   ]
 }
