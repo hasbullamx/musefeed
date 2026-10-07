@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T07:11:26-05:00",
+  "generated_at": "2026-10-07T11:41:14-05:00",
   "posts": [
+    {
+      "id": "3636da30-69bd-42d3-8061-d28e9da5ad17",
+      "kicker": "ORDER MATTERS",
+      "title": "Bodyweight circuit before intervals slows runners",
+      "category": "Fitness",
+      "published_at": "2026-10-07T11:38:18-05:00",
+      "excerpt": "Sixteen recreational runners ran their 8x200m intervals slower after a bodyweight circuit than without it, with total time rising in both men and women (Sport Sciences for Health). The circuit was…",
+      "body": "Sixteen recreational runners ran their 8x200m intervals slower after a bodyweight circuit than without it, with total time rising in both men and women ([Sport Sciences for Health](https://link.springer.com/article/10.1007/s11332-026-01927-y)). The circuit was only three rounds of 15-second all-out jumps, lunges, sit-ups, and burpees.",
+      "url": "https://link.springer.com/article/10.1007/s11332-026-01927-y",
+      "icon": "📰",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/589286b53e00be6ae883e566/1738066377858-SONQNPF2C3929136B5TR/running-micro-intervals-2.jpg?format=1500w"
+    },
+    {
+      "id": "4185cf56-76c9-45e8-9671-41b22a59842a",
+      "kicker": "MIRROR IMAGES",
+      "title": "Kagan and Soai win Nobel chemistry prize for mirror-image molecules",
+      "category": "General news",
+      "published_at": "2026-10-07T10:48:35-05:00",
+      "excerpt": "Henri B. Kagan and Kenso Soai won the 2026 Nobel Prize in chemistry Wednesday for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis, the chemistry that makes…",
+      "body": "Henri B. Kagan and Kenso Soai won the 2026 Nobel Prize in chemistry Wednesday for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis, the chemistry that makes molecules form as just one of two mirror-image forms ([AP](https://www.wkyufm.org/news/2026-10-07/henri-b-kagan-and-kenso-soai-win-nobel-prize-in-chemistry)). The Nobel committee called their work decisive for chemists who design reactions for manufacturing pharmaceuticals.",
+      "url": "https://www.wkyufm.org/news/2026-10-07/henri-b-kagan-and-kenso-soai-win-nobel-prize-in-chemistry",
+      "icon": "📰",
+      "image_url": "https://wordpress-bucket.nyc3.digitaloceanspaces.com/2025/10/image-2025-10-08T093914.539-600x450.jpg"
+    },
+    {
+      "id": "5162ce25-f209-41e1-ba1f-0ae7744bf3df",
+      "kicker": "FINAL DAY",
+      "title": "Samsung 9100 PRO 2TB $330 off on Prime Day's last day",
+      "category": "Deals",
+      "published_at": "2026-10-07T10:10:06-05:00",
+      "excerpt": "Amazon has the Samsung 9100 PRO 2TB at $349.99 for the final hours of Prime Big Deal Days (SammyGuru). It is a PCIe 5.0 drive that still works in a PCIe 4.0 slot at reduced speed, so it fits your…",
+      "body": "Amazon has the Samsung 9100 PRO 2TB at $349.99 for the final hours of Prime Big Deal Days ([SammyGuru](https://sammyguru.com/samsung-storage-9100-pro-990-t9-p9-express-prime-big-day-deals/)). It is a PCIe 5.0 drive that still works in a PCIe 4.0 slot at reduced speed, so it fits your current board.",
+      "url": "https://sammyguru.com/samsung-storage-9100-pro-990-t9-p9-express-prime-big-day-deals/",
+      "icon": "🏷️",
+      "image_url": "https://d22p76oqwo0czg.cloudfront.net/images2/f/9/0/a/c/f90ac2f3-00a2-30f2-a0da-6c9cf7924db9-1200x675.jpg"
+    },
     {
       "id": "e14fa445-96c2-4f99-9f3c-322bb5531b96",
       "kicker": "EVENT DAY",
@@ -601,42 +637,6 @@
       "url": "https://mobilesyrup.com/2026/10/01/steam-kicks-off-big-autumn-sale/",
       "icon": "🏷️",
       "image_url": "https://totalgamingnetwork.com/filedata/fetch?id=3527526"
-    },
-    {
-      "id": "f74e1a13-09b5-44ac-9c3a-c9a71f7ce4a4",
-      "kicker": "NOBEL WEEK",
-      "title": "Nobel announcements begin Monday with the medicine prize",
-      "category": "General news",
-      "published_at": "2026-10-04T10:50:40-05:00",
-      "excerpt": "Karolinska's Nobel Assembly opens the 2026 awards at 11:30 CEST Monday, and the economics prize closes the sequence next Monday. This year's full prize is 12.0 million kronor, about $1.21 million, up…",
-      "body": "Karolinska's Nobel Assembly opens the 2026 awards at 11:30 CEST Monday, and the economics prize closes the sequence next Monday. [This year's full prize is 12.0 million kronor, about $1.21 million, up from 11 million in 2025.](https://www.businesstoday.in/science/story/nobel-prize-2026-winners-stage-set-for-announcements-from-october-5-check-details-559195-2026-10-02)",
-      "url": "https://www.businesstoday.in/science/story/nobel-prize-2026-winners-stage-set-for-announcements-from-october-5-check-details-559195-2026-10-02",
-      "icon": "📰",
-      "image_url": "https://bl-i.thgim.com/public/news/variety/uwxsm7/article25096165.ece/alternates/LANDSCAPE_1200/NOBEL-PRIZEMEDICINE"
-    },
-    {
-      "id": "a5c7145f-9b78-4bcf-a129-0b0ca7c6335e",
-      "kicker": "COLD CASE BREAK",
-      "title": "Dallas police arrest suspect in 30-year-old cold case",
-      "category": "True crime",
-      "published_at": "2026-10-04T09:42:23-05:00",
-      "excerpt": "Dallas police arrested Gary Len Ross, 56, on Friday and charged him with capital murder in the 1993 killing of Tommie Davis, who was found beaten and slashed inside her Haskell Avenue home on May 18,…",
-      "body": "Dallas police arrested Gary Len Ross, 56, on Friday and charged him with capital murder in the 1993 killing of Tommie Davis, who was found beaten and slashed inside her Haskell Avenue home on May 18, 1993, [per FOX 4's reporting](https://fox4news.com/news/dallas-police-make-arrest-30-year-old-cold-case). The break came from blood on a wall of Davis's home that was not hers: a CODIS match returned the name Tommy Lynn Jones, which investigators determined was Ross's alias.",
-      "url": "https://fox4news.com/news/dallas-police-make-arrest-30-year-old-cold-case",
-      "icon": "🔍",
-      "image_url": "https://www.historyexpose.com/storage/app/media/factinate/2026/3/24/1774350905137ab0c1a884f1c39802db776d3d1aae8729d2e7.jpg"
-    },
-    {
-      "id": "0fb8c753-764e-4f55-8c10-b986b43b7d2a",
-      "kicker": "TV PRICE WATCH",
-      "title": "Hisense 65-inch U6 Pro drops to $648 in early Prime Day deals",
-      "category": "Deals",
-      "published_at": "2026-10-04T08:46:10-05:00",
-      "excerpt": "Both Amazon and Best Buy carry the deal now, via CNN Underscored's early Prime Big Deal Days TV roundup. It is still short of your $598.99 buy target, with the Oct 6-7 sale and Black Friday still…",
-      "body": "Both Amazon and Best Buy carry the deal now, via [CNN Underscored's early Prime Big Deal Days TV roundup](https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-tv-deals-2026-10-03?cid=external-feeds_iluminar_meta). It is still short of your $598.99 buy target, with the Oct 6-7 sale and Black Friday still ahead.",
-      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-tv-deals-2026-10-03?cid=external-feeds_iluminar_meta",
-      "icon": "🏷️",
-      "image_url": "https://www.nfm.com/on/demandware.static/-/Sites-nfm-master-catalog/default/dw1bb11d8d/images/070/43/70433669-1.jpg"
     }
   ]
 }
