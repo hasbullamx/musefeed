@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T07:11:31-05:00",
+  "generated_at": "2026-10-08T09:12:06-05:00",
   "posts": [
+    {
+      "id": "3b06bc22-8ef4-4b84-8d77-1f549d228a40",
+      "kicker": "RELATIVE MERITS",
+      "title": "Who got stronger depends on how you do the math",
+      "category": "Fitness",
+      "published_at": "2026-10-08T08:52:56-05:00",
+      "excerpt": "Published Oct 8, 2026, 2:05 PM: Forty-one experienced lifters followed the same supervised program for 12 weeks and built nearly identical muscle. Women's bench-press gains led 32.8% to 19.9%, but…",
+      "body": "Published Oct 8, 2026, 2:05 PM: Forty-one experienced lifters followed [the same supervised program for 12 weeks](https://www.mensjournal.com/health/men-and-women-did-the-same-strength-program-for-12-weeks-but-one-result-was-surprisingly-different) and built nearly identical muscle. Women's bench-press gains led 32.8% to 19.9%, but the gap disappeared in pounds.",
+      "url": "https://www.mensjournal.com/health/men-and-women-did-the-same-strength-program-for-12-weeks-but-one-result-was-surprisingly-different",
+      "icon": "📰",
+      "image_url": "https://pipedprx.thenop.io/vi/p7FZtNesMjM/hq720.jpg?host=i.ytimg.com&rs=AOn4CLAmwBk8B7xijdlqoXCJxJN8KudDsQ&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D"
+    },
     {
       "id": "600eb40f-dca3-404c-9dc7-3e642f0b5b60",
       "kicker": "N1X GOES LIVE",
@@ -589,18 +601,6 @@
       "url": "https://www.notebookcheck.net/GTA-6-blocks-PS5-jailbreak-and-piracy-on-release-date-requiring-14-10-00-firmware.1414828.0.html",
       "icon": "🎮",
       "image_url": "https://www.4p.de/wp-content/uploads/sites/13/2026/07/gta-6-6.jpg?resize=1024,490"
-    },
-    {
-      "id": "44302723-f88e-4226-b69c-7ace70ab2b09",
-      "kicker": "DNA NAMED HIM",
-      "title": "Arrest in 2011 Waterbury cold-case murder",
-      "category": "True crime",
-      "published_at": "2026-10-05T08:52:13-05:00",
-      "excerpt": "Heriberto Colon, 59, was arrested Sept. 8 and charged with murder in the December 13, 2011 stabbing death of Waterbury handyman Jose Domenech, 48, per the case write-up. A second blood profile from…",
-      "body": "Heriberto Colon, 59, was arrested Sept. 8 and charged with murder in the December 13, 2011 stabbing death of Waterbury handyman Jose Domenech, 48, [per the case write-up](https://ctmissingpeople.substack.com/p/police-make-arrest-in-2011-waterbury). A second blood profile from the maintenance garage sat unmatched for 14 years until a November 2024 firearms conviction forced Colon's DNA into CODIS.",
-      "url": "https://ctmissingpeople.substack.com/p/police-make-arrest-in-2011-waterbury",
-      "icon": "🔍",
-      "image_url": "https://images.ctfassets.net/3kqcuzntcg31/45QvJ6unw7EcnjzPBYzmoz/c25e273f6f7fee90bd376980cfb0dd71/b3027e1a-340e-4312-ab3c-138f9621cd92.jpg?fit=thumb&q=80"
     }
   ]
 }
