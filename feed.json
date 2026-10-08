@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T14:41:36-05:00",
+  "generated_at": "2026-10-08T18:41:27-05:00",
   "posts": [
+    {
+      "id": "a84565bd-b2eb-487e-af78-bf0632ebb958",
+      "kicker": "SHELF OF HER OWN",
+      "title": "Anne Carson wins 2026 Nobel Prize in Literature",
+      "category": "General news",
+      "published_at": "2026-10-08T18:09:29-05:00",
+      "excerpt": "The Swedish Academy picked the genre-blurring Canadian poet Anne Carson for the 2026 literature prize, praising what it called a \"bold and inventive oeuvre\" in playful dialogue with the classical…",
+      "body": "The Swedish Academy picked the genre-blurring Canadian poet Anne Carson for the 2026 literature prize, praising what it called a \"bold and inventive oeuvre\" in playful dialogue with the classical tradition, [per Reuters](https://www.lapost.com/content/canadian-poet-and-writer-anne-carson-wins-2026-nobel-prize-in-literature). Carson, 76, heard the news while in Iceland and told broadcaster RUV she would get a sticker on the front of her book.",
+      "url": "https://www.lapost.com/content/canadian-poet-and-writer-anne-carson-wins-2026-nobel-prize-in-literature",
+      "icon": "📰",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHuwAX1el_QYObOqE4FEyBSAt0OJQIIArVrQepf_kIvorEgicELe9_SIwuoOl0uiUvHKpX9jAXQtRw1prUKqcBgzH5SLffWKaj9EfluRbDLBIGRIeEFq8Y-BJPXO_jOvAM6_y_iFUYi4x1/w1200-h630-p-k-no-nu/Anne-Carson.jpg"
+    },
     {
       "id": "864e0866-188e-44ef-bc13-d9d62f88948f",
       "kicker": "FIVE-DAY MANDATE",
@@ -481,90 +493,6 @@
       "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-shoe-deals-2026-10-05?cid=external-feeds_iluminar_meta",
       "icon": "🏷️",
       "image_url": "https://cdn.fleetfeet.com/a:1.5-f:cover-w:1200/products/110479_091_L_Glycerin_Max_2.jpg?s=5f811e27"
-    },
-    {
-      "id": "18d93584-fe63-4e8e-8a7d-b0ca766b5c65",
-      "kicker": "SBA RULES RESET",
-      "title": "SBA loan rules reset Oct 1 for business buyers",
-      "category": "Business",
-      "published_at": "2026-10-05T18:09:31-05:00",
-      "excerpt": "The SBA's SOP 50 10 8.1 took effect October 1 for 7(a) and 504 applications receiving an SBA loan number on or after that date, per Market Daily. Acquisitions lose the light-touch Small Loan lane and…",
-      "body": "The SBA's SOP 50 10 8.1 took effect October 1 for 7(a) and 504 applications receiving an SBA loan number on or after that date, [per Market Daily](https://marketdaily.com/sba-loan-rules-change-under-sop-50-10-8-1-as-new-acquisition-standards-and-fy2027-fees-take-effect-october-1/). Acquisitions lose the light-touch Small Loan lane and now go through standard 7(a) underwriting.",
-      "url": "https://marketdaily.com/sba-loan-rules-change-under-sop-50-10-8-1-as-new-acquisition-standards-and-fy2027-fees-take-effect-october-1/",
-      "icon": "📰",
-      "image_url": "https://marketdaily.com/wp-content/uploads/2026/10/SBA-Loan-Rules-Change-Under-SOP-50-10-8.1-as-New-Acquisition-Standards-and-FY2027-Fees-Take-Effect-October-1.jpg"
-    },
-    {
-      "id": "d42e7650-2a88-4e3d-acd0-c342c6a3febe",
-      "kicker": "THE VETTING BILL",
-      "title": "CBO: sponsor-screening bill would add 15 days to ORR stays",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-05T16:43:03-05:00",
-      "excerpt": "The Kayla Hamilton Act cleared the House in December 2025 and is still waiting on the Senate. It would limit sponsors to citizens and green-card holders and send their information to DHS, a…",
-      "body": "The Kayla Hamilton Act cleared the House in December 2025 and is still waiting on the Senate. It would limit sponsors to citizens and green-card holders and send their information to DHS, a combination one [editorial's read of the CBO score](https://elpasoheraldpost.com/2026/10/05/guest-editorial-protecting-unaccompanied-children-without-turning-family-reunification-into-surveillance/) prices at roughly $1.3 billion through 2031.",
-      "url": "https://elpasoheraldpost.com/2026/10/05/guest-editorial-protecting-unaccompanied-children-without-turning-family-reunification-into-surveillance/",
-      "icon": "📰",
-      "image_url": "https://elpasoheraldpost.com/wp-content/uploads/2026/10/ephp_1.png"
-    },
-    {
-      "id": "9989e90b-829d-476d-972b-ead2b83eaeae",
-      "kicker": "OCT 7 CONFIRMED",
-      "title": "Nvidia and Microsoft tease RTX Spark",
-      "category": "PC Hardware",
-      "published_at": "2026-10-05T16:30:02-05:00",
-      "excerpt": "Microsoft confirmed RTX Spark will headline its October 7 Windows event in San Francisco. It pairs a 20-core Grace CPU and Blackwell graphics with up to 128GB of unified memory.",
-      "body": "Microsoft confirmed RTX Spark will [headline its October 7 Windows event in San Francisco](https://fudzilla.com/nvidia-and-microsoft-tease-rtx-spark). It pairs a 20-core Grace CPU and Blackwell graphics with up to 128GB of unified memory.",
-      "url": "https://fudzilla.com/nvidia-and-microsoft-tease-rtx-spark",
-      "icon": "📰",
-      "image_url": "https://img.caixin.com/2026-06-01/178032113993795_560_373.jpg"
-    },
-    {
-      "id": "ad687654-433f-43bc-b8f9-e4217f1b715f",
-      "kicker": "APPLE'S TURN",
-      "title": "AirPods Pro 3 drops to $179 in new early Prime Day wave",
-      "category": "Deals",
-      "published_at": "2026-10-05T15:39:54-05:00",
-      "excerpt": "Amazon refreshed its early Prime Big Deal Days offers this morning, and the new wave leans hard on Apple. The all-new Fire TV Stick 4K is half off at launch, $30 with code 4KINTRO.",
-      "body": "Amazon [refreshed its early Prime Big Deal Days offers](https://9to5toys.com/2026/10/05/amazon-updates-early-fall-prime-day-sale-new-deals/) this morning, and the new wave leans hard on Apple. The all-new Fire TV Stick 4K is half off at launch, $30 with code 4KINTRO.",
-      "url": "https://9to5toys.com/2026/10/05/amazon-updates-early-fall-prime-day-sale-new-deals/",
-      "icon": "🏷️",
-      "image_url": "https://2.zoppoz.workers.dev/https/i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/06/AirPods-Pro-3-Prime-Day-deal.jpg?w=1500&quality=82&strip=all&ssl=1"
-    },
-    {
-      "id": "a7dfc4c8-6419-44e4-b1c5-b8006c990922",
-      "kicker": "THE MID-TIER MATH",
-      "title": "GPT-6.1 Sol: near-flagship reasoning at $2 per million tokens",
-      "category": "AI",
-      "published_at": "2026-10-05T15:27:42-05:00",
-      "excerpt": "Activepieces checked the public rate cards on October 5 and put GPT-6.1 Sol at $2.00 per million input tokens, per its breakdown. Its prescription for multi-step flows is to pin the bulk of the logic…",
-      "body": "Activepieces checked the public rate cards on October 5 and put GPT-6.1 Sol at $2.00 per million input tokens, [per its breakdown](https://www.activepieces.com/blog/gpt-6-sol-launch-for-automation-builders-in-2026). Its prescription for multi-step flows is to pin the bulk of the logic to the mid-tier model and spend flagship tokens only on intake and final synthesis, [per the same piece](https://www.activepieces.com/blog/gpt-6-sol-launch-for-automation-builders-in-2026).",
-      "url": "https://www.activepieces.com/blog/gpt-6-sol-launch-for-automation-builders-in-2026",
-      "icon": "🤖",
-      "image_url": "https://capwolf.com/wp-content/uploads/2026/07/openai-launches-gpt-56-sol-with-four-agent-reasoning-system-768x419.jpeg"
-    },
-    {
-      "id": "e71c2b87-779d-453b-a620-8316724124b2",
-      "kicker": "JAILBREAK'S PAYOFF",
-      "title": "PS5 homebrew wave: native PS3, Switch emulators arrive",
-      "category": "Gaming",
-      "published_at": "2026-10-05T15:13:55-05:00",
-      "excerpt": "The scene needed only days to fill the opening Relapse gave it. AI-assisted development is setting the pace, with developers shipping native PS5 binaries faster than the community can track, per…",
-      "body": "The scene needed only days to fill the opening Relapse gave it. AI-assisted development is setting the pace, with developers shipping native PS5 binaries faster than the community can track, per [Modern Vintage Gamer's rundown](https://www.youtube.com/watch?v=6f5vc2YeU5E).",
-      "url": "https://www.youtube.com/watch?v=6f5vc2YeU5E",
-      "icon": "🎮",
-      "image_url": "https://www.thesixthaxis.com/wp-content/uploads/2022/07/ps3-emulation-ps5-500.jpg"
-    },
-    {
-      "id": "c46a09b8-470b-4903-bbe1-ab72be3626a9",
-      "kicker": "SPARK'S RIVAL",
-      "title": "AMD's 192GB Ryzen AI Max+ Pro 495 takes on Nvidia's RTX Spark",
-      "category": "PC Hardware",
-      "published_at": "2026-10-05T14:49:46-05:00",
-      "excerpt": "AMD's Ryzen AI Max+ Pro 495 carries up to 192GB of unified memory, per Tom's Guide. The timing is the tell: it lands two days before Nvidia's RTX Spark launch, rumored for Wednesday alongside…",
-      "body": "AMD's Ryzen AI Max+ Pro 495 carries up to 192GB of unified memory, [per Tom's Guide](https://www.tomsguide.com/computing/cpus/amd-just-flaunted-its-own-192gb-monster-chip-to-spoil-nvidias-rtx-spark-party-ryzen-ai-max-pro-495-should-worry-apple-too). The timing is the tell: it lands two days before Nvidia's RTX Spark launch, rumored for Wednesday alongside Microsoft, [per the same report](https://www.tomsguide.com/computing/cpus/amd-just-flaunted-its-own-192gb-monster-chip-to-spoil-nvidias-rtx-spark-party-ryzen-ai-max-pro-495-should-worry-apple-too).",
-      "url": "https://www.tomsguide.com/computing/cpus/amd-just-flaunted-its-own-192gb-monster-chip-to-spoil-nvidias-rtx-spark-party-ryzen-ai-max-pro-495-should-worry-apple-too",
-      "icon": "📰",
-      "image_url": "https://techgaming.nl/wp-content/uploads/2026/05/AMD-Ryzen-AI-Max-PRO-495-420x280.jpg"
     }
   ]
 }
