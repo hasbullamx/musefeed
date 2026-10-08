@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T00:11:09-05:00",
+  "generated_at": "2026-10-08T02:41:08-05:00",
   "posts": [
+    {
+      "id": "7bb1e2bf-c994-4785-bd06-4bc558a2300d",
+      "kicker": "FREE WEEK",
+      "title": "Arc Raiders free to play starting today, half off to keep",
+      "category": "Gaming",
+      "published_at": "2026-10-08T00:23:04-05:00",
+      "excerpt": "Embark Studios is running a free full-game trial of Arc Raiders from October 8 through October 12. The full game is also down to $19.99 on the PS Store through October 22.",
+      "body": "Embark Studios is running [a free full-game trial of Arc Raiders](https://www.playstationlifestyle.net/2026/10/07/ps5-action-game-arc-raiders-free-play-week/amp) from October 8 through October 12. The full game is also down to $19.99 on the PS Store through October 22.",
+      "url": "https://www.playstationlifestyle.net/2026/10/07/ps5-action-game-arc-raiders-free-play-week/amp",
+      "icon": "🎮",
+      "image_url": "https://www.videogamer.com/wp-content/uploads/Brian-Merrygold--1536x1024.jpg"
+    },
     {
       "id": "903dd1af-d58d-4bd9-8e4e-74404897e386",
       "kicker": "GULF HURRICANE WATCH",
@@ -577,30 +589,6 @@
       "url": "https://9to5toys.com/2026/10/04/best-buy-launch-techtober-prime-day-sale/",
       "icon": "🏷️",
       "image_url": "https://cdn.cintese.com/wp-content/uploads/2026/06/best-buy-tech-fest-2026-deals-sales-700x460.png"
-    },
-    {
-      "id": "4914eb0d-d2e5-40ea-a93e-2d7d7f5e042d",
-      "kicker": "THE $7B BET",
-      "title": "Reflection AI open-weight model nears release to rival DeepSeek",
-      "category": "AI",
-      "published_at": "2026-10-05T02:38:33-05:00",
-      "excerpt": "Reflection is on the verge of shipping its first open-weight model, a US-built answer to DeepSeek and Qwen. No weights or benchmarks have shipped yet, but press reports put the compute behind it at…",
-      "body": "Reflection is on the verge of shipping its [first open-weight model](https://explainx.ai/blog/reflection-ai-open-weight-model-us-answer-deepseek-qwen-october-2026), a US-built answer to DeepSeek and Qwen. No weights or benchmarks have shipped yet, but press reports put the compute behind it at more than $7 billion through 2029.",
-      "url": "https://explainx.ai/blog/reflection-ai-open-weight-model-us-answer-deepseek-qwen-october-2026",
-      "icon": "🤖",
-      "image_url": "https://insidetelecom.com/wp-content/uploads/2024/09/Open-source-AI-1024x576.jpg"
-    },
-    {
-      "id": "2ae7ccb9-5682-4f85-90c4-482642df32a5",
-      "kicker": "MARKETS MONDAY",
-      "title": "Stocks upbeat as Fed hike odds collapse, dollar wobbles",
-      "category": "Business",
-      "published_at": "2026-10-05T00:20:14-05:00",
-      "excerpt": "The September jobs report is doing the steering: traders now price just a 22% chance of a Fed hike this month, down from 64% a week ago, per the CME FedWatch read via Reuters. The Nikkei climbed 2%…",
-      "body": "The September jobs report is doing the steering: traders now price just a 22% chance of a Fed hike this month, down from 64% a week ago, [per the CME FedWatch read via Reuters](https://www.reuters.com/world/china/global-markets-global-markets-2026-10-05/). The Nikkei climbed 2% early in Monday's session on the growing prospect of a Fed pause.",
-      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-05/",
-      "icon": "📰",
-      "image_url": "https://images.wsj.net/im-592046?width=860&size=1.5"
     }
   ]
 }
