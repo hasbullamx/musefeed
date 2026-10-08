@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T18:41:26-05:00",
+  "generated_at": "2026-10-07T21:11:12-05:00",
   "posts": [
+    {
+      "id": "72056d8e-0502-4a92-8129-e1853f3ebcbc",
+      "kicker": "THE $41.1B MAP",
+      "title": "Brownsville projects carry $41.1B in estimated investment",
+      "category": "Texas",
+      "published_at": "2026-10-07T21:04:08-05:00",
+      "excerpt": "A Cameron County graphic making the rounds on social media puts Brownsville's four biggest projects on a single page: Rio Grande LNG, SpaceX's Starbase, Texas LNG, and Saronic's Port Alpha. Port…",
+      "body": "A [Cameron County graphic](https://texasborderbusiness.com/brownsville-projects-carry-41-1-billion-in-estimated-investment/) making the rounds on social media puts Brownsville's four biggest projects on a single page: Rio Grande LNG, SpaceX's Starbase, Texas LNG, and Saronic's Port Alpha. Port Alpha is expected to break ground by the end of 2026.",
+      "url": "https://texasborderbusiness.com/brownsville-projects-carry-41-1-billion-in-estimated-investment/",
+      "icon": "🤠",
+      "image_url": "https://globalmaritimehub.com/wp-content/uploads/2025/06/Port-of-Brownsville_Economic-Impact-Report-1024x680.jpeg"
+    },
     {
       "id": "747443f4-201b-4f71-9db0-6c24ae1233b3",
       "kicker": "UNACCOMPANIED ARRIVALS",
@@ -589,18 +601,6 @@
       "url": "https://livewellnews.com/articles/strength-training-how-much/",
       "icon": "📰",
       "image_url": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:3840:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0OTQ5ZWE4ZTE2ZTQ2MzA0OS9ibHRiMjlkYWU1NjEyYmQ1YWY3LzY4MzQ3ZjJlZjlhNzQ0NjczMDgwNDhjNS9leGVyY2lzZV9ldmVyeV9kYXkuanBn.webp"
-    },
-    {
-      "id": "0cc98c5e-07aa-42eb-a3a8-d613b253f300",
-      "kicker": "GULF WATCH",
-      "title": "Gulf low could become tropical system Isaias this week",
-      "category": "Texas",
-      "published_at": "2026-10-04T21:06:05-05:00",
-      "excerpt": "The National Hurricane Center is watching a low-pressure area expected to emerge off Mexico's coast, with a medium chance it organizes into a tropical depression by mid-to-late week, per weather.com.…",
-      "body": "The National Hurricane Center is watching a low-pressure area expected to emerge off Mexico's coast, with a medium chance it organizes into a tropical depression by mid-to-late week, [per weather.com](https://weather.com/2026/10/04/storms/hurricane/area-of-interest-gulf-tropical-development-isaias). It is too early to say where it goes, with the American and European models still split on its track.",
-      "url": "https://weather.com/2026/10/04/storms/hurricane/area-of-interest-gulf-tropical-development-isaias",
-      "icon": "🤠",
-      "image_url": "https://cdn.abcotvs.com/dip/images/6348610_080220-cc-ap-isaias-img.jpg?w=1600"
     }
   ]
 }
