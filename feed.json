@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T11:11:40-05:00",
+  "generated_at": "2026-10-08T12:41:21-05:00",
   "posts": [
+    {
+      "id": "7d8ce7c6-a64c-462b-9b23-e52038be3d6f",
+      "kicker": "POWER PLAY",
+      "title": "$22.3B US-Korea power campus to feed South Texas data center",
+      "category": "Texas",
+      "published_at": "2026-10-08T12:23:03-05:00",
+      "excerpt": "Published Oct 8, 2026, 4:10 PM: The U.S. Department of Commerce and the Republic of Korea announced Sept. 30 they will jointly develop Project Star, a $22.3 billion energy campus in Encinal, Texas,…",
+      "body": "Published Oct 8, 2026, 4:10 PM: The U.S. Department of Commerce and the Republic of Korea announced Sept. 30 they will jointly develop Project Star, a $22.3 billion energy campus in Encinal, Texas, built to feed an adjacent data center directly and send any excess power to the Texas grid ([NextEra Energy](https://www.investor.nexteraenergy.com/news-and-events/news-releases/2026/09-30-2026-231920318)). The campus is designed as the model for Abbott's bring-your-own-generation rule for Texas data centers, with the plant serving the data center first and the grid only seeing the surplus.",
+      "url": "https://www.investor.nexteraenergy.com/news-and-events/news-releases/2026/09-30-2026-231920318",
+      "icon": "🤠",
+      "image_url": "https://www.texaselectricityratings.com/blog/wp-content/uploads/2026/07/Texas-data-center-energy-demand.jpg"
+    },
     {
       "id": "3fb4af25-38bf-4b6d-b817-8b5e639b6cc0",
       "kicker": "LAST DAY",
@@ -565,30 +577,6 @@
       "url": "https://genznewz.com/nobel-prize-2026-begins-monday-medicine-to-peace-preview",
       "icon": "📰",
       "image_url": "https://prod.superblogcdn.com/site_cuid_cm5qsutv4003uwirgbjchzj7a/images/2022-10-04t101004z1lynxmpei930j5rtroptp4nobel-prize-physics-1737056524692-compressed.jpg"
-    },
-    {
-      "id": "2ce4fbc8-884f-46bd-a7f1-be1c56cdda71",
-      "kicker": "THE ODDS GO UP",
-      "title": "Isaias may form in the Gulf this week",
-      "category": "Texas",
-      "published_at": "2026-10-05T12:17:36-05:00",
-      "excerpt": "The National Hurricane Center raised the Gulf low's development odds this morning, with a tropical depression or storm now possible later this week, per weather.com. The northern Gulf Coast could see…",
-      "body": "The National Hurricane Center raised the Gulf low's development odds this morning, with a tropical depression or storm now possible later this week, [per weather.com](https://weather.com/2026/10/05/storms/hurricane/video/gulf-tropical-development-chance-nhc-forecast-isaias). The northern Gulf Coast could see impacts this weekend, [per the same page](https://weather.com/2026/10/05/storms/hurricane/video/gulf-tropical-development-chance-nhc-forecast-isaias).",
-      "url": "https://weather.com/2026/10/05/storms/hurricane/video/gulf-tropical-development-chance-nhc-forecast-isaias",
-      "icon": "🤠",
-      "image_url": "https://nbaa.org/wp-content/uploads/2020/08/Isaias-GeoColor-20200801-1250z-858x449.jpg"
-    },
-    {
-      "id": "fb41b0da-123e-4ae4-9fc9-e973f36ee4b9",
-      "kicker": "PRIME DAY EVE",
-      "title": "Prime Big Deal Days starts tomorrow",
-      "category": "Deals",
-      "published_at": "2026-10-05T11:11:59-05:00",
-      "excerpt": "Prime Big Deal Days opens at 12:01 AM PDT tomorrow and runs 48 hours, per Don't Pay Full's run-up guide, with fresh drops at midnight, 8 AM, and 1 PM PDT each day. The U6 Pro sits at $648, so Tuesday…",
-      "body": "Prime Big Deal Days opens at 12:01 AM PDT tomorrow and runs 48 hours, [per Don't Pay Full's run-up guide](https://www.dontpayfull.com/explore/amazon-prime-big-deal-days-deals), with fresh drops at midnight, 8 AM, and 1 PM PDT each day.\nThe U6 Pro sits at $648, so Tuesday morning's first wave is the one to measure your Best Buy cart against.",
-      "url": "https://www.dontpayfull.com/explore/amazon-prime-big-deal-days-deals",
-      "icon": "🏷️",
-      "image_url": "https://www.soon.fr/wp-content/uploads/2023/10/Prime-Big-Deal-Days-Sign-1024x576.jpg"
     }
   ]
 }
