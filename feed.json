@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T12:41:21-05:00",
+  "generated_at": "2026-10-08T14:41:36-05:00",
   "posts": [
+    {
+      "id": "864e0866-188e-44ef-bc13-d9d62f88948f",
+      "kicker": "FIVE-DAY MANDATE",
+      "title": "SSA ends flexible work schedules, union files grievance",
+      "category": "Federal workforce",
+      "published_at": "2026-10-08T14:28:08-05:00",
+      "excerpt": "The Social Security Administration told employees Monday that all alternative work schedules end November 16, moving everyone to a five-day week, per Government Executive. AFGE's SSA General…",
+      "body": "The Social Security Administration told employees Monday that all alternative work schedules end November 16, moving everyone to a five-day week, [per Government Executive](https://www.govexec.com/workforce/2026/10/social-security-ends-flexible-work-schedules/416480/). AFGE's SSA General Committee filed a national grievance, arguing the move illegally repudiates a union contract that runs through October 2029.",
+      "url": "https://www.govexec.com/workforce/2026/10/social-security-ends-flexible-work-schedules/416480/",
+      "icon": "📰",
+      "image_url": "https://cdn.gobankingrates.com/wp-content/uploads/2019/03/Social-Security-Administration-Office-Building-in-the-United-States-shutterstock_186252827.jpg"
+    },
     {
       "id": "7d8ce7c6-a64c-462b-9b23-e52038be3d6f",
       "kicker": "POWER PLAY",
@@ -553,30 +565,6 @@
       "url": "https://www.tomsguide.com/computing/cpus/amd-just-flaunted-its-own-192gb-monster-chip-to-spoil-nvidias-rtx-spark-party-ryzen-ai-max-pro-495-should-worry-apple-too",
       "icon": "📰",
       "image_url": "https://techgaming.nl/wp-content/uploads/2026/05/AMD-Ryzen-AI-Max-PRO-495-420x280.jpg"
-    },
-    {
-      "id": "c5ca5dc5-dd73-4595-98b9-5b043685778c",
-      "kicker": "Worth building",
-      "title": "When a real coupon deal posts, I can ping you",
-      "category": "💡 Ideas",
-      "published_at": "2026-10-05T14:23:23-05:00",
-      "excerpt": "Same-day deals can sell out before your 7 PM check. I can watch your four Facebook couponing groups every 30 minutes during the day and ping you on WhatsApp and in chat when a real deal posts, with…",
-      "body": "Same-day deals can sell out before your 7 PM check. I can watch your four Facebook couponing groups every 30 minutes during the day and ping you on WhatsApp and in chat when a real deal posts, with the full breakdown and product link.",
-      "url": null,
-      "icon": "📰",
-      "image_url": "https://www.wildfire-corp.com/hubfs/Digital_Coupon_Marketing.png"
-    },
-    {
-      "id": "30db5e05-e834-48e2-93ae-b4d11d9cac23",
-      "kicker": "NOBEL WEEK CONTINUES",
-      "title": "Physics prize lands tomorrow morning",
-      "category": "General news",
-      "published_at": "2026-10-05T13:39:08-05:00",
-      "excerpt": "The Royal Swedish Academy of Sciences announces the physics laureates Tuesday at 11:45 AM Stockholm time, 4:45 AM your time, with the reveal streamed live, per the week's schedule. The sequence…",
-      "body": "The Royal Swedish Academy of Sciences announces the physics laureates Tuesday at 11:45 AM Stockholm time, 4:45 AM your time, with the reveal streamed live, [per the week's schedule](https://genznewz.com/nobel-prize-2026-begins-monday-medicine-to-peace-preview). The sequence closes with the economics prize next Monday, [per the AP's rundown](https://thehimalayantimes.com/photo-gallery/the-nobel-prize-week-is-kicking-off-in-stockholm-with-the-medicine-award).",
-      "url": "https://genznewz.com/nobel-prize-2026-begins-monday-medicine-to-peace-preview",
-      "icon": "📰",
-      "image_url": "https://prod.superblogcdn.com/site_cuid_cm5qsutv4003uwirgbjchzj7a/images/2022-10-04t101004z1lynxmpei930j5rtroptp4nobel-prize-physics-1737056524692-compressed.jpg"
     }
   ]
 }
