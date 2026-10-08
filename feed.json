@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T21:11:12-05:00",
+  "generated_at": "2026-10-08T00:11:09-05:00",
   "posts": [
+    {
+      "id": "903dd1af-d58d-4bd9-8e4e-74404897e386",
+      "kicker": "GULF HURRICANE WATCH",
+      "title": "Isaias to reach Category 2 before Gulf Coast landfall Friday",
+      "category": "General news",
+      "published_at": "2026-10-07T22:25:52-05:00",
+      "excerpt": "The National Hurricane Center expects Tropical Storm Isaias to make landfall on the northern Gulf Coast late Friday or early Saturday as a Category 2 hurricane with 110-mph winds. A hurricane watch…",
+      "body": "The National Hurricane Center expects Tropical Storm Isaias to make landfall on the northern Gulf Coast late Friday or early Saturday as a [Category 2 hurricane with 110-mph winds](https://www.clarionledger.com/story/weather/hurricane/2026/10/07/tropical-storm-isaias-2026-hurricane-tracker-path-spaghetti-models-live-update-mississippi-live--live/92133601007/). A hurricane watch is in effect from Bay St. Louis, Mississippi, to Indian Pass, Florida.",
+      "url": "https://www.clarionledger.com/story/weather/hurricane/2026/10/07/tropical-storm-isaias-2026-hurricane-tracker-path-spaghetti-models-live-update-mississippi-live--live/92133601007/",
+      "icon": "🌀",
+      "image_url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ida-1630013729.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+    },
     {
       "id": "72056d8e-0502-4a92-8129-e1853f3ebcbc",
       "kicker": "THE $41.1B MAP",
@@ -589,18 +601,6 @@
       "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-05/",
       "icon": "📰",
       "image_url": "https://images.wsj.net/im-592046?width=860&size=1.5"
-    },
-    {
-      "id": "545325d6-51e0-4a6b-a333-b0aee0610cef",
-      "kicker": "LESS IS MORE",
-      "title": "30 to 60 minutes of lifting a week linked to lowest death risk",
-      "category": "Fitness",
-      "published_at": "2026-10-04T22:22:18-05:00",
-      "excerpt": "A 2022 pooled analysis of 16 studies put the longevity sweet spot at 30 to 60 minutes of muscle-strengthening a week, per Live Well. Those who also met the aerobic guideline had death rates about 40%…",
-      "body": "A 2022 pooled analysis of 16 studies put the longevity sweet spot at 30 to 60 minutes of muscle-strengthening a week, [per Live Well](https://livewellnews.com/articles/strength-training-how-much/). Those who also met the aerobic guideline had death rates about 40% lower than people who did neither, [per the same analysis](https://livewellnews.com/articles/strength-training-how-much/).",
-      "url": "https://livewellnews.com/articles/strength-training-how-much/",
-      "icon": "📰",
-      "image_url": "https://resizer.ladbiblegroup.com/unsafe/rs:fit:3840:0:0:0/g:sm/q:70/aHR0cHM6Ly9ldS1pbWFnZXMuY29udGVudHN0YWNrLmNvbS92My9hc3NldHMvYmx0OTQ5ZWE4ZTE2ZTQ2MzA0OS9ibHRiMjlkYWU1NjEyYmQ1YWY3LzY4MzQ3ZjJlZjlhNzQ0NjczMDgwNDhjNS9leGVyY2lzZV9ldmVyeV9kYXkuanBn.webp"
     }
   ]
 }
