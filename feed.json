@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T02:41:08-05:00",
+  "generated_at": "2026-10-08T06:11:06-05:00",
   "posts": [
+    {
+      "id": "68542c52-b126-40a8-9ba7-bd89086e179a",
+      "kicker": "A LATE ARRIVAL",
+      "title": "Isaias becomes season's first Atlantic hurricane",
+      "category": "General news",
+      "published_at": "2026-10-08T04:26:38-05:00",
+      "excerpt": "Isaias is carrying 75-mph winds and holding a course for landfall between the Mississippi coast and the Florida Panhandle late Friday or early Saturday (NPR/AP). The timing nearly ties the 1905…",
+      "body": "Isaias is carrying 75-mph winds and holding a course for landfall between the Mississippi coast and the Florida Panhandle late Friday or early Saturday ([NPR/AP](https://www.wkyufm.org/news/2026-10-08/isaias-strengthens-into-the-first-hurricane-of-the-atlantic-season)). The timing nearly ties the 1905 record for the latest-forming first hurricane of a season.",
+      "url": "https://www.wkyufm.org/news/2026-10-08/isaias-strengthens-into-the-first-hurricane-of-the-atlantic-season",
+      "icon": "🌀",
+      "image_url": "https://www.greenworldwide.com/wp-content/uploads/2020/08/Port-of-Virginia-Closures-and-More-As-Hurricane-Isaias-%E2%80%AFMakes-Landfall.jpg"
+    },
+    {
+      "id": "3ef1351e-edcb-4c89-86f4-da3031e1dc46",
+      "kicker": "CHEAP CLAUDE",
+      "title": "Claude Haiku 5.5 launches with 90% API price cut",
+      "category": "AI",
+      "published_at": "2026-10-08T02:50:39-05:00",
+      "excerpt": "Anthropic released Claude Haiku 5.5 on October 7 at 90% below Haiku 4.5, matching GPT-6 Luna's price point (VentureBeat). The catch is the tier line at 100,000 prompt tokens, above which the discount…",
+      "body": "Anthropic released Claude Haiku 5.5 on October 7 at 90% below Haiku 4.5, matching GPT-6 Luna's price point ([VentureBeat](https://venturebeat.com/technology/anthropic-launches-claude-haiku-5-5-with-90-api-price-reduction-matching-gpt-6-luna)). The catch is the tier line at 100,000 prompt tokens, above which the discount narrows sharply.",
+      "url": "https://venturebeat.com/technology/anthropic-launches-claude-haiku-5-5-with-90-api-price-reduction-matching-gpt-6-luna",
+      "icon": "🤖",
+      "image_url": "https://www.findarticles.com/wp-content/uploads/2025/10/image_1760604384_1.jpeg"
+    },
     {
       "id": "7bb1e2bf-c994-4785-bd06-4bc558a2300d",
       "kicker": "FREE WEEK",
@@ -577,18 +601,6 @@
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/deisseroth-hegemann-nagelwin-2026-nobel-medicine-prize-2026-10-05/",
       "icon": "📰",
       "image_url": "https://cdnx.premiumread.com/?url=https://www.okaz.com.sa/uploads/images/2025/10/13/2598228.jpg&w=600&q=100&f=webp"
-    },
-    {
-      "id": "326911b1-c430-471f-8d2f-e82ce3ae3abc",
-      "kicker": "TECHTOBER IS LIVE",
-      "title": "Best Buy launches weeklong Techtober sale through Oct 11",
-      "category": "Deals",
-      "published_at": "2026-10-05T04:25:49-05:00",
-      "excerpt": "Best Buy launched its Techtober sale this morning with thousands of price drops, including up to 50% off select TVs, laptops, monitors, and PC gear, per 9to5Toys. It runs through October 11 with a…",
-      "body": "Best Buy launched its Techtober sale this morning with thousands of price drops, including up to 50% off select TVs, laptops, monitors, and PC gear, [per 9to5Toys](https://9to5toys.com/2026/10/04/best-buy-launch-techtober-prime-day-sale/). It runs through October 11 with a fresh batch of Deals of the Day every 24 hours, so give your Best Buy cart a daily look, starting with the Hisense U6 Pro.",
-      "url": "https://9to5toys.com/2026/10/04/best-buy-launch-techtober-prime-day-sale/",
-      "icon": "🏷️",
-      "image_url": "https://cdn.cintese.com/wp-content/uploads/2026/06/best-buy-tech-fest-2026-deals-sales-700x460.png"
     }
   ]
 }
