@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T09:12:06-05:00",
+  "generated_at": "2026-10-08T11:11:40-05:00",
   "posts": [
+    {
+      "id": "3fb4af25-38bf-4b6d-b817-8b5e639b6cc0",
+      "kicker": "LAST DAY",
+      "title": "Thymesia is 75% off on the PS Store",
+      "category": "Deals",
+      "published_at": "2026-10-08T10:56:08-05:00",
+      "excerpt": "Published Oct 8, 2026, 3:10 PM: Thymesia is down to $7.49 on the PS Store, and the deal ends today (PlayStation LifeStyle). Before you buy, check the PS Plus Extra and Premium catalog, where it is…",
+      "body": "Published Oct 8, 2026, 3:10 PM: Thymesia is down to $7.49 on the PS Store, and the deal ends today ([PlayStation LifeStyle](https://www.playstationlifestyle.net/2026/10/06/thymesia-ps-store-deal-october-2026/amp)). Before you buy, check the PS Plus Extra and Premium catalog, where it is already included.",
+      "url": "https://www.playstationlifestyle.net/2026/10/06/thymesia-ps-store-deal-october-2026/amp",
+      "icon": "🏷️",
+      "image_url": "https://www.team17.com/hubfs/Steam_KeyArt.jpg"
+    },
     {
       "id": "3b06bc22-8ef4-4b84-8d77-1f549d228a40",
       "kicker": "RELATIVE MERITS",
@@ -577,30 +589,6 @@
       "url": "https://www.dontpayfull.com/explore/amazon-prime-big-deal-days-deals",
       "icon": "🏷️",
       "image_url": "https://www.soon.fr/wp-content/uploads/2023/10/Prime-Big-Deal-Days-Sign-1024x576.jpg"
-    },
-    {
-      "id": "430a646b-b8a3-4f20-92e8-832bad472570",
-      "kicker": "CHECKOUT IN THE CHAT",
-      "title": "Constructor builds Stripe checkout into its shopping agents",
-      "category": "AI",
-      "published_at": "2026-10-05T10:55:01-05:00",
-      "excerpt": "Constructor announced Agentic Checkout today, embedding Stripe payments directly into its onsite AI shopping agents so shoppers can discover and buy inside one conversation, per Unite.AI. The company…",
-      "body": "Constructor announced Agentic Checkout today, embedding Stripe payments directly into its onsite AI shopping agents so shoppers can discover and buy inside one conversation, [per Unite.AI](https://www.unite.ai/constructor-embeds-stripe-checkout-in-its-onsite-ai-shopping-agents/). The company says it is the first to offer Stripe-powered checkout inside an onsite shopping agent, and reports the number of companies deploying its AI agents is up 900% over the past year, [per the same write-up](https://www.unite.ai/constructor-embeds-stripe-checkout-in-its-onsite-ai-shopping-agents/).",
-      "url": "https://www.unite.ai/constructor-embeds-stripe-checkout-in-its-onsite-ai-shopping-agents/",
-      "icon": "🤖",
-      "image_url": "https://macaron.im/_next/image?url=https%3A%2F%2Fmacaron-user.oss-accelerate.aliyuncs.com%2Fadmin%2Fimages%2Fblog_content_image%2F639eae74-1f0a-427e-bb24-c5b357e7c295.jpg%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&w=384&q=80&dpl=dpl_ASKw6EQTzadbaWogfTEaXG5onY1F"
-    },
-    {
-      "id": "a5798699-a312-4e3b-86de-5bc6b856f73e",
-      "kicker": "LOCKED OUT",
-      "title": "GTA 6 will require firmware 14.10.00, blocking PS5 jailbreak",
-      "category": "Gaming",
-      "published_at": "2026-10-05T10:08:15-05:00",
-      "excerpt": "GTA 6's release build will require PS5 firmware 14.10.00.00, per the PlayStation Game Size datamine. Sony's October 1 patch killed the Relapse jailbreak that ran on firmware up to 13.60.",
-      "body": "GTA 6's release build will require PS5 firmware 14.10.00.00, [per the PlayStation Game Size datamine](https://www.notebookcheck.net/GTA-6-blocks-PS5-jailbreak-and-piracy-on-release-date-requiring-14-10-00-firmware.1414828.0.html). Sony's October 1 patch killed the Relapse jailbreak that ran on firmware up to 13.60.",
-      "url": "https://www.notebookcheck.net/GTA-6-blocks-PS5-jailbreak-and-piracy-on-release-date-requiring-14-10-00-firmware.1414828.0.html",
-      "icon": "🎮",
-      "image_url": "https://www.4p.de/wp-content/uploads/sites/13/2026/07/gta-6-6.jpg?resize=1024,490"
     }
   ]
 }
