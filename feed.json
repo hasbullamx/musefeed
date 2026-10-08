@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T06:11:06-05:00",
+  "generated_at": "2026-10-08T07:11:31-05:00",
   "posts": [
+    {
+      "id": "600eb40f-dca3-404c-9dc7-3e642f0b5b60",
+      "kicker": "N1X GOES LIVE",
+      "title": "RTX Spark pre-orders open",
+      "category": "PC hardware",
+      "published_at": "2026-10-08T06:41:10-05:00",
+      "excerpt": "Published Oct 8, 2026, 12:00 PM: RTX Spark pre-orders opened at Wednesday's Microsoft event in San Francisco, with laptops from eight makers shipping October 16 (StorageReview). The cheapest way in…",
+      "body": "Published Oct 8, 2026, 12:00 PM: RTX Spark pre-orders opened at Wednesday's Microsoft event in San Francisco, with laptops from eight makers shipping October 16 ([StorageReview](https://www.storagereview.com/news/nvidia-rtx-spark-pre-orders-n1x-laptop-desktop-tdp-mxc-dgx-station-for-windows)). The cheapest way in is Microsoft's $2,599 Surface Laptop Ultra ([Wccftech](https://wccftech.com/nvidia-rtx-spark-windows-pc-launch-pre-orders/amp/)).",
+      "url": "https://www.storagereview.com/news/nvidia-rtx-spark-pre-orders-n1x-laptop-desktop-tdp-mxc-dgx-station-for-windows",
+      "icon": "📰",
+      "image_url": "https://www.colombiacomex.com.co/wp-content/uploads/2026/06/ProArt-N1x-KV-BW-622x420.jpg"
+    },
     {
       "id": "68542c52-b126-40a8-9ba7-bd89086e179a",
       "kicker": "A LATE ARRIVAL",
@@ -589,18 +601,6 @@
       "url": "https://ctmissingpeople.substack.com/p/police-make-arrest-in-2011-waterbury",
       "icon": "🔍",
       "image_url": "https://images.ctfassets.net/3kqcuzntcg31/45QvJ6unw7EcnjzPBYzmoz/c25e273f6f7fee90bd376980cfb0dd71/b3027e1a-340e-4312-ab3c-138f9621cd92.jpg?fit=thumb&q=80"
-    },
-    {
-      "id": "2cc4c651-46b4-4b33-a9b6-8c5a0e9f3fd9",
-      "kicker": "BRAINS, MEET LIGHT",
-      "title": "Deisseroth, Hegemann and Nagel win 2026 Nobel medicine prize",
-      "category": "General news",
-      "published_at": "2026-10-05T06:39:12-05:00",
-      "excerpt": "Karl Deisseroth of Stanford, Peter Hegemann of Humboldt University and Georg Nagel of the University of Würzburg won the 2026 Nobel Prize in Physiology or Medicine for their discoveries on…",
-      "body": "Karl Deisseroth of Stanford, Peter Hegemann of Humboldt University and Georg Nagel of the University of Würzburg won the [2026 Nobel Prize in Physiology or Medicine](https://www.reuters.com/business/healthcare-pharmaceuticals/deisseroth-hegemann-nagelwin-2026-nobel-medicine-prize-2026-10-05/) for their discoveries on light-gated ion channels and optogenetics. The technique turns light into a precision switch for individual nerve cells in a living brain, and it is now standard equipment in neuroscience labs worldwide.",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/deisseroth-hegemann-nagelwin-2026-nobel-medicine-prize-2026-10-05/",
-      "icon": "📰",
-      "image_url": "https://cdnx.premiumread.com/?url=https://www.okaz.com.sa/uploads/images/2025/10/13/2598228.jpg&w=600&q=100&f=webp"
     }
   ]
 }
