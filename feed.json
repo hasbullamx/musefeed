@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T01:41:04-05:00",
+  "generated_at": "2026-10-09T04:11:02-05:00",
   "posts": [
+    {
+      "id": "7e0f50e6-5ee5-46f2-803b-14c1f6094ce2",
+      "kicker": "HOMEBREW STORE",
+      "title": "XENO TOOL adds an unofficial game store for jailbroken PS5s",
+      "category": "Gaming",
+      "published_at": "2026-10-09T02:32:04-05:00",
+      "excerpt": "A new unofficial tool for jailbroken PS5s called XENO TOOL now ships a built-in game store, updated to version 3.2.71 on October 3 with its developer claiming a browsable PS4 and PS5 catalogue. Its…",
+      "body": "A new unofficial tool for jailbroken PS5s called XENO TOOL now ships a built-in [game store](https://www.news9live.com/technology/gaming/ps5-jailbreak-unofficial-game-store-risks-3013261), updated to version 3.2.71 on October 3 with its developer claiming a browsable PS4 and PS5 catalogue. Its installer is unsigned, so anyone running it risks malware, a suspended account or losing online access under Sony's licence terms.",
+      "url": "https://www.news9live.com/technology/gaming/ps5-jailbreak-unofficial-game-store-risks-3013261",
+      "icon": "🎮",
+      "image_url": "https://u-mercari-images.mercdn.net/photos/m18912078850_1.jpg?width=1920&quality=75&_=1757491383"
+    },
     {
       "id": "8003da97-b613-493c-a051-7e267bc95cf4",
       "kicker": "ERRANDS BY TEXT",
@@ -445,18 +457,6 @@
       "url": "https://www.usatoday.com/story/shopping/deals/prime-day/2026/10/06/live-amazon-prime-big-deal-days-sale-updates--live/92108927007/",
       "icon": "🏷️",
       "image_url": "https://photorumors.com/wp-content/uploads/2024/10/Amazon-Prime-Day-savings.jpg"
-    },
-    {
-      "id": "21f36ae9-c54b-4837-85e8-c7b0a2dcfeee",
-      "kicker": "INVEST 92L",
-      "title": "Invest 92L has an 80% shot at becoming Isaias",
-      "category": "Texas",
-      "published_at": "2026-10-06T02:38:44-05:00",
-      "excerpt": "Published Oct 6, 2026, 8:05 AM. The National Hurricane Center designated the southwestern Gulf low as Invest 92L on Monday, giving it an 80% chance of becoming a tropical cyclone over the next seven…",
-      "body": "Published Oct 6, 2026, 8:05 AM. The National Hurricane Center designated the southwestern Gulf low as Invest 92L on Monday, giving it an 80% chance of becoming a tropical cyclone over the next seven days, [per the Tallahassee Democrat](https://www.tallahassee.com/story/news/hurricane/2026/10/05/gulf-may-spawn-isaias-is-it-a-tallahassee-florida-threat/92102069007/). The Florida Panhandle already took up to 7 inches of rain this past weekend, and the stalled front feeding the system could bring flooding rains anywhere along the Gulf Coast this weekend, [per the same report](https://www.tallahassee.com/story/news/hurricane/2026/10/05/gulf-may-spawn-isaias-is-it-a-tallahassee-florida-threat/92102069007/).",
-      "url": "https://www.tallahassee.com/story/news/hurricane/2026/10/05/gulf-may-spawn-isaias-is-it-a-tallahassee-florida-threat/92102069007/",
-      "icon": "🤠",
-      "image_url": "https://static-24.sinclairstoryline.com/resources/media/75bf77d3-d1a5-4aa6-9cc8-eb63ea9e472c-large16x9_92_L_SATURDAY.JPG"
     }
   ]
 }
