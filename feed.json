@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T09:41:20-05:00",
+  "generated_at": "2026-10-09T12:41:34-05:00",
   "posts": [
+    {
+      "id": "50601105-efc9-49c1-a9d6-bc17843ab89d",
+      "kicker": "SLIGHT STORAGE WIN",
+      "title": "Lexar 1TB NM790 SSD at its best price in four months: $188.49",
+      "category": "PC hardware",
+      "published_at": "2026-10-09T12:17:03-05:00",
+      "excerpt": "At $188.49 on Amazon, the Lexar 1TB NM790 with heatsink just hit its lowest price since April. For PS5 storage expansion, the heatsink variant is the one to buy, since passive cooling does the heavy…",
+      "body": "At $188.49 on Amazon, the Lexar 1TB NM790 with heatsink just hit its lowest price since April. For PS5 storage expansion, the heatsink variant is the one to buy, since passive cooling does the heavy lifting in that cramped slot.",
+      "url": null,
+      "icon": "📰",
+      "image_url": "https://www.alternate.nl/p/1200x630/4/3/Lexar_NM790_1TB_SSD@@1916734_4.jpg"
+    },
+    {
+      "id": "66ea4612-bfcf-47ea-9bf0-e281d646fab8",
+      "kicker": "CHEAPER BY ROUTE",
+      "title": "Copilot's HydraFusion routing now in VS Code and the Copilot app",
+      "category": "AI",
+      "published_at": "2026-10-09T10:53:26-05:00",
+      "excerpt": "GitHub's September 30 release put the HydraFusion research preview in the Copilot model picker in VS Code and the Copilot app, routing each coding task through single, cascade, or cross-family…",
+      "body": "GitHub's September 30 release put the HydraFusion research preview in the Copilot model picker in VS Code and the Copilot app, routing each coding task through single, cascade, or cross-family critique workflows instead of one fixed model ([GitHub changelog](https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app/)). Its [offline benchmarks](https://gcn.com/coding-tool-now-used-million-developers/22170/) put the fused workflows 36 to 67 percent below Claude Opus 5 in estimated cost at matching quality.",
+      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app/",
+      "icon": "🤖",
+      "image_url": "https://byteiota.com/wp-content/uploads/2026/05/featured-image-276-800x400.jpg"
+    },
     {
       "id": "461c14ad-1141-471a-a5ea-31ca6a4b0726",
       "kicker": "BEETS DIDN'T HELP",
@@ -409,42 +433,6 @@
       "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2026-10-06?cid=external-feeds_iluminar_meta",
       "icon": "🏷️",
       "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/a-z-main-cnnu-20261006063417781.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "id": "50d6c6ea-876f-47c0-9bd1-315c2cb22652",
-      "kicker": "RETAIL AGENTS",
-      "title": "Fujitsu opens trial environment for retail AI agents",
-      "category": "AI",
-      "published_at": "2026-10-06T12:18:00-05:00",
-      "excerpt": "Fujitsu put four retail AI agents on trial today through one shared execution platform, per the JCN Newswire announcement. Seven retailers will run phased demonstration experiments with them.",
-      "body": "Fujitsu put four retail AI agents on trial today through one shared execution platform, per the JCN Newswire announcement. Seven retailers will run phased demonstration experiments with them.",
-      "url": null,
-      "icon": "🤖",
-      "image_url": "https://prtimes.jp/i/19970/13/resize/d19970-13-127998-7.jpg"
-    },
-    {
-      "id": "a759b464-ae9d-4437-8242-a06eb4eaeede",
-      "kicker": "COLD CASE ID",
-      "title": "Betty Jo Norris identified 43 years after highway shooting",
-      "category": "True crime",
-      "published_at": "2026-10-06T10:53:53-05:00",
-      "excerpt": "Texas DPS on Monday identified the woman found shot dead along Highway 36 in Hamilton County in September 1983 as 44-year-old Betty Jo Norris, per the New York Post. The breakthrough came in July…",
-      "body": "Texas DPS on Monday identified the woman found shot dead along Highway 36 in Hamilton County in September 1983 as 44-year-old Betty Jo Norris, [per the New York Post](https://nypost.com/2026/10/06/us-news/texas-murder-victim-betty-jo-norris-finally-idd-43-years-after-being-fatally-shot-dumped-by-highway/).\nThe breakthrough came in July 2026 from advanced DNA testing and genealogy that traced her to relatives in Brazos and Bell counties.",
-      "url": "https://nypost.com/2026/10/06/us-news/texas-murder-victim-betty-jo-norris-finally-idd-43-years-after-being-fatally-shot-dumped-by-highway/",
-      "icon": "🔍",
-      "image_url": "https://93qcountry.com/wp-content/uploads/sites/106/2023/08/KIQUPMJNR5GBRKQ6R6JGYIZH2Q.jpg?quality=80&strip=all&w=1680&crop=0,0,100,960px"
-    },
-    {
-      "id": "4149865a-db5a-4c0d-8a48-518f43c2aa55",
-      "kicker": "CITY HALL",
-      "title": "Brownsville proposes stormwater utility and fee",
-      "category": "Texas",
-      "published_at": "2026-10-06T10:12:26-05:00",
-      "excerpt": "The stated goal is fighting flooding and protecting the city's resacas, per Texas Border Business. It's a proposal for now, so the fee's size and when it would land on bills are still open.",
-      "body": "The stated goal is fighting flooding and protecting the city's resacas, [per Texas Border Business](https://texasborderbusiness.com/category/news/). It's a proposal for now, so the fee's size and when it would land on bills are still open.",
-      "url": "https://texasborderbusiness.com/category/news/",
-      "icon": "🤠",
-      "image_url": "https://s.hdnux.com/photos/01/26/03/01/22556741/4/1080x0.webp"
     }
   ]
 }
