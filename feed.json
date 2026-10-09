@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T14:41:33-05:00",
+  "generated_at": "2026-10-09T17:11:11-05:00",
   "posts": [
+    {
+      "id": "ddfd9214-26e7-4d38-9464-71d849ed3ec8",
+      "kicker": "RETURN TO SENDER",
+      "title": "Recovered Starship Ship 40 pulls into the Port of Brownsville",
+      "category": "Texas",
+      "published_at": "2026-10-09T16:31:05-05:00",
+      "excerpt": "The 171-foot stage splashed down upright and intact in the Indian Ocean in July, the first Starship upper stage to survive a flight without exploding or sinking. Saltwater exposure likely ended its…",
+      "body": "The 171-foot stage [splashed down upright and intact in the Indian Ocean](https://www.caller.com/story/news/local/texas/2026/10/09/spacex-starship-ship-40-recovered-starbase-port/92167239007/) in July, the first Starship upper stage to survive a flight without exploding or sinking. Saltwater exposure likely ended its flying days, which is why SpaceX wants the stage back as a teardown to improve future vehicles.",
+      "url": "https://www.caller.com/story/news/local/texas/2026/10/09/spacex-starship-ship-40-recovered-starbase-port/92167239007/",
+      "icon": "🤠",
+      "image_url": "https://www.engadget.com/img/gallery/spacexs-recovered-starship-40-will-take-months-to-get-back-to-texas/intro-1788536157.jpg"
+    },
     {
       "id": "80896122-7f80-42b6-9f45-aefd5827f4a1",
       "kicker": "LANDFALL TONIGHT",
@@ -397,42 +409,6 @@
       "url": "https://www.lboro.ac.uk/news-events/news/2026/october/exercise-in-nature-study/",
       "icon": "📰",
       "image_url": "https://www.mensjournal.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_380/MjExNDY2Njg5ODEwODAyNjc2/man-trail-running-in-the-forest.jpg"
-    },
-    {
-      "id": "9fd8b2b3-8e62-4898-ad6f-7964d7710699",
-      "kicker": "41-YEAR COLD CASE",
-      "title": "Man charged in 1985 Hellewell murder",
-      "category": "True crime",
-      "published_at": "2026-10-06T16:27:50-05:00",
-      "excerpt": "Rhode Island's attorney general announced Tuesday afternoon that 61-year-old William \"Billy\" Morton has been arrested and charged with murder in the 1985 strangling death of 22-year-old Hillary L.…",
-      "body": "Rhode Island's attorney general announced Tuesday afternoon that 61-year-old William \"Billy\" Morton has been arrested and charged with murder in the 1985 strangling death of 22-year-old Hillary L. Hellewell, [per the Providence Journal](https://www.providencejournal.com/story/news/crime/2026/10/06/arrest-made-in-1985-killing-of-jamestown-woman-hillary-hellewell/92120455007/). Her fully clothed but shoeless body was found on a Newport sidewalk at about 4:15 a.m. one Sunday morning in May 1985.",
-      "url": "https://www.providencejournal.com/story/news/crime/2026/10/06/arrest-made-in-1985-killing-of-jamestown-woman-hillary-hellewell/92120455007/",
-      "icon": "🔍",
-      "image_url": "https://crimerecords.info/wp-content/uploads/2021/07/word-image-401.jpeg"
-    },
-    {
-      "id": "5e965053-c353-43a6-9a73-5cc54c900a13",
-      "kicker": "PROTON, PS5 EDITION",
-      "title": "Prospero Win 0.1.0 runs Windows games natively on PS5",
-      "category": "Gaming",
-      "published_at": "2026-10-06T15:53:46-05:00",
-      "excerpt": "Homebrew developer mpereiraesaa has published the first ready-made release of Prospero Win, a Wine-and-DXVK compatibility layer for jailbroken PS5 consoles. While the x86-64 Zen 2 CPU runs 64-bit…",
-      "body": "Homebrew developer mpereiraesaa has published the [first ready-made release](https://pantspantsrevolution.com/prospero-win-0-1-0-runs-windows-games-natively-on-a-ps5/) of Prospero Win, a Wine-and-DXVK compatibility layer for jailbroken PS5 consoles. While the x86-64 Zen 2 CPU runs 64-bit Windows code natively, DXVK translates Direct3D 8 through 11 calls for the RDNA 2 GPU.",
-      "url": "https://pantspantsrevolution.com/prospero-win-0-1-0-runs-windows-games-natively-on-a-ps5/",
-      "icon": "🎮",
-      "image_url": "https://pantspantsrevolution.com/content/images/2026/10/prospero-win-0-1-0-runs-windows-games-natively-on-a-ps5-inline-1.jpg"
-    },
-    {
-      "id": "cca03805-c6a3-4c47-be90-14abe7ca08cd",
-      "kicker": "INVEST 92L",
-      "title": "Invest 92L odds hit 100%, landfall eyed Saturday",
-      "category": "Texas",
-      "published_at": "2026-10-06T15:27:45-05:00",
-      "excerpt": "The National Hurricane Center raised Invest 92L's chance of becoming a tropical depression to 100% over the next 48 hours, up from 90% this morning. AccuWeather forecasts a Saturday-morning landfall…",
-      "body": "The National Hurricane Center raised Invest 92L's chance of becoming a tropical depression to 100% over the next 48 hours, up from 90% this morning. AccuWeather forecasts a Saturday-morning landfall as a strong tropical storm, likely between southeast Louisiana and the western Florida Panhandle, [per the Pensacola News Journal](https://www.pnj.com/story/weather/hurricanes/2026/10/06/invest-92l-isaias-florida-panhandle-impacts/92117114007/).",
-      "url": "https://www.pnj.com/story/weather/hurricanes/2026/10/06/invest-92l-isaias-florida-panhandle-impacts/92117114007/",
-      "icon": "🤠",
-      "image_url": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2023/06/1024/512/Invest-92L-1.png?ve=1&tl=1"
     }
   ]
 }
