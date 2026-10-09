@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T23:11:10-05:00",
+  "generated_at": "2026-10-09T01:41:04-05:00",
   "posts": [
+    {
+      "id": "8003da97-b613-493c-a051-7e267bc95cf4",
+      "kicker": "ERRANDS BY TEXT",
+      "title": "Tab emerges from stealth at a $300M valuation",
+      "category": "AI",
+      "published_at": "2026-10-09T00:21:27-05:00",
+      "excerpt": "You text Tab on iMessage or WhatsApp and it runs the errand instead of explaining how. It left stealth at a $300 million valuation, pitching trust as the product in a race everyone else is running on…",
+      "body": "You text Tab on iMessage or WhatsApp and it runs the errand instead of explaining how. It [left stealth at a $300 million valuation](https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/), pitching trust as the product in a race everyone else is running on capability.",
+      "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
+      "icon": "🤖",
+      "image_url": "https://framerusercontent.com/images/e1ZCcJPf4gU3FWKSHudIn7KBPzU.png"
+    },
     {
       "id": "29331a66-3ef6-46a2-b3d4-74220ab4a050",
       "kicker": "RECORD LOW",
@@ -445,18 +457,6 @@
       "url": "https://www.tallahassee.com/story/news/hurricane/2026/10/05/gulf-may-spawn-isaias-is-it-a-tallahassee-florida-threat/92102069007/",
       "icon": "🤠",
       "image_url": "https://static-24.sinclairstoryline.com/resources/media/75bf77d3-d1a5-4aa6-9cc8-eb63ea9e472c-large16x9_92_L_SATURDAY.JPG"
-    },
-    {
-      "id": "c62c620f-a3ec-4209-92d9-a231cff8a289",
-      "kicker": "HANDS OFF",
-      "title": "ServiceNow launches Autonomous Engineer for unattended coding",
-      "category": "AI",
-      "published_at": "2026-10-06T00:19:47-05:00",
-      "excerpt": "Published Oct 6, 2026, 7:00 AM. ServiceNow's Autonomous Engineer is in early access on request, built to plan, build, and test implementation work on its own while developers keep the critical…",
-      "body": "Published Oct 6, 2026, 7:00 AM. ServiceNow's [Autonomous Engineer](https://www.rediff.com/business/report/servicenow-launches-ai-workflow-factory-and-autonomous-engineer/20261006.htm) is in early access on request, built to plan, build, and test implementation work on its own while developers keep the critical decisions. The companion launch, AI Workflow Factory, is available globally now, giving teams one platform to build, run, and extend AI workflows.",
-      "url": "https://www.rediff.com/business/report/servicenow-launches-ai-workflow-factory-and-autonomous-engineer/20261006.htm",
-      "icon": "🤖",
-      "image_url": "https://www.hsc.com/wp-content/uploads/2025/07/ServiceNow-AI-Agents-Banner.png"
     }
   ]
 }
