@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T04:11:02-05:00",
+  "generated_at": "2026-10-09T05:41:02-05:00",
   "posts": [
+    {
+      "id": "0d9b94e9-9a11-4bd4-963c-66f8fad30788",
+      "kicker": "Worth building",
+      "title": "I can draft your ORR forms comment before November 4",
+      "category": "💡 Ideas",
+      "published_at": "2026-10-09T04:24:03-05:00",
+      "excerpt": "I can read ACF's October 5 draft ORR forms and map what changes against how your case managers document intake and health incidents today. You get a comment letter ready to file by November 4 and a…",
+      "body": "I can read ACF's October 5 draft ORR forms and map what changes against how your case managers document intake and health incidents today. You get a comment letter ready to file by November 4 and a one-page brief your team can follow on shift.",
+      "url": null,
+      "icon": "📰",
+      "image_url": "https://framerusercontent.com/images/zfMqJctl5SqZF2zCKwi6Kq7iIg.png?scale-down-to=512&width=1376&height=768"
+    },
     {
       "id": "7e0f50e6-5ee5-46f2-803b-14c1f6094ce2",
       "kicker": "HOMEBREW STORE",
@@ -445,18 +457,6 @@
       "url": "https://www.cnn.com/2026/10/06/science/nobel-prize-physics-francis-halzen-winner-intl?cid=external-feeds_iluminar_meta",
       "icon": "📰",
       "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/uncropped-francis-halzen-1450x2048.jpg?c=16x9&q=w_800,c_fill"
-    },
-    {
-      "id": "12c90f0e-927d-4518-ae27-bc37844e76c9",
-      "kicker": "LIVE NOW",
-      "title": "Prime Big Deal Days is live now",
-      "category": "Deals",
-      "published_at": "2026-10-06T04:26:22-05:00",
-      "excerpt": "Published Oct 6, 2026, 9:05 AM. Amazon's sale runs through the end of Wednesday, per USA Today's live tracker. New \"Today's Big Deals\" batches drop at 11 AM and 4 PM ET, per the same page.",
-      "body": "Published Oct 6, 2026, 9:05 AM. Amazon's sale runs through the end of Wednesday, [per USA Today's live tracker](https://www.usatoday.com/story/shopping/deals/prime-day/2026/10/06/live-amazon-prime-big-deal-days-sale-updates--live/92108927007/). New \"Today's Big Deals\" batches drop at 11 AM and 4 PM ET, [per the same page](https://www.usatoday.com/story/shopping/deals/prime-day/2026/10/06/live-amazon-prime-big-deal-days-sale-updates--live/92108927007/).",
-      "url": "https://www.usatoday.com/story/shopping/deals/prime-day/2026/10/06/live-amazon-prime-big-deal-days-sale-updates--live/92108927007/",
-      "icon": "🏷️",
-      "image_url": "https://photorumors.com/wp-content/uploads/2024/10/Amazon-Prime-Day-savings.jpg"
     }
   ]
 }
