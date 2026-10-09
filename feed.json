@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T22:11:12-05:00",
+  "generated_at": "2026-10-08T23:11:10-05:00",
   "posts": [
+    {
+      "id": "29331a66-3ef6-46a2-b3d4-74220ab4a050",
+      "kicker": "RECORD LOW",
+      "title": "ASUS 27-inch 1440p OLED monitor drops to $384",
+      "category": "Deals",
+      "published_at": "2026-10-08T22:26:56-05:00",
+      "excerpt": "DealNews has the ASUS ROG Strix XG27AQDMGR at $384 for Prime members at Amazon, verified 15 hours ago, the first sub-$400 price the panel has ever hit. ASUS backs it with a 3-year warranty that…",
+      "body": "[DealNews](https://www.dealnews.com/products/ASUS/ASUS-ROG-Strix-27-1440-p-OLED-Gaming-Monitor/541585.html) has the ASUS ROG Strix XG27AQDMGR at $384 for Prime members at Amazon, verified 15 hours ago, the first sub-$400 price the panel has ever hit. ASUS backs it with a 3-year warranty that covers burn-in.",
+      "url": "https://www.dealnews.com/products/ASUS/ASUS-ROG-Strix-27-1440-p-OLED-Gaming-Monitor/541585.html",
+      "icon": "🏷️",
+      "image_url": "https://assets.nvidia.partners/images/png/xg27aqdmg.png"
+    },
     {
       "id": "7b7ca475-0a8a-4071-9b36-c65d62e7b21c",
       "kicker": "GEMINI AT WORK",
@@ -445,30 +457,6 @@
       "url": "https://www.rediff.com/business/report/servicenow-launches-ai-workflow-factory-and-autonomous-engineer/20261006.htm",
       "icon": "🤖",
       "image_url": "https://www.hsc.com/wp-content/uploads/2025/07/ServiceNow-AI-Agents-Banner.png"
-    },
-    {
-      "id": "f23dc09d-de55-4ee1-a0c1-2261e0a43e90",
-      "kicker": "COLD CASE COURT DATE",
-      "title": "Man arrested in 2006 Dickus double murder due in court Oct 8",
-      "category": "True crime",
-      "published_at": "2026-10-05T22:28:28-05:00",
-      "excerpt": "Michael Jerome James, who was 14 when 10-year-old Blake Dickus and his stepmother Chynna were killed in Franklin, Indiana in 2006, faces four murder charges after his October 2 arrest, per the…",
-      "body": "Michael Jerome James, who was 14 when 10-year-old Blake Dickus and his stepmother Chynna were killed in Franklin, Indiana in 2006, faces four murder charges after his October 2 arrest, [per the Indianapolis Star](https://www.indystar.com/story/news/crime/2026/10/05/blake-dickus-chynna-franklin-her-son-was-killed-in-2006-the-man-arrested-will-soon-appear-in-court/92104168007/). Charging documents allege he killed them while committing or attempting to commit burglary.",
-      "url": "https://www.indystar.com/story/news/crime/2026/10/05/blake-dickus-chynna-franklin-her-son-was-killed-in-2006-the-man-arrested-will-soon-appear-in-court/92104168007/",
-      "icon": "🔍",
-      "image_url": "https://www.nzherald.co.nz/resizer/v2/XLY52CREBHJ6C7F6UTRJ6XP6LI.jpg?auth=83a48f7953a1dfe487e95bcb93d8025a28059ce8dcca1818a0ca737136b7ce00&smart=true&width=1024&height=768"
-    },
-    {
-      "id": "12157e78-b2f0-4503-a12b-2ef67b0747e0",
-      "kicker": "GONE NATIONAL",
-      "title": "Takaichi raises Marine murder case in parliament speech",
-      "category": "General news",
-      "published_at": "2026-10-05T22:18:17-05:00",
-      "excerpt": "The suspect is 20-year-old Devin Jacob Ballard, a Marine stationed at Futenma accused of killing a 39-year-old woman at a Naha hotel and stealing her backpack and wallet. With the case now a national…",
-      "body": "The suspect is 20-year-old Devin Jacob Ballard, a Marine stationed at Futenma [accused of killing a 39-year-old woman at a Naha hotel and stealing her backpack and wallet](https://www.japantimes.co.jp/news/2026/10/05/japan/crime-legal/okinawa-murder-us-marine-arrest-japan-protest/). With the case now a national issue, the U.S. military is weighing its response.",
-      "url": "https://www.japantimes.co.jp/news/2026/10/05/japan/crime-legal/okinawa-murder-us-marine-arrest-japan-protest/",
-      "icon": "📰",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2026-02/260220-Takaichi-rs-63266b.jpg"
     }
   ]
 }
