@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T12:41:34-05:00",
+  "generated_at": "2026-10-09T14:41:33-05:00",
   "posts": [
+    {
+      "id": "80896122-7f80-42b6-9f45-aefd5827f4a1",
+      "kicker": "LANDFALL TONIGHT",
+      "title": "Isaias reaches Category 3 ahead of tonight's Gulf Coast landfall",
+      "category": "General news",
+      "published_at": "2026-10-09T14:32:09-05:00",
+      "excerpt": "A Hurricane Warning is in effect from Ocean Springs, Mississippi, to the Bay/Gulf County line in Florida, and a Tornado Watch covers portions of Alabama, Florida and Georgia until 9 PM (People). The…",
+      "body": "A Hurricane Warning is in effect from Ocean Springs, Mississippi, to the Bay/Gulf County line in Florida, and a Tornado Watch covers portions of Alabama, Florida and Georgia until 9 PM ([People](https://people.com/hurricane-isaias-category-3-hours-before-making-landfall-gulf-coast-12166534)). The NHC expects six to nine feet of storm surge from the Alabama-Florida border to Grayton Beach and four to eight inches of rain across southern Alabama and the Florida Panhandle, with localized totals up to 15 inches.",
+      "url": "https://people.com/hurricane-isaias-category-3-hours-before-making-landfall-gulf-coast-12166534",
+      "icon": "🌀",
+      "image_url": "https://i0.wp.com/enkiops.org/wp-content/uploads/2025/10/meso2_true_color.jpg?resize=600%2C600&ssl=1"
+    },
     {
       "id": "50601105-efc9-49c1-a9d6-bc17843ab89d",
       "kicker": "SLIGHT STORAGE WIN",
@@ -421,18 +433,6 @@
       "url": "https://www.pnj.com/story/weather/hurricanes/2026/10/06/invest-92l-isaias-florida-panhandle-impacts/92117114007/",
       "icon": "🤠",
       "image_url": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2023/06/1024/512/Invest-92L-1.png?ve=1&tl=1"
-    },
-    {
-      "id": "d2bc2db0-73f4-4f56-a7cf-5b660f77f918",
-      "kicker": "SHOE DEAL",
-      "title": "Nike Run Defy down to $55 in first price cut in months",
-      "category": "Deals",
-      "published_at": "2026-10-06T14:29:00-05:00",
-      "excerpt": "Amazon's 15% markdown on Nike's Men's Run Defy road running shoe is the first price cut on it in months. The sale runs through Wednesday.",
-      "body": "Amazon's 15% markdown on [Nike's Men's Run Defy road running shoe](https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2026-10-06?cid=external-feeds_iluminar_meta) is the first price cut on it in months. The sale runs through Wednesday.",
-      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2026-10-06?cid=external-feeds_iluminar_meta",
-      "icon": "🏷️",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/a-z-main-cnnu-20261006063417781.jpg?c=16x9&q=w_800,c_fill"
     }
   ]
 }
