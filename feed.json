@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T06:40:59-05:00",
+  "generated_at": "2026-10-09T09:41:20-05:00",
   "posts": [
+    {
+      "id": "461c14ad-1141-471a-a5ea-31ca6a4b0726",
+      "kicker": "BEETS DIDN'T HELP",
+      "title": "Beet juice added nothing to 12 weeks of lifting",
+      "category": "Fitness",
+      "published_at": "2026-10-09T08:52:33-05:00",
+      "excerpt": "A daily beetroot-juice habit added no extra strength or muscle over a nitrate-free placebo across twelve weeks of supervised lifting, per the European Journal of Applied Physiology trial (Men's…",
+      "body": "A daily beetroot-juice habit added no extra strength or muscle over a nitrate-free placebo across twelve weeks of supervised lifting, per the European Journal of Applied Physiology trial ([Men's Journal](https://www.mensjournal.com/health/researchers-added-beet-juice-to-strength-training-and-one-result-stood-out)). Muscle biopsies showed the lifting itself raised mitochondrial markers and improved most leg-extensor measures, so the juice keeps its endurance credentials and loses its lifting ones.",
+      "url": "https://www.mensjournal.com/health/researchers-added-beet-juice-to-strength-training-and-one-result-stood-out",
+      "icon": "📰",
+      "image_url": "https://i.barbend.com/282/897/385/beets-preworkout-featured.webp"
+    },
     {
       "id": "cd946699-6119-492b-b3c1-de9febf02214",
       "kicker": "THE RULE OF LAW",
@@ -433,30 +445,6 @@
       "url": "https://texasborderbusiness.com/category/news/",
       "icon": "🤠",
       "image_url": "https://s.hdnux.com/photos/01/26/03/01/22556741/4/1080x0.webp"
-    },
-    {
-      "id": "aed1f671-63e0-426c-a422-e113603f4e4f",
-      "kicker": "MEET YOUR INTERVIEWER",
-      "title": "HackerRank's AI interviewer Chakra goes live",
-      "category": "AI",
-      "published_at": "2026-10-06T08:50:32-05:00",
-      "excerpt": "An AI agent has already run more than 500,000 job interviews, and HackerRank made Chakra generally available Monday. It watches candidates work a real code repository and scores judgment and 'AI…",
-      "body": "An AI agent has already run more than 500,000 job interviews, and HackerRank made Chakra [generally available Monday](https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/). It watches candidates work a real code repository and scores judgment and 'AI fluency,' HackerRank's term for how well a candidate frames a problem for AI, judges its output, and steers it toward a solution.",
-      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "icon": "🤖",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/ai-avatar-simpleshow-2154151760.jpg?resize=1200,826"
-    },
-    {
-      "id": "5483f512-14cd-4588-8519-54afa7563f44",
-      "kicker": "CORE WORK PAYS",
-      "title": "Core training speeds sprints and lifts jumps, 49 studies show",
-      "category": "Fitness",
-      "published_at": "2026-10-06T07:36:13-05:00",
-      "excerpt": "A Frontiers in Physiology meta-analysis of 49 studies found core training raised sprint speed and jump height across sports. The verdict: treat core work as the complement to sport-specific sprint,…",
-      "body": "A [Frontiers in Physiology meta-analysis](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1946447/full) of 49 studies found core training raised sprint speed and jump height across sports. The verdict: treat core work as the complement to sport-specific sprint, strength, and plyometric blocks, not the program itself.",
-      "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1946447/full",
-      "icon": "📰",
-      "image_url": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/8661D86F-DC44-47C3-8EDF5AC7C3010522/CADBD0FC-2672-4E45-A7D1A3BAE338337E/WebsiteWebP_XL-FPHYS_Main Visual_Red_Website.webp"
     }
   ]
 }
