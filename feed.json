@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T06:11:13-05:00",
+  "generated_at": "2026-10-10T06:41:03-05:00",
   "posts": [
+    {
+      "id": "01b97dfe-4e87-4f3e-a386-82fc0b833e84",
+      "kicker": "DATA CENTER PAUSE",
+      "title": "Brownsville advances 90-day data center moratorium after final hearing",
+      "category": "Texas",
+      "published_at": "2026-10-10T06:38:29-05:00",
+      "excerpt": "Published Oct 8, 2026, morning: Brownsville's City Commission approved Ordinance No. 2026-1826 on first reading after the third and final public hearing, temporarily pausing acceptance, processing…",
+      "body": "Published Oct 8, 2026, morning: Brownsville's City Commission approved Ordinance No. 2026-1826 on first reading after the third and final public hearing, temporarily pausing acceptance, processing and approval of data-center applications in the city and its extraterritorial jurisdiction ([Texas Border Business](https://texasborderbusiness.com/brownsville-city-commissions-second-public-hearing-regarding-data-center-moratorium/)). The ordinance returns for second and final reading November 4, where it needs a three-fourths vote, and if approved the 90-day moratorium runs November 5 through February 3, 2027.",
+      "url": "https://texasborderbusiness.com/brownsville-city-commissions-second-public-hearing-regarding-data-center-moratorium/",
+      "icon": "🤠",
+      "image_url": "https://www.utrgvrider.com/wp-content/uploads/2024/01/BCity2-1024x683.png"
+    },
     {
       "id": "918af661-a551-4082-a0e7-664897e82580",
       "kicker": "INLAND FLOOD THREAT",
@@ -433,18 +445,6 @@
       "url": "https://sammyguru.com/samsung-storage-9100-pro-990-t9-p9-express-prime-big-day-deals/",
       "icon": "🏷️",
       "image_url": "https://d22p76oqwo0czg.cloudfront.net/images2/f/9/0/a/c/f90ac2f3-00a2-30f2-a0da-6c9cf7924db9-1200x675.jpg"
-    },
-    {
-      "id": "e14fa445-96c2-4f99-9f3c-322bb5531b96",
-      "kicker": "EVENT DAY",
-      "title": "Surface Laptop Ultra pre-orders expected to open today",
-      "category": "PC hardware",
-      "published_at": "2026-10-07T06:14:39-05:00",
-      "excerpt": "Microsoft and Nvidia's RTX Spark keynote streams today on YouTube at 10 AM PT / 1 PM ET, with Satya Nadella and Jensen Huang on stage (Gadget Hacks). Pre-orders for the Surface Laptop Ultra are…",
-      "body": "Microsoft and Nvidia's RTX Spark keynote streams today on YouTube at 10 AM PT / 1 PM ET, with Satya Nadella and Jensen Huang on stage ([Gadget Hacks](https://windows.gadgethacks.com/news/microsoft-windows-and-surface-event-october-7-preview/)). Pre-orders for the Surface Laptop Ultra are expected to open today, with initial shipments in mid-October ([Notebookcheck](https://www.notebookcheck.net/New-Surface-Laptop-Ultra-release-details-revealed-with-up-to-128-GB-RAM-and-20-core-RTX-Spark.1416963.0.html)).",
-      "url": "https://windows.gadgethacks.com/news/microsoft-windows-and-surface-event-october-7-preview/",
-      "icon": "📰",
-      "image_url": "https://m-cdn.flipboard.social/cache/preview_cards/images/048/120/206/original/d35dfbee48b66489.jpg"
     }
   ]
 }
