@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T17:11:11-05:00",
+  "generated_at": "2026-10-09T21:11:19-05:00",
   "posts": [
+    {
+      "id": "f955ca12-e438-4073-93e3-ff4e2b25e002",
+      "kicker": "WORDS OPTIONAL",
+      "title": "Non-text AI model Jev valued at $7.5B weeks after launch",
+      "category": "AI",
+      "published_at": "2026-10-09T21:02:58-05:00",
+      "excerpt": "Andreessen Horowitz led the $870 million round, with Sequoia and existing investor DCVC joining, for a startup founded in 2024 by an ex-OpenAI researcher and a former Meta research engineer. Jev is a…",
+      "body": "Andreessen Horowitz led the $870 million round, with Sequoia and existing investor DCVC joining, for a startup founded in 2024 by an ex-OpenAI researcher and a former Meta research engineer. [Jev](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/) is a transformer aimed at automation: it skips words entirely and outputs probabilities, what TypeSafe calls calibrated decisions.",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "icon": "🤖",
+      "image_url": "https://seifeur.com/wp-content/uploads/2024/06/transformer-llms.jpg"
+    },
+    {
+      "id": "ad59922b-4e40-4597-b944-d65325007b7c",
+      "kicker": "LAST CALL",
+      "title": "Techtober gaming PC deals: up to $1,125 off",
+      "category": "Deals",
+      "published_at": "2026-10-09T20:58:18-05:00",
+      "excerpt": "Best Buy's Techtober gaming-laptop and desktop deals end Sunday, October 11, with prices DealNews verified on October 8 (DealNews). The standout is the Lenovo Legion 7a, a 16-inch OLED gaming laptop…",
+      "body": "Best Buy's Techtober gaming-laptop and desktop deals end Sunday, October 11, with prices DealNews verified on October 8 ([DealNews](https://www.dealnews.com/Best-Buy-Techtober-Laptop-Gaming-PC-Deals-Up-to-1-125-off-free-shipping/22246268.html)). The standout is the Lenovo Legion 7a, a 16-inch OLED gaming laptop with an RTX 5060 and 1TB of storage, down to $1,999.99.",
+      "url": "https://www.dealnews.com/Best-Buy-Techtober-Laptop-Gaming-PC-Deals-Up-to-1-125-off-free-shipping/22246268.html",
+      "icon": "🏷️",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/kcYYost5tNoM459SyAqAnW-1920-80.jpg"
+    },
+    {
+      "id": "ee7abb5b-3878-4369-8223-45bc4c716e05",
+      "kicker": "SOFT FUEL",
+      "title": "Soft foods that keep protein up after the extraction",
+      "category": "Health",
+      "published_at": "2026-10-09T20:42:09-05:00",
+      "excerpt": "For the first 48 hours, keep it soft, lukewarm, and protein-forward: plain yogurt, scrambled eggs, silken tofu, mashed avocado, and blended lukewarm soups all qualify (Medical & Dental). Heat,…",
+      "body": "For the first 48 hours, keep it soft, lukewarm, and protein-forward: plain yogurt, scrambled eggs, silken tofu, mashed avocado, and blended lukewarm soups all qualify ([Medical & Dental](https://www.md.co.uk/blog/what-to-eat-first-48-hours-after-wisdom-tooth-surgery)). Heat, crunch, spice, seeds, and straws are what disturb the healing site, so they stay off the menu until it firms up ([Shoreline Dental](https://shorelinedentalcare.com/eating-after-wisdom-teeth-removal/)).",
+      "url": "https://www.md.co.uk/blog/what-to-eat-first-48-hours-after-wisdom-tooth-surgery",
+      "icon": "📰",
+      "image_url": "https://framerusercontent.com/images/rmcgqabJKnjaYvvpOanYHLmyjmI.png"
+    },
     {
       "id": "ddfd9214-26e7-4d38-9464-71d849ed3ec8",
       "kicker": "RETURN TO SENDER",
@@ -397,18 +433,6 @@
       "url": null,
       "icon": "📰",
       "image_url": "https://img.gkbcdn.com/s3/p/2024-05-27/anbernic-rg35xxsp-game-console-silver-3f3"
-    },
-    {
-      "id": "5bb37a5b-03d5-414f-9a2e-5f514139f4ee",
-      "kicker": "FOREST MILES",
-      "title": "Forest runs go further at the same effort",
-      "category": "Fitness",
-      "published_at": "2026-10-06T18:13:05-05:00",
-      "excerpt": "Forty-seven runners went significantly further in the forest than on city streets at the same prescribed effort, with heart rate matching the urban run, per Loughborough University. They also…",
-      "body": "Forty-seven runners went significantly further in the forest than on city streets at the same prescribed effort, with heart rate matching the urban run, [per Loughborough University](https://www.lboro.ac.uk/news-events/news/2026/october/exercise-in-nature-study/). They also reported greater enjoyment, better mood, and far stronger intention to exercise again.",
-      "url": "https://www.lboro.ac.uk/news-events/news/2026/october/exercise-in-nature-study/",
-      "icon": "📰",
-      "image_url": "https://www.mensjournal.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_380/MjExNDY2Njg5ODEwODAyNjc2/man-trail-running-in-the-forest.jpg"
     }
   ]
 }
