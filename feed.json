@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T11:41:29-05:00",
+  "generated_at": "2026-10-10T15:41:27-05:00",
   "posts": [
+    {
+      "id": "cd77834e-af10-49fc-b647-3680e943112a",
+      "kicker": "GOVERNED AGENTS",
+      "title": "OutSystems Agent Experience opens to any coding agent",
+      "category": "AI",
+      "published_at": "2026-10-10T14:27:55-05:00",
+      "excerpt": "Published Oct 10, 2026, 1:20 PM: OutSystems made Agent Experience generally available on Oct 8, letting developers bring their own AI coding agent, including Claude Code, Cursor, Codex, or Kiro,…",
+      "body": "Published Oct 10, 2026, 1:20 PM: OutSystems made Agent Experience generally available on Oct 8, letting developers bring their own AI coding agent, including Claude Code, Cursor, Codex, or Kiro, under the platform's security, testing, and governance guardrails ([Channel News Asia](https://www.channelnewsasia.com/media-release/outsystems-agent-experience-now-generally-available-bringing-governed-ai-development-any-coding-agent-6441761)). The pitch is agent-designed, platform-built software, aimed at the survey finding that 74% of AI-generated code needs significant rework or never reaches production.",
+      "url": "https://www.channelnewsasia.com/media-release/outsystems-agent-experience-now-generally-available-bringing-governed-ai-development-any-coding-agent-6441761",
+      "icon": "🤖",
+      "image_url": "https://v.fastcdn.co/cdn-cgi/image/f=auto,q=high,fit=scale-down/u/60bcead0/66014049-0-AI-Agent---ODC-UI.png"
+    },
     {
       "id": "97b94339-470c-49de-afdc-c7ffddcb29c6",
       "kicker": "SHIPYARD RISING",
@@ -409,30 +421,6 @@
       "url": "https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877",
       "icon": "🤖",
       "image_url": "https://allyyio.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DDecision%2BAPI%26title%3DGet%2Bdecisions%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fallyyio%252FPeFW4TsGB5UlZQNv%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DPeFW4TsGB5UlZQNv%2526q%253D85%2526s%253Dbd0b5c580b7f7a476867d0e2792fc1c6%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fallyyio%252FPeFW4TsGB5UlZQNv%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DPeFW4TsGB5UlZQNv%2526q%253D85%2526s%253Defc9ac09802312d7e22a557a1b92b228%26primaryColor%3D%25235C58E9%26lightColor%3D%2523C9D1FC%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230d0d10&w=1200&q=100"
-    },
-    {
-      "id": "55548600-2e75-4aeb-9517-432af43c9694",
-      "kicker": "THE PAYOFF",
-      "title": "Microsoft and Nvidia unveil RTX Spark AI laptop",
-      "category": "PC hardware",
-      "published_at": "2026-10-07T14:27:32-05:00",
-      "excerpt": "The Surface Laptop Ultra starts at $2,599 and ships October 16. The sleeper news is Meta's Muse coming to Windows as a native app.",
-      "body": "The [Surface Laptop Ultra](https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8) starts at $2,599 and ships October 16. The sleeper news is Meta's Muse coming to Windows as a native app.",
-      "url": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8",
-      "icon": "📰",
-      "image_url": "https://bucket-image.inkmaginecms.com/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2026/06/b1893628-50c2-454a-824c-1eb2fbfd77b9.webp"
-    },
-    {
-      "id": "9963e053-9aab-444a-8ae8-b3dfb20e3342",
-      "kicker": "THE CONTRACT",
-      "title": "Alexandria lease lets ICE set how long families stay",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-07T12:13:54-05:00",
-      "excerpt": "The Alexandria Family Staging Center's \"within a week or two\" opening window has arrived. An Oct. 4 review of the lease by Gambit found ICE's operational requirements will determine how long anyone…",
-      "body": "The Alexandria Family Staging Center's \"within a week or two\" opening window has arrived. An Oct. 4 review of the lease by Gambit found ICE's operational requirements will determine how long anyone stays, which undercuts the operators' under-48-hour figure ([MigraPrep's Oct. 5 report](https://migraprep.com/en/news/alexandria-ice-family-staging-2026-10-05/)).",
-      "url": "https://migraprep.com/en/news/alexandria-ice-family-staging-2026-10-05/",
-      "icon": "📰",
-      "image_url": "https://cache.getarchive.net/Prod/thumb/cdn2/L3Bob3RvLzIwMTUvMDQvMjkvcmVzaWRlbnRzLXdhbGstaW4tY29tbW9uLWNhbXB1cy1hcmVhLWF0LXRoZS1zdGZyYy1pbi1lNDYxZWMtMTAyNC5qcGc%3D/512/341/webp"
     }
   ]
 }
