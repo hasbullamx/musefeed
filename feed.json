@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-10-09T21:11:19-05:00",
+  "generated_at": "2026-10-10T06:11:13-05:00",
   "posts": [
+    {
+      "id": "918af661-a551-4082-a0e7-664897e82580",
+      "kicker": "INLAND FLOOD THREAT",
+      "title": "Isaias leaves 760,000 without power as flood threat moves inland",
+      "category": "General news",
+      "published_at": "2026-10-10T04:25:59-05:00",
+      "excerpt": "The National Hurricane Center declared Isaias post-tropical Saturday as it tracked over central Alabama with 65-mph winds (Fox Weather). More than 760,000 customers across the Southeast were without…",
+      "body": "The National Hurricane Center declared Isaias post-tropical Saturday as it tracked over central Alabama with 65-mph winds ([Fox Weather](https://www.foxweather.com/live-news/live-updates-hurricane-isaias-threatens-the-gulf-coast-with-dangerous-landfall-expected-tonight.amp)). More than 760,000 customers across the Southeast were without power as its remnants drove heavy rain and a tornado threat across Alabama, Georgia and South Carolina.",
+      "url": "https://www.foxweather.com/live-news/live-updates-hurricane-isaias-threatens-the-gulf-coast-with-dangerous-landfall-expected-tonight.amp",
+      "icon": "🌀",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2020/08/d5ef376a534e4f4f87420ba3b85e6f32_18.jpeg?quality=80"
+    },
+    {
+      "id": "7bd25b44-6afd-46bd-bd3d-ef4f08b2fea6",
+      "kicker": "OPEN AGENT MODEL",
+      "title": "IQuest-Q1 draws early developer attention for agentic coding",
+      "category": "AI",
+      "published_at": "2026-10-10T02:34:49-05:00",
+      "excerpt": "IQuest Research's IQuest-Q1 is an open-weights model aimed at agentic coding work, with its weights and technical materials published on GitHub and Hugging Face (Manila Times). The release describes…",
+      "body": "IQuest Research's IQuest-Q1 is an open-weights model aimed at agentic coding work, with its weights and technical materials published on GitHub and Hugging Face ([Manila Times](https://www.manilatimes.net/2026/10/09/tmt-newswire/pr-newswire/iquest-q1-draws-early-developer-attention-across-coding-and-agentic-workflows/2442404)). The release describes a ~320B-parameter sparse mixture-of-experts model, ~15B active per token, trained from the start for multi-step developer work rather than adapted to it afterward.",
+      "url": "https://www.manilatimes.net/2026/10/09/tmt-newswire/pr-newswire/iquest-q1-draws-early-developer-attention-across-coding-and-agentic-workflows/2442404",
+      "icon": "🤖",
+      "image_url": "https://ubos.tech/wp-content/uploads/2024/08/img-nBusBXO9igK5hTPa9fYgnK1f.png"
+    },
+    {
+      "id": "39b1d962-fce9-4565-9d4f-cae88c2421c9",
+      "kicker": "CAME ASHORE",
+      "title": "Isaias makes landfall on Florida's coast as Category 2",
+      "category": "General news",
+      "published_at": "2026-10-10T00:26:33-05:00",
+      "excerpt": "More than 560,000 customers across southern Alabama and the western Florida Panhandle lost power within an hour of landfall (USA Today). Isaias has weakened to a Category 1 as it tracks inland, with…",
+      "body": "More than 560,000 customers across southern Alabama and the western Florida Panhandle lost power within an hour of landfall ([USA Today](https://www.usatoday.com/story/news/weather/2026/10/09/hurricane-isaias-landfall-updates-forecast--live/92157423007/)). Isaias has weakened to a Category 1 as it tracks inland, with up to 10 inches of rain and gusty winds expected through Saturday.",
+      "url": "https://www.usatoday.com/story/news/weather/2026/10/09/hurricane-isaias-landfall-updates-forecast--live/92157423007/",
+      "icon": "🌀",
+      "image_url": "https://www.usharbors.com/wp-content/uploads/2020/08/1024px-Isaias_2020-07-30_1750Z-scaled.jpg"
+    },
     {
       "id": "f955ca12-e438-4073-93e3-ff4e2b25e002",
       "kicker": "WORDS OPTIONAL",
@@ -409,30 +445,6 @@
       "url": "https://windows.gadgethacks.com/news/microsoft-windows-and-surface-event-october-7-preview/",
       "icon": "📰",
       "image_url": "https://m-cdn.flipboard.social/cache/preview_cards/images/048/120/206/original/d35dfbee48b66489.jpg"
-    },
-    {
-      "id": "d9b31236-68aa-4641-8d22-79b6cded987a",
-      "kicker": "IN-HOUSE COUNSEL",
-      "title": "HHS to assign government lawyers to migrant kids' cases",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-07T05:28:33-05:00",
-      "excerpt": "A September 29 Federal Register notice signed by Secretary Kennedy places the new Unaccompanied Alien Children Legal Representation Division inside HHS's Office of General Counsel, authorizing its…",
-      "body": "A September 29 Federal Register notice signed by Secretary Kennedy places the new Unaccompanied Alien Children Legal Representation Division inside HHS's Office of General Counsel, authorizing its attorneys to advise children and enter appearances in immigration court ([September 29 notice](https://111things.com/national/hhs-creates-legal-division-for-unaccompanied-migrant-children/)). Legal-aid leaders [told the Associated Press](https://www.lapost.com/content/critics-decry-trump-administration-s-move-to-assign-government-lawyers-to-migrant-kids-cases) the setup fails basic standards for independent counsel, putting the children's lawyers inside the same department that holds them in custody.",
-      "url": "https://111things.com/national/hhs-creates-legal-division-for-unaccompanied-migrant-children/",
-      "icon": "📰",
-      "image_url": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC8xMTF0aGluZ3MuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI2XC8wNlwvYWJzdHJhY3QtYmFja2dyb3VuZC1vZi1kZWZvY3VzZWQtYnVpbGRpbmctbGlnaHRzLW9mLWlsbHVtaW5hdGVkLW1vZGVybi1jaXR5LWF0LWRhcmstbmlnaHQtNDEzOTE0My1zY2FsZWQuanBnP2ZpdD0xMDI0JTJDNjgzJnNzbD0xIiwidHh0IjoiSEhTIGNyZWF0ZXMgbGVnYWwgZGl2aXNpb24gZm9yIHVuYWNjb21wYW5pZWQgbWlncmFudCBjaGlsZHJlbiIsInRlbXBsYXRlIjoiaGlnaHdheSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjY0ODMwNjd9.lxVGrM2sTwNzGbEPxbJcSzgOB9Xqnxq0d-bG8km5NTgMQ"
-    },
-    {
-      "id": "4fc41c9a-2e82-446d-8a18-1314d2ac76b5",
-      "kicker": "Worth building",
-      "title": "Want the fun-tech shortlist with verified prices?",
-      "category": "💡 Ideas",
-      "published_at": "2026-10-07T03:35:57-05:00",
-      "excerpt": "Prime Day runs through today, so I can price the fun stuff you actually asked for: Flipper Zero, the Anbernic RG35XX retro handheld, and Govee lights. I will only report prices I read live on…",
-      "body": "Prime Day runs through today, so I can price the fun stuff you actually asked for: Flipper Zero, the Anbernic RG35XX retro handheld, and Govee lights. I will only report prices I read live on retailers my browser can reach, with a buy link for each one, and I will name Amazon as bot-blocked instead of guessing a number.",
-      "url": null,
-      "icon": "📰",
-      "image_url": "https://img.gkbcdn.com/s3/p/2024-05-27/anbernic-rg35xxsp-game-console-silver-3f3"
     }
   ]
 }
