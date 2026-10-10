@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T06:41:03-05:00",
+  "generated_at": "2026-10-10T11:41:29-05:00",
   "posts": [
+    {
+      "id": "97b94339-470c-49de-afdc-c7ffddcb29c6",
+      "kicker": "SHIPYARD RISING",
+      "title": "Port Alpha construction begins",
+      "category": "Texas",
+      "published_at": "2026-10-10T10:56:34-05:00",
+      "excerpt": "JE Dunn Construction is building Port Alpha, Saronic's $3.2-billion-plus shipyard at the Port of Brownsville, with work now officially underway. The first phase runs from site works such as grading…",
+      "body": "[JE Dunn Construction is building Port Alpha](https://www.portstrategy.com/news/expansion-development/port-alpha-shipyard-development-begins/?navcode=1433), Saronic's $3.2-billion-plus shipyard at the Port of Brownsville, with work now officially underway. The first phase runs from site works such as grading and drainage to assembly buildings, waterfront infrastructure and vessel-launching facilities.",
+      "url": "https://www.portstrategy.com/news/expansion-development/port-alpha-shipyard-development-begins/?navcode=1433",
+      "icon": "🤠",
+      "image_url": "https://www.reefproject.ca/wp-content/uploads/2025/08/reef_updates_Aug18_20251.jpg"
+    },
+    {
+      "id": "625173e8-38b5-40d2-8346-e7e45ed6ef2b",
+      "kicker": "HIRED HAND",
+      "title": "JetBrains ships Mellum2.1, a fast open model for coding agents",
+      "category": "AI",
+      "published_at": "2026-10-10T08:50:34-05:00",
+      "excerpt": "JetBrains' new coding model is a 12-billion-parameter mixture-of-experts build that activates only 2.5B parameters per token, under the Apache 2.0 license. The upgrade over Mellum2 came almost…",
+      "body": "[JetBrains' new coding model](https://blog.jetbrains.com/ai/2026/10/mellum2-1-gets-to-work-a-fast-open-model-for-coding-agents/) is a 12-billion-parameter mixture-of-experts build that activates only 2.5B parameters per token, under the Apache 2.0 license. The upgrade over Mellum2 came almost entirely from reinforcement learning inside real repositories, millions of sandboxed runs, rather than from any change to the architecture.",
+      "url": "https://blog.jetbrains.com/ai/2026/10/mellum2-1-gets-to-work-a-fast-open-model-for-coding-agents/",
+      "icon": "🤖",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.otf-kit.dev%2Fthumbnails%2Fmellum2.png"
+    },
     {
       "id": "01b97dfe-4e87-4f3e-a386-82fc0b833e84",
       "kicker": "DATA CENTER PAUSE",
@@ -409,42 +433,6 @@
       "url": "https://migraprep.com/en/news/alexandria-ice-family-staging-2026-10-05/",
       "icon": "📰",
       "image_url": "https://cache.getarchive.net/Prod/thumb/cdn2/L3Bob3RvLzIwMTUvMDQvMjkvcmVzaWRlbnRzLXdhbGstaW4tY29tbW9uLWNhbXB1cy1hcmVhLWF0LXRoZS1zdGZyYy1pbi1lNDYxZWMtMTAyNC5qcGc%3D/512/341/webp"
-    },
-    {
-      "id": "3636da30-69bd-42d3-8061-d28e9da5ad17",
-      "kicker": "ORDER MATTERS",
-      "title": "Bodyweight circuit before intervals slows runners",
-      "category": "Fitness",
-      "published_at": "2026-10-07T11:38:18-05:00",
-      "excerpt": "Sixteen recreational runners ran their 8x200m intervals slower after a bodyweight circuit than without it, with total time rising in both men and women (Sport Sciences for Health). The circuit was…",
-      "body": "Sixteen recreational runners ran their 8x200m intervals slower after a bodyweight circuit than without it, with total time rising in both men and women ([Sport Sciences for Health](https://link.springer.com/article/10.1007/s11332-026-01927-y)). The circuit was only three rounds of 15-second all-out jumps, lunges, sit-ups, and burpees.",
-      "url": "https://link.springer.com/article/10.1007/s11332-026-01927-y",
-      "icon": "📰",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/589286b53e00be6ae883e566/1738066377858-SONQNPF2C3929136B5TR/running-micro-intervals-2.jpg?format=1500w"
-    },
-    {
-      "id": "4185cf56-76c9-45e8-9671-41b22a59842a",
-      "kicker": "MIRROR IMAGES",
-      "title": "Kagan and Soai win Nobel chemistry prize for mirror-image molecules",
-      "category": "General news",
-      "published_at": "2026-10-07T10:48:35-05:00",
-      "excerpt": "Henri B. Kagan and Kenso Soai won the 2026 Nobel Prize in chemistry Wednesday for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis, the chemistry that makes…",
-      "body": "Henri B. Kagan and Kenso Soai won the 2026 Nobel Prize in chemistry Wednesday for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis, the chemistry that makes molecules form as just one of two mirror-image forms ([AP](https://www.wkyufm.org/news/2026-10-07/henri-b-kagan-and-kenso-soai-win-nobel-prize-in-chemistry)). The Nobel committee called their work decisive for chemists who design reactions for manufacturing pharmaceuticals.",
-      "url": "https://www.wkyufm.org/news/2026-10-07/henri-b-kagan-and-kenso-soai-win-nobel-prize-in-chemistry",
-      "icon": "📰",
-      "image_url": "https://wordpress-bucket.nyc3.digitaloceanspaces.com/2025/10/image-2025-10-08T093914.539-600x450.jpg"
-    },
-    {
-      "id": "5162ce25-f209-41e1-ba1f-0ae7744bf3df",
-      "kicker": "FINAL DAY",
-      "title": "Samsung 9100 PRO 2TB $330 off on Prime Day's last day",
-      "category": "Deals",
-      "published_at": "2026-10-07T10:10:06-05:00",
-      "excerpt": "Amazon has the Samsung 9100 PRO 2TB at $349.99 for the final hours of Prime Big Deal Days (SammyGuru). It is a PCIe 5.0 drive that still works in a PCIe 4.0 slot at reduced speed, so it fits your…",
-      "body": "Amazon has the Samsung 9100 PRO 2TB at $349.99 for the final hours of Prime Big Deal Days ([SammyGuru](https://sammyguru.com/samsung-storage-9100-pro-990-t9-p9-express-prime-big-day-deals/)). It is a PCIe 5.0 drive that still works in a PCIe 4.0 slot at reduced speed, so it fits your current board.",
-      "url": "https://sammyguru.com/samsung-storage-9100-pro-990-t9-p9-express-prime-big-day-deals/",
-      "icon": "🏷️",
-      "image_url": "https://d22p76oqwo0czg.cloudfront.net/images2/f/9/0/a/c/f90ac2f3-00a2-30f2-a0da-6c9cf7924db9-1200x675.jpg"
     }
   ]
 }
