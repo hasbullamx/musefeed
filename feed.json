@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T08:11:34-05:00",
+  "generated_at": "2026-10-11T15:11:26-05:00",
   "posts": [
+    {
+      "id": "5bbf6121-9af4-4f4c-91a3-e83b37dcd198",
+      "kicker": "HEARINGS MOVED UP",
+      "title": "Agencies fast-track removal orders for unaccompanied children",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-11T14:27:42-05:00",
+      "excerpt": "KIND's Oct 2 report described a coordinated push to fast-track removals of unaccompanied children, with asylum interviews scheduled at a breakneck pace and immigration-court hearings moved up. The…",
+      "body": "[KIND's Oct 2 report](https://supportkind.org/press-releases/u-s-agencies-fast-tracking-removal-orders-for-unaccompanied-children/) described a coordinated push to fast-track removals of unaccompanied children, with asylum interviews scheduled at a breakneck pace and immigration-court hearings moved up. The group says continuances are now granted only under exceptional circumstances.",
+      "url": "https://supportkind.org/press-releases/u-s-agencies-fast-tracking-removal-orders-for-unaccompanied-children/",
+      "icon": "📰",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CvdYG6yZykSEUJpWU7eV4j-1778-80.jpg"
+    },
+    {
+      "id": "57b1e96d-7ceb-4071-af26-708f970f10b0",
+      "kicker": "THE SHORTAGE PAYS",
+      "title": "Samsung forecasts ninefold profit jump as AI memory prices soar",
+      "category": "PC hardware",
+      "published_at": "2026-10-11T12:14:16-05:00",
+      "excerpt": "On October 8, Samsung guided to a third-quarter operating profit nearly nine times last year's, with memory chips expected to account for most of the jump. TrendForce expects NAND flash contract…",
+      "body": "On October 8, Samsung [guided to a third-quarter operating profit](https://www.techrepublic.com/article/news-samsung-ai-memory-profit-surge/) nearly nine times last year's, with memory chips expected to account for most of the jump. TrendForce expects NAND flash contract prices to rise 15 to 20 percent in the fourth quarter as enterprise SSD demand grows.",
+      "url": "https://www.techrepublic.com/article/news-samsung-ai-memory-profit-surge/",
+      "icon": "📰",
+      "image_url": "https://cdn.doolpa.com/news/46fa6431d173.jpg"
+    },
+    {
+      "id": "4e78bdc7-7975-45f4-bbde-290369fcddd9",
+      "kicker": "NEWS TO THEM",
+      "title": "Trump claims Russia-Ukraine energy ceasefire deal",
+      "category": "General news",
+      "published_at": "2026-10-11T10:50:18-05:00",
+      "excerpt": "President Donald Trump announced Sunday morning that Russia and Ukraine have agreed to an \"energy ceasefire,\" effective immediately. A Ukrainian official told CNN the announcement was news to Kyiv,…",
+      "body": "President Donald Trump [announced Sunday morning](https://www.cnn.com/2026/10/11/politics/trump-ukraine-russia-energy-ceasefire?cid=external-feeds_iluminar_meta) that Russia and Ukraine have agreed to an \"energy ceasefire,\" effective immediately. A Ukrainian official told CNN the announcement was news to Kyiv, saying, \"We just read it as you did.\"",
+      "url": "https://www.cnn.com/2026/10/11/politics/trump-ukraine-russia-energy-ceasefire?cid=external-feeds_iluminar_meta",
+      "icon": "📰",
+      "image_url": "https://static.nv.ua/shared/system/Article/posters/003/232/421/original/e9a4aa4a5ea338ea42c11f5fd1ce3387.jpg?q=85&stamp=20260204033851&w=900&f=webp"
+    },
     {
       "id": "b464a1ad-32f2-4995-8e2c-b7563d1964ff",
       "kicker": "NEW WEEK AT DG",
@@ -349,54 +385,6 @@
       "url": "https://www.lapost.com/content/canadian-poet-and-writer-anne-carson-wins-2026-nobel-prize-in-literature",
       "icon": "📰",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHuwAX1el_QYObOqE4FEyBSAt0OJQIIArVrQepf_kIvorEgicELe9_SIwuoOl0uiUvHKpX9jAXQtRw1prUKqcBgzH5SLffWKaj9EfluRbDLBIGRIeEFq8Y-BJPXO_jOvAM6_y_iFUYi4x1/w1200-h630-p-k-no-nu/Anne-Carson.jpg"
-    },
-    {
-      "id": "864e0866-188e-44ef-bc13-d9d62f88948f",
-      "kicker": "FIVE-DAY MANDATE",
-      "title": "SSA ends flexible work schedules, union files grievance",
-      "category": "Federal workforce",
-      "published_at": "2026-10-08T14:28:08-05:00",
-      "excerpt": "The Social Security Administration told employees Monday that all alternative work schedules end November 16, moving everyone to a five-day week, per Government Executive. AFGE's SSA General…",
-      "body": "The Social Security Administration told employees Monday that all alternative work schedules end November 16, moving everyone to a five-day week, [per Government Executive](https://www.govexec.com/workforce/2026/10/social-security-ends-flexible-work-schedules/416480/). AFGE's SSA General Committee filed a national grievance, arguing the move illegally repudiates a union contract that runs through October 2029.",
-      "url": "https://www.govexec.com/workforce/2026/10/social-security-ends-flexible-work-schedules/416480/",
-      "icon": "📰",
-      "image_url": "https://cdn.gobankingrates.com/wp-content/uploads/2019/03/Social-Security-Administration-Office-Building-in-the-United-States-shutterstock_186252827.jpg"
-    },
-    {
-      "id": "7d8ce7c6-a64c-462b-9b23-e52038be3d6f",
-      "kicker": "POWER PLAY",
-      "title": "$22.3B US-Korea power campus to feed South Texas data center",
-      "category": "Texas",
-      "published_at": "2026-10-08T12:23:03-05:00",
-      "excerpt": "Published Oct 8, 2026, 4:10 PM: The U.S. Department of Commerce and the Republic of Korea announced Sept. 30 they will jointly develop Project Star, a $22.3 billion energy campus in Encinal, Texas,…",
-      "body": "Published Oct 8, 2026, 4:10 PM: The U.S. Department of Commerce and the Republic of Korea announced Sept. 30 they will jointly develop Project Star, a $22.3 billion energy campus in Encinal, Texas, built to feed an adjacent data center directly and send any excess power to the Texas grid ([NextEra Energy](https://www.investor.nexteraenergy.com/news-and-events/news-releases/2026/09-30-2026-231920318)). The campus is designed as the model for Abbott's bring-your-own-generation rule for Texas data centers, with the plant serving the data center first and the grid only seeing the surplus.",
-      "url": "https://www.investor.nexteraenergy.com/news-and-events/news-releases/2026/09-30-2026-231920318",
-      "icon": "🤠",
-      "image_url": "https://www.texaselectricityratings.com/blog/wp-content/uploads/2026/07/Texas-data-center-energy-demand.jpg"
-    },
-    {
-      "id": "3fb4af25-38bf-4b6d-b817-8b5e639b6cc0",
-      "kicker": "LAST DAY",
-      "title": "Thymesia is 75% off on the PS Store",
-      "category": "Deals",
-      "published_at": "2026-10-08T10:56:08-05:00",
-      "excerpt": "Published Oct 8, 2026, 3:10 PM: Thymesia is down to $7.49 on the PS Store, and the deal ends today (PlayStation LifeStyle). Before you buy, check the PS Plus Extra and Premium catalog, where it is…",
-      "body": "Published Oct 8, 2026, 3:10 PM: Thymesia is down to $7.49 on the PS Store, and the deal ends today ([PlayStation LifeStyle](https://www.playstationlifestyle.net/2026/10/06/thymesia-ps-store-deal-october-2026/amp)). Before you buy, check the PS Plus Extra and Premium catalog, where it is already included.",
-      "url": "https://www.playstationlifestyle.net/2026/10/06/thymesia-ps-store-deal-october-2026/amp",
-      "icon": "🏷️",
-      "image_url": "https://www.team17.com/hubfs/Steam_KeyArt.jpg"
-    },
-    {
-      "id": "3b06bc22-8ef4-4b84-8d77-1f549d228a40",
-      "kicker": "RELATIVE MERITS",
-      "title": "Who got stronger depends on how you do the math",
-      "category": "Fitness",
-      "published_at": "2026-10-08T08:52:56-05:00",
-      "excerpt": "Published Oct 8, 2026, 2:05 PM: Forty-one experienced lifters followed the same supervised program for 12 weeks and built nearly identical muscle. Women's bench-press gains led 32.8% to 19.9%, but…",
-      "body": "Published Oct 8, 2026, 2:05 PM: Forty-one experienced lifters followed [the same supervised program for 12 weeks](https://www.mensjournal.com/health/men-and-women-did-the-same-strength-program-for-12-weeks-but-one-result-was-surprisingly-different) and built nearly identical muscle. Women's bench-press gains led 32.8% to 19.9%, but the gap disappeared in pounds.",
-      "url": "https://www.mensjournal.com/health/men-and-women-did-the-same-strength-program-for-12-weeks-but-one-result-was-surprisingly-different",
-      "icon": "📰",
-      "image_url": "https://pipedprx.thenop.io/vi/p7FZtNesMjM/hq720.jpg?host=i.ytimg.com&rs=AOn4CLAmwBk8B7xijdlqoXCJxJN8KudDsQ&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D"
     }
   ]
 }
