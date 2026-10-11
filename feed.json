@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T02:41:09-05:00",
+  "generated_at": "2026-10-11T04:41:02-05:00",
   "posts": [
+    {
+      "id": "a3506355-5260-4d59-810a-3aaa17ffad04",
+      "kicker": "FLAGSHIP ON THE BLOCK",
+      "title": "Nvidia reportedly ends RTX 5090 output, shifts GB202 to RTX Pro",
+      "category": "PC hardware",
+      "published_at": "2026-10-11T04:26:09-05:00",
+      "excerpt": "Published Oct 11, 2026, 11:30 AM. The report behind the chatter traces the claim to hardware leakers MEGAsizeGPU and hongxing2020 and an alleged factory notice saying Nvidia will stop building RTX…",
+      "body": "Published Oct 11, 2026, 11:30 AM. The [report behind the chatter](https://tech-insider.org/nvidia-ends-rtx-5090-production-rtx-pro-gb202-2026/) traces the claim to hardware leakers MEGAsizeGPU and hongxing2020 and an alleged factory notice saying Nvidia will stop building RTX 5090 cards and reserve GB202 silicon for RTX Pro, and Nvidia has issued no confirmation. Verified: Newegg, Amazon, Best Buy, and B&H show no first-party US RTX 5090 stock, with marketplace floors near $7,200 on a card that launched at $1,999.",
+      "url": "https://tech-insider.org/nvidia-ends-rtx-5090-production-rtx-pro-gb202-2026/",
+      "icon": "📰",
+      "image_url": "https://cdn.brief.news/images/stories/598d5096719a6d6515c018841b8a9c81906920bb07c01c5bcd4720b09866426095a1f01f412d00693b4de6798f658386995092a26bfa6524dfb9992fd3eee950.png"
+    },
     {
       "id": "6c7d03e5-c601-434d-8ba5-f00f52977aed",
       "kicker": "OPEN AGENT GOES ENTERPRISE",
@@ -385,30 +397,6 @@
       "url": "https://www.storagereview.com/news/nvidia-rtx-spark-pre-orders-n1x-laptop-desktop-tdp-mxc-dgx-station-for-windows",
       "icon": "📰",
       "image_url": "https://www.colombiacomex.com.co/wp-content/uploads/2026/06/ProArt-N1x-KV-BW-622x420.jpg"
-    },
-    {
-      "id": "68542c52-b126-40a8-9ba7-bd89086e179a",
-      "kicker": "A LATE ARRIVAL",
-      "title": "Isaias becomes season's first Atlantic hurricane",
-      "category": "General news",
-      "published_at": "2026-10-08T04:26:38-05:00",
-      "excerpt": "Isaias is carrying 75-mph winds and holding a course for landfall between the Mississippi coast and the Florida Panhandle late Friday or early Saturday (NPR/AP). The timing nearly ties the 1905…",
-      "body": "Isaias is carrying 75-mph winds and holding a course for landfall between the Mississippi coast and the Florida Panhandle late Friday or early Saturday ([NPR/AP](https://www.wkyufm.org/news/2026-10-08/isaias-strengthens-into-the-first-hurricane-of-the-atlantic-season)). The timing nearly ties the 1905 record for the latest-forming first hurricane of a season.",
-      "url": "https://www.wkyufm.org/news/2026-10-08/isaias-strengthens-into-the-first-hurricane-of-the-atlantic-season",
-      "icon": "🌀",
-      "image_url": "https://www.greenworldwide.com/wp-content/uploads/2020/08/Port-of-Virginia-Closures-and-More-As-Hurricane-Isaias-%E2%80%AFMakes-Landfall.jpg"
-    },
-    {
-      "id": "3ef1351e-edcb-4c89-86f4-da3031e1dc46",
-      "kicker": "CHEAP CLAUDE",
-      "title": "Claude Haiku 5.5 launches with 90% API price cut",
-      "category": "AI",
-      "published_at": "2026-10-08T02:50:39-05:00",
-      "excerpt": "Anthropic released Claude Haiku 5.5 on October 7 at 90% below Haiku 4.5, matching GPT-6 Luna's price point (VentureBeat). The catch is the tier line at 100,000 prompt tokens, above which the discount…",
-      "body": "Anthropic released Claude Haiku 5.5 on October 7 at 90% below Haiku 4.5, matching GPT-6 Luna's price point ([VentureBeat](https://venturebeat.com/technology/anthropic-launches-claude-haiku-5-5-with-90-api-price-reduction-matching-gpt-6-luna)). The catch is the tier line at 100,000 prompt tokens, above which the discount narrows sharply.",
-      "url": "https://venturebeat.com/technology/anthropic-launches-claude-haiku-5-5-with-90-api-price-reduction-matching-gpt-6-luna",
-      "icon": "🤖",
-      "image_url": "https://www.findarticles.com/wp-content/uploads/2025/10/image_1760604384_1.jpeg"
     }
   ]
 }
