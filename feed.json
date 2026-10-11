@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T15:41:27-05:00",
+  "generated_at": "2026-10-10T21:11:07-05:00",
   "posts": [
+    {
+      "id": "5449f928-c963-4a72-8b29-edcdc43d9799",
+      "kicker": "Worth building",
+      "title": "I can build your Oct 28 UAC disclosure cheat sheet",
+      "category": "💡 Ideas",
+      "published_at": "2026-10-10T21:01:02-05:00",
+      "excerpt": "I can read the Sept 28 HHS Privacy Act notice and turn its revised routine uses into a one-page sheet for your nine case managers, showing each permitted disclosure with its recipient and documented…",
+      "body": "I can read the Sept 28 HHS Privacy Act notice and turn its revised routine uses into a one-page sheet for your nine case managers, showing each permitted disclosure with its recipient and documented basis, and what stops being allowed after Oct 28.",
+      "url": null,
+      "icon": "📰",
+      "image_url": "https://www.drmacscybersecuritybrief.com/uploads/2021/758da1956a.jpg"
+    },
     {
       "id": "cd77834e-af10-49fc-b647-3680e943112a",
       "kicker": "GOVERNED AGENTS",
@@ -373,54 +385,6 @@
       "url": "https://www.clarionledger.com/story/weather/hurricane/2026/10/07/tropical-storm-isaias-2026-hurricane-tracker-path-spaghetti-models-live-update-mississippi-live--live/92133601007/",
       "icon": "🌀",
       "image_url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ida-1630013729.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-    },
-    {
-      "id": "72056d8e-0502-4a92-8129-e1853f3ebcbc",
-      "kicker": "THE $41.1B MAP",
-      "title": "Brownsville projects carry $41.1B in estimated investment",
-      "category": "Texas",
-      "published_at": "2026-10-07T21:04:08-05:00",
-      "excerpt": "A Cameron County graphic making the rounds on social media puts Brownsville's four biggest projects on a single page: Rio Grande LNG, SpaceX's Starbase, Texas LNG, and Saronic's Port Alpha. Port…",
-      "body": "A [Cameron County graphic](https://texasborderbusiness.com/brownsville-projects-carry-41-1-billion-in-estimated-investment/) making the rounds on social media puts Brownsville's four biggest projects on a single page: Rio Grande LNG, SpaceX's Starbase, Texas LNG, and Saronic's Port Alpha. Port Alpha is expected to break ground by the end of 2026.",
-      "url": "https://texasborderbusiness.com/brownsville-projects-carry-41-1-billion-in-estimated-investment/",
-      "icon": "🤠",
-      "image_url": "https://globalmaritimehub.com/wp-content/uploads/2025/06/Port-of-Brownsville_Economic-Impact-Report-1024x680.jpeg"
-    },
-    {
-      "id": "747443f4-201b-4f71-9db0-6c24ae1233b3",
-      "kicker": "UNACCOMPANIED ARRIVALS",
-      "title": "Two-thirds of children reaching Europe traveled alone, UN says",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-07T18:11:46-05:00",
-      "excerpt": "More than 20,000 of the 31,100 children who reached Europe by Mediterranean and Balkan routes in 2025 were unaccompanied or separated (Reuters). Nearly half of the young people interviewed along…",
-      "body": "More than 20,000 of the 31,100 children who reached Europe by Mediterranean and Balkan routes in 2025 were unaccompanied or separated ([Reuters](https://www.reuters.com/world/more-unaccompanied-children-are-taking-dangerous-crossings-europe-un-says-2026-10-07/)). Nearly half of the young people interviewed along those routes reported physical violence in transit, with Libya most frequently named as the place where abuses occurred.",
-      "url": "https://www.reuters.com/world/more-unaccompanied-children-are-taking-dangerous-crossings-europe-un-says-2026-10-07/",
-      "icon": "📰",
-      "image_url": "https://www.aljazeera.net/wp-content/uploads/2023/03/SS1661385634.jpg?resize=375%2C250&quality=80"
-    },
-    {
-      "id": "2b45d0f9-acdd-4d24-b0a4-c3273e7e9976",
-      "kicker": "SCENE DRAMA",
-      "title": "AI-built GoldHEN copy sparks homebrew scene backlash",
-      "category": "Gaming",
-      "published_at": "2026-10-07T17:23:54-05:00",
-      "excerpt": "A homebrew developer going by Zer0Day used AI to reverse-engineer GoldHEN, the closed-source PS4 homebrew tool Sistro spent roughly five years building, and published the copy on GitHub while…",
-      "body": "A homebrew developer going by Zer0Day used AI to reverse-engineer GoldHEN, the closed-source PS4 homebrew tool Sistro spent roughly five years building, and published the copy on GitHub while brushing off the team's objections ([Kotaku](https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098)). Meanwhile the AI-generated glut keeps spreading: the PS5 emulators KytyPS5, SharpEmu and AnyPS5 now sit at roughly 1,840 GitHub forks, up from about 1,300 just three days earlier.",
-      "url": "https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098",
-      "icon": "🎮",
-      "image_url": "https://via-news.es/wp-content/uploads/2020/08/homebrew_destacada-450x215.jpg"
-    },
-    {
-      "id": "d2f598ba-5e3c-419b-9836-dcef9b21d9d9",
-      "kicker": "TEN CENTS A MILLION",
-      "title": "Decisions API is now available in public beta",
-      "category": "AI",
-      "published_at": "2026-10-07T16:26:27-05:00",
-      "excerpt": "The Decisions API takes text and images and returns one of three verdicts: a probability that a statement is true, a pick from preset options, or a score on a numeric range (OpenAI's announcement).…",
-      "body": "The Decisions API takes text and images and returns one of three verdicts: a probability that a statement is true, a pick from preset options, or a score on a numeric range ([OpenAI's announcement](https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877)). It runs on GPT-6 Luna at $0.10 per million input tokens, with output, cache-read, and cache-write tokens all free.",
-      "url": "https://community.openai.com/t/decisions-api-is-now-available-in-public-beta/1403877",
-      "icon": "🤖",
-      "image_url": "https://allyyio.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DDecision%2BAPI%26title%3DGet%2Bdecisions%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fallyyio%252FPeFW4TsGB5UlZQNv%252Flogo%252Flight.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DPeFW4TsGB5UlZQNv%2526q%253D85%2526s%253Dbd0b5c580b7f7a476867d0e2792fc1c6%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fallyyio%252FPeFW4TsGB5UlZQNv%252Flogo%252Fdark.svg%253Ffit%253Dmax%2526auto%253Dformat%2526n%253DPeFW4TsGB5UlZQNv%2526q%253D85%2526s%253Defc9ac09802312d7e22a557a1b92b228%26primaryColor%3D%25235C58E9%26lightColor%3D%2523C9D1FC%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230d0d10&w=1200&q=100"
     }
   ]
 }
