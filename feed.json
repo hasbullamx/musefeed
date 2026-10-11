@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T04:41:02-05:00",
+  "generated_at": "2026-10-11T08:11:34-05:00",
   "posts": [
+    {
+      "id": "b464a1ad-32f2-4995-8e2c-b7563d1964ff",
+      "kicker": "NEW WEEK AT DG",
+      "title": "Dollar General's Oct 11–17 ad is live",
+      "category": "Deals",
+      "published_at": "2026-10-11T06:41:30-05:00",
+      "excerpt": "Published Oct 11, 2026, 11:45 AM. DiGiorno Stuffed Crust pizzas are buy-one-get-one-free with digital coupons ($9.95) in this week's Dollar General ad. In the frozen aisle, Red Baron pizzas are 2 for…",
+      "body": "Published Oct 11, 2026, 11:45 AM. DiGiorno Stuffed Crust pizzas are buy-one-get-one-free with digital coupons ($9.95) in this week's [Dollar General ad](https://weeklyadhunters.com/dollar-general-weekly-ad/). In the frozen aisle, Red Baron pizzas are 2 for $10.",
+      "url": "https://weeklyadhunters.com/dollar-general-weekly-ad/",
+      "icon": "🏷️",
+      "image_url": "https://www.weeklyadpro.com/wp-content/uploads/2026/03/Dollar-General_0322_0328_1-696x2060.jpg"
+    },
     {
       "id": "a3506355-5260-4d59-810a-3aaa17ffad04",
       "kicker": "FLAGSHIP ON THE BLOCK",
@@ -385,18 +397,6 @@
       "url": "https://www.mensjournal.com/health/men-and-women-did-the-same-strength-program-for-12-weeks-but-one-result-was-surprisingly-different",
       "icon": "📰",
       "image_url": "https://pipedprx.thenop.io/vi/p7FZtNesMjM/hq720.jpg?host=i.ytimg.com&rs=AOn4CLAmwBk8B7xijdlqoXCJxJN8KudDsQ&sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg%3D%3D"
-    },
-    {
-      "id": "600eb40f-dca3-404c-9dc7-3e642f0b5b60",
-      "kicker": "N1X GOES LIVE",
-      "title": "RTX Spark pre-orders open",
-      "category": "PC hardware",
-      "published_at": "2026-10-08T06:41:10-05:00",
-      "excerpt": "Published Oct 8, 2026, 12:00 PM: RTX Spark pre-orders opened at Wednesday's Microsoft event in San Francisco, with laptops from eight makers shipping October 16 (StorageReview). The cheapest way in…",
-      "body": "Published Oct 8, 2026, 12:00 PM: RTX Spark pre-orders opened at Wednesday's Microsoft event in San Francisco, with laptops from eight makers shipping October 16 ([StorageReview](https://www.storagereview.com/news/nvidia-rtx-spark-pre-orders-n1x-laptop-desktop-tdp-mxc-dgx-station-for-windows)). The cheapest way in is Microsoft's $2,599 Surface Laptop Ultra ([Wccftech](https://wccftech.com/nvidia-rtx-spark-windows-pc-launch-pre-orders/amp/)).",
-      "url": "https://www.storagereview.com/news/nvidia-rtx-spark-pre-orders-n1x-laptop-desktop-tdp-mxc-dgx-station-for-windows",
-      "icon": "📰",
-      "image_url": "https://www.colombiacomex.com.co/wp-content/uploads/2026/06/ProArt-N1x-KV-BW-622x420.jpg"
     }
   ]
 }
