@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T21:41:16-05:00",
+  "generated_at": "2026-10-11T02:41:09-05:00",
   "posts": [
+    {
+      "id": "6c7d03e5-c601-434d-8ba5-f00f52977aed",
+      "kicker": "OPEN AGENT GOES ENTERPRISE",
+      "title": "Nous raises $90M to bring open-source Hermes agents to enterprises",
+      "category": "AI",
+      "published_at": "2026-10-11T02:32:59-05:00",
+      "excerpt": "Hermes for Businesses adds private or on-premise deployment, single sign-on, audit and per-user spending caps to the open-source agent, which stays MIT-licensed. Nous confirmed the $90 million Series…",
+      "body": "Hermes for Businesses adds [private or on-premise deployment, single sign-on, audit and per-user spending caps](https://raziel.news/en/2026/10/nous-research-1-5-billion-hermes-for-businesses/) to the open-source agent, which stays MIT-licensed. Nous confirmed the [$90 million Series B](https://theaiinsider.tech/2026/10/08/nous-research-secures-90m-series-b-at-1-5b-valuation-to-bring-hermes-ai-agents-to-enterprises/) on Oct 7, led by Robot Ventures.",
+      "url": "https://raziel.news/en/2026/10/nous-research-1-5-billion-hermes-for-businesses/",
+      "icon": "🤖",
+      "image_url": "https://uicolours.com/og-images/hermesagent-001.jpg"
+    },
+    {
+      "id": "c039ec2e-2ca5-482a-8080-fbae6ed0170d",
+      "kicker": "NO PC, NO ROMS",
+      "title": "Jailbroken PS5s can now dump PS2 discs straight from the drive",
+      "category": "PS5 Homebrew",
+      "published_at": "2026-10-11T00:19:43-05:00",
+      "excerpt": "PS5SX2 2.01 lets a jailbroken PS5 read a PS2 disc in its own drive, dump it to the console SSD or an external HDD, and launch the game, with no PC ripping or downloaded ROMs. The catch is the drive…",
+      "body": "[PS5SX2 2.01](https://thedailygame.news/story/2026-10-10-ps5sx2-emulator-update-lets-jailbroken-ps5s-read-and-dump-ps2-discs-dire--5fc55541) lets a jailbroken PS5 read a PS2 disc in its own drive, dump it to the console SSD or an external HDD, and launch the game, with no PC ripping or downloaded ROMs. The catch is the drive itself: it reads Blu-rays and DVDs but not CDs, so blue-tinted CD-format PS2 discs and all PS1 discs stay unreadable.",
+      "url": "https://thedailygame.news/story/2026-10-10-ps5sx2-emulator-update-lets-jailbroken-ps5s-read-and-dump-ps2-discs-dire--5fc55541",
+      "icon": "🎮",
+      "image_url": "https://www.androidheadlines.com/wp-content/uploads/2026/09/AH-PS5.webp"
+    },
+    {
+      "id": "a73346e2-420e-4a86-bf68-c194b1e3874f",
+      "kicker": "PAID TO LEAVE",
+      "title": "DHS offers migrant children $3,000 for voluntary departure",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-10T22:23:21-05:00",
+      "excerpt": "Bloomberg Law reported October 9 that ICE attorneys and some immigration judges are offering migrant children as young as 5 a $3,000 incentive to take voluntary departure, up from a $2,500 offer…",
+      "body": "[Bloomberg Law reported October 9](https://news.bloomberglaw.com/us-law-week/dhs-offers-migrant-children-3-000-to-voluntarily-depart-us) that ICE attorneys and some immigration judges are offering migrant children as young as 5 a $3,000 incentive to take voluntary departure, up from a $2,500 offer limited to teens 14 and older. Legal aid groups call it coercion: some children are asked to decide on the spot, at times without a lawyer, waiving asylum or other relief for the payment.",
+      "url": "https://news.bloomberglaw.com/us-law-week/dhs-offers-migrant-children-3-000-to-voluntarily-depart-us",
+      "icon": "📰",
+      "image_url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/D3V52EWVBFC4BCTC75YNI3WXDA.jpg?auth=8a0de67dfb6e1e24b9e79a9bc6c5819c24581829e6e51ea3dd441de44ca9faf7&quality=80&width=830"
+    },
     {
       "id": "1cbd8e6a-9407-4aa5-badc-cec787f47b85",
       "kicker": "TONIGHT ONLY",
@@ -373,30 +409,6 @@
       "url": "https://venturebeat.com/technology/anthropic-launches-claude-haiku-5-5-with-90-api-price-reduction-matching-gpt-6-luna",
       "icon": "🤖",
       "image_url": "https://www.findarticles.com/wp-content/uploads/2025/10/image_1760604384_1.jpeg"
-    },
-    {
-      "id": "7bb1e2bf-c994-4785-bd06-4bc558a2300d",
-      "kicker": "FREE WEEK",
-      "title": "Arc Raiders free to play starting today, half off to keep",
-      "category": "Gaming",
-      "published_at": "2026-10-08T00:23:04-05:00",
-      "excerpt": "Embark Studios is running a free full-game trial of Arc Raiders from October 8 through October 12. The full game is also down to $19.99 on the PS Store through October 22.",
-      "body": "Embark Studios is running [a free full-game trial of Arc Raiders](https://www.playstationlifestyle.net/2026/10/07/ps5-action-game-arc-raiders-free-play-week/amp) from October 8 through October 12. The full game is also down to $19.99 on the PS Store through October 22.",
-      "url": "https://www.playstationlifestyle.net/2026/10/07/ps5-action-game-arc-raiders-free-play-week/amp",
-      "icon": "🎮",
-      "image_url": "https://www.videogamer.com/wp-content/uploads/Brian-Merrygold--1536x1024.jpg"
-    },
-    {
-      "id": "903dd1af-d58d-4bd9-8e4e-74404897e386",
-      "kicker": "GULF HURRICANE WATCH",
-      "title": "Isaias to reach Category 2 before Gulf Coast landfall Friday",
-      "category": "General news",
-      "published_at": "2026-10-07T22:25:52-05:00",
-      "excerpt": "The National Hurricane Center expects Tropical Storm Isaias to make landfall on the northern Gulf Coast late Friday or early Saturday as a Category 2 hurricane with 110-mph winds. A hurricane watch…",
-      "body": "The National Hurricane Center expects Tropical Storm Isaias to make landfall on the northern Gulf Coast late Friday or early Saturday as a [Category 2 hurricane with 110-mph winds](https://www.clarionledger.com/story/weather/hurricane/2026/10/07/tropical-storm-isaias-2026-hurricane-tracker-path-spaghetti-models-live-update-mississippi-live--live/92133601007/). A hurricane watch is in effect from Bay St. Louis, Mississippi, to Indian Pass, Florida.",
-      "url": "https://www.clarionledger.com/story/weather/hurricane/2026/10/07/tropical-storm-isaias-2026-hurricane-tracker-path-spaghetti-models-live-update-mississippi-live--live/92133601007/",
-      "icon": "🌀",
-      "image_url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ida-1630013729.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
     }
   ]
 }
