@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T11:41:45-05:00",
+  "generated_at": "2026-10-12T18:06:41-05:00",
   "posts": [
+    {
+      "id": "6ab87525-106d-452d-a84d-c92f1cf731a0",
+      "kicker": "REPORTED NOT FILED",
+      "title": "Anthropic holds pre-IPO investor day Wednesday, S-1 still not public",
+      "category": "Business",
+      "published_at": "2026-10-12T16:27:32-05:00",
+      "excerpt": "Anthropic is set to meet prospective investors at its San Francisco headquarters on Wednesday, October 14, per Bloomberg's October 1 reporting. A direct SEC EDGAR check on October 9 found no public…",
+      "body": "Anthropic is set to meet prospective investors at its San Francisco headquarters on Wednesday, October 14, per Bloomberg's October 1 reporting. A direct SEC EDGAR check on October 9 found no public S-1 from Anthropic, PBC, so the November timeline is still reported rather than filed.",
+      "url": null,
+      "icon": "📰",
+      "image_url": "https://cdn.thebittimes.com/vimedia/w800/2026/06/02/ec8ff3ff3a44eec9f5adf8a7503afbb8.webp"
+    },
+    {
+      "id": "0a4d8689-0115-449d-9bba-12b88327e71b",
+      "kicker": "THE LAST NOBEL",
+      "title": "Two Americans win Nobel economics prize for boom-bust research",
+      "category": "General news",
+      "published_at": "2026-10-12T14:30:03-05:00",
+      "excerpt": "Robert E. Hall of Stanford and Michael Woodford of Columbia won the 2026 Nobel economics prize for the \"microeconomic foundations of macroeconomic stabilisation.\" Their work showed that boom-bust…",
+      "body": "Robert E. Hall of Stanford and Michael Woodford of Columbia [won the 2026 Nobel economics prize](https://www.khsu.org/2026-10-12/two-americans-win-nobel-prize-in-economics-for-work-on-boom-bust-cycles) for the \"microeconomic foundations of macroeconomic stabilisation.\" Their work showed that boom-bust cycles run on what households and firms expect, making a central bank's plain talk about its plans a stabilisation tool in itself.",
+      "url": "https://www.khsu.org/2026-10-12/two-americans-win-nobel-prize-in-economics-for-work-on-boom-bust-cycles",
+      "icon": "📰",
+      "image_url": "https://images.gmanews.tv/webpics/2020/10/nobel_economics_2020_10_12_20_27_08.jpg"
+    },
+    {
+      "id": "f9a1b74b-5211-4745-a148-5706c7f4115a",
+      "kicker": "LAPTOP DEAL",
+      "title": "HP OMEN 15 RTX 5060 laptop hits $1,149, its lowest price",
+      "category": "PC hardware",
+      "published_at": "2026-10-12T13:50:18-05:00",
+      "excerpt": "Published Oct 12, 2026, 1:30 PM: Walmart has the HyperX OMEN 15 gaming laptop (RTX 5060, Core Ultra 7 255H, 15.6-inch 2K 165Hz display, 16GB RAM, 1TB SSD) at $1,149 shipped, per 9to5Toys. The site…",
+      "body": "Published Oct 12, 2026, 1:30 PM: Walmart has the HyperX OMEN 15 gaming laptop (RTX 5060, Core Ultra 7 255H, 15.6-inch 2K 165Hz display, 16GB RAM, 1TB SSD) at $1,149 shipped, per [9to5Toys](https://9to5toys.com/2026/10/12/save-750-on-hp-rtx-5060-omen-15-gaming-laptop-while-down-to-lowest-price/). The site calls it the lowest price it has tracked for this notebook, $100 below the fall Prime Day low it logged last week.",
+      "url": "https://9to5toys.com/2026/10/12/save-750-on-hp-rtx-5060-omen-15-gaming-laptop-while-down-to-lowest-price/",
+      "icon": "🏷️",
+      "image_url": "https://cdn1.smartprix.com/rx-iyhcW3aOc-w1200-h1200/hp-omen-15-ek1016tx.jpg"
+    },
     {
       "id": "79541dfb-bdd1-40a5-bed8-3eb8262612ea",
       "kicker": "PS3 DISCS NEXT",
@@ -313,42 +349,6 @@
       "url": "https://www.md.co.uk/blog/what-to-eat-first-48-hours-after-wisdom-tooth-surgery",
       "icon": "📰",
       "image_url": "https://framerusercontent.com/images/rmcgqabJKnjaYvvpOanYHLmyjmI.png"
-    },
-    {
-      "id": "ddfd9214-26e7-4d38-9464-71d849ed3ec8",
-      "kicker": "RETURN TO SENDER",
-      "title": "Recovered Starship Ship 40 pulls into the Port of Brownsville",
-      "category": "Texas",
-      "published_at": "2026-10-09T16:31:05-05:00",
-      "excerpt": "The 171-foot stage splashed down upright and intact in the Indian Ocean in July, the first Starship upper stage to survive a flight without exploding or sinking. Saltwater exposure likely ended its…",
-      "body": "The 171-foot stage [splashed down upright and intact in the Indian Ocean](https://www.caller.com/story/news/local/texas/2026/10/09/spacex-starship-ship-40-recovered-starbase-port/92167239007/) in July, the first Starship upper stage to survive a flight without exploding or sinking. Saltwater exposure likely ended its flying days, which is why SpaceX wants the stage back as a teardown to improve future vehicles.",
-      "url": "https://www.caller.com/story/news/local/texas/2026/10/09/spacex-starship-ship-40-recovered-starbase-port/92167239007/",
-      "icon": "🤠",
-      "image_url": "https://www.engadget.com/img/gallery/spacexs-recovered-starship-40-will-take-months-to-get-back-to-texas/intro-1788536157.jpg"
-    },
-    {
-      "id": "80896122-7f80-42b6-9f45-aefd5827f4a1",
-      "kicker": "LANDFALL TONIGHT",
-      "title": "Isaias reaches Category 3 ahead of tonight's Gulf Coast landfall",
-      "category": "General news",
-      "published_at": "2026-10-09T14:32:09-05:00",
-      "excerpt": "A Hurricane Warning is in effect from Ocean Springs, Mississippi, to the Bay/Gulf County line in Florida, and a Tornado Watch covers portions of Alabama, Florida and Georgia until 9 PM (People). The…",
-      "body": "A Hurricane Warning is in effect from Ocean Springs, Mississippi, to the Bay/Gulf County line in Florida, and a Tornado Watch covers portions of Alabama, Florida and Georgia until 9 PM ([People](https://people.com/hurricane-isaias-category-3-hours-before-making-landfall-gulf-coast-12166534)). The NHC expects six to nine feet of storm surge from the Alabama-Florida border to Grayton Beach and four to eight inches of rain across southern Alabama and the Florida Panhandle, with localized totals up to 15 inches.",
-      "url": "https://people.com/hurricane-isaias-category-3-hours-before-making-landfall-gulf-coast-12166534",
-      "icon": "🌀",
-      "image_url": "https://i0.wp.com/enkiops.org/wp-content/uploads/2025/10/meso2_true_color.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": "50601105-efc9-49c1-a9d6-bc17843ab89d",
-      "kicker": "SLIGHT STORAGE WIN",
-      "title": "Lexar 1TB NM790 SSD at its best price in four months: $188.49",
-      "category": "PC hardware",
-      "published_at": "2026-10-09T12:17:03-05:00",
-      "excerpt": "At $188.49 on Amazon, the Lexar 1TB NM790 with heatsink just hit its lowest price since April. For PS5 storage expansion, the heatsink variant is the one to buy, since passive cooling does the heavy…",
-      "body": "At $188.49 on Amazon, the Lexar 1TB NM790 with heatsink just hit its lowest price since April. For PS5 storage expansion, the heatsink variant is the one to buy, since passive cooling does the heavy lifting in that cramped slot.",
-      "url": null,
-      "icon": "📰",
-      "image_url": "https://www.alternate.nl/p/1200x630/4/3/Lexar_NM790_1TB_SSD@@1916734_4.jpg"
     }
   ]
 }
