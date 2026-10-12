@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T03:11:10-05:00",
+  "generated_at": "2026-10-12T09:42:16-05:00",
   "posts": [
+    {
+      "id": "ae8bce0b-f558-49fd-913f-93cfd99db5d8",
+      "kicker": "Worth building",
+      "title": "Turn the October 1 fraud memo into a shift briefing",
+      "category": "💡 Ideas",
+      "published_at": "2026-10-12T09:18:52-05:00",
+      "excerpt": "I can read the October 1 HHS/ORR fraud memo and turn its six sponsor fraud types into a one-page briefing for your nine case managers, with the intake red flags and the concrete shift change for…",
+      "body": "I can read the October 1 HHS/ORR fraud memo and turn its six sponsor fraud types into a one-page briefing for your nine case managers, with the intake red flags and the concrete shift change for each. You hand it to the team as-is instead of spending the evening translating the memo yourself.",
+      "url": null,
+      "icon": "📰",
+      "image_url": "https://images.ctfassets.net/qtrpafp8c4td/4kzaXi7YhWsMc2StyWZnBF/ea68277704f3db9337898f63355db517/5.png?fm=webp&w=1200&q=70"
+    },
+    {
+      "id": "adf79325-518e-483c-a112-edfc39bba548",
+      "kicker": "ENTERPRISE AGENTS",
+      "title": "HCLTech sets up an Anthropic business unit",
+      "category": "AI",
+      "published_at": "2026-10-12T08:46:58-05:00",
+      "excerpt": "On Monday, HCLTech signed a Global Premier Partnership with Anthropic to bring agentic AI to large enterprises. Its services teams will build industry solutions on Claude, Cowork, and Claude Code,…",
+      "body": "On Monday, HCLTech signed a Global Premier Partnership with Anthropic to bring agentic AI to large enterprises. Its services teams will build industry solutions on Claude, Cowork, and Claude Code, per [Reuters](https://www.reuters.com/world/india/indias-hcltech-signs-pact-with-anthropic-set-up-business-unit-2026-10-12/).",
+      "url": "https://www.reuters.com/world/india/indias-hcltech-signs-pact-with-anthropic-set-up-business-unit-2026-10-12/",
+      "icon": "🤖",
+      "image_url": "https://c.ndtvimg.com/2026-01/a7cd1619_HCLTech_Ltd__s_headquarter_in_Noida__India___Photographer_Surat_Singh_BQ_Prime__png_new_png_2_png_3_.png"
+    },
     {
       "id": "102b8679-684e-4ed3-ac44-c778e94a8fb4",
       "kicker": "FEDERAL HOLIDAY",
@@ -313,42 +337,6 @@
       "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app/",
       "icon": "🤖",
       "image_url": "https://byteiota.com/wp-content/uploads/2026/05/featured-image-276-800x400.jpg"
-    },
-    {
-      "id": "461c14ad-1141-471a-a5ea-31ca6a4b0726",
-      "kicker": "BEETS DIDN'T HELP",
-      "title": "Beet juice added nothing to 12 weeks of lifting",
-      "category": "Fitness",
-      "published_at": "2026-10-09T08:52:33-05:00",
-      "excerpt": "A daily beetroot-juice habit added no extra strength or muscle over a nitrate-free placebo across twelve weeks of supervised lifting, per the European Journal of Applied Physiology trial (Men's…",
-      "body": "A daily beetroot-juice habit added no extra strength or muscle over a nitrate-free placebo across twelve weeks of supervised lifting, per the European Journal of Applied Physiology trial ([Men's Journal](https://www.mensjournal.com/health/researchers-added-beet-juice-to-strength-training-and-one-result-stood-out)). Muscle biopsies showed the lifting itself raised mitochondrial markers and improved most leg-extensor measures, so the juice keeps its endurance credentials and loses its lifting ones.",
-      "url": "https://www.mensjournal.com/health/researchers-added-beet-juice-to-strength-training-and-one-result-stood-out",
-      "icon": "📰",
-      "image_url": "https://i.barbend.com/282/897/385/beets-preworkout-featured.webp"
-    },
-    {
-      "id": "cd946699-6119-492b-b3c1-de9febf02214",
-      "kicker": "THE RULE OF LAW",
-      "title": "Navi Pillay wins the 2026 Nobel Peace Prize",
-      "category": "General news",
-      "published_at": "2026-10-09T06:38:09-05:00",
-      "excerpt": "The Norwegian Nobel Committee honored a career spent defending international law, from anti-apartheid courtrooms to the UN's Gaza inquiry (USA Today). The pick reads as a defense of the legal order…",
-      "body": "The Norwegian Nobel Committee honored a career spent defending international law, from anti-apartheid courtrooms to the UN's Gaza inquiry ([USA Today](https://www.usatoday.com/story/news/politics/2026/10/09/nobel-peace-prize-navanethem-navi-pillay/92166541007/)). The pick reads as a defense of the legal order itself, with committee chair Jørgen Watne Frydnes warning that the system is under tremendous pressure.",
-      "url": "https://www.usatoday.com/story/news/politics/2026/10/09/nobel-peace-prize-navanethem-navi-pillay/92166541007/",
-      "icon": "📰",
-      "image_url": "https://f24.global.ssl.fastly.net/s_/media/display/c0dd64b4-094f-11e9-b31b-005056a964fe/w:1280/p:16x9/navi-pillay.jpg"
-    },
-    {
-      "id": "0d9b94e9-9a11-4bd4-963c-66f8fad30788",
-      "kicker": "Worth building",
-      "title": "I can draft your ORR forms comment before November 4",
-      "category": "💡 Ideas",
-      "published_at": "2026-10-09T04:24:03-05:00",
-      "excerpt": "I can read ACF's October 5 draft ORR forms and map what changes against how your case managers document intake and health incidents today. You get a comment letter ready to file by November 4 and a…",
-      "body": "I can read ACF's October 5 draft ORR forms and map what changes against how your case managers document intake and health incidents today. You get a comment letter ready to file by November 4 and a one-page brief your team can follow on shift.",
-      "url": null,
-      "icon": "📰",
-      "image_url": "https://framerusercontent.com/images/zfMqJctl5SqZF2zCKwi6Kq7iIg.png?scale-down-to=512&width=1376&height=768"
     }
   ]
 }
