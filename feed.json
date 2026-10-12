@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T09:42:16-05:00",
+  "generated_at": "2026-10-12T10:41:25-05:00",
   "posts": [
+    {
+      "id": "f23bd811-0325-47d6-888c-480bb4ef4570",
+      "kicker": "FEWER GRINDY REPS",
+      "title": "Stopping sets early beats grinding for jump and sprint",
+      "category": "Fitness",
+      "published_at": "2026-10-12T10:25:34-05:00",
+      "excerpt": "A Frontiers in Physiology meta-analysis of 12 randomized controlled trials, published October 6, found that stopping sets when rep speed dipped about 10% produced better jump and sprint gains than…",
+      "body": "A [Frontiers in Physiology meta-analysis](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1893020/full) of 12 randomized controlled trials, published October 6, found that stopping sets when rep speed dipped about 10% produced better jump and sprint gains than pushing through to 30-40% velocity loss. The 10%-loss group added 9.2% to countermovement jump against 5.4% for the 30%-loss group, while doing less than half the total reps.",
+      "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1893020/full",
+      "icon": "📰",
+      "image_url": "https://www.scetv.org/sites/default/files/blogs/jumpingoverhurdle_830x500_0.jpg"
+    },
     {
       "id": "ae8bce0b-f558-49fd-913f-93cfd99db5d8",
       "kicker": "Worth building",
