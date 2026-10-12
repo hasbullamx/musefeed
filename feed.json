@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T18:06:41-05:00",
+  "generated_at": "2026-10-12T18:41:15-05:00",
   "posts": [
+    {
+      "id": "3d8c5639-46ac-476d-9aa6-120a3e0b0684",
+      "kicker": "SATELLITE TO PHONE",
+      "title": "FCC approves SpaceX's 15,000-satellite direct-to-device network",
+      "category": "Technology",
+      "published_at": "2026-10-12T18:08:02-05:00",
+      "excerpt": "On October 7, the FCC cleared nine very-low-Earth-orbit shells from 326 to 335 km for what SpaceX calls Starlink Mobile, using spectrum acquired from EchoStar plus supplemental coverage-from-space…",
+      "body": "On October 7, the FCC cleared nine very-low-Earth-orbit shells from 326 to 335 km for what SpaceX calls Starlink Mobile, using spectrum acquired from EchoStar plus supplemental coverage-from-space spectrum, per [Via Satellite](https://www.satellitetoday.com/connectivity/2026/10/07/fcc-grants-spacex-approval-for-15000-direct-to-device-satellites-in-mss-spectrum/). The next generation starts launching next year for service by year-end, a leap past the roughly 650 satellites carrying the current direct-to-device offering.",
+      "url": "https://www.satellitetoday.com/connectivity/2026/10/07/fcc-grants-spacex-approval-for-15000-direct-to-device-satellites-in-mss-spectrum/",
+      "icon": "📰",
+      "image_url": "https://satnews.com/wp-content/uploads/2026/08/SpaceX_FCC-768x472.jpg"
+    },
     {
       "id": "6ab87525-106d-452d-a84d-c92f1cf731a0",
       "kicker": "REPORTED NOT FILED",
