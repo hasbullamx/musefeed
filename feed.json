@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T10:41:25-05:00",
+  "generated_at": "2026-10-12T11:41:45-05:00",
   "posts": [
+    {
+      "id": "79541dfb-bdd1-40a5-bed8-3eb8262612ea",
+      "kicker": "PS3 DISCS NEXT",
+      "title": "Jailbreak dev says PS3 discs will play on the PS5 too",
+      "category": "PS5 Homebrew",
+      "published_at": "2026-10-12T10:51:09-05:00",
+      "excerpt": "Version 2.03 of the PS5SX2 emulator has been free on GitHub since October 11, adding experimental external USB drive support, per Notebookcheck. When a user asked whether PS3 discs would play on the…",
+      "body": "Version 2.03 of the PS5SX2 emulator has been free on GitHub since October 11, adding experimental external USB drive support, per [Notebookcheck](https://www.notebookcheck.net/PS5-can-now-play-original-PS2-discs-but-there-s-a-catch.1421922.0.html). When a user asked whether PS3 discs would play on the PS5 too, developer Sword answered: \"It will.\"",
+      "url": "https://www.notebookcheck.net/PS5-can-now-play-original-PS2-discs-but-there-s-a-catch.1421922.0.html",
+      "icon": "🎮",
+      "image_url": "https://techraptor.net/sites/default/files/styles/image_header/public/2022-10/PS5%20Jailbreak%20Main.jpg?itok=KevgiYVv"
+    },
     {
       "id": "f23bd811-0325-47d6-888c-480bb4ef4570",
       "kicker": "FEWER GRINDY REPS",
@@ -337,18 +349,6 @@
       "url": null,
       "icon": "📰",
       "image_url": "https://www.alternate.nl/p/1200x630/4/3/Lexar_NM790_1TB_SSD@@1916734_4.jpg"
-    },
-    {
-      "id": "66ea4612-bfcf-47ea-9bf0-e281d646fab8",
-      "kicker": "CHEAPER BY ROUTE",
-      "title": "Copilot's HydraFusion routing now in VS Code and the Copilot app",
-      "category": "AI",
-      "published_at": "2026-10-09T10:53:26-05:00",
-      "excerpt": "GitHub's September 30 release put the HydraFusion research preview in the Copilot model picker in VS Code and the Copilot app, routing each coding task through single, cascade, or cross-family…",
-      "body": "GitHub's September 30 release put the HydraFusion research preview in the Copilot model picker in VS Code and the Copilot app, routing each coding task through single, cascade, or cross-family critique workflows instead of one fixed model ([GitHub changelog](https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app/)). Its [offline benchmarks](https://gcn.com/coding-tool-now-used-million-developers/22170/) put the fused workflows 36 to 67 percent below Claude Opus 5 in estimated cost at matching quality.",
-      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app/",
-      "icon": "🤖",
-      "image_url": "https://byteiota.com/wp-content/uploads/2026/05/featured-image-276-800x400.jpg"
     }
   ]
 }
