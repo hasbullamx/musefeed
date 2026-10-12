@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T22:11:17-05:00",
+  "generated_at": "2026-10-12T03:11:10-05:00",
   "posts": [
+    {
+      "id": "102b8679-684e-4ed3-ac44-c778e94a8fb4",
+      "kicker": "FEDERAL HOLIDAY",
+      "title": "Columbus Day closes federal offices, banks, and mail today",
+      "category": "Practical info",
+      "published_at": "2026-10-12T02:33:58-05:00",
+      "excerpt": "The closures come with exceptions: USPS is holding regular mail while Priority Mail Express still moves, and most bank branches are shut with ATMs and apps as the workaround, per El Cronista's…",
+      "body": "The closures come with exceptions: USPS is holding regular mail while Priority Mail Express still moves, and most bank branches are shut with ATMs and apps as the workaround, per [El Cronista's holiday guide](https://www.cronista.com/en/today/work-calendar-this-monday-october-12-is-a-federal-holiday-and-there-will-be-a-long-weekend-for-public-offices-and-banks-in-the-united-states/). Wall Street, big retailers, and UPS and FedEx all run normally.",
+      "url": "https://www.cronista.com/en/today/work-calendar-this-monday-october-12-is-a-federal-holiday-and-there-will-be-a-long-weekend-for-public-offices-and-banks-in-the-united-states/",
+      "icon": "📰",
+      "image_url": "https://usgovdocs.com/wp-content/uploads/2024/09/1-10-819x1024.png"
+    },
     {
       "id": "0174451a-e33b-45f8-bc4a-893248cda146",
       "kicker": "BRING YOUR OWN MODEL",
@@ -337,42 +349,6 @@
       "url": null,
       "icon": "📰",
       "image_url": "https://framerusercontent.com/images/zfMqJctl5SqZF2zCKwi6Kq7iIg.png?scale-down-to=512&width=1376&height=768"
-    },
-    {
-      "id": "7e0f50e6-5ee5-46f2-803b-14c1f6094ce2",
-      "kicker": "HOMEBREW STORE",
-      "title": "XENO TOOL adds an unofficial game store for jailbroken PS5s",
-      "category": "Gaming",
-      "published_at": "2026-10-09T02:32:04-05:00",
-      "excerpt": "A new unofficial tool for jailbroken PS5s called XENO TOOL now ships a built-in game store, updated to version 3.2.71 on October 3 with its developer claiming a browsable PS4 and PS5 catalogue. Its…",
-      "body": "A new unofficial tool for jailbroken PS5s called XENO TOOL now ships a built-in [game store](https://www.news9live.com/technology/gaming/ps5-jailbreak-unofficial-game-store-risks-3013261), updated to version 3.2.71 on October 3 with its developer claiming a browsable PS4 and PS5 catalogue. Its installer is unsigned, so anyone running it risks malware, a suspended account or losing online access under Sony's licence terms.",
-      "url": "https://www.news9live.com/technology/gaming/ps5-jailbreak-unofficial-game-store-risks-3013261",
-      "icon": "🎮",
-      "image_url": "https://u-mercari-images.mercdn.net/photos/m18912078850_1.jpg?width=1920&quality=75&_=1757491383"
-    },
-    {
-      "id": "8003da97-b613-493c-a051-7e267bc95cf4",
-      "kicker": "ERRANDS BY TEXT",
-      "title": "Tab emerges from stealth at a $300M valuation",
-      "category": "AI",
-      "published_at": "2026-10-09T00:21:27-05:00",
-      "excerpt": "You text Tab on iMessage or WhatsApp and it runs the errand instead of explaining how. It left stealth at a $300 million valuation, pitching trust as the product in a race everyone else is running on…",
-      "body": "You text Tab on iMessage or WhatsApp and it runs the errand instead of explaining how. It [left stealth at a $300 million valuation](https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/), pitching trust as the product in a race everyone else is running on capability.",
-      "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
-      "icon": "🤖",
-      "image_url": "https://framerusercontent.com/images/e1ZCcJPf4gU3FWKSHudIn7KBPzU.png"
-    },
-    {
-      "id": "29331a66-3ef6-46a2-b3d4-74220ab4a050",
-      "kicker": "RECORD LOW",
-      "title": "ASUS 27-inch 1440p OLED monitor drops to $384",
-      "category": "Deals",
-      "published_at": "2026-10-08T22:26:56-05:00",
-      "excerpt": "DealNews has the ASUS ROG Strix XG27AQDMGR at $384 for Prime members at Amazon, verified 15 hours ago, the first sub-$400 price the panel has ever hit. ASUS backs it with a 3-year warranty that…",
-      "body": "[DealNews](https://www.dealnews.com/products/ASUS/ASUS-ROG-Strix-27-1440-p-OLED-Gaming-Monitor/541585.html) has the ASUS ROG Strix XG27AQDMGR at $384 for Prime members at Amazon, verified 15 hours ago, the first sub-$400 price the panel has ever hit. ASUS backs it with a 3-year warranty that covers burn-in.",
-      "url": "https://www.dealnews.com/products/ASUS/ASUS-ROG-Strix-27-1440-p-OLED-Gaming-Monitor/541585.html",
-      "icon": "🏷️",
-      "image_url": "https://assets.nvidia.partners/images/png/xg27aqdmg.png"
     }
   ]
 }
