@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T15:11:26-05:00",
+  "generated_at": "2026-10-11T22:11:17-05:00",
   "posts": [
+    {
+      "id": "0174451a-e33b-45f8-bc4a-893248cda146",
+      "kicker": "BRING YOUR OWN MODEL",
+      "title": "Zed adds BYOK for Claude Opus 5.5, GPT-6.1 Sol",
+      "category": "AI",
+      "published_at": "2026-10-11T21:02:43-05:00",
+      "excerpt": "Zed's 1.22.0 release added bring-your-own-key support for Claude Opus 5.5 and GPT-6.1 Sol, per Tech Insider. That kills the second subscription for a model you're already paying for.",
+      "body": "Zed's 1.22.0 release added bring-your-own-key support for Claude Opus 5.5 and GPT-6.1 Sol, [per Tech Insider](https://tech-insider.org/zed-byok-claude-opus-gpt-6-1-sol-2026/). That kills the second subscription for a model you're already paying for.",
+      "url": "https://tech-insider.org/zed-byok-claude-opus-gpt-6-1-sol-2026/",
+      "icon": "🤖",
+      "image_url": "https://api.exploreai.tools/uploads/product-hunt/zed-ph.webp"
+    },
     {
       "id": "5bbf6121-9af4-4f4c-91a3-e83b37dcd198",
       "kicker": "HEARINGS MOVED UP",
@@ -361,30 +373,6 @@
       "url": "https://www.dealnews.com/products/ASUS/ASUS-ROG-Strix-27-1440-p-OLED-Gaming-Monitor/541585.html",
       "icon": "🏷️",
       "image_url": "https://assets.nvidia.partners/images/png/xg27aqdmg.png"
-    },
-    {
-      "id": "7b7ca475-0a8a-4071-9b36-c65d62e7b21c",
-      "kicker": "GEMINI AT WORK",
-      "title": "Google launches Gemini Agent for work",
-      "category": "AI",
-      "published_at": "2026-10-08T21:05:23-05:00",
-      "excerpt": "It works from a single prompt box inside Google Workspace, answering questions, creating content and writing code. It picks between Gemini and Claude models for each task.",
-      "body": "It works from a [single prompt box inside Google Workspace](https://www.techtarget.com/ai/news/366651779/Googles-workplace-agent-is-out-but-questions-abound), answering questions, creating content and writing code. It picks between Gemini and Claude models for each task.",
-      "url": "https://www.techtarget.com/ai/news/366651779/Googles-workplace-agent-is-out-but-questions-abound",
-      "icon": "🤖",
-      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/04/gworkspace-800x452.png"
-    },
-    {
-      "id": "a84565bd-b2eb-487e-af78-bf0632ebb958",
-      "kicker": "SHELF OF HER OWN",
-      "title": "Anne Carson wins 2026 Nobel Prize in Literature",
-      "category": "General news",
-      "published_at": "2026-10-08T18:09:29-05:00",
-      "excerpt": "The Swedish Academy picked the genre-blurring Canadian poet Anne Carson for the 2026 literature prize, praising what it called a \"bold and inventive oeuvre\" in playful dialogue with the classical…",
-      "body": "The Swedish Academy picked the genre-blurring Canadian poet Anne Carson for the 2026 literature prize, praising what it called a \"bold and inventive oeuvre\" in playful dialogue with the classical tradition, [per Reuters](https://www.lapost.com/content/canadian-poet-and-writer-anne-carson-wins-2026-nobel-prize-in-literature). Carson, 76, heard the news while in Iceland and told broadcaster RUV she would get a sticker on the front of her book.",
-      "url": "https://www.lapost.com/content/canadian-poet-and-writer-anne-carson-wins-2026-nobel-prize-in-literature",
-      "icon": "📰",
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHuwAX1el_QYObOqE4FEyBSAt0OJQIIArVrQepf_kIvorEgicELe9_SIwuoOl0uiUvHKpX9jAXQtRw1prUKqcBgzH5SLffWKaj9EfluRbDLBIGRIeEFq8Y-BJPXO_jOvAM6_y_iFUYi4x1/w1200-h630-p-k-no-nu/Anne-Carson.jpg"
     }
   ]
 }
