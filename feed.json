@@ -1,7 +1,163 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T06:41:11-05:00",
+  "generated_at": "2026-10-13T17:20:10-05:00",
   "posts": [
+    {
+      "id": "c10ee0d4-8740-46d2-99fc-647cddd43d68",
+      "kicker": "ON THE STAND",
+      "title": "Testimony opens in Farwell murder trial",
+      "category": "True crime",
+      "published_at": "2026-10-13T18:30:00-05:00",
+      "excerpt": "Former Stoughton police officer Matthew Farwell is accused of killing 23-year-old Sandra Birchmore in a 2021 death that officials first ruled a suicide, per The Enterprise's live trial coverage. The…",
+      "body": "Former Stoughton police officer Matthew Farwell is accused of killing 23-year-old Sandra Birchmore in a 2021 death that officials first ruled a suicide, per [The Enterprise's live trial coverage](https://www.enterprisenews.com/story/news/courts/2026/10/13/sandra-birchmore-trial-matthew-farwell-charged-murder-day-2--live/92221606007/). The prosecution went straight at that ruling with lobby video of a masked Farwell from days before her death.",
+      "url": "https://www.enterprisenews.com/story/news/courts/2026/10/13/sandra-birchmore-trial-matthew-farwell-charged-murder-day-2--live/92221606007/",
+      "icon": "🔍",
+      "image_url": "https://media.tegna-media.com/assets/KTVB/images/02d1b10a-bcfd-464e-922d-66adb47e80c8/02d1b10a-bcfd-464e-922d-66adb47e80c8_750x422.jpg"
+    },
+    {
+      "id": "bef991f6-dfc8-472f-998a-012f843090e7",
+      "kicker": "TRAINING MONEY",
+      "title": "Texas awards over $20M in career-training grants",
+      "category": "Business",
+      "published_at": "2026-10-13T17:55:00-05:00",
+      "excerpt": "The 84 Jobs and Education for Texans grants buy equipment for colleges and school districts starting or expanding career and technical programs for high-demand jobs, per Texas Border Business. The…",
+      "body": "The 84 Jobs and Education for Texans grants buy equipment for colleges and school districts starting or expanding career and technical programs for high-demand jobs, per [Texas Border Business](https://texasborderbusiness.com/over-20-million-in-career-training-grants-awarded-across-texas/). The 2027 application round opens later this fall.",
+      "url": "https://texasborderbusiness.com/over-20-million-in-career-training-grants-awarded-across-texas/",
+      "icon": "📰",
+      "image_url": "https://content.presspage.com/uploads/1912/315d3ab0-84de-496f-952e-c4d14bd7a10c/800_victoriacollege_twcjetgrantpresenation052926.jpg?10000"
+    },
+    {
+      "id": "f43f6e66-f3b0-4441-96f5-13594ac2747f",
+      "kicker": "HALF PRICE",
+      "title": "Sony's WH-1000XM5 headphones hit $198, half price",
+      "category": "Deals",
+      "published_at": "2026-10-13T16:55:00-05:00",
+      "excerpt": "Amazon has the Sony WH-1000XM5 at $198, half off the $400 list, per Android Police. You still get flagship noise canceling and a 30-hour battery, the only knock being earcups that rotate flat instead…",
+      "body": "Amazon has the Sony WH-1000XM5 at $198, half off the $400 list, per [Android Police](https://www.androidpolice.com/sony-wh-1000xm5-their-lowest-price-with-new-price-drop/). You still get flagship noise canceling and a 30-hour battery, the only knock being earcups that rotate flat instead of folding.",
+      "url": "https://www.androidpolice.com/sony-wh-1000xm5-their-lowest-price-with-new-price-drop/",
+      "icon": "🏷️",
+      "image_url": "https://www.findarticles.com/wp-content/uploads/2026/03/sony_wh-1000xm5_edited_1774466877.png.webp"
+    },
+    {
+      "id": "0279e721-3690-4f88-9d60-907b2ffb4855",
+      "kicker": "ON THE RECORD",
+      "title": "DHS confirms $3,000 self-deport offer to migrant kids",
+      "category": "ORR Policy",
+      "published_at": "2026-10-13T16:21:00-05:00",
+      "excerpt": "The rules, stated for the first time to ABC News on Tuesday, cover only children in government custody who are 14 or older with no gang affiliation. That bar sits well above what attorneys have…",
+      "body": "The rules, stated for the first time to [ABC News](https://www.kbnwnews.com/2026/10/13/trump-administration-offering-migrant-children-3000-to-self-deport/) on Tuesday, cover only children in government custody who are 14 or older with no gang affiliation. That bar sits well above what attorneys have reported in courtrooms, where offers have reached children as young as 5.",
+      "url": "https://www.kbnwnews.com/2026/10/13/trump-administration-offering-migrant-children-3000-to-self-deport/",
+      "icon": "📰",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/MSNBC/Components/Video/201806/n_mtpd_clip_hurdplicy_180618_1920x1080.jpg"
+    },
+    {
+      "id": "37d80be1-0bc4-4df2-a44c-761592d9cc90",
+      "kicker": "OFF THE LEASH",
+      "title": "Google's Gemini 4 Argon opens to developers, businesses",
+      "category": "AI",
+      "published_at": "2026-10-13T16:05:00-05:00",
+      "excerpt": "Since its September announcement, Argon had been confined to vetted cybersecurity partners and the U.S. government under a voluntary pre-release process. API pricing starts at $2 per million input…",
+      "body": "Since its September announcement, Argon had been confined to vetted cybersecurity partners and the U.S. government under a voluntary pre-release process. [API pricing starts at $2 per million input tokens and $10 per million output tokens](https://www.reuters.com/business/google-launches-flagship-ai-model-gemini-4-argon-developers-businesses-2026-10-13/), with rates set to double after November 30, per Reuters.",
+      "url": "https://www.reuters.com/business/google-launches-flagship-ai-model-gemini-4-argon-developers-businesses-2026-10-13/",
+      "icon": "🤖",
+      "image_url": "https://d1yei2z3i6k35z.cloudfront.net/11118075/690ddda8db1ed_Google_Gemini_logo_2025.svg.png"
+    },
+    {
+      "id": "f489fef9-a1da-43da-a3a8-729de345c4a7",
+      "kicker": "TWO STORMS",
+      "title": "Category 2 Hurricane Simon nears Mexico as Isaias recovery drags on",
+      "category": "General news",
+      "published_at": "2026-10-13T15:30:00-05:00",
+      "excerpt": "Hurricane Simon was creeping along Mexico's Pacific coast Monday as a Category 2 system with 110 mph winds, forecast to make landfall in Sinaloa on Thursday with life-threatening flooding and…",
+      "body": "Hurricane Simon was creeping along Mexico's Pacific coast Monday as a Category 2 system with 110 mph winds, forecast to make landfall in Sinaloa on Thursday with life-threatening flooding and mudslides. Isaias recovery continues in the Southeast, with about 670,000 people still without power and Pensacola's airport [closed to commercial flights](https://www.reuters.com/sustainability/multiple-hurricanes-hit-us-mexico-2026-10-13/).",
+      "url": "https://www.reuters.com/sustainability/multiple-hurricanes-hit-us-mexico-2026-10-13/",
+      "icon": "📰",
+      "image_url": "https://lagazzettadf.com/wp-content/uploads/2014/10/huracan-simon-cat-1.jpg"
+    },
+    {
+      "id": "ab395d6f-4d42-4cb0-9aa7-0cc96cf74bc3",
+      "kicker": "PLAYING THE FIELD",
+      "title": "Jailbroken PS5s now run Xbox Cloud Gaming",
+      "category": "PS5 Homebrew",
+      "published_at": "2026-10-13T13:00:00-05:00",
+      "excerpt": "A native homebrew app called PSBox lets a jailbroken PS5 sign into a Microsoft account and stream the full Xbox Cloud Gaming catalog, per Tech Insider. Built by developer RafaelNGP with help from…",
+      "body": "A native homebrew app called PSBox lets a jailbroken PS5 sign into a Microsoft account and stream the full Xbox Cloud Gaming catalog, per [Tech Insider](https://tech-insider.org/psbox-xbox-cloud-gaming-ps5-jailbreak-2026/). Built by developer RafaelNGP with help from Claude, it maps the DualSense onto Xbox inputs, rumble and all.",
+      "url": "https://tech-insider.org/psbox-xbox-cloud-gaming-ps5-jailbreak-2026/",
+      "icon": "🎮",
+      "image_url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F9b6be2e0-2a19-11eb-b7ff-19899b22738b&client=amp-blogside-v2&signature=a05750056fb3280cb3ba5ea62a5f206bd837f2c7"
+    },
+    {
+      "id": "9ad0a471-a7fd-43c9-8289-3e944e6328b1",
+      "kicker": "TODAY ONLY",
+      "title": "Nothing Phone (3) up to $280 off today only at Best Buy",
+      "category": "Deals",
+      "published_at": "2026-10-13T12:13:09-05:00",
+      "excerpt": "Best Buy dropped the 256GB Nothing Phone (3) to $520 today, per 9to5Toys. Amazon's Prime Day match is still higher, so Best Buy is the cheaper checkout.",
+      "body": "Best Buy dropped the 256GB Nothing Phone (3) to $520 today, [per 9to5Toys](https://9to5toys.com/2026/10/13/nothing-phone-3-deals-today-only/). Amazon's Prime Day match is still higher, so Best Buy is the cheaper checkout.",
+      "url": "https://9to5toys.com/2026/10/13/nothing-phone-3-deals-today-only/",
+      "icon": "🏷️",
+      "image_url": "https://www.timesbull.com/wp-content/uploads/2025/10/Nothing-Phone-3-2.jpg"
+    },
+    {
+      "id": "fcebc9de-aaf3-4082-a701-48661ee0ccf6",
+      "kicker": "CHEAPEST 5070 TI",
+      "title": "GIGABYTE RTX 5070 Ti gaming laptop drops to $1,449 at Walmart",
+      "category": "PC hardware",
+      "published_at": "2026-10-13T10:53:27-05:00",
+      "excerpt": "Walmart cut $700 off the GIGABYTE Gaming A16 Pro, making it the cheapest RTX 5070 Ti laptop Wccftech found anywhere. Under $1,500 you mostly find RTX 5060-based machines, so this is a full tier above…",
+      "body": "Walmart cut $700 off the GIGABYTE Gaming A16 Pro, making it the cheapest RTX 5070 Ti laptop [Wccftech](https://wccftech.com/gigabyte-gaming-a16-pro-rtx-5070-ti-laptop-drops-to-1449/) found anywhere. Under $1,500 you mostly find RTX 5060-based machines, so this is a full tier above the usual hardware at the price.",
+      "url": "https://wccftech.com/gigabyte-gaming-a16-pro-rtx-5070-ti-laptop-drops-to-1449/",
+      "icon": "📰",
+      "image_url": "https://img.milik.ai/article/2026/05/19/f2b5fde8-a901-49c6-9bf8-9ac2d311234d.jpg?imageMogr2/format/webp"
+    },
+    {
+      "id": "5d1e4258-4d47-40c9-ae39-804b97bf04b8",
+      "kicker": "LIGHT VS HEAVY",
+      "title": "No clear link between load and fiber-type muscle growth",
+      "category": "Fitness",
+      "published_at": "2026-10-13T10:20:22-05:00",
+      "excerpt": "Published Oct 13, 2026, 11:05 AM Across eight muscle-biopsy studies, every comparison of training load against fiber-type growth saw its confidence interval cross zero, per a Frontiers in Physiology…",
+      "body": "Published Oct 13, 2026, 11:05 AM\nAcross eight muscle-biopsy studies, every comparison of training load against fiber-type growth saw its confidence interval cross zero, [per a Frontiers in Physiology meta-regression](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1953601/full). The authors call the fiber-specific trend preliminary: too few studies and wide intervals to build a program on.",
+      "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1953601/full",
+      "icon": "📰",
+      "image_url": "https://bretcontreras.com/wp-content/uploads/0-hyRuzOmzL8Tn-SH1-1-1.png"
+    },
+    {
+      "id": "262a014e-d604-4382-bad4-6a18a214913e",
+      "kicker": "AGENT COST-CUTTING",
+      "title": "Decision models cut AI agent token costs",
+      "category": "AI",
+      "published_at": "2026-10-13T09:32:51-05:00",
+      "excerpt": "A new class of \"decision models\" trims an AI agent's toolset to the few tools that fit each request, returning a calibrated choice plus a confidence score with no generated text and no embeddings or…",
+      "body": "A new class of \"decision models\" trims an AI agent's toolset to the few tools that fit each request, returning a calibrated choice plus a confidence score with no generated text and no embeddings or index. [In the author's benchmark](https://dev.to/aws/cut-ai-agent-token-costs-with-decision-models-for-tool-selection-2320), selecting first matched the right tool on every query while cutting chat tokens by roughly two-thirds.",
+      "url": "https://dev.to/aws/cut-ai-agent-token-costs-with-decision-models-for-tool-selection-2320",
+      "icon": "🤖",
+      "image_url": "https://www.onetab.ai/wp-content/themes/onetab-ai/assets/product/fast-iteration.png"
+    },
+    {
+      "id": "f0e87327-b848-4179-a74f-1a9e85693362",
+      "kicker": "BROWNSVILLE",
+      "title": "RJ Mitte died by suicide at 34, representative confirms",
+      "category": "General news",
+      "published_at": "2026-10-13T09:21:34-05:00",
+      "excerpt": "The 34-year-old actor was pronounced dead at 1:32 p.m. Monday at his Brownsville residence, Cameron County Justice of the Peace Cyndi Hinojosa said. His representative confirmed the cause Monday…",
+      "body": "The 34-year-old actor was pronounced dead at 1:32 p.m. Monday at his Brownsville residence, Cameron County Justice of the Peace Cyndi Hinojosa said. His [representative confirmed](https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/13/rj-mitte-cause-of-death-suicide/92223732007/) the cause Monday evening.",
+      "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/13/rj-mitte-cause-of-death-suicide/92223732007/",
+      "icon": "🤠",
+      "image_url": "https://townsquare.media/site/394/files/2012/04/142601082.jpg?w=980&q=75"
+    },
+    {
+      "id": "8c01b927-45fa-479a-8902-d3ebe2f599a4",
+      "kicker": "AGENTS ON THE PHONE",
+      "title": "OPPO taps Manus to bring agentic AI to smartphones",
+      "category": "AI",
+      "published_at": "2026-10-13T08:46:32-05:00",
+      "excerpt": "A single prompt to OPPO's AI Mind Pilot can run a multi-step job on the upcoming Find X10 series, like pulling flight and hotel bookings into a day-by-day itinerary. Local tasks such as finding or…",
+      "body": "A single prompt to OPPO's AI Mind Pilot can [run a multi-step job](https://www.channelnewsasia.com/media-release/oppo-partners-manus-bring-agentic-ai-experiences-smartphones-6455481) on the upcoming Find X10 series, like pulling flight and hotel bookings into a day-by-day itinerary. Local tasks such as finding or renaming files stay on the device and are never shared with Manus, which has to ask permission before anything is uploaded for external processing.",
+      "url": "https://www.channelnewsasia.com/media-release/oppo-partners-manus-bring-agentic-ai-experiences-smartphones-6455481",
+      "icon": "🤖",
+      "image_url": "https://theinsider.pt/wp-content/uploads/2026/03/62275ea4-0eab-4cd9-aed6-f92fcba75207_8e322554-fotor-20260310171012-1-scaled.jpg"
+    },
     {
       "id": "554f6254-0eee-45c2-b989-4a75db73e614",
       "kicker": "WRONG RULER",
@@ -349,42 +505,6 @@
       "url": null,
       "icon": "📰",
       "image_url": "https://www.drmacscybersecuritybrief.com/uploads/2021/758da1956a.jpg"
-    },
-    {
-      "id": "cd77834e-af10-49fc-b647-3680e943112a",
-      "kicker": "GOVERNED AGENTS",
-      "title": "OutSystems Agent Experience opens to any coding agent",
-      "category": "AI",
-      "published_at": "2026-10-10T14:27:55-05:00",
-      "excerpt": "Published Oct 10, 2026, 1:20 PM: OutSystems made Agent Experience generally available on Oct 8, letting developers bring their own AI coding agent, including Claude Code, Cursor, Codex, or Kiro,…",
-      "body": "Published Oct 10, 2026, 1:20 PM: OutSystems made Agent Experience generally available on Oct 8, letting developers bring their own AI coding agent, including Claude Code, Cursor, Codex, or Kiro, under the platform's security, testing, and governance guardrails ([Channel News Asia](https://www.channelnewsasia.com/media-release/outsystems-agent-experience-now-generally-available-bringing-governed-ai-development-any-coding-agent-6441761)). The pitch is agent-designed, platform-built software, aimed at the survey finding that 74% of AI-generated code needs significant rework or never reaches production.",
-      "url": "https://www.channelnewsasia.com/media-release/outsystems-agent-experience-now-generally-available-bringing-governed-ai-development-any-coding-agent-6441761",
-      "icon": "🤖",
-      "image_url": "https://v.fastcdn.co/cdn-cgi/image/f=auto,q=high,fit=scale-down/u/60bcead0/66014049-0-AI-Agent---ODC-UI.png"
-    },
-    {
-      "id": "97b94339-470c-49de-afdc-c7ffddcb29c6",
-      "kicker": "SHIPYARD RISING",
-      "title": "Port Alpha construction begins",
-      "category": "Texas",
-      "published_at": "2026-10-10T10:56:34-05:00",
-      "excerpt": "JE Dunn Construction is building Port Alpha, Saronic's $3.2-billion-plus shipyard at the Port of Brownsville, with work now officially underway. The first phase runs from site works such as grading…",
-      "body": "[JE Dunn Construction is building Port Alpha](https://www.portstrategy.com/news/expansion-development/port-alpha-shipyard-development-begins/?navcode=1433), Saronic's $3.2-billion-plus shipyard at the Port of Brownsville, with work now officially underway. The first phase runs from site works such as grading and drainage to assembly buildings, waterfront infrastructure and vessel-launching facilities.",
-      "url": "https://www.portstrategy.com/news/expansion-development/port-alpha-shipyard-development-begins/?navcode=1433",
-      "icon": "🤠",
-      "image_url": "https://www.reefproject.ca/wp-content/uploads/2025/08/reef_updates_Aug18_20251.jpg"
-    },
-    {
-      "id": "625173e8-38b5-40d2-8346-e7e45ed6ef2b",
-      "kicker": "HIRED HAND",
-      "title": "JetBrains ships Mellum2.1, a fast open model for coding agents",
-      "category": "AI",
-      "published_at": "2026-10-10T08:50:34-05:00",
-      "excerpt": "JetBrains' new coding model is a 12-billion-parameter mixture-of-experts build that activates only 2.5B parameters per token, under the Apache 2.0 license. The upgrade over Mellum2 came almost…",
-      "body": "[JetBrains' new coding model](https://blog.jetbrains.com/ai/2026/10/mellum2-1-gets-to-work-a-fast-open-model-for-coding-agents/) is a 12-billion-parameter mixture-of-experts build that activates only 2.5B parameters per token, under the Apache 2.0 license. The upgrade over Mellum2 came almost entirely from reinforcement learning inside real repositories, millions of sandboxed runs, rather than from any change to the architecture.",
-      "url": "https://blog.jetbrains.com/ai/2026/10/mellum2-1-gets-to-work-a-fast-open-model-for-coding-agents/",
-      "icon": "🤖",
-      "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.otf-kit.dev%2Fthumbnails%2Fmellum2.png"
     }
   ]
 }
