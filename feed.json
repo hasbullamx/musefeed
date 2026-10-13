@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T18:41:15-05:00",
+  "generated_at": "2026-10-12T22:41:11-05:00",
   "posts": [
+    {
+      "id": "a012fc3a-9b6b-40e9-bef2-208f05e4c4fb",
+      "kicker": "SECOND STRAIGHT DAY",
+      "title": "Trump calls Houthis 'misbehaving' as Riyadh flights halt",
+      "category": "General news",
+      "published_at": "2026-10-12T22:29:02-05:00",
+      "excerpt": "Repeated Houthi missile attacks on Saudi airports, Riyadh's King Khalid International and Dammam's King Fahd International among them, have killed at least 18 people, and Riyadh's airport is shut…",
+      "body": "Repeated Houthi missile attacks on Saudi airports, Riyadh's King Khalid International and Dammam's King Fahd International among them, have killed at least 18 people, and Riyadh's airport is shut through Saturday, [per Al Jazeera](https://www.aljazeera.com/amp/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted). Airlines are pulling out in turn: Etihad cancelled all Abu Dhabi–Riyadh flights through October 19, and Qatar Airways suspended its Riyadh and Dammam service.",
+      "url": "https://www.aljazeera.com/amp/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted",
+      "icon": "📰",
+      "image_url": "https://link.traderelite.club/tools/news_site/resources/images/e2f08ac04024ef3d6409b4ce97092489.jpg"
+    },
+    {
+      "id": "a6d17b8b-31ff-4c31-9655-4169e1d8e20a",
+      "kicker": "MOST CAPABLE YET",
+      "title": "Meta launches Muse Wonder models to challenge Anthropic and OpenAI",
+      "category": "AI",
+      "published_at": "2026-10-12T21:02:51-05:00",
+      "excerpt": "Muse Wonder will soon power Meta's Muse personal agent for subscribers, while the more powerful Muse Wonder Full is available through Muse Code, per Reuters. Meta calls the pair its most capable…",
+      "body": "Muse Wonder will soon power Meta's Muse personal agent for subscribers, while the more powerful Muse Wonder Full is available through Muse Code, [per Reuters](https://www.reuters.com/business/meta-releases-muse-wonder-ai-models-challenge-anthropic-openai-2026-10-12/). Meta calls the pair its most capable models yet, after a fourteen-month overhaul of its AI efforts.",
+      "url": "https://www.reuters.com/business/meta-releases-muse-wonder-ai-models-challenge-anthropic-openai-2026-10-12/",
+      "icon": "🤖",
+      "image_url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-01/21/2026-01-21T094304Z_2_LYNXMPEM0K0IS_RTROPTP_3_OPENAI-META.JPG"
+    },
     {
       "id": "3d8c5639-46ac-476d-9aa6-120a3e0b0684",
       "kicker": "SATELLITE TO PHONE",
@@ -325,42 +349,6 @@
       "url": "https://www.usatoday.com/story/news/weather/2026/10/09/hurricane-isaias-landfall-updates-forecast--live/92157423007/",
       "icon": "🌀",
       "image_url": "https://www.usharbors.com/wp-content/uploads/2020/08/1024px-Isaias_2020-07-30_1750Z-scaled.jpg"
-    },
-    {
-      "id": "f955ca12-e438-4073-93e3-ff4e2b25e002",
-      "kicker": "WORDS OPTIONAL",
-      "title": "Non-text AI model Jev valued at $7.5B weeks after launch",
-      "category": "AI",
-      "published_at": "2026-10-09T21:02:58-05:00",
-      "excerpt": "Andreessen Horowitz led the $870 million round, with Sequoia and existing investor DCVC joining, for a startup founded in 2024 by an ex-OpenAI researcher and a former Meta research engineer. Jev is a…",
-      "body": "Andreessen Horowitz led the $870 million round, with Sequoia and existing investor DCVC joining, for a startup founded in 2024 by an ex-OpenAI researcher and a former Meta research engineer. [Jev](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/) is a transformer aimed at automation: it skips words entirely and outputs probabilities, what TypeSafe calls calibrated decisions.",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "icon": "🤖",
-      "image_url": "https://seifeur.com/wp-content/uploads/2024/06/transformer-llms.jpg"
-    },
-    {
-      "id": "ad59922b-4e40-4597-b944-d65325007b7c",
-      "kicker": "LAST CALL",
-      "title": "Techtober gaming PC deals: up to $1,125 off",
-      "category": "Deals",
-      "published_at": "2026-10-09T20:58:18-05:00",
-      "excerpt": "Best Buy's Techtober gaming-laptop and desktop deals end Sunday, October 11, with prices DealNews verified on October 8 (DealNews). The standout is the Lenovo Legion 7a, a 16-inch OLED gaming laptop…",
-      "body": "Best Buy's Techtober gaming-laptop and desktop deals end Sunday, October 11, with prices DealNews verified on October 8 ([DealNews](https://www.dealnews.com/Best-Buy-Techtober-Laptop-Gaming-PC-Deals-Up-to-1-125-off-free-shipping/22246268.html)). The standout is the Lenovo Legion 7a, a 16-inch OLED gaming laptop with an RTX 5060 and 1TB of storage, down to $1,999.99.",
-      "url": "https://www.dealnews.com/Best-Buy-Techtober-Laptop-Gaming-PC-Deals-Up-to-1-125-off-free-shipping/22246268.html",
-      "icon": "🏷️",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/kcYYost5tNoM459SyAqAnW-1920-80.jpg"
-    },
-    {
-      "id": "ee7abb5b-3878-4369-8223-45bc4c716e05",
-      "kicker": "SOFT FUEL",
-      "title": "Soft foods that keep protein up after the extraction",
-      "category": "Health",
-      "published_at": "2026-10-09T20:42:09-05:00",
-      "excerpt": "For the first 48 hours, keep it soft, lukewarm, and protein-forward: plain yogurt, scrambled eggs, silken tofu, mashed avocado, and blended lukewarm soups all qualify (Medical & Dental). Heat,…",
-      "body": "For the first 48 hours, keep it soft, lukewarm, and protein-forward: plain yogurt, scrambled eggs, silken tofu, mashed avocado, and blended lukewarm soups all qualify ([Medical & Dental](https://www.md.co.uk/blog/what-to-eat-first-48-hours-after-wisdom-tooth-surgery)). Heat, crunch, spice, seeds, and straws are what disturb the healing site, so they stay off the menu until it firms up ([Shoreline Dental](https://shorelinedentalcare.com/eating-after-wisdom-teeth-removal/)).",
-      "url": "https://www.md.co.uk/blog/what-to-eat-first-48-hours-after-wisdom-tooth-surgery",
-      "icon": "📰",
-      "image_url": "https://framerusercontent.com/images/rmcgqabJKnjaYvvpOanYHLmyjmI.png"
     }
   ]
 }
