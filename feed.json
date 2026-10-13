@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T05:11:09-05:00",
+  "generated_at": "2026-10-13T06:41:11-05:00",
   "posts": [
+    {
+      "id": "554f6254-0eee-45c2-b989-4a75db73e614",
+      "kicker": "WRONG RULER",
+      "title": "Endurance tests aren't interchangeable",
+      "category": "Fitness",
+      "published_at": "2026-10-13T06:39:43-05:00",
+      "excerpt": "In 186 fit young adults, a shared endurance factor explained only about 60 to 70% of scores across six standard endurance tests, with running tests clustering together and rowing tests clustering…",
+      "body": "In 186 fit young adults, a shared endurance factor explained only about 60 to 70% of scores across six standard endurance tests, with running tests clustering together and rowing tests clustering together instead, [per an October 1 study in Frontiers in Physiology](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1973746/full). Rowing performance leaned on strength and power, especially upper-body, so a 12-minute row is no stand-in for a 12-minute run when the question is where your running fitness stands.",
+      "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1973746/full",
+      "icon": "📰",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/616b8a75a7a23650b7b72888/1640887206053-Z333EC2LY6R0GA0KPHR5/Endurance+swimming+field+test.jpg"
+    },
+    {
+      "id": "8a4a9aef-8479-4d0f-92f4-3630990b49f3",
+      "kicker": "65 YEARS LATER",
+      "title": "Chicago names former officer suspect in 1960 killing of 8-year-old",
+      "category": "True crime",
+      "published_at": "2026-10-13T06:33:48-05:00",
+      "excerpt": "Chicago police say former officer Thomas Francis McInerney abducted and killed 8-year-old Gloria Kowalewicz as she walked to church in November 1960. The case sat unsolved for 65 years until…",
+      "body": "Chicago police say former officer Thomas Francis McInerney abducted and killed 8-year-old Gloria Kowalewicz as she walked to church in November 1960.\nThe case sat unsolved for 65 years until investigators submitted her preserved coat to the FBI for [genetic genealogy](https://wegotthiscovered.com/true-crime/65-years-later-chicago-police-name-their-own-officer-as-suspect-in-8-year-olds-killing/), which led them to McInerney's family tree.",
+      "url": "https://wegotthiscovered.com/true-crime/65-years-later-chicago-police-name-their-own-officer-as-suspect-in-8-year-olds-killing/",
+      "icon": "🔍",
+      "image_url": "https://epmgaa.media.clients.ellingtoncms.com/img/photos/2015/11/25/chicago12.jpg"
+    },
+    {
+      "id": "813fdfa9-75ba-42dc-84b8-d25e26f9246e",
+      "kicker": "SPEND WHERE IT PAYS",
+      "title": "Factory acquires Mentlio for intelligent token allocation",
+      "category": "AI",
+      "published_at": "2026-10-13T06:21:32-05:00",
+      "excerpt": "On October 9, Factory announced it was acquiring Mentlio (YC S26) to fold intelligent token allocation into its software-engineering platform, per its own announcement. Mentlio's trick is in-harness…",
+      "body": "On October 9, Factory announced it was acquiring Mentlio (YC S26) to fold intelligent token allocation into its software-engineering platform, per [its own announcement](https://factory.com/news/mentlio). Mentlio's trick is in-harness model routing and context compression, built to spend tokens where they pay off and to measure where the usage actually created value.",
+      "url": "https://factory.com/news/mentlio",
+      "icon": "🤖",
+      "image_url": "https://cdn.prod.website-files.com/62f90a8443126c2ee50f4c4e/64893287510c7c1e8810e986_factory%201-p-500.webp"
+    },
     {
       "id": "c1fc6ed3-95ea-47f1-aa8d-beeeb4cf3e78",
       "kicker": "PRE-IPO EXPOSURE",
@@ -349,18 +385,6 @@
       "url": "https://blog.jetbrains.com/ai/2026/10/mellum2-1-gets-to-work-a-fast-open-model-for-coding-agents/",
       "icon": "🤖",
       "image_url": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcdn.otf-kit.dev%2Fthumbnails%2Fmellum2.png"
-    },
-    {
-      "id": "01b97dfe-4e87-4f3e-a386-82fc0b833e84",
-      "kicker": "DATA CENTER PAUSE",
-      "title": "Brownsville advances 90-day data center moratorium after final hearing",
-      "category": "Texas",
-      "published_at": "2026-10-10T06:38:29-05:00",
-      "excerpt": "Published Oct 8, 2026, morning: Brownsville's City Commission approved Ordinance No. 2026-1826 on first reading after the third and final public hearing, temporarily pausing acceptance, processing…",
-      "body": "Published Oct 8, 2026, morning: Brownsville's City Commission approved Ordinance No. 2026-1826 on first reading after the third and final public hearing, temporarily pausing acceptance, processing and approval of data-center applications in the city and its extraterritorial jurisdiction ([Texas Border Business](https://texasborderbusiness.com/brownsville-city-commissions-second-public-hearing-regarding-data-center-moratorium/)). The ordinance returns for second and final reading November 4, where it needs a three-fourths vote, and if approved the 90-day moratorium runs November 5 through February 3, 2027.",
-      "url": "https://texasborderbusiness.com/brownsville-city-commissions-second-public-hearing-regarding-data-center-moratorium/",
-      "icon": "🤠",
-      "image_url": "https://www.utrgvrider.com/wp-content/uploads/2024/01/BCity2-1024x683.png"
     }
   ]
 }
