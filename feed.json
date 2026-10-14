@@ -1,7 +1,127 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T17:20:10-05:00",
+  "generated_at": "2026-10-14T12:45:38-05:00",
   "posts": [
+    {
+      "id": "2277b308-fee5-4151-8d15-90396a0900a6",
+      "kicker": "TOKEN DIET",
+      "title": "Pi 1.0, an open-source coding agent, cuts tokens 40%",
+      "category": "AI",
+      "published_at": "2026-10-14T12:40:20-05:00",
+      "excerpt": "Pi 1.0's Codemode lets the model call tools through short JavaScript instead of rereading every tool description each turn, cutting prompt tokens by about 40%. It is an MIT-licensed,…",
+      "body": "Pi 1.0's Codemode lets the model call tools through short JavaScript instead of rereading every tool description each turn, [cutting prompt tokens by about 40%](https://tech-insider.org/pi-1-0-coding-agent-tokens-cut-2026/). It is an MIT-licensed, provider-agnostic terminal agent, so the harness costs nothing and the only bill is whichever model you point it at.",
+      "url": "https://tech-insider.org/pi-1-0-coding-agent-tokens-cut-2026/",
+      "icon": "🤖",
+      "image_url": "https://wsrv.nl/?url=blogger.googleusercontent.com%2Fimg%2Fa%2FAVvXsEgOuzJOO9XyZaW0ZRkZCEnNb7S-lgmUQXvB0lzh75DvisqAFgbN0hfaotTWRSpaCdJz485vRbdHiqDBHnSgPne8IU_80cneN4oUIrgNPErw8Lf3hjaCY5qsxGTZ45eNFS4OcqhRVVu681efn1ZEtkvCY951_MCf-cHaAd6xCGj3lDPTKdl1nskE11xMhk0&w=700&q=70&output=webp&sharp=1"
+    },
+    {
+      "id": "2c7ed8ae-6945-48bc-a1df-348284fefdcd",
+      "kicker": "THE AI TAX",
+      "title": "RTX 5090s sell out at $10,000",
+      "category": "PC hardware",
+      "published_at": "2026-10-14T10:57:15-05:00",
+      "excerpt": "Custom models from Gigabyte, MSI, and ASUS now wear five-figure price tags at retail, per GameGPU. With Nvidia reportedly steering every remaining GB202 die to the RTX Pro line, the cards on the…",
+      "body": "Custom models from Gigabyte, MSI, and ASUS now [wear five-figure price tags at retail](https://en.gamegpu.com/news/zhelezo/videokarty-geforce-rtx-5090-dazhe-za-10-000-usd-smetayut-s-polok-magazinov), per GameGPU. With Nvidia reportedly steering every remaining GB202 die to the RTX Pro line, the cards on the shelves now may be this generation's last consumer flagship.",
+      "url": "https://en.gamegpu.com/news/zhelezo/videokarty-geforce-rtx-5090-dazhe-za-10-000-usd-smetayut-s-polok-magazinov",
+      "icon": "🤖",
+      "image_url": "https://thegeek.games/wp-content/uploads/2026/01/theGeek-NVIDIA-RTX-5080-and-5090-Sell-Out-Instantly-Scalpers-Resell-at-Sky-High-Prices-on-eBay.jpg"
+    },
+    {
+      "id": "8b8fadcd-6235-4e3c-8129-e76ee4c856ef",
+      "kicker": "STORE DOWN",
+      "title": "Sony reportedly shuts down jailbreak PS5 game store",
+      "category": "PS5 Homebrew",
+      "published_at": "2026-10-14T08:45:27-05:00",
+      "excerpt": "The unofficial storefront that served free game downloads to jailbroken PS5s no longer works, and its GitHub page now returns a 404, with Sony Interactive Entertainment the likely party behind the…",
+      "body": "The unofficial storefront that served free game downloads to jailbroken PS5s no longer works, and its GitHub page now returns a 404, with Sony Interactive Entertainment the likely party behind the takedown [according to Notebookcheck](https://www.notebookcheck.net/Sony-reportedly-shuts-down-free-PS5-game-store-accessed-with-console-jailbreak.1423408.0.html). The app's disappearance lands alongside Sony's firmware 14.00 and 14.10 updates, which blocked the Relapse exploit outright.",
+      "url": "https://www.notebookcheck.net/Sony-reportedly-shuts-down-free-PS5-game-store-accessed-with-console-jailbreak.1423408.0.html",
+      "icon": "🎮",
+      "image_url": "https://www.tgfcer.com/wp-content/uploads/2026/01/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-v0-Vi_WBvPM-9GJC7fw5pgoFU2O2DYuq_SaISqu3TwWpQY-720x426.webp"
+    },
+    {
+      "id": "d42e9943-569c-4e3b-bff0-6e13f661f91d",
+      "kicker": "TUPAC CASE",
+      "title": "Keffe D gets 40 years to life for Tupac's murder",
+      "category": "True crime",
+      "published_at": "2026-10-14T07:32:43-05:00",
+      "excerpt": "Duane \"Keffe D\" Davis, 63, was sentenced Tuesday to two consecutive 20-years-to-life terms for orchestrating the 1996 drive-by shooting that killed Tupac Shakur in Las Vegas, per Daily Nation. The…",
+      "body": "Duane \"Keffe D\" Davis, 63, was sentenced Tuesday to two consecutive 20-years-to-life terms for orchestrating the 1996 drive-by shooting that killed Tupac Shakur in Las Vegas, per [Daily Nation](https://nation.africa/kenya/news/world/how-keffe-d-s-own-words-finally-solved-tupac-s-murder-5631102). The case against him was built largely on his own words: media appearances, a memoir, and tapes of his secret meetings with investigators.",
+      "url": "https://nation.africa/kenya/news/world/how-keffe-d-s-own-words-finally-solved-tupac-s-murder-5631102",
+      "icon": "🔍",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260831-tupac-trial-keffe-d-bf-1635-d62223.jpg"
+    },
+    {
+      "id": "6ac7b432-ba96-4475-8a5a-fc8b9d067472",
+      "kicker": "REST WINS RACES",
+      "title": "A calm heart the night before is tied to faster marathon times",
+      "category": "Fitness",
+      "published_at": "2026-10-14T06:39:22-05:00",
+      "excerpt": "Published Oct 14, 2026, 7:00 AM: Of the 73 male marathoners tracked with a single-lead ECG patch the night before the 2025 Padua Marathon, those with a lower minimum sleeping heart rate and stronger…",
+      "body": "Published Oct 14, 2026, 7:00 AM: Of the 73 male marathoners tracked with a single-lead ECG patch the night before the 2025 Padua Marathon, those with a lower minimum sleeping heart rate and stronger vagal modulation finished faster the next day, independent of age, BMI, and training hours, [per the Oct 12 study in Frontiers in Cardiovascular Medicine](https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2026.1932814/full). The authors read the pattern as a readiness signal: stronger vagal tone overnight may mark more restorative sleep, and that recovery is the preparedness that shows up the next morning.",
+      "url": "https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2026.1932814/full",
+      "icon": "📰",
+      "image_url": "https://marathonhandbook.com/wp-content/uploads/2021/11/ill-before-your-race-2-600x377.jpg"
+    },
+    {
+      "id": "ae962028-ba4a-4e4e-83b2-c0ab0fef1d83",
+      "kicker": "SHIPPED TODAY",
+      "title": "Chainguard puts CI checks inside the agent loop",
+      "category": "AI",
+      "published_at": "2026-10-14T04:24:57-05:00",
+      "excerpt": "Published Oct 14, 2026, 4:25 AM: Chainguard announced Checks on Wednesday, a verification engine that pulls CI out of its old spot after the pull request and runs it inside the agent's working loop,…",
+      "body": "Published Oct 14, 2026, 4:25 AM: Chainguard announced Checks on Wednesday, a verification engine that pulls CI out of its old spot after the pull request and runs it inside the agent's working loop, delivering signed, trusted verification in seconds, per its [PR Newswire release](https://www.morningstar.com/news/pr-newswire/20261014ne71672/introducing-chainguard-checks-reinventing-continuous-integration-for-the-agentic-era). Every passing run produces a signed attestation tying together the environment, test result, and commit, so a merge gate can verify it and merge without re-running the test suite.",
+      "url": "https://www.morningstar.com/news/pr-newswire/20261014ne71672/introducing-chainguard-checks-reinventing-continuous-integration-for-the-agentic-era",
+      "icon": "🤖",
+      "image_url": "https://images.chainguard.dev/previews/buildkite-agent.png"
+    },
+    {
+      "id": "bd3b91f5-d584-44b6-b48b-7b7dc5ea222a",
+      "kicker": "SKY BLUE ONLY",
+      "title": "Amazon takes $455 off the 512GB Galaxy S26+",
+      "category": "Deals",
+      "published_at": "2026-10-14T02:32:07-05:00",
+      "excerpt": "Published Oct 14, 2026, 2:30 AM: Amazon has the 512GB model in Sky Blue at $944.99, per PhoneArena, with no Prime membership required. Every other color and the 256GB model see far smaller discounts…",
+      "body": "Published Oct 14, 2026, 2:30 AM: Amazon has the 512GB model in Sky Blue at $944.99, [per PhoneArena](https://www.phonearena.com/news/samsung-galaxy-s26-plus-new-amazon-deal-incredible-discount-512gb-model_id184050), with no Prime membership required. Every other color and the 256GB model see far smaller discounts or none at all.",
+      "url": "https://www.phonearena.com/news/samsung-galaxy-s26-plus-new-amazon-deal-incredible-discount-512gb-model_id184050",
+      "icon": "🏷️",
+      "image_url": "https://m-cdn.phonearena.com/images/article/181414-wide-two_800/The-craziest-Prime-Day-deal-on-all-of-Amazon-this-year-saves-you-457-on-a-512GB-Galaxy-S26-Plus.webp"
+    },
+    {
+      "id": "e11f5512-1cab-4be9-b4fa-17dabebf24b0",
+      "kicker": "THE DRAINAGE FEE",
+      "title": "Brownsville adopts stormwater utility; fee deferred to Nov. 4",
+      "category": "Texas",
+      "published_at": "2026-10-14T00:21:40-05:00",
+      "excerpt": "Published Oct 14, 2026, 12:25 AM: On October 7 the Brownsville City Commission approved Ordinance 2026-1824, establishing a municipal stormwater utility to take over Resaca maintenance and fund…",
+      "body": "Published Oct 14, 2026, 12:25 AM: On October 7 the Brownsville City Commission [approved Ordinance 2026-1824](https://citizenportal.ai/articles/10820938/texas/cameron-county/brownsville/brownsville-adopts-municipal-stormwater-utility-program-fee-amount-deferred-to-nov-4), establishing a municipal stormwater utility to take over Resaca maintenance and fund drainage capital projects. The commission tabled the fee schedule until a November 4 meeting with a public town hall for input.",
+      "url": "https://citizenportal.ai/articles/10820938/texas/cameron-county/brownsville/brownsville-adopts-municipal-stormwater-utility-program-fee-amount-deferred-to-nov-4",
+      "icon": "🤠",
+      "image_url": "https://s.hdnux.com/photos/01/33/01/43/23861494/6/720x0.webp"
+    },
+    {
+      "id": "7e9b6994-cea4-4461-870c-aebf28a76946",
+      "kicker": "STARBASE, SUPERSIZED",
+      "title": "FAA weighs up to 456 Starship launches a year at Starbase",
+      "category": "Business",
+      "published_at": "2026-10-13T22:21:36-05:00",
+      "excerpt": "Published Oct 13, 2026, 9:30 PM: The FAA filed a Federal Register notice Tuesday opening public scoping on SpaceX's proposal to push Starbase toward a near-daily Starship cadence. The full review…",
+      "body": "Published Oct 13, 2026, 9:30 PM: The FAA filed a [Federal Register notice Tuesday](https://teslanorth.com/2026/10/13/faa-starbase-starship-456-peis/) opening public scoping on SpaceX's proposal to push Starbase toward a near-daily Starship cadence. The full review would weigh air quality, wildlife, coastal resources, and noise before the higher cadence gets anywhere near approval.",
+      "url": "https://teslanorth.com/2026/10/13/faa-starbase-starship-456-peis/",
+      "icon": "📰",
+      "image_url": "https://images.milledcdn.com/2023-04-11/qCNrDQzz6pIeK3IA/UbdaJJ1vvcFx.webp"
+    },
+    {
+      "id": "5130fe02-316a-410a-8e2c-9c560d3e2bac",
+      "kicker": "A TEAM OF ONE",
+      "title": "Ruflo turns one coding assistant into a 100-agent swarm",
+      "category": "AI",
+      "published_at": "2026-10-13T21:03:47-05:00",
+      "excerpt": "Published Oct 13, 2026, 7:30 PM: Cognitum One released Ruflo today as open source under the MIT license, for Claude Code, Codex, and other Model Context Protocol clients. Its new mission workflows…",
+      "body": "Published Oct 13, 2026, 7:30 PM: Cognitum One [released Ruflo today](https://www.morningstar.com/news/accesswire/1236128msn/cognitum-one-releases-ruflo-ai-agent-orchestration-for-claude-code-and-codex-with-mission-driven-mods-and-a-single-agent-control-plane) as open source under the MIT license, for Claude Code, Codex, and other Model Context Protocol clients. Its new mission workflows carry a task from research through testing and security review, while the console logs each run's cost and holds human approval before agents act.",
+      "url": "https://www.morningstar.com/news/accesswire/1236128msn/cognitum-one-releases-ruflo-ai-agent-orchestration-for-claude-code-and-codex-with-mission-driven-mods-and-a-single-agent-control-plane",
+      "icon": "🤖",
+      "image_url": "https://blog.axismarelux.net/content/images/size/w720/2026/09/ruflo-feature-v2.png"
+    },
     {
       "id": "c10ee0d4-8740-46d2-99fc-647cddd43d68",
       "kicker": "ON THE STAND",
@@ -13,6 +133,18 @@
       "url": "https://www.enterprisenews.com/story/news/courts/2026/10/13/sandra-birchmore-trial-matthew-farwell-charged-murder-day-2--live/92221606007/",
       "icon": "🔍",
       "image_url": "https://media.tegna-media.com/assets/KTVB/images/02d1b10a-bcfd-464e-922d-66adb47e80c8/02d1b10a-bcfd-464e-922d-66adb47e80c8_750x422.jpg"
+    },
+    {
+      "id": "3981cff0-cbba-4ca8-8656-a37dc1b5c04e",
+      "kicker": "LAYOFF TRUCE",
+      "title": "Administration withdraws shutdown-layoff policy under settlement",
+      "category": "Federal workforce",
+      "published_at": "2026-10-13T18:07:51-05:00",
+      "excerpt": "Published Oct 13, 2026, 9:20 AM: The Trump administration settled with federal employee unions and formally withdrew its policy of using a shutdown to conduct layoffs, per FEDmanager. The lawsuit…",
+      "body": "Published Oct 13, 2026, 9:20 AM: The Trump administration settled with federal employee unions and formally withdrew its policy of using a shutdown to conduct layoffs, per [FEDmanager](https://www.fedmanager.com/news/administration-withdraws-shutdown-related-layoff-policy-under-settlement). The lawsuit stays on hold through year-end, so unions can reopen it if another shutdown brings new layoffs.",
+      "url": "https://www.fedmanager.com/news/administration-withdraws-shutdown-related-layoff-policy-under-settlement",
+      "icon": "📰",
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/assets/v3/editorial/f/d0/fd0a4be3-1a2b-54e3-b3b6-796ed6167572/5f5c10eb11477.image.jpg?resize=400%2C267"
     },
     {
       "id": "bef991f6-dfc8-472f-998a-012f843090e7",
@@ -116,8 +248,8 @@
       "title": "No clear link between load and fiber-type muscle growth",
       "category": "Fitness",
       "published_at": "2026-10-13T10:20:22-05:00",
-      "excerpt": "Published Oct 13, 2026, 11:05 AM Across eight muscle-biopsy studies, every comparison of training load against fiber-type growth saw its confidence interval cross zero, per a Frontiers in Physiology…",
-      "body": "Published Oct 13, 2026, 11:05 AM\nAcross eight muscle-biopsy studies, every comparison of training load against fiber-type growth saw its confidence interval cross zero, [per a Frontiers in Physiology meta-regression](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1953601/full). The authors call the fiber-specific trend preliminary: too few studies and wide intervals to build a program on.",
+      "excerpt": "Across eight muscle-biopsy studies, every comparison of training load against fiber-type growth saw its confidence interval cross zero, per a Frontiers in Physiology meta-regression. The authors call…",
+      "body": "Across eight muscle-biopsy studies, every comparison of training load against fiber-type growth saw its confidence interval cross zero, [per a Frontiers in Physiology meta-regression](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1953601/full). The authors call the fiber-specific trend preliminary: too few studies and wide intervals to build a program on.",
       "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1953601/full",
       "icon": "📰",
       "image_url": "https://bretcontreras.com/wp-content/uploads/0-hyRuzOmzL8Tn-SH1-1-1.png"
@@ -397,114 +529,6 @@
       "url": "https://supportkind.org/press-releases/u-s-agencies-fast-tracking-removal-orders-for-unaccompanied-children/",
       "icon": "📰",
       "image_url": "https://cdn.mos.cms.futurecdn.net/CvdYG6yZykSEUJpWU7eV4j-1778-80.jpg"
-    },
-    {
-      "id": "57b1e96d-7ceb-4071-af26-708f970f10b0",
-      "kicker": "THE SHORTAGE PAYS",
-      "title": "Samsung forecasts ninefold profit jump as AI memory prices soar",
-      "category": "PC hardware",
-      "published_at": "2026-10-11T12:14:16-05:00",
-      "excerpt": "On October 8, Samsung guided to a third-quarter operating profit nearly nine times last year's, with memory chips expected to account for most of the jump. TrendForce expects NAND flash contract…",
-      "body": "On October 8, Samsung [guided to a third-quarter operating profit](https://www.techrepublic.com/article/news-samsung-ai-memory-profit-surge/) nearly nine times last year's, with memory chips expected to account for most of the jump. TrendForce expects NAND flash contract prices to rise 15 to 20 percent in the fourth quarter as enterprise SSD demand grows.",
-      "url": "https://www.techrepublic.com/article/news-samsung-ai-memory-profit-surge/",
-      "icon": "📰",
-      "image_url": "https://cdn.doolpa.com/news/46fa6431d173.jpg"
-    },
-    {
-      "id": "4e78bdc7-7975-45f4-bbde-290369fcddd9",
-      "kicker": "NEWS TO THEM",
-      "title": "Trump claims Russia-Ukraine energy ceasefire deal",
-      "category": "General news",
-      "published_at": "2026-10-11T10:50:18-05:00",
-      "excerpt": "President Donald Trump announced Sunday morning that Russia and Ukraine have agreed to an \"energy ceasefire,\" effective immediately. A Ukrainian official told CNN the announcement was news to Kyiv,…",
-      "body": "President Donald Trump [announced Sunday morning](https://www.cnn.com/2026/10/11/politics/trump-ukraine-russia-energy-ceasefire?cid=external-feeds_iluminar_meta) that Russia and Ukraine have agreed to an \"energy ceasefire,\" effective immediately. A Ukrainian official told CNN the announcement was news to Kyiv, saying, \"We just read it as you did.\"",
-      "url": "https://www.cnn.com/2026/10/11/politics/trump-ukraine-russia-energy-ceasefire?cid=external-feeds_iluminar_meta",
-      "icon": "📰",
-      "image_url": "https://static.nv.ua/shared/system/Article/posters/003/232/421/original/e9a4aa4a5ea338ea42c11f5fd1ce3387.jpg?q=85&stamp=20260204033851&w=900&f=webp"
-    },
-    {
-      "id": "b464a1ad-32f2-4995-8e2c-b7563d1964ff",
-      "kicker": "NEW WEEK AT DG",
-      "title": "Dollar General's Oct 11–17 ad is live",
-      "category": "Deals",
-      "published_at": "2026-10-11T06:41:30-05:00",
-      "excerpt": "Published Oct 11, 2026, 11:45 AM. DiGiorno Stuffed Crust pizzas are buy-one-get-one-free with digital coupons ($9.95) in this week's Dollar General ad. In the frozen aisle, Red Baron pizzas are 2 for…",
-      "body": "Published Oct 11, 2026, 11:45 AM. DiGiorno Stuffed Crust pizzas are buy-one-get-one-free with digital coupons ($9.95) in this week's [Dollar General ad](https://weeklyadhunters.com/dollar-general-weekly-ad/). In the frozen aisle, Red Baron pizzas are 2 for $10.",
-      "url": "https://weeklyadhunters.com/dollar-general-weekly-ad/",
-      "icon": "🏷️",
-      "image_url": "https://www.weeklyadpro.com/wp-content/uploads/2026/03/Dollar-General_0322_0328_1-696x2060.jpg"
-    },
-    {
-      "id": "a3506355-5260-4d59-810a-3aaa17ffad04",
-      "kicker": "FLAGSHIP ON THE BLOCK",
-      "title": "Nvidia reportedly ends RTX 5090 output, shifts GB202 to RTX Pro",
-      "category": "PC hardware",
-      "published_at": "2026-10-11T04:26:09-05:00",
-      "excerpt": "Published Oct 11, 2026, 11:30 AM. The report behind the chatter traces the claim to hardware leakers MEGAsizeGPU and hongxing2020 and an alleged factory notice saying Nvidia will stop building RTX…",
-      "body": "Published Oct 11, 2026, 11:30 AM. The [report behind the chatter](https://tech-insider.org/nvidia-ends-rtx-5090-production-rtx-pro-gb202-2026/) traces the claim to hardware leakers MEGAsizeGPU and hongxing2020 and an alleged factory notice saying Nvidia will stop building RTX 5090 cards and reserve GB202 silicon for RTX Pro, and Nvidia has issued no confirmation. Verified: Newegg, Amazon, Best Buy, and B&H show no first-party US RTX 5090 stock, with marketplace floors near $7,200 on a card that launched at $1,999.",
-      "url": "https://tech-insider.org/nvidia-ends-rtx-5090-production-rtx-pro-gb202-2026/",
-      "icon": "📰",
-      "image_url": "https://cdn.brief.news/images/stories/598d5096719a6d6515c018841b8a9c81906920bb07c01c5bcd4720b09866426095a1f01f412d00693b4de6798f658386995092a26bfa6524dfb9992fd3eee950.png"
-    },
-    {
-      "id": "6c7d03e5-c601-434d-8ba5-f00f52977aed",
-      "kicker": "OPEN AGENT GOES ENTERPRISE",
-      "title": "Nous raises $90M to bring open-source Hermes agents to enterprises",
-      "category": "AI",
-      "published_at": "2026-10-11T02:32:59-05:00",
-      "excerpt": "Hermes for Businesses adds private or on-premise deployment, single sign-on, audit and per-user spending caps to the open-source agent, which stays MIT-licensed. Nous confirmed the $90 million Series…",
-      "body": "Hermes for Businesses adds [private or on-premise deployment, single sign-on, audit and per-user spending caps](https://raziel.news/en/2026/10/nous-research-1-5-billion-hermes-for-businesses/) to the open-source agent, which stays MIT-licensed. Nous confirmed the [$90 million Series B](https://theaiinsider.tech/2026/10/08/nous-research-secures-90m-series-b-at-1-5b-valuation-to-bring-hermes-ai-agents-to-enterprises/) on Oct 7, led by Robot Ventures.",
-      "url": "https://raziel.news/en/2026/10/nous-research-1-5-billion-hermes-for-businesses/",
-      "icon": "🤖",
-      "image_url": "https://uicolours.com/og-images/hermesagent-001.jpg"
-    },
-    {
-      "id": "c039ec2e-2ca5-482a-8080-fbae6ed0170d",
-      "kicker": "NO PC, NO ROMS",
-      "title": "Jailbroken PS5s can now dump PS2 discs straight from the drive",
-      "category": "PS5 Homebrew",
-      "published_at": "2026-10-11T00:19:43-05:00",
-      "excerpt": "PS5SX2 2.01 lets a jailbroken PS5 read a PS2 disc in its own drive, dump it to the console SSD or an external HDD, and launch the game, with no PC ripping or downloaded ROMs. The catch is the drive…",
-      "body": "[PS5SX2 2.01](https://thedailygame.news/story/2026-10-10-ps5sx2-emulator-update-lets-jailbroken-ps5s-read-and-dump-ps2-discs-dire--5fc55541) lets a jailbroken PS5 read a PS2 disc in its own drive, dump it to the console SSD or an external HDD, and launch the game, with no PC ripping or downloaded ROMs. The catch is the drive itself: it reads Blu-rays and DVDs but not CDs, so blue-tinted CD-format PS2 discs and all PS1 discs stay unreadable.",
-      "url": "https://thedailygame.news/story/2026-10-10-ps5sx2-emulator-update-lets-jailbroken-ps5s-read-and-dump-ps2-discs-dire--5fc55541",
-      "icon": "🎮",
-      "image_url": "https://www.androidheadlines.com/wp-content/uploads/2026/09/AH-PS5.webp"
-    },
-    {
-      "id": "a73346e2-420e-4a86-bf68-c194b1e3874f",
-      "kicker": "PAID TO LEAVE",
-      "title": "DHS offers migrant children $3,000 for voluntary departure",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-10T22:23:21-05:00",
-      "excerpt": "Bloomberg Law reported October 9 that ICE attorneys and some immigration judges are offering migrant children as young as 5 a $3,000 incentive to take voluntary departure, up from a $2,500 offer…",
-      "body": "[Bloomberg Law reported October 9](https://news.bloomberglaw.com/us-law-week/dhs-offers-migrant-children-3-000-to-voluntarily-depart-us) that ICE attorneys and some immigration judges are offering migrant children as young as 5 a $3,000 incentive to take voluntary departure, up from a $2,500 offer limited to teens 14 and older. Legal aid groups call it coercion: some children are asked to decide on the spot, at times without a lawyer, waiving asylum or other relief for the payment.",
-      "url": "https://news.bloomberglaw.com/us-law-week/dhs-offers-migrant-children-3-000-to-voluntarily-depart-us",
-      "icon": "📰",
-      "image_url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/D3V52EWVBFC4BCTC75YNI3WXDA.jpg?auth=8a0de67dfb6e1e24b9e79a9bc6c5819c24581829e6e51ea3dd441de44ca9faf7&quality=80&width=830"
-    },
-    {
-      "id": "1cbd8e6a-9407-4aa5-badc-cec787f47b85",
-      "kicker": "TONIGHT ONLY",
-      "title": "Four DiGiorno pizzas and a Pepsi for $21.80 at Dollar General",
-      "category": "Deals",
-      "published_at": "2026-10-10T21:17:37-05:00",
-      "excerpt": "Four DiGiorno Stuffed Crust pizzas plus a 2-liter Pepsi come out at $21.80 tonight, per the Krazy Coupon Lady's Saturday scenario, which stacks the app's $5 off $25 coupon with Fetch and Ibotta…",
-      "body": "Four DiGiorno Stuffed Crust pizzas plus a 2-liter Pepsi come out at $21.80 tonight, [per the Krazy Coupon Lady's Saturday scenario](https://thekrazycouponlady.com/2026/10/09/saturday-at-dollar-general-42-75-value-digiorno-and-pepsi-haul-for-21-80), which stacks the app's $5 off $25 coupon with Fetch and Ibotta rebates. The coupon is in the Dollar General app and dies at close tonight.",
-      "url": "https://thekrazycouponlady.com/2026/10/09/saturday-at-dollar-general-42-75-value-digiorno-and-pepsi-haul-for-21-80",
-      "icon": "🏷️",
-      "image_url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/5XOWZcrDUxU4P2rJh4HN9v/3546bb14dd586d6a5d8310c88e233fa3/IMG_1271_jpg.jpg?fit=max&auto=format"
-    },
-    {
-      "id": "5449f928-c963-4a72-8b29-edcdc43d9799",
-      "kicker": "Worth building",
-      "title": "I can build your Oct 28 UAC disclosure cheat sheet",
-      "category": "💡 Ideas",
-      "published_at": "2026-10-10T21:01:02-05:00",
-      "excerpt": "I can read the Sept 28 HHS Privacy Act notice and turn its revised routine uses into a one-page sheet for your nine case managers, showing each permitted disclosure with its recipient and documented…",
-      "body": "I can read the Sept 28 HHS Privacy Act notice and turn its revised routine uses into a one-page sheet for your nine case managers, showing each permitted disclosure with its recipient and documented basis, and what stops being allowed after Oct 28.",
-      "url": null,
-      "icon": "📰",
-      "image_url": "https://www.drmacscybersecuritybrief.com/uploads/2021/758da1956a.jpg"
     }
   ]
 }
