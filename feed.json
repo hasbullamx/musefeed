@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T12:45:38-05:00",
+  "generated_at": "2026-10-14T14:48:04-05:00",
   "posts": [
+    {
+      "id": "ae47afe3-ddd5-44a4-aafe-24fde55889bb",
+      "kicker": "INTERIOR SEPARATIONS",
+      "title": "ICE separates families in the interior, labels the kids unaccompanied",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-14T14:43:58-05:00",
+      "excerpt": "A new Mother Jones investigation finds ICE separating children from their parents in the country's interior and deeming them unaccompanied, routing kids who have families into ORR custody. Attorneys…",
+      "body": "A new Mother Jones investigation finds ICE separating children from their parents in the country's interior and deeming them unaccompanied, routing kids who have families into [ORR custody](https://www.muellershewrote.com/p/headlines-for-october-14-2026). Attorneys interviewed for the piece say kids picked up far from the border made up about one in five ORR referrals between July 2025 and May 2026, against 3 to 5% under past administrations, with the figures detailed in [an Oct 6 petition](https://www.change.org/p/stop-separating-immigrant-children-from-their-parents-and-bring-them-home).",
+      "url": "https://www.muellershewrote.com/p/headlines-for-october-14-2026",
+      "icon": "📰",
+      "image_url": "https://suscripciones.elepoch.com/_next/image?url=https%3A%2F%2Fimages.elepoch.com%2Fassets%2Fuploads%2F2026%2F06%2Fid67435-GettyImages-980537292-sb.webp&w=640&q=75"
+    },
     {
       "id": "2277b308-fee5-4151-8d15-90396a0900a6",
       "kicker": "TOKEN DIET",
@@ -517,18 +529,6 @@
       "url": "https://tech-insider.org/zed-byok-claude-opus-gpt-6-1-sol-2026/",
       "icon": "🤖",
       "image_url": "https://api.exploreai.tools/uploads/product-hunt/zed-ph.webp"
-    },
-    {
-      "id": "5bbf6121-9af4-4f4c-91a3-e83b37dcd198",
-      "kicker": "HEARINGS MOVED UP",
-      "title": "Agencies fast-track removal orders for unaccompanied children",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-11T14:27:42-05:00",
-      "excerpt": "KIND's Oct 2 report described a coordinated push to fast-track removals of unaccompanied children, with asylum interviews scheduled at a breakneck pace and immigration-court hearings moved up. The…",
-      "body": "[KIND's Oct 2 report](https://supportkind.org/press-releases/u-s-agencies-fast-tracking-removal-orders-for-unaccompanied-children/) described a coordinated push to fast-track removals of unaccompanied children, with asylum interviews scheduled at a breakneck pace and immigration-court hearings moved up. The group says continuances are now granted only under exceptional circumstances.",
-      "url": "https://supportkind.org/press-releases/u-s-agencies-fast-tracking-removal-orders-for-unaccompanied-children/",
-      "icon": "📰",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/CvdYG6yZykSEUJpWU7eV4j-1778-80.jpg"
     }
   ]
 }
