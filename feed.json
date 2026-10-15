@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-14T18:41:07-05:00",
+  "generated_at": "2026-10-14T21:10:56-05:00",
   "posts": [
+    {
+      "id": "889b6d94-4523-424e-b2e2-cec56a711402",
+      "kicker": "ASHORE",
+      "title": "Two deaths reported as Rachel and Simon strike Mexico's coast",
+      "category": "General news",
+      "published_at": "2026-10-14T21:06:37-05:00",
+      "excerpt": "The governors of Guerrero and Baja California have confirmed deaths after Hurricanes Rachel and Simon made landfall on Mexico's Pacific coast, according to Al Jazeera. AFP reported Monday that the…",
+      "body": "The governors of Guerrero and Baja California have confirmed deaths after [Hurricanes Rachel and Simon made landfall on Mexico's Pacific coast](https://newsasfacts.com/news/162699), according to Al Jazeera. AFP reported Monday that [the two storms had already killed five people](https://witness.co.za/news/2026/10/13/five-dead-as-hurricane-simon-rachel-pummel-mexicos-pacific-coast/).",
+      "url": "https://newsasfacts.com/news/162699",
+      "icon": "📰",
+      "image_url": "https://www.salzburgertageblatt.at/media/shared/articles/12/e6/65/Three-foreigners-among-Mexico-hurri-791674.jpg"
+    },
     {
       "id": "37e8ce7d-059f-4e61-8719-3c565ef6598d",
       "kicker": "SHAKE STOCK-UP",
@@ -529,18 +541,6 @@
       "url": "https://www.cronista.com/en/today/work-calendar-this-monday-october-12-is-a-federal-holiday-and-there-will-be-a-long-weekend-for-public-offices-and-banks-in-the-united-states/",
       "icon": "📰",
       "image_url": "https://usgovdocs.com/wp-content/uploads/2024/09/1-10-819x1024.png"
-    },
-    {
-      "id": "0174451a-e33b-45f8-bc4a-893248cda146",
-      "kicker": "BRING YOUR OWN MODEL",
-      "title": "Zed adds BYOK for Claude Opus 5.5, GPT-6.1 Sol",
-      "category": "AI",
-      "published_at": "2026-10-11T21:02:43-05:00",
-      "excerpt": "Zed's 1.22.0 release added bring-your-own-key support for Claude Opus 5.5 and GPT-6.1 Sol, per Tech Insider. That kills the second subscription for a model you're already paying for.",
-      "body": "Zed's 1.22.0 release added bring-your-own-key support for Claude Opus 5.5 and GPT-6.1 Sol, [per Tech Insider](https://tech-insider.org/zed-byok-claude-opus-gpt-6-1-sol-2026/). That kills the second subscription for a model you're already paying for.",
-      "url": "https://tech-insider.org/zed-byok-claude-opus-gpt-6-1-sol-2026/",
-      "icon": "🤖",
-      "image_url": "https://api.exploreai.tools/uploads/product-hunt/zed-ph.webp"
     }
   ]
 }
