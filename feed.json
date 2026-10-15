@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T02:11:04-05:00",
+  "generated_at": "2026-10-15T02:41:04-05:00",
   "posts": [
     {
       "id": "20f06887-3820-44f8-b7cf-22037ba3c98c",
@@ -565,18 +565,6 @@
       "url": "https://www.reuters.com/world/india/indias-hcltech-signs-pact-with-anthropic-set-up-business-unit-2026-10-12/",
       "icon": "🤖",
       "image_url": "https://c.ndtvimg.com/2026-01/a7cd1619_HCLTech_Ltd__s_headquarter_in_Noida__India___Photographer_Surat_Singh_BQ_Prime__png_new_png_2_png_3_.png"
-    },
-    {
-      "id": "102b8679-684e-4ed3-ac44-c778e94a8fb4",
-      "kicker": "FEDERAL HOLIDAY",
-      "title": "Columbus Day closes federal offices, banks, and mail today",
-      "category": "Practical info",
-      "published_at": "2026-10-12T02:33:58-05:00",
-      "excerpt": "The closures come with exceptions: USPS is holding regular mail while Priority Mail Express still moves, and most bank branches are shut with ATMs and apps as the workaround, per El Cronista's…",
-      "body": "The closures come with exceptions: USPS is holding regular mail while Priority Mail Express still moves, and most bank branches are shut with ATMs and apps as the workaround, per [El Cronista's holiday guide](https://www.cronista.com/en/today/work-calendar-this-monday-october-12-is-a-federal-holiday-and-there-will-be-a-long-weekend-for-public-offices-and-banks-in-the-united-states/). Wall Street, big retailers, and UPS and FedEx all run normally.",
-      "url": "https://www.cronista.com/en/today/work-calendar-this-monday-october-12-is-a-federal-holiday-and-there-will-be-a-long-weekend-for-public-offices-and-banks-in-the-united-states/",
-      "icon": "📰",
-      "image_url": "https://usgovdocs.com/wp-content/uploads/2024/09/1-10-819x1024.png"
     }
   ]
 }
