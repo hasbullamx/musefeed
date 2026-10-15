@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T08:42:36-05:00",
+  "generated_at": "2026-10-15T14:44:29-05:00",
   "posts": [
     {
       "id": "ce7a3a27-fef3-4848-a9d1-af00563f0b3d",
@@ -541,78 +541,6 @@
       "url": null,
       "icon": "📰",
       "image_url": "https://cdn.thebittimes.com/vimedia/w800/2026/06/02/ec8ff3ff3a44eec9f5adf8a7503afbb8.webp"
-    },
-    {
-      "id": "0a4d8689-0115-449d-9bba-12b88327e71b",
-      "kicker": "THE LAST NOBEL",
-      "title": "Two Americans win Nobel economics prize for boom-bust research",
-      "category": "General news",
-      "published_at": "2026-10-12T14:30:03-05:00",
-      "excerpt": "Robert E. Hall of Stanford and Michael Woodford of Columbia won the 2026 Nobel economics prize for the \"microeconomic foundations of macroeconomic stabilisation.\" Their work showed that boom-bust…",
-      "body": "Robert E. Hall of Stanford and Michael Woodford of Columbia [won the 2026 Nobel economics prize](https://www.khsu.org/2026-10-12/two-americans-win-nobel-prize-in-economics-for-work-on-boom-bust-cycles) for the \"microeconomic foundations of macroeconomic stabilisation.\" Their work showed that boom-bust cycles run on what households and firms expect, making a central bank's plain talk about its plans a stabilisation tool in itself.",
-      "url": "https://www.khsu.org/2026-10-12/two-americans-win-nobel-prize-in-economics-for-work-on-boom-bust-cycles",
-      "icon": "📰",
-      "image_url": "https://images.gmanews.tv/webpics/2020/10/nobel_economics_2020_10_12_20_27_08.jpg"
-    },
-    {
-      "id": "f9a1b74b-5211-4745-a148-5706c7f4115a",
-      "kicker": "LAPTOP DEAL",
-      "title": "HP OMEN 15 RTX 5060 laptop hits $1,149, its lowest price",
-      "category": "PC hardware",
-      "published_at": "2026-10-12T13:50:18-05:00",
-      "excerpt": "Published Oct 12, 2026, 1:30 PM: Walmart has the HyperX OMEN 15 gaming laptop (RTX 5060, Core Ultra 7 255H, 15.6-inch 2K 165Hz display, 16GB RAM, 1TB SSD) at $1,149 shipped, per 9to5Toys. The site…",
-      "body": "Published Oct 12, 2026, 1:30 PM: Walmart has the HyperX OMEN 15 gaming laptop (RTX 5060, Core Ultra 7 255H, 15.6-inch 2K 165Hz display, 16GB RAM, 1TB SSD) at $1,149 shipped, per [9to5Toys](https://9to5toys.com/2026/10/12/save-750-on-hp-rtx-5060-omen-15-gaming-laptop-while-down-to-lowest-price/). The site calls it the lowest price it has tracked for this notebook, $100 below the fall Prime Day low it logged last week.",
-      "url": "https://9to5toys.com/2026/10/12/save-750-on-hp-rtx-5060-omen-15-gaming-laptop-while-down-to-lowest-price/",
-      "icon": "🏷️",
-      "image_url": "https://cdn1.smartprix.com/rx-iyhcW3aOc-w1200-h1200/hp-omen-15-ek1016tx.jpg"
-    },
-    {
-      "id": "79541dfb-bdd1-40a5-bed8-3eb8262612ea",
-      "kicker": "PS3 DISCS NEXT",
-      "title": "Jailbreak dev says PS3 discs will play on the PS5 too",
-      "category": "PS5 Homebrew",
-      "published_at": "2026-10-12T10:51:09-05:00",
-      "excerpt": "Version 2.03 of the PS5SX2 emulator has been free on GitHub since October 11, adding experimental external USB drive support, per Notebookcheck. When a user asked whether PS3 discs would play on the…",
-      "body": "Version 2.03 of the PS5SX2 emulator has been free on GitHub since October 11, adding experimental external USB drive support, per [Notebookcheck](https://www.notebookcheck.net/PS5-can-now-play-original-PS2-discs-but-there-s-a-catch.1421922.0.html). When a user asked whether PS3 discs would play on the PS5 too, developer Sword answered: \"It will.\"",
-      "url": "https://www.notebookcheck.net/PS5-can-now-play-original-PS2-discs-but-there-s-a-catch.1421922.0.html",
-      "icon": "🎮",
-      "image_url": "https://techraptor.net/sites/default/files/styles/image_header/public/2022-10/PS5%20Jailbreak%20Main.jpg?itok=KevgiYVv"
-    },
-    {
-      "id": "f23bd811-0325-47d6-888c-480bb4ef4570",
-      "kicker": "FEWER GRINDY REPS",
-      "title": "Stopping sets early beats grinding for jump and sprint",
-      "category": "Fitness",
-      "published_at": "2026-10-12T10:25:34-05:00",
-      "excerpt": "A Frontiers in Physiology meta-analysis of 12 randomized controlled trials, published October 6, found that stopping sets when rep speed dipped about 10% produced better jump and sprint gains than…",
-      "body": "A [Frontiers in Physiology meta-analysis](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1893020/full) of 12 randomized controlled trials, published October 6, found that stopping sets when rep speed dipped about 10% produced better jump and sprint gains than pushing through to 30-40% velocity loss. The 10%-loss group added 9.2% to countermovement jump against 5.4% for the 30%-loss group, while doing less than half the total reps.",
-      "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1893020/full",
-      "icon": "📰",
-      "image_url": "https://www.scetv.org/sites/default/files/blogs/jumpingoverhurdle_830x500_0.jpg"
-    },
-    {
-      "id": "ae8bce0b-f558-49fd-913f-93cfd99db5d8",
-      "kicker": "Worth building",
-      "title": "Turn the October 1 fraud memo into a shift briefing",
-      "category": "💡 Ideas",
-      "published_at": "2026-10-12T09:18:52-05:00",
-      "excerpt": "I can read the October 1 HHS/ORR fraud memo and turn its six sponsor fraud types into a one-page briefing for your nine case managers, with the intake red flags and the concrete shift change for…",
-      "body": "I can read the October 1 HHS/ORR fraud memo and turn its six sponsor fraud types into a one-page briefing for your nine case managers, with the intake red flags and the concrete shift change for each. You hand it to the team as-is instead of spending the evening translating the memo yourself.",
-      "url": null,
-      "icon": "📰",
-      "image_url": "https://images.ctfassets.net/qtrpafp8c4td/4kzaXi7YhWsMc2StyWZnBF/ea68277704f3db9337898f63355db517/5.png?fm=webp&w=1200&q=70"
-    },
-    {
-      "id": "adf79325-518e-483c-a112-edfc39bba548",
-      "kicker": "ENTERPRISE AGENTS",
-      "title": "HCLTech sets up an Anthropic business unit",
-      "category": "AI",
-      "published_at": "2026-10-12T08:46:58-05:00",
-      "excerpt": "On Monday, HCLTech signed a Global Premier Partnership with Anthropic to bring agentic AI to large enterprises. Its services teams will build industry solutions on Claude, Cowork, and Claude Code,…",
-      "body": "On Monday, HCLTech signed a Global Premier Partnership with Anthropic to bring agentic AI to large enterprises. Its services teams will build industry solutions on Claude, Cowork, and Claude Code, per [Reuters](https://www.reuters.com/world/india/indias-hcltech-signs-pact-with-anthropic-set-up-business-unit-2026-10-12/).",
-      "url": "https://www.reuters.com/world/india/indias-hcltech-signs-pact-with-anthropic-set-up-business-unit-2026-10-12/",
-      "icon": "🤖",
-      "image_url": "https://c.ndtvimg.com/2026-01/a7cd1619_HCLTech_Ltd__s_headquarter_in_Noida__India___Photographer_Surat_Singh_BQ_Prime__png_new_png_2_png_3_.png"
     }
   ]
 }
