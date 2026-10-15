@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T00:41:14-05:00",
+  "generated_at": "2026-10-15T00:42:04-05:00",
   "posts": [
+    {
+      "id": "20f06887-3820-44f8-b7cf-22037ba3c98c",
+      "kicker": "open on your machine",
+      "title": "NVIDIA open-sources a 74B agentic model that fits in 24GB",
+      "category": "AI",
+      "published_at": "2026-10-15T00:20:05-05:00",
+      "excerpt": "Published Oct 15, 2026, 9:30 AM. Nemotron 3.5 Bolt 74B-A9B lands today, firing only 9 billion of its parameters per query to fit on a laptop. NVIDIA's free PAIR router leaves beta alongside it,…",
+      "body": "Published Oct 15, 2026, 9:30 AM. Nemotron 3.5 Bolt 74B-A9B lands today, firing only 9 billion of its parameters per query to fit on a laptop. NVIDIA's free PAIR router leaves beta alongside it, sending whole inference requests to whichever PC on your home network has spare capacity.",
+      "url": null,
+      "icon": "🤖",
+      "image_url": "https://content.presspage.com/uploads/2428/bb76fc4b-715c-48a3-95ff-ee448493a332/far877-inline.png?10000"
+    },
     {
       "id": "3777715c-cb43-4f08-a823-1734c6c732a7",
       "kicker": "CROSS-EXAMINATION",
