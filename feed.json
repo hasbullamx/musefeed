@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T02:41:04-05:00",
+  "generated_at": "2026-10-15T02:41:48-05:00",
   "posts": [
+    {
+      "id": "6b8f63d4-22c9-49a5-99d5-10d3fb023e48",
+      "kicker": "CHEAPEST 12GB YET",
+      "title": "Arc B580 hits $329 with a free 360mm AIO at Newegg",
+      "category": "PC hardware",
+      "published_at": "2026-10-15T02:31:52-05:00",
+      "excerpt": "Published Oct 15, 2026, 10:05 AM: Newegg dropped the ASRock Challenger Arc B580 12GB to $329 and threw in a free 360mm AIO cooler worth $89, per Wccftech. Counting the cooler, the card effectively…",
+      "body": "Published Oct 15, 2026, 10:05 AM: Newegg dropped the ASRock Challenger Arc B580 12GB to $329 and threw in a free 360mm AIO cooler worth $89, [per Wccftech](https://wccftech.com/buy-intel-arc-b580-for-329-and-get-a-free-90-aio-cooler/). Counting the cooler, the card effectively lands below its $249 launch price and becomes the cheapest 12GB GPU on the shelf.",
+      "url": "https://wccftech.com/buy-intel-arc-b580-for-329-and-get-a-free-90-aio-cooler/",
+      "icon": "📰",
+      "image_url": "https://cdn.videocardz.com/1/2026/03/ASROCK-B580-FREE-AIO-2048x1065.jpg"
+    },
     {
       "id": "20f06887-3820-44f8-b7cf-22037ba3c98c",
       "kicker": "open on your machine",
