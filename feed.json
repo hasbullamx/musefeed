@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T14:46:20-05:00",
+  "generated_at": "2026-10-15T20:46:45-05:00",
   "posts": [
+    {
+      "id": "b3c31cf8-9d2e-49c9-a867-76beb4a07ab7",
+      "kicker": "NOT THEIR MONEY",
+      "title": "Judge pauses USDA's plan to move thousands of workers out of DC",
+      "category": "Federal workforce",
+      "published_at": "2026-10-15T18:10:09-05:00",
+      "excerpt": "Published Oct 15, 2026, 7:05 PM: A federal judge on Tuesday paused the Agriculture Department's plan to move thousands of workers from Washington to regional hubs, ruling the reorganization likely…",
+      "body": "Published Oct 15, 2026, 7:05 PM: A federal judge on Tuesday paused the Agriculture Department's plan to move thousands of workers from Washington to regional hubs, ruling the reorganization likely violates congressional appropriations law, [per Bloomberg Law](https://news.bloomberglaw.com/daily-labor-report/judge-pauses-trump-plan-to-relocate-agriculture-agency-workers). The stay, granted under the Administrative Procedure Act at the federal unions' request, bars USDA from relocating or reassigning employees outside their local commuting area while the case proceeds.",
+      "url": "https://news.bloomberglaw.com/daily-labor-report/judge-pauses-trump-plan-to-relocate-agriculture-agency-workers",
+      "icon": "📰",
+      "image_url": "https://reportersonline.eu/wp-content/uploads/2026/02/390.jpg"
+    },
+    {
+      "id": "c0923797-6971-43b2-9b6b-f32c0b206c58",
+      "kicker": "Vegas race shot",
+      "title": "Las Vegas Grand Prix giveaway ends Oct 26",
+      "category": "Deals",
+      "published_at": "2026-10-15T17:03:33-05:00",
+      "excerpt": "The prize is StubHub gift cards for two tickets to the Nov 19-21 race plus $1,000 for travel accommodations. Entry is name and email on the form with no purchase or social sharing required.",
+      "body": "The prize is StubHub gift cards for two tickets to the Nov 19-21 race plus $1,000 for travel accommodations. Entry is name and email on the form with no purchase or social sharing required.",
+      "url": null,
+      "icon": "🏷️",
+      "image_url": "https://www.f1lasvegasgp.com/app/uploads/2026/03/TMO-GS-768x768.png"
+    },
+    {
+      "id": "de2dbb06-03ac-46f2-8216-8f756da9fd05",
+      "kicker": "SHELTER SCRAMBLE",
+      "title": "Emails show 2021 rush to expand Pomona migrant-kids shelter",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-15T16:57:51-05:00",
+      "excerpt": "Published Oct 15, 2026, 4:45 PM: Newly obtained emails show an ACF official pressing contractor Cherokee Federal for immediate plans to add bunk beds and COVID quarantine space at the Pomona shelter…",
+      "body": "Published Oct 15, 2026, 4:45 PM: Newly obtained emails show an ACF official pressing contractor Cherokee Federal for immediate plans to add bunk beds and COVID quarantine space at the Pomona shelter in August 2021, [according to the Daily Caller's exclusive](https://dailycaller.com/2026/10/15/biden-admin-cherokee-federal-hhs-acf-migrant-kids-shelter-casa-james-fitzpatrick). The HHS inspector general later found 8 of the 11 emergency sites it visited, Pomona included, never traced the contacts of children or staff who tested positive for COVID.",
+      "url": "https://dailycaller.com/2026/10/15/biden-admin-cherokee-federal-hhs-acf-migrant-kids-shelter-casa-james-fitzpatrick",
+      "icon": "📰",
+      "image_url": "https://i0.wp.com/thepolypost.com/wp-content/uploads/2021/05/DSC_0458-scaled-e1620244475543.jpg?resize=768%2C445&ssl=1"
+    },
+    {
+      "id": "834042af-6c43-4b63-8729-aa206e5d8293",
+      "kicker": "FLORIDA BOUND",
+      "title": "SpaceX moves all Florida Starlink launches to Starship",
+      "category": "Texas",
+      "published_at": "2026-10-15T16:29:40-05:00",
+      "excerpt": "Published Oct 15, 2026, 3:35 PM: SpaceX is moving its Florida Starlink business from its proven Falcon 9 workhorse to Starship, with the last Falcon 9 Starlink launch from the Space Coast flown in…",
+      "body": "Published Oct 15, 2026, 3:35 PM: SpaceX is [moving its Florida Starlink business from its proven Falcon 9 workhorse to Starship](https://www.floridatoday.com/story/tech/science/space/spacex/2026/10/15/when-is-the-spacex-starship-florida-launch-kennedy-space-center-progress/92245783007/), with the last Falcon 9 Starlink launch from the Space Coast flown in August. On October 14 the Starship barge \"You'll Thank Me Later\" returned to Cape Canaveral from Texas carrying the Starlink V3 satellite loader.",
+      "url": "https://www.floridatoday.com/story/tech/science/space/spacex/2026/10/15/when-is-the-spacex-starship-florida-launch-kennedy-space-center-progress/92245783007/",
+      "icon": "🤠",
+      "image_url": "https://www.sciencefriday.com/wp-content/uploads/2024/11/starlink_flight-6-flickr.jpg?resize=1024,733"
+    },
     {
       "id": "cd169f3c-8bd0-4faa-bc19-cf659b3a4ad3",
       "kicker": "Without counsel",
@@ -589,30 +637,6 @@
       "url": "https://www.reuters.com/business/meta-releases-muse-wonder-ai-models-challenge-anthropic-openai-2026-10-12/",
       "icon": "🤖",
       "image_url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-01/21/2026-01-21T094304Z_2_LYNXMPEM0K0IS_RTROPTP_3_OPENAI-META.JPG"
-    },
-    {
-      "id": "3d8c5639-46ac-476d-9aa6-120a3e0b0684",
-      "kicker": "SATELLITE TO PHONE",
-      "title": "FCC approves SpaceX's 15,000-satellite direct-to-device network",
-      "category": "Technology",
-      "published_at": "2026-10-12T18:08:02-05:00",
-      "excerpt": "On October 7, the FCC cleared nine very-low-Earth-orbit shells from 326 to 335 km for what SpaceX calls Starlink Mobile, using spectrum acquired from EchoStar plus supplemental coverage-from-space…",
-      "body": "On October 7, the FCC cleared nine very-low-Earth-orbit shells from 326 to 335 km for what SpaceX calls Starlink Mobile, using spectrum acquired from EchoStar plus supplemental coverage-from-space spectrum, per [Via Satellite](https://www.satellitetoday.com/connectivity/2026/10/07/fcc-grants-spacex-approval-for-15000-direct-to-device-satellites-in-mss-spectrum/). The next generation starts launching next year for service by year-end, a leap past the roughly 650 satellites carrying the current direct-to-device offering.",
-      "url": "https://www.satellitetoday.com/connectivity/2026/10/07/fcc-grants-spacex-approval-for-15000-direct-to-device-satellites-in-mss-spectrum/",
-      "icon": "📰",
-      "image_url": "https://satnews.com/wp-content/uploads/2026/08/SpaceX_FCC-768x472.jpg"
-    },
-    {
-      "id": "6ab87525-106d-452d-a84d-c92f1cf731a0",
-      "kicker": "REPORTED NOT FILED",
-      "title": "Anthropic holds pre-IPO investor day Wednesday, S-1 still not public",
-      "category": "Business",
-      "published_at": "2026-10-12T16:27:32-05:00",
-      "excerpt": "Anthropic is set to meet prospective investors at its San Francisco headquarters on Wednesday, October 14, per Bloomberg's October 1 reporting. A direct SEC EDGAR check on October 9 found no public…",
-      "body": "Anthropic is set to meet prospective investors at its San Francisco headquarters on Wednesday, October 14, per Bloomberg's October 1 reporting. A direct SEC EDGAR check on October 9 found no public S-1 from Anthropic, PBC, so the November timeline is still reported rather than filed.",
-      "url": null,
-      "icon": "📰",
-      "image_url": "https://cdn.thebittimes.com/vimedia/w800/2026/06/02/ec8ff3ff3a44eec9f5adf8a7503afbb8.webp"
     }
   ]
 }
