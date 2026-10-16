@@ -1,7 +1,79 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T02:49:29-05:00",
+  "generated_at": "2026-10-16T08:52:00-05:00",
   "posts": [
+    {
+      "id": "5cd7d83b-cfb5-4365-9617-f7355eb53cf6",
+      "kicker": "THE SUPPLIER PLAY",
+      "title": "Taiwan plans $4 billion AI supply park in Texas",
+      "category": "Business",
+      "published_at": "2026-10-16T08:45:27-05:00",
+      "excerpt": "Published Oct 16, 2026, 1:20 PM: Smaller Taiwanese suppliers would get loan guarantees and help with visas and land to set up in Texas, per Aju Press. It is Taiwan's first U.S. industrial park for…",
+      "body": "Published Oct 16, 2026, 1:20 PM: Smaller Taiwanese suppliers would get loan guarantees and help with visas and land to set up in Texas, [per Aju Press](https://www.ajupress.com/view/20261016154870184). It is Taiwan's first U.S. industrial park for the AI hardware chain, from chips to server parts.",
+      "url": "https://www.ajupress.com/view/20261016154870184",
+      "icon": "📰",
+      "image_url": "https://www.crbcnews.com/_next/image?url=https%3A%2F%2Fsvetvesti-prod.s3.eu-west-1.amazonaws.com%2Farticle-images-prod%2F6a9a1796f866863e30a19bf2.jpg&w=3840&q=75"
+    },
+    {
+      "id": "ba514ebf-9a0b-4742-a244-cd104c8b2e20",
+      "kicker": "PRICE HIKE",
+      "title": "AMD raises RX 9000 prices by up to 20%",
+      "category": "PC hardware",
+      "published_at": "2026-10-16T08:19:53-05:00",
+      "excerpt": "Published Oct 16, 2026, 12:55 PM: AMD has raised suggested prices across its entire Radeon RX 9000 lineup for the third quarter of 2026. The RX 9070 XT takes the biggest hit, jumping from $830 to…",
+      "body": "Published Oct 16, 2026, 12:55 PM: AMD has [raised suggested prices across its entire Radeon RX 9000 lineup](https://www.eteknix.com/amd-officially-raises-radeon-rx-9000-prices-by-up-to-20/) for the third quarter of 2026. The RX 9070 XT takes the biggest hit, jumping from $830 to over $1,000.",
+      "url": "https://www.eteknix.com/amd-officially-raises-radeon-rx-9000-prices-by-up-to-20/",
+      "icon": "📰",
+      "image_url": "https://media.comm.cx/cache/preview_cards/images/006/590/192/original/ff26b49df0d84230.jpeg"
+    },
+    {
+      "id": "c077b9d4-cf62-44ea-8b80-c6aac78a6cbb",
+      "kicker": "THE OFFLINE LIFE",
+      "title": "Sony locks jailbroken PS5s out of PSN unless they update to 14.10",
+      "category": "PS5 Homebrew",
+      "published_at": "2026-10-16T08:00:46-05:00",
+      "excerpt": "Published Oct 16, 2026, 12:05 PM: Jailbroken PS5 owners now face a hard choice: stay on older firmware and lose PSN entirely, or update to 14.10 and lose the jailbreak, since Sony now demands the new…",
+      "body": "Published Oct 16, 2026, 12:05 PM: Jailbroken PS5 owners now face a hard choice: stay on older firmware and lose PSN entirely, or update to 14.10 and lose the jailbreak, since Sony now demands the new firmware for sign-in, [per Notebookcheck](https://www.notebookcheck.net/Sony-blocks-PS5-console-jailbreak-from-PSN-requiring-firmware-update-14-10.1424308.0.html). The squeeze tightens next month, because data miners found GTA 6 will require 14.10 at launch even though it is single-player oriented.",
+      "url": "https://www.notebookcheck.net/Sony-blocks-PS5-console-jailbreak-from-PSN-requiring-firmware-update-14-10.1424308.0.html",
+      "icon": "🎮",
+      "image_url": "https://www.notebookcheck.nl/fileadmin/Notebooks/News/_nc5/PS5showninJailCell.jpg"
+    },
+    {
+      "id": "7308341e-f75a-45a4-a2cf-b18fdbf805ec",
+      "kicker": "LIFT TO RUN",
+      "title": "Strength only helps runners who actually stick with it",
+      "category": "Fitness",
+      "published_at": "2026-10-16T07:39:46-05:00",
+      "excerpt": "Published Oct 16, 2026, 11:20 AM: A 25-study meta-analysis of 26,610 athletes found strength programs cut sports injuries by more than 60%, though a runner-specific review found the benefit only held…",
+      "body": "Published Oct 16, 2026, 11:20 AM: A 25-study meta-analysis of 26,610 athletes found strength programs cut sports injuries by more than 60%, though a runner-specific review found the benefit only held in supervised high-adherence groups, [per MedicalXpress](https://medicalxpress.com/news/2026-10-runners-injuries-strength-difference.html?deviceType=mobile). The Oct 9 piece prescribes calf raises, split squats, squats and deadlifts at heavy loads for 5-6 reps plus plyometrics like pogo hops, which improve running economy even when injury risk barely moves.",
+      "url": "https://medicalxpress.com/news/2026-10-runners-injuries-strength-difference.html?deviceType=mobile",
+      "icon": "📰",
+      "image_url": "https://cdn.prod.website-files.com/637b8a9e20daa90df41ff50a/6578741ef35413b1a27a111e_blog%20(23).avif"
+    },
+    {
+      "id": "40b95c52-87f1-4a34-adbf-bc184571d743",
+      "kicker": "SENTENCING DAY",
+      "title": "Three convicted in murders of Australian surfers in Mexico",
+      "category": "True crime",
+      "published_at": "2026-10-16T06:38:55-05:00",
+      "excerpt": "Published Oct 16, 2026, 10:35 AM: Prosecutors are seeking 210 years each for the three men convicted in the Baja California surf-trip murders, who face sentencing today in Ensenada. Judge Raúl…",
+      "body": "Published Oct 16, 2026, 10:35 AM: Prosecutors are seeking 210 years each for the three men convicted in the Baja California surf-trip murders, who face sentencing today in Ensenada. Judge Raúl Hernández convicted Jesús Gerardo García, known as “El Kekas,” Irineo Francisco, and Ángel Jesús last week of murdering brothers Jake and Callum Robinson and their American friend Carter Redd Rhoad at a Baja campsite in April 2024, [per The Trent](https://www.thetrentonline.com/three-convicted-of-murdering-australian-surfers-in-mexico/).",
+      "url": "https://www.thetrentonline.com/three-convicted-of-murdering-australian-surfers-in-mexico/",
+      "icon": "🔍",
+      "image_url": "https://elurbano.news/wp-content/uploads/2026/09/6c5f68dd3a6868ebe6a2aba5e4736c786f51d931-4x3-x0y49w1080h810-scaled.jpg"
+    },
+    {
+      "id": "ab19417b-fd85-476f-b041-bb4d62fb1953",
+      "kicker": "DAY ONE EVERYWHERE",
+      "title": "Meta's 816B open-weight model debuts across seven clouds",
+      "category": "AI",
+      "published_at": "2026-10-16T04:26:20-05:00",
+      "excerpt": "Published Oct 16, 2026, 9:00 AM: Meta released Muse Spark Open on October 15, an 816-billion-parameter open-weight model built for coding and agentic work. Rather than a quiet weights drop, it…",
+      "body": "Published Oct 16, 2026, 9:00 AM: Meta [released Muse Spark Open](https://tech-insider.org/meta-muse-spark-open-seven-clouds-launch-2026/) on October 15, an 816-billion-parameter open-weight model built for coding and agentic work. Rather than a quiet weights drop, it launched with live APIs on seven providers and downloadable weights on four major hosts.",
+      "url": "https://tech-insider.org/meta-muse-spark-open-seven-clouds-launch-2026/",
+      "icon": "🤖",
+      "image_url": "https://uploads-ssl.webflow.com/6449a72526ec4987103ca41b/669e4419370a10d7d2bb0c26_image_45.png"
+    },
     {
       "id": "e912e5f4-769a-493c-ac64-27c094e50a3d",
       "kicker": "Mexico holds the key",
@@ -577,66 +649,6 @@
       "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/13/rj-mitte-cause-of-death-suicide/92223732007/",
       "icon": "🤠",
       "image_url": "https://townsquare.media/site/394/files/2012/04/142601082.jpg?w=980&q=75"
-    },
-    {
-      "id": "8c01b927-45fa-479a-8902-d3ebe2f599a4",
-      "kicker": "AGENTS ON THE PHONE",
-      "title": "OPPO taps Manus to bring agentic AI to smartphones",
-      "category": "AI",
-      "published_at": "2026-10-13T08:46:32-05:00",
-      "excerpt": "A single prompt to OPPO's AI Mind Pilot can run a multi-step job on the upcoming Find X10 series, like pulling flight and hotel bookings into a day-by-day itinerary. Local tasks such as finding or…",
-      "body": "A single prompt to OPPO's AI Mind Pilot can [run a multi-step job](https://www.channelnewsasia.com/media-release/oppo-partners-manus-bring-agentic-ai-experiences-smartphones-6455481) on the upcoming Find X10 series, like pulling flight and hotel bookings into a day-by-day itinerary. Local tasks such as finding or renaming files stay on the device and are never shared with Manus, which has to ask permission before anything is uploaded for external processing.",
-      "url": "https://www.channelnewsasia.com/media-release/oppo-partners-manus-bring-agentic-ai-experiences-smartphones-6455481",
-      "icon": "🤖",
-      "image_url": "https://theinsider.pt/wp-content/uploads/2026/03/62275ea4-0eab-4cd9-aed6-f92fcba75207_8e322554-fotor-20260310171012-1-scaled.jpg"
-    },
-    {
-      "id": "554f6254-0eee-45c2-b989-4a75db73e614",
-      "kicker": "WRONG RULER",
-      "title": "Endurance tests aren't interchangeable",
-      "category": "Fitness",
-      "published_at": "2026-10-13T06:39:43-05:00",
-      "excerpt": "In 186 fit young adults, a shared endurance factor explained only about 60 to 70% of scores across six standard endurance tests, with running tests clustering together and rowing tests clustering…",
-      "body": "In 186 fit young adults, a shared endurance factor explained only about 60 to 70% of scores across six standard endurance tests, with running tests clustering together and rowing tests clustering together instead, [per an October 1 study in Frontiers in Physiology](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1973746/full). Rowing performance leaned on strength and power, especially upper-body, so a 12-minute row is no stand-in for a 12-minute run when the question is where your running fitness stands.",
-      "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1973746/full",
-      "icon": "📰",
-      "image_url": "https://images.squarespace-cdn.com/content/v1/616b8a75a7a23650b7b72888/1640887206053-Z333EC2LY6R0GA0KPHR5/Endurance+swimming+field+test.jpg"
-    },
-    {
-      "id": "8a4a9aef-8479-4d0f-92f4-3630990b49f3",
-      "kicker": "65 YEARS LATER",
-      "title": "Chicago names former officer suspect in 1960 killing of 8-year-old",
-      "category": "True crime",
-      "published_at": "2026-10-13T06:33:48-05:00",
-      "excerpt": "Chicago police say former officer Thomas Francis McInerney abducted and killed 8-year-old Gloria Kowalewicz as she walked to church in November 1960. The case sat unsolved for 65 years until…",
-      "body": "Chicago police say former officer Thomas Francis McInerney abducted and killed 8-year-old Gloria Kowalewicz as she walked to church in November 1960.\nThe case sat unsolved for 65 years until investigators submitted her preserved coat to the FBI for [genetic genealogy](https://wegotthiscovered.com/true-crime/65-years-later-chicago-police-name-their-own-officer-as-suspect-in-8-year-olds-killing/), which led them to McInerney's family tree.",
-      "url": "https://wegotthiscovered.com/true-crime/65-years-later-chicago-police-name-their-own-officer-as-suspect-in-8-year-olds-killing/",
-      "icon": "🔍",
-      "image_url": "https://epmgaa.media.clients.ellingtoncms.com/img/photos/2015/11/25/chicago12.jpg"
-    },
-    {
-      "id": "813fdfa9-75ba-42dc-84b8-d25e26f9246e",
-      "kicker": "SPEND WHERE IT PAYS",
-      "title": "Factory acquires Mentlio for intelligent token allocation",
-      "category": "AI",
-      "published_at": "2026-10-13T06:21:32-05:00",
-      "excerpt": "On October 9, Factory announced it was acquiring Mentlio (YC S26) to fold intelligent token allocation into its software-engineering platform, per its own announcement. Mentlio's trick is in-harness…",
-      "body": "On October 9, Factory announced it was acquiring Mentlio (YC S26) to fold intelligent token allocation into its software-engineering platform, per [its own announcement](https://factory.com/news/mentlio). Mentlio's trick is in-harness model routing and context compression, built to spend tokens where they pay off and to measure where the usage actually created value.",
-      "url": "https://factory.com/news/mentlio",
-      "icon": "🤖",
-      "image_url": "https://cdn.prod.website-files.com/62f90a8443126c2ee50f4c4e/64893287510c7c1e8810e986_factory%201-p-500.webp"
-    },
-    {
-      "id": "c1fc6ed3-95ea-47f1-aa8d-beeeb4cf3e78",
-      "kicker": "PRE-IPO EXPOSURE",
-      "title": "21shares lists Europe's first Anthropic pre-IPO ETP",
-      "category": "Business",
-      "published_at": "2026-10-13T04:25:19-05:00",
-      "excerpt": "European investors can now trade Anthropic's implied pre-IPO valuation through the 21shares Anthropic Synthetic ETP (ticker CLAU), listed on the Vienna MTF, per 21shares' announcement. The exposure…",
-      "body": "European investors can now trade Anthropic's implied pre-IPO valuation through the 21shares Anthropic Synthetic ETP (ticker CLAU), listed on the Vienna MTF, per [21shares' announcement](https://www.globenewswire.com/news-release/2026/10/13/3379343/0/en/21shares-launches-europe-s-first-pre-ipo-synthetic-anthropic-etp.html). The exposure is purely synthetic, built on swaps tracking a Kaiko index of Binance perpetual futures rather than any Anthropic shares.",
-      "url": "https://www.globenewswire.com/news-release/2026/10/13/3379343/0/en/21shares-launches-europe-s-first-pre-ipo-synthetic-anthropic-etp.html",
-      "icon": "📰",
-      "image_url": "https://bitcoinworld.co.in/wp-content/uploads/21shares-crypto-etps-nasdaq.jpg"
     }
   ]
 }
