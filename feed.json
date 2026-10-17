@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T09:21:48-05:00",
+  "generated_at": "2026-10-17T15:24:21-05:00",
   "posts": [
+    {
+      "id": "1797f911-c0a9-4df9-a753-bf60e0c6da4f",
+      "kicker": "DEAL OF THE DAY",
+      "title": "LG deals at Best Buy from $87 with free shipping",
+      "category": "Deals",
+      "published_at": "2026-10-17T15:20:00-05:00",
+      "excerpt": "Best Buy's Deal of the Day puts LG's 42-inch C6 OLED evo TV at $949.99 today, per RobinsPost. The one-day lineup stretches from monitors to appliances with free shipping.",
+      "body": "Best Buy's Deal of the Day puts LG's 42-inch C6 OLED evo TV at $949.99 today, [per RobinsPost](https://www.robinspost.com/news/daily-specials/2275884-lg-daily-deals-at-best-buy-for-from-$87-free-shipping). The one-day lineup stretches from monitors to appliances with free shipping.",
+      "url": "https://www.robinspost.com/news/daily-specials/2275884-lg-daily-deals-at-best-buy-for-from-$87-free-shipping",
+      "icon": "🏷️",
+      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6727/6727027cv11a.jpg"
+    },
     {
       "id": "18c8df99-a358-4163-87f9-4d4bb1b43c57",
       "kicker": "THE DIESEL TRADE",
@@ -15,6 +27,18 @@
       "image_url": "https://mf.b37mrtl.ru/russian/images/2025.02/article/67c206e9ae5ac9649b6dedb5.jpg"
     },
     {
+      "id": "fa508b8e-c346-4a74-835e-811b86fdf884",
+      "kicker": "READ THE FINE PRINT",
+      "title": "RTX Spark laptops go on sale from $2,599",
+      "category": "PC hardware",
+      "published_at": "2026-10-17T13:05:00-05:00",
+      "excerpt": "NVIDIA's RTX Spark laptops went on sale October 16 from ASUS, Dell, HP, Lenovo, Microsoft and MSI, with US pricing starting at $2,599, per TechZei's launch roundup. For local-AI buyers, the catch is…",
+      "body": "NVIDIA's RTX Spark laptops went on sale October 16 from ASUS, Dell, HP, Lenovo, Microsoft and MSI, with US pricing starting at $2,599, [per TechZei's launch roundup](https://techzei.com/nvidia-rtx-spark-laptops-available/). For local-AI buyers, the catch is that entry configurations start at 24GB of shared memory, far short of the headline figure.",
+      "url": "https://techzei.com/nvidia-rtx-spark-laptops-available/",
+      "icon": "📰",
+      "image_url": "https://stuff.co.za/wp-content/uploads/2026/06/RTS-Spark-laptops-header-1024x640.jpg"
+    },
+    {
       "id": "03254cd1-052f-44cb-89fe-6cfaf5aa70b5",
       "kicker": "PORT AT 90",
       "title": "Port of Brownsville opens gates today for 90th anniversary",
@@ -25,6 +49,42 @@
       "url": "https://localnational.com/city/brownsville/port-of-brownsville-opens-its-gates-saturday-for-90th-anniversary-celebration/",
       "icon": "🤠",
       "image_url": "https://inmobiliare.com/wp-content/uploads/2025/11/puerto-de-brownsville-recibira-a-la-primera-empresa-de-su-parque-industrial-688x387.jpg"
+    },
+    {
+      "id": "e2254973-607d-45d8-9e50-fdd6978d6ac6",
+      "kicker": "SATURDAY STEALS",
+      "title": "Hisense 55\" 4K TV hits $278 in Saturday deals drop",
+      "category": "Deals",
+      "published_at": "2026-10-17T11:30:00-05:00",
+      "excerpt": "The 55E6SR is a 2026 Hisense Hi-QLED 4K Roku TV with Dolby Vision, VRR and Game Mode Plus, per Geeks Are Sexy. It is listed at $277.99 in today's roundup.",
+      "body": "The 55E6SR is a 2026 Hisense Hi-QLED 4K Roku TV with Dolby Vision, VRR and Game Mode Plus, [per Geeks Are Sexy](https://www.geeksaresexy.net/2026/10/17/daily-deals-drop-hisense-55-4k-smart-tv-lego-star-wars-chopper-49-99-15-6-inch-portable-monitor-and-more-saturday-steals/). It is listed at $277.99 in today's roundup.",
+      "url": "https://www.geeksaresexy.net/2026/10/17/daily-deals-drop-hisense-55-4k-smart-tv-lego-star-wars-chopper-49-99-15-6-inch-portable-monitor-and-more-saturday-steals/",
+      "icon": "🏷️",
+      "image_url": "https://static.slickdealscdn.com/attachment/1/5/6/5/1/2/5/1/450x450/11517475.thumb?webp=1"
+    },
+    {
+      "id": "69362019-21a7-4698-85ec-2aba624a5e32",
+      "kicker": "MISSION GRANTS",
+      "title": "Mission EDC opens fourth year of Build Mission Fund grants",
+      "category": "Business",
+      "published_at": "2026-10-17T10:45:00-05:00",
+      "excerpt": "Eligible Mission businesses can apply through October 31 for grants of up to $15,000, per Texas Border Business. The fund has committed $675,000 to local businesses across its first three years.",
+      "body": "Eligible Mission businesses can apply through October 31 for grants of up to $15,000, [per Texas Border Business](https://texasborderbusiness.com/mission-edc-opens-fourth-year-of-ruby-red-ventures-build-mission-fund-following-675000-investment/). The fund has committed $675,000 to local businesses across its first three years.",
+      "url": "https://texasborderbusiness.com/mission-edc-opens-fourth-year-of-ruby-red-ventures-build-mission-fund-following-675000-investment/",
+      "icon": "📰",
+      "image_url": "https://secure-cdn.scdn6.secure.raxcdn.com/media/userfiles/subsite_290/images/DSC03588.jpg"
+    },
+    {
+      "id": "d35a6f54-0346-4b83-a6ac-9f1150268fb2",
+      "kicker": "MUSCLE SCIENCE",
+      "title": "Bigger muscles might fight fatigue, not just add strength",
+      "category": "Fitness",
+      "published_at": "2026-10-17T10:15:00-05:00",
+      "excerpt": "A review published Oct 13 in Sports Medicine asks whether muscle growth itself helps muscles resist fatigue, potentially letting you do more reps before tiring. The authors found size and endurance…",
+      "body": "A review published Oct 13 in Sports Medicine [asks whether muscle growth itself helps muscles resist fatigue](https://www.mensjournal.com/health/bigger-muscles-may-have-a-hidden-benefit-that-goes-beyond-lifting-heavier-weights), potentially letting you do more reps before tiring. The authors found size and endurance often improve together, but say no causal relationship can be established yet.",
+      "url": "https://www.mensjournal.com/health/bigger-muscles-may-have-a-hidden-benefit-that-goes-beyond-lifting-heavier-weights",
+      "icon": "📰",
+      "image_url": "https://i2.wp.com/blog.goodlifefitness.com/media/1720/hypertrophy.jpg"
     },
     {
       "id": "7b1cbcc1-fc04-4b1f-80fd-bbc5e29a6c5d",
@@ -517,42 +577,6 @@
       "url": "https://passionatepennypincher.com/core-power-protein-shake/",
       "icon": "🏷️",
       "image_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=569,h=353,fit=crop,trim=176.4;156.97950219619327;176.4;156.97950219619327/m6LZerqr14HyX7z1/are-core-power-protein-shakes-healthy-A85eB04RZjSa6pqe.jpg"
-    },
-    {
-      "id": "ae47afe3-ddd5-44a4-aafe-24fde55889bb",
-      "kicker": "INTERIOR SEPARATIONS",
-      "title": "ICE separates families in the interior, labels the kids unaccompanied",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-14T14:43:58-05:00",
-      "excerpt": "A new Mother Jones investigation finds ICE separating children from their parents in the country's interior and deeming them unaccompanied, routing kids who have families into ORR custody. Attorneys…",
-      "body": "A new Mother Jones investigation finds ICE separating children from their parents in the country's interior and deeming them unaccompanied, routing kids who have families into [ORR custody](https://www.muellershewrote.com/p/headlines-for-october-14-2026). Attorneys interviewed for the piece say kids picked up far from the border made up about one in five ORR referrals between July 2025 and May 2026, against 3 to 5% under past administrations, with the figures detailed in [an Oct 6 petition](https://www.change.org/p/stop-separating-immigrant-children-from-their-parents-and-bring-them-home).",
-      "url": "https://www.muellershewrote.com/p/headlines-for-october-14-2026",
-      "icon": "📰",
-      "image_url": "https://suscripciones.elepoch.com/_next/image?url=https%3A%2F%2Fimages.elepoch.com%2Fassets%2Fuploads%2F2026%2F06%2Fid67435-GettyImages-980537292-sb.webp&w=640&q=75"
-    },
-    {
-      "id": "2277b308-fee5-4151-8d15-90396a0900a6",
-      "kicker": "TOKEN DIET",
-      "title": "Pi 1.0, an open-source coding agent, cuts tokens 40%",
-      "category": "AI",
-      "published_at": "2026-10-14T12:40:20-05:00",
-      "excerpt": "Pi 1.0's Codemode lets the model call tools through short JavaScript instead of rereading every tool description each turn, cutting prompt tokens by about 40%. It is an MIT-licensed,…",
-      "body": "Pi 1.0's Codemode lets the model call tools through short JavaScript instead of rereading every tool description each turn, [cutting prompt tokens by about 40%](https://tech-insider.org/pi-1-0-coding-agent-tokens-cut-2026/). It is an MIT-licensed, provider-agnostic terminal agent, so the harness costs nothing and the only bill is whichever model you point it at.",
-      "url": "https://tech-insider.org/pi-1-0-coding-agent-tokens-cut-2026/",
-      "icon": "🤖",
-      "image_url": "https://wsrv.nl/?url=blogger.googleusercontent.com%2Fimg%2Fa%2FAVvXsEgOuzJOO9XyZaW0ZRkZCEnNb7S-lgmUQXvB0lzh75DvisqAFgbN0hfaotTWRSpaCdJz485vRbdHiqDBHnSgPne8IU_80cneN4oUIrgNPErw8Lf3hjaCY5qsxGTZ45eNFS4OcqhRVVu681efn1ZEtkvCY951_MCf-cHaAd6xCGj3lDPTKdl1nskE11xMhk0&w=700&q=70&output=webp&sharp=1"
-    },
-    {
-      "id": "2c7ed8ae-6945-48bc-a1df-348284fefdcd",
-      "kicker": "THE AI TAX",
-      "title": "RTX 5090s sell out at $10,000",
-      "category": "PC hardware",
-      "published_at": "2026-10-14T10:57:15-05:00",
-      "excerpt": "Custom models from Gigabyte, MSI, and ASUS now wear five-figure price tags at retail, per GameGPU. With Nvidia reportedly steering every remaining GB202 die to the RTX Pro line, the cards on the…",
-      "body": "Custom models from Gigabyte, MSI, and ASUS now [wear five-figure price tags at retail](https://en.gamegpu.com/news/zhelezo/videokarty-geforce-rtx-5090-dazhe-za-10-000-usd-smetayut-s-polok-magazinov), per GameGPU. With Nvidia reportedly steering every remaining GB202 die to the RTX Pro line, the cards on the shelves now may be this generation's last consumer flagship.",
-      "url": "https://en.gamegpu.com/news/zhelezo/videokarty-geforce-rtx-5090-dazhe-za-10-000-usd-smetayut-s-polok-magazinov",
-      "icon": "🤖",
-      "image_url": "https://thegeek.games/wp-content/uploads/2026/01/theGeek-NVIDIA-RTX-5080-and-5090-Sell-Out-Instantly-Scalpers-Resell-at-Sky-High-Prices-on-eBay.jpg"
     }
   ]
 }
