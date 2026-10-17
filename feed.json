@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T21:16:20-05:00",
+  "generated_at": "2026-10-17T03:16:49-05:00",
   "posts": [
+    {
+      "id": "6f0a1b75-ed12-42a8-a263-071332ef01e6",
+      "kicker": "AGENT COST CUTTER",
+      "title": "Coding-agent audit: the 'obvious' saving was 5.5x too big",
+      "category": "AI",
+      "published_at": "2026-10-17T02:33:41-05:00",
+      "excerpt": "Two-thirds of one developer's audited coding-agent spend was cache reads, the cost of re-reading context on every turn, per the audit. The headline saving from switching to the cheaper model shrank…",
+      "body": "Two-thirds of one developer's audited coding-agent spend was cache reads, the cost of re-reading context on every turn, [per the audit](https://dev.to/derrick_d15159abe0a5e6608/we-re-priced-six-weeks-of-our-own-ai-coding-agent-usage-the-obvious-saving-was-55x-too-big-3852). The headline saving from switching to the cheaper model shrank from $1,625 to $293 once only requests made after that version existed were counted.",
+      "url": "https://dev.to/derrick_d15159abe0a5e6608/we-re-priced-six-weeks-of-our-own-ai-coding-agent-usage-the-obvious-saving-was-55x-too-big-3852",
+      "icon": "🤖",
+      "image_url": "https://data.ibtimes.sg/en/full/94936/ai-generated-code.jpg?w=1200&h=630?q=60"
+    },
+    {
+      "id": "be0641b0-d38a-44d0-8d5f-8d8ef63f5ae2",
+      "kicker": "REFUGEE STATUS RULE",
+      "title": "DHS cuts refugees' deadline to contest status loss from 30 days to 10",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-17T00:21:05-05:00",
+      "excerpt": "DHS published an interim final rule this week that cuts the window refugees get to challenge the termination of their legal status from 30 days to 10, skipping the usual public-comment period so it…",
+      "body": "DHS published an interim final rule this week that cuts the window refugees get to challenge the termination of their legal status from 30 days to 10, skipping the usual public-comment period so it takes effect immediately, [per The Uninvited Press](https://uninvitedpress.com/us-slashes-refugees-deadline-to-challenge-loss-of-legal-status-from-30-days-to-10/). The department says it is already reviewing the cases of at least 185,000 refugees admitted in recent years who still have green card applications pending.",
+      "url": "https://uninvitedpress.com/us-slashes-refugees-deadline-to-challenge-loss-of-legal-status-from-30-days-to-10/",
+      "icon": "📰",
+      "image_url": "https://imgix.bustle.com/uploads/getty/2018/6/23/b11dbe62-d148-464a-912d-55fdcefc039b-getty-978048216.jpg?w=248&h=165&fit=crop&crop=faces&dpr=2"
+    },
+    {
+      "id": "abb0d89b-0d76-489e-b069-cc205e664651",
+      "kicker": "Grant changes the math",
+      "title": "TSC welding program cleared for new Workforce Pell grants",
+      "category": "Texas",
+      "published_at": "2026-10-17T00:01:31-05:00",
+      "excerpt": "Texas Southmost College in Brownsville is one of five Texas community colleges newly approved for the federal Workforce Pell program in early October. The approval named only Structural Welding –…",
+      "body": "Texas Southmost College in Brownsville is one of five Texas community colleges newly approved for the federal Workforce Pell program in early October. The approval named only Structural Welding – SMAW, leaving whether the evening pipefitting or electrical sections qualify as an open question for the Oct 21 orientation.",
+      "url": null,
+      "icon": "🤠",
+      "image_url": "https://images.wsj.net/im-44686253"
+    },
+    {
+      "id": "992df365-7a84-4ca6-9678-598e458bf6c2",
+      "kicker": "DEALS",
+      "title": "Dr. Squatch 6-pack drops to $21.xx on Amazon",
+      "category": "Deals",
+      "published_at": "2026-10-16T22:23:00-05:00",
+      "excerpt": "The Freebie Guy lists it with a clippable digital coupon that stacks with Subscribe & Save to reach the sale price. Shipping is free for Prime members, or free over $35 otherwise.",
+      "body": "[The Freebie Guy](https://thefreebieguy.com/dr-squatch-natural-mens-bar-soap/) lists it with a clippable digital coupon that stacks with Subscribe & Save to reach the sale price. Shipping is free for Prime members, or free over $35 otherwise.",
+      "url": "https://thefreebieguy.com/dr-squatch-natural-mens-bar-soap/",
+      "icon": "🏷️",
+      "image_url": "https://cdn.shopify.com/s/files/1/0555/4431/5957/files/6pack_988c0615-3844-4cdc-83ef-721f22568dc1.png?v=1736204860&width=1000&height=907&crop=center"
+    },
     {
       "id": "1fa36148-1038-4565-8305-fedb2c6f2ee0",
       "kicker": "PORT OF BROWNSVILLE",
@@ -517,42 +565,6 @@
       "url": "https://www.morningstar.com/news/pr-newswire/20261014ne71672/introducing-chainguard-checks-reinventing-continuous-integration-for-the-agentic-era",
       "icon": "🤖",
       "image_url": "https://images.chainguard.dev/previews/buildkite-agent.png"
-    },
-    {
-      "id": "bd3b91f5-d584-44b6-b48b-7b7dc5ea222a",
-      "kicker": "SKY BLUE ONLY",
-      "title": "Amazon takes $455 off the 512GB Galaxy S26+",
-      "category": "Deals",
-      "published_at": "2026-10-14T02:32:07-05:00",
-      "excerpt": "Published Oct 14, 2026, 2:30 AM: Amazon has the 512GB model in Sky Blue at $944.99, per PhoneArena, with no Prime membership required. Every other color and the 256GB model see far smaller discounts…",
-      "body": "Published Oct 14, 2026, 2:30 AM: Amazon has the 512GB model in Sky Blue at $944.99, [per PhoneArena](https://www.phonearena.com/news/samsung-galaxy-s26-plus-new-amazon-deal-incredible-discount-512gb-model_id184050), with no Prime membership required. Every other color and the 256GB model see far smaller discounts or none at all.",
-      "url": "https://www.phonearena.com/news/samsung-galaxy-s26-plus-new-amazon-deal-incredible-discount-512gb-model_id184050",
-      "icon": "🏷️",
-      "image_url": "https://m-cdn.phonearena.com/images/article/181414-wide-two_800/The-craziest-Prime-Day-deal-on-all-of-Amazon-this-year-saves-you-457-on-a-512GB-Galaxy-S26-Plus.webp"
-    },
-    {
-      "id": "e11f5512-1cab-4be9-b4fa-17dabebf24b0",
-      "kicker": "THE DRAINAGE FEE",
-      "title": "Brownsville adopts stormwater utility; fee deferred to Nov. 4",
-      "category": "Texas",
-      "published_at": "2026-10-14T00:21:40-05:00",
-      "excerpt": "Published Oct 14, 2026, 12:25 AM: On October 7 the Brownsville City Commission approved Ordinance 2026-1824, establishing a municipal stormwater utility to take over Resaca maintenance and fund…",
-      "body": "Published Oct 14, 2026, 12:25 AM: On October 7 the Brownsville City Commission [approved Ordinance 2026-1824](https://citizenportal.ai/articles/10820938/texas/cameron-county/brownsville/brownsville-adopts-municipal-stormwater-utility-program-fee-amount-deferred-to-nov-4), establishing a municipal stormwater utility to take over Resaca maintenance and fund drainage capital projects. The commission tabled the fee schedule until a November 4 meeting with a public town hall for input.",
-      "url": "https://citizenportal.ai/articles/10820938/texas/cameron-county/brownsville/brownsville-adopts-municipal-stormwater-utility-program-fee-amount-deferred-to-nov-4",
-      "icon": "🤠",
-      "image_url": "https://s.hdnux.com/photos/01/33/01/43/23861494/6/720x0.webp"
-    },
-    {
-      "id": "7e9b6994-cea4-4461-870c-aebf28a76946",
-      "kicker": "STARBASE, SUPERSIZED",
-      "title": "FAA weighs up to 456 Starship launches a year at Starbase",
-      "category": "Business",
-      "published_at": "2026-10-13T22:21:36-05:00",
-      "excerpt": "Published Oct 13, 2026, 9:30 PM: The FAA filed a Federal Register notice Tuesday opening public scoping on SpaceX's proposal to push Starbase toward a near-daily Starship cadence. The full review…",
-      "body": "Published Oct 13, 2026, 9:30 PM: The FAA filed a [Federal Register notice Tuesday](https://teslanorth.com/2026/10/13/faa-starbase-starship-456-peis/) opening public scoping on SpaceX's proposal to push Starbase toward a near-daily Starship cadence. The full review would weigh air quality, wildlife, coastal resources, and noise before the higher cadence gets anywhere near approval.",
-      "url": "https://teslanorth.com/2026/10/13/faa-starbase-starship-456-peis/",
-      "icon": "📰",
-      "image_url": "https://images.milledcdn.com/2023-04-11/qCNrDQzz6pIeK3IA/UbdaJJ1vvcFx.webp"
     }
   ]
 }
