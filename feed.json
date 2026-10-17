@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T03:19:02-05:00",
+  "generated_at": "2026-10-17T09:19:50-05:00",
   "posts": [
+    {
+      "id": "18c8df99-a358-4163-87f9-4d4bb1b43c57",
+      "kicker": "THE DIESEL TRADE",
+      "title": "Trump waives Russia sanctions and duties under Graham Act",
+      "category": "General news",
+      "published_at": "2026-10-17T13:30:00-05:00",
+      "excerpt": "The order invokes the law's national-interest waiver provision, pausing the duties, sanctions and restrictions the law imposed, with the waivers in effect until the administration decides otherwise.…",
+      "body": "The order invokes the law's national-interest waiver provision, pausing the duties, sanctions and restrictions the law imposed, with the waivers in effect until the administration decides otherwise. [The waiver follows Trump's announcement of a deal for more than 300,000 tonnes of Russian diesel immediately, with further shipments in November](https://timesofindia.indiatimes.com/business/international-business/trump-waives-russia-sanctions-restrictions-and-duties-under-graham-act-diesel-us-midterms/articleshow/135005808.cms).",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/trump-waives-russia-sanctions-restrictions-and-duties-under-graham-act-diesel-us-midterms/articleshow/135005808.cms",
+      "icon": "📰",
+      "image_url": "https://mf.b37mrtl.ru/russian/images/2025.02/article/67c206e9ae5ac9649b6dedb5.jpg"
+    },
+    {
+      "id": "03254cd1-052f-44cb-89fe-6cfaf5aa70b5",
+      "kicker": "PORT AT 90",
+      "title": "Port of Brownsville opens gates today for 90th anniversary",
+      "category": "Texas",
+      "published_at": "2026-10-17T11:30:00-05:00",
+      "excerpt": "The Port of Brownsville announced Oct 13 its free Grand Community Celebration for today, 8 a.m. to 4 p.m. at the port's Business Park, 1000 Foust Road, per Local National. Free guided tours by bus…",
+      "body": "The Port of Brownsville announced Oct 13 its free Grand Community Celebration for today, 8 a.m. to 4 p.m. at the port's Business Park, 1000 Foust Road, [per Local National](https://localnational.com/city/brownsville/port-of-brownsville-opens-its-gates-saturday-for-90th-anniversary-celebration/). Free guided tours by bus and by boat are first come, first served through Eventbrite.",
+      "url": "https://localnational.com/city/brownsville/port-of-brownsville-opens-its-gates-saturday-for-90th-anniversary-celebration/",
+      "icon": "🤠",
+      "image_url": "https://inmobiliare.com/wp-content/uploads/2025/11/puerto-de-brownsville-recibira-a-la-primera-empresa-de-su-parque-industrial-688x387.jpg"
+    },
+    {
+      "id": "7b1cbcc1-fc04-4b1f-80fd-bbc5e29a6c5d",
+      "kicker": "PS5 GOES LOCAL AI",
+      "title": "Jailbroken PS5 now runs GGUF models on GPU",
+      "category": "PS5 Homebrew",
+      "published_at": "2026-10-17T09:40:00-05:00",
+      "excerpt": "A Reddit fork rebuilds PS5LM as a native PS5 app on the PS5_Vulkan driver, lifting usable memory from about 6 GB to 11.4 GB. That turns Qwen 3.8 27B from a one-token-a-minute CPU curiosity into about…",
+      "body": "A Reddit fork [rebuilds PS5LM as a native PS5 app](https://www.alextech.ai/en/news/a-jailbroken-ps5-now-runs-gguf-models-on-its-gpu-via-ps5lm/) on the PS5_Vulkan driver, lifting usable memory from about 6 GB to 11.4 GB. That turns Qwen 3.8 27B from a one-token-a-minute CPU curiosity into about 20 tokens per second on the GPU.",
+      "url": "https://www.alextech.ai/en/news/a-jailbroken-ps5-now-runs-gguf-models-on-its-gpu-via-ps5lm/",
+      "icon": "🎮",
+      "image_url": "https://greatgamer.ru/resize/w700/images/news/10.2025/11/news_14268.jpg?772"
+    },
     {
       "id": "6f0a1b75-ed12-42a8-a263-071332ef01e6",
       "kicker": "AGENT COST CUTTER",
@@ -517,54 +553,6 @@
       "url": "https://en.gamegpu.com/news/zhelezo/videokarty-geforce-rtx-5090-dazhe-za-10-000-usd-smetayut-s-polok-magazinov",
       "icon": "🤖",
       "image_url": "https://thegeek.games/wp-content/uploads/2026/01/theGeek-NVIDIA-RTX-5080-and-5090-Sell-Out-Instantly-Scalpers-Resell-at-Sky-High-Prices-on-eBay.jpg"
-    },
-    {
-      "id": "8b8fadcd-6235-4e3c-8129-e76ee4c856ef",
-      "kicker": "STORE DOWN",
-      "title": "Sony reportedly shuts down jailbreak PS5 game store",
-      "category": "PS5 Homebrew",
-      "published_at": "2026-10-14T08:45:27-05:00",
-      "excerpt": "The unofficial storefront that served free game downloads to jailbroken PS5s no longer works, and its GitHub page now returns a 404, with Sony Interactive Entertainment the likely party behind the…",
-      "body": "The unofficial storefront that served free game downloads to jailbroken PS5s no longer works, and its GitHub page now returns a 404, with Sony Interactive Entertainment the likely party behind the takedown [according to Notebookcheck](https://www.notebookcheck.net/Sony-reportedly-shuts-down-free-PS5-game-store-accessed-with-console-jailbreak.1423408.0.html). The app's disappearance lands alongside Sony's firmware 14.00 and 14.10 updates, which blocked the Relapse exploit outright.",
-      "url": "https://www.notebookcheck.net/Sony-reportedly-shuts-down-free-PS5-game-store-accessed-with-console-jailbreak.1423408.0.html",
-      "icon": "🎮",
-      "image_url": "https://www.tgfcer.com/wp-content/uploads/2026/01/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-v0-Vi_WBvPM-9GJC7fw5pgoFU2O2DYuq_SaISqu3TwWpQY-720x426.webp"
-    },
-    {
-      "id": "d42e9943-569c-4e3b-bff0-6e13f661f91d",
-      "kicker": "TUPAC CASE",
-      "title": "Keffe D gets 40 years to life for Tupac's murder",
-      "category": "True crime",
-      "published_at": "2026-10-14T07:32:43-05:00",
-      "excerpt": "Duane \"Keffe D\" Davis, 63, was sentenced Tuesday to two consecutive 20-years-to-life terms for orchestrating the 1996 drive-by shooting that killed Tupac Shakur in Las Vegas, per Daily Nation. The…",
-      "body": "Duane \"Keffe D\" Davis, 63, was sentenced Tuesday to two consecutive 20-years-to-life terms for orchestrating the 1996 drive-by shooting that killed Tupac Shakur in Las Vegas, per [Daily Nation](https://nation.africa/kenya/news/world/how-keffe-d-s-own-words-finally-solved-tupac-s-murder-5631102). The case against him was built largely on his own words: media appearances, a memoir, and tapes of his secret meetings with investigators.",
-      "url": "https://nation.africa/kenya/news/world/how-keffe-d-s-own-words-finally-solved-tupac-s-murder-5631102",
-      "icon": "🔍",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-08/260831-tupac-trial-keffe-d-bf-1635-d62223.jpg"
-    },
-    {
-      "id": "6ac7b432-ba96-4475-8a5a-fc8b9d067472",
-      "kicker": "REST WINS RACES",
-      "title": "A calm heart the night before is tied to faster marathon times",
-      "category": "Fitness",
-      "published_at": "2026-10-14T06:39:22-05:00",
-      "excerpt": "Published Oct 14, 2026, 7:00 AM: Of the 73 male marathoners tracked with a single-lead ECG patch the night before the 2025 Padua Marathon, those with a lower minimum sleeping heart rate and stronger…",
-      "body": "Published Oct 14, 2026, 7:00 AM: Of the 73 male marathoners tracked with a single-lead ECG patch the night before the 2025 Padua Marathon, those with a lower minimum sleeping heart rate and stronger vagal modulation finished faster the next day, independent of age, BMI, and training hours, [per the Oct 12 study in Frontiers in Cardiovascular Medicine](https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2026.1932814/full). The authors read the pattern as a readiness signal: stronger vagal tone overnight may mark more restorative sleep, and that recovery is the preparedness that shows up the next morning.",
-      "url": "https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2026.1932814/full",
-      "icon": "📰",
-      "image_url": "https://marathonhandbook.com/wp-content/uploads/2021/11/ill-before-your-race-2-600x377.jpg"
-    },
-    {
-      "id": "ae962028-ba4a-4e4e-83b2-c0ab0fef1d83",
-      "kicker": "SHIPPED TODAY",
-      "title": "Chainguard puts CI checks inside the agent loop",
-      "category": "AI",
-      "published_at": "2026-10-14T04:24:57-05:00",
-      "excerpt": "Published Oct 14, 2026, 4:25 AM: Chainguard announced Checks on Wednesday, a verification engine that pulls CI out of its old spot after the pull request and runs it inside the agent's working loop,…",
-      "body": "Published Oct 14, 2026, 4:25 AM: Chainguard announced Checks on Wednesday, a verification engine that pulls CI out of its old spot after the pull request and runs it inside the agent's working loop, delivering signed, trusted verification in seconds, per its [PR Newswire release](https://www.morningstar.com/news/pr-newswire/20261014ne71672/introducing-chainguard-checks-reinventing-continuous-integration-for-the-agentic-era). Every passing run produces a signed attestation tying together the environment, test result, and commit, so a merge gate can verify it and merge without re-running the test suite.",
-      "url": "https://www.morningstar.com/news/pr-newswire/20261014ne71672/introducing-chainguard-checks-reinventing-continuous-integration-for-the-agentic-era",
-      "icon": "🤖",
-      "image_url": "https://images.chainguard.dev/previews/buildkite-agent.png"
     }
   ]
 }
