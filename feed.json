@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T15:14:16-05:00",
+  "generated_at": "2026-10-16T21:15:00-05:00",
   "posts": [
+    {
+      "id": "1fa36148-1038-4565-8305-fedb2c6f2ee0",
+      "kicker": "PORT OF BROWNSVILLE",
+      "title": "Morgan Stanley leads fundraising for Texas refinery",
+      "category": "Texas",
+      "published_at": "2026-10-16T21:03:43-05:00",
+      "excerpt": "Published Oct 16, 2026, 8:20 PM: America First Refining expects its Brownsville refinery to begin operations in 2029, per Energy Connects. Chief commercial officer Tom Ramsey said Thursday in…",
+      "body": "Published Oct 16, 2026, 8:20 PM: America First Refining expects its Brownsville refinery to begin operations in 2029, [per Energy Connects](https://www.energyconnects.com/news/gas-lng/2026/october/morgan-stanley-leads-fundraise-for-texas-refinery-company-says/). Chief commercial officer Tom Ramsey said Thursday in Galveston that Morgan Stanley is leading the equity and debt fundraising \"as we speak.\"",
+      "url": "https://www.energyconnects.com/news/gas-lng/2026/october/morgan-stanley-leads-fundraise-for-texas-refinery-company-says/",
+      "icon": "🤠",
+      "image_url": "https://assets.growers.social/cache/preview_cards/images/008/065/885/original/00d0ce4dab780612.jpg"
+    },
+    {
+      "id": "fb0479ab-24eb-4623-936e-04c77c42a939",
+      "kicker": "WORST WEEK SINCE JUNE",
+      "title": "Nasdaq sinks 2.1% on AI debt worries",
+      "category": "Business",
+      "published_at": "2026-10-16T18:10:35-05:00",
+      "excerpt": "Published Oct 16, 2026, 6:20 PM: CoreWeave dropped almost 12% on Friday as investors questioned debt-funded AI buildouts, per CNN. The Nasdaq finished down about 4.5% for the week, its worst week…",
+      "body": "Published Oct 16, 2026, 6:20 PM: CoreWeave dropped almost 12% on Friday as investors questioned debt-funded AI buildouts, [per CNN](https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave?cid=external-feeds_iluminar_meta). The Nasdaq finished down about 4.5% for the week, its worst week since June.",
+      "url": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave?cid=external-feeds_iluminar_meta",
+      "icon": "📰",
+      "image_url": "https://dr46azxe5rdcu.cloudfront.net/wp-content/uploads/2026/02/13132111/FM26fhO4B7bCgAW3jTZR-0-efcn8-1-852x485.jpg"
+    },
+    {
+      "id": "8fbd7e5d-80da-492a-9e7c-3d110dd263ba",
+      "kicker": "ARGON GOES AGENTIC",
+      "title": "Gemini 4 Argon lands in Antigravity for Pro subscribers",
+      "category": "AI",
+      "published_at": "2026-10-16T16:54:58-05:00",
+      "excerpt": "Published Oct 16, 2026, 5:10 PM: Google is rolling out Gemini 4 Argon inside Antigravity for AI Pro and AI Ultra subscribers, with a separate weekly-only Argon quota on top of the existing Gemini 3.8…",
+      "body": "Published Oct 16, 2026, 5:10 PM: Google is [rolling out Gemini 4 Argon inside Antigravity](https://9to5google.com/2026/10/15/gemini-4-argon-is-now-rolling-out-to-googles-antigravity-for-ai-pro-subscribers/) for AI Pro and AI Ultra subscribers, with a separate weekly-only Argon quota on top of the existing Gemini 3.8 Flash allowance. In Google's internal trials the model cleared 97 of 134 stale bug reports in under three hours with documented commit proof.",
+      "url": "https://9to5google.com/2026/10/15/gemini-4-argon-is-now-rolling-out-to-googles-antigravity-for-ai-pro-subscribers/",
+      "icon": "🤖",
+      "image_url": "https://magazineclonerepub.blob.core.windows.net/live-files/2829/291273/ops/images/650/img_62-1.jpg"
+    },
+    {
+      "id": "c1ecd55b-e07b-4337-9ef1-9c64dd5c149a",
+      "kicker": "LESS PAPERWORK",
+      "title": "ORR proposes 41% cut to URM reporting burden",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-16T16:24:40-05:00",
+      "excerpt": "Published Oct 16, 2026, 4:15 PM: The proposal revises the ORR-3 and ORR-4 information collections for the Unaccompanied Refugee Minors Program. Youth would no longer file self-reported outcome…",
+      "body": "Published Oct 16, 2026, 4:15 PM: The proposal [revises the ORR-3 and ORR-4 information collections](https://inusnews.com/immigration-proposal-cuts-orr-reporting-burden/) for the Unaccompanied Refugee Minors Program. Youth would no longer file self-reported outcome measures, with service providers reporting those outcomes instead.",
+      "url": "https://inusnews.com/immigration-proposal-cuts-orr-reporting-burden/",
+      "icon": "📰",
+      "image_url": "https://www.hstoday.us/wp-content/uploads/2018/06/11999380734_47e40515c1_k.jpg"
+    },
     {
       "id": "ec2c2d4a-3a3e-401f-b037-377b9c9237c2",
       "kicker": "DAY FIVE",
@@ -505,102 +553,6 @@
       "url": "https://teslanorth.com/2026/10/13/faa-starbase-starship-456-peis/",
       "icon": "📰",
       "image_url": "https://images.milledcdn.com/2023-04-11/qCNrDQzz6pIeK3IA/UbdaJJ1vvcFx.webp"
-    },
-    {
-      "id": "5130fe02-316a-410a-8e2c-9c560d3e2bac",
-      "kicker": "A TEAM OF ONE",
-      "title": "Ruflo turns one coding assistant into a 100-agent swarm",
-      "category": "AI",
-      "published_at": "2026-10-13T21:03:47-05:00",
-      "excerpt": "Published Oct 13, 2026, 7:30 PM: Cognitum One released Ruflo today as open source under the MIT license, for Claude Code, Codex, and other Model Context Protocol clients. Its new mission workflows…",
-      "body": "Published Oct 13, 2026, 7:30 PM: Cognitum One [released Ruflo today](https://www.morningstar.com/news/accesswire/1236128msn/cognitum-one-releases-ruflo-ai-agent-orchestration-for-claude-code-and-codex-with-mission-driven-mods-and-a-single-agent-control-plane) as open source under the MIT license, for Claude Code, Codex, and other Model Context Protocol clients. Its new mission workflows carry a task from research through testing and security review, while the console logs each run's cost and holds human approval before agents act.",
-      "url": "https://www.morningstar.com/news/accesswire/1236128msn/cognitum-one-releases-ruflo-ai-agent-orchestration-for-claude-code-and-codex-with-mission-driven-mods-and-a-single-agent-control-plane",
-      "icon": "🤖",
-      "image_url": "https://blog.axismarelux.net/content/images/size/w720/2026/09/ruflo-feature-v2.png"
-    },
-    {
-      "id": "c10ee0d4-8740-46d2-99fc-647cddd43d68",
-      "kicker": "ON THE STAND",
-      "title": "Testimony opens in Farwell murder trial",
-      "category": "True crime",
-      "published_at": "2026-10-13T18:30:00-05:00",
-      "excerpt": "Former Stoughton police officer Matthew Farwell is accused of killing 23-year-old Sandra Birchmore in a 2021 death that officials first ruled a suicide, per The Enterprise's live trial coverage. The…",
-      "body": "Former Stoughton police officer Matthew Farwell is accused of killing 23-year-old Sandra Birchmore in a 2021 death that officials first ruled a suicide, per [The Enterprise's live trial coverage](https://www.enterprisenews.com/story/news/courts/2026/10/13/sandra-birchmore-trial-matthew-farwell-charged-murder-day-2--live/92221606007/). The prosecution went straight at that ruling with lobby video of a masked Farwell from days before her death.",
-      "url": "https://www.enterprisenews.com/story/news/courts/2026/10/13/sandra-birchmore-trial-matthew-farwell-charged-murder-day-2--live/92221606007/",
-      "icon": "🔍",
-      "image_url": "https://media.tegna-media.com/assets/KTVB/images/02d1b10a-bcfd-464e-922d-66adb47e80c8/02d1b10a-bcfd-464e-922d-66adb47e80c8_750x422.jpg"
-    },
-    {
-      "id": "3981cff0-cbba-4ca8-8656-a37dc1b5c04e",
-      "kicker": "LAYOFF TRUCE",
-      "title": "Administration withdraws shutdown-layoff policy under settlement",
-      "category": "Federal workforce",
-      "published_at": "2026-10-13T18:07:51-05:00",
-      "excerpt": "Published Oct 13, 2026, 9:20 AM: The Trump administration settled with federal employee unions and formally withdrew its policy of using a shutdown to conduct layoffs, per FEDmanager. The lawsuit…",
-      "body": "Published Oct 13, 2026, 9:20 AM: The Trump administration settled with federal employee unions and formally withdrew its policy of using a shutdown to conduct layoffs, per [FEDmanager](https://www.fedmanager.com/news/administration-withdraws-shutdown-related-layoff-policy-under-settlement). The lawsuit stays on hold through year-end, so unions can reopen it if another shutdown brings new layoffs.",
-      "url": "https://www.fedmanager.com/news/administration-withdraws-shutdown-related-layoff-policy-under-settlement",
-      "icon": "📰",
-      "image_url": "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/assets/v3/editorial/f/d0/fd0a4be3-1a2b-54e3-b3b6-796ed6167572/5f5c10eb11477.image.jpg?resize=400%2C267"
-    },
-    {
-      "id": "bef991f6-dfc8-472f-998a-012f843090e7",
-      "kicker": "TRAINING MONEY",
-      "title": "Texas awards over $20M in career-training grants",
-      "category": "Business",
-      "published_at": "2026-10-13T17:55:00-05:00",
-      "excerpt": "The 84 Jobs and Education for Texans grants buy equipment for colleges and school districts starting or expanding career and technical programs for high-demand jobs, per Texas Border Business. The…",
-      "body": "The 84 Jobs and Education for Texans grants buy equipment for colleges and school districts starting or expanding career and technical programs for high-demand jobs, per [Texas Border Business](https://texasborderbusiness.com/over-20-million-in-career-training-grants-awarded-across-texas/). The 2027 application round opens later this fall.",
-      "url": "https://texasborderbusiness.com/over-20-million-in-career-training-grants-awarded-across-texas/",
-      "icon": "📰",
-      "image_url": "https://content.presspage.com/uploads/1912/315d3ab0-84de-496f-952e-c4d14bd7a10c/800_victoriacollege_twcjetgrantpresenation052926.jpg?10000"
-    },
-    {
-      "id": "f43f6e66-f3b0-4441-96f5-13594ac2747f",
-      "kicker": "HALF PRICE",
-      "title": "Sony's WH-1000XM5 headphones hit $198, half price",
-      "category": "Deals",
-      "published_at": "2026-10-13T16:55:00-05:00",
-      "excerpt": "Amazon has the Sony WH-1000XM5 at $198, half off the $400 list, per Android Police. You still get flagship noise canceling and a 30-hour battery, the only knock being earcups that rotate flat instead…",
-      "body": "Amazon has the Sony WH-1000XM5 at $198, half off the $400 list, per [Android Police](https://www.androidpolice.com/sony-wh-1000xm5-their-lowest-price-with-new-price-drop/). You still get flagship noise canceling and a 30-hour battery, the only knock being earcups that rotate flat instead of folding.",
-      "url": "https://www.androidpolice.com/sony-wh-1000xm5-their-lowest-price-with-new-price-drop/",
-      "icon": "🏷️",
-      "image_url": "https://www.findarticles.com/wp-content/uploads/2026/03/sony_wh-1000xm5_edited_1774466877.png.webp"
-    },
-    {
-      "id": "0279e721-3690-4f88-9d60-907b2ffb4855",
-      "kicker": "ON THE RECORD",
-      "title": "DHS confirms $3,000 self-deport offer to migrant kids",
-      "category": "ORR Policy",
-      "published_at": "2026-10-13T16:21:00-05:00",
-      "excerpt": "The rules, stated for the first time to ABC News on Tuesday, cover only children in government custody who are 14 or older with no gang affiliation. That bar sits well above what attorneys have…",
-      "body": "The rules, stated for the first time to [ABC News](https://www.kbnwnews.com/2026/10/13/trump-administration-offering-migrant-children-3000-to-self-deport/) on Tuesday, cover only children in government custody who are 14 or older with no gang affiliation. That bar sits well above what attorneys have reported in courtrooms, where offers have reached children as young as 5.",
-      "url": "https://www.kbnwnews.com/2026/10/13/trump-administration-offering-migrant-children-3000-to-self-deport/",
-      "icon": "📰",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/MSNBC/Components/Video/201806/n_mtpd_clip_hurdplicy_180618_1920x1080.jpg"
-    },
-    {
-      "id": "37d80be1-0bc4-4df2-a44c-761592d9cc90",
-      "kicker": "OFF THE LEASH",
-      "title": "Google's Gemini 4 Argon opens to developers, businesses",
-      "category": "AI",
-      "published_at": "2026-10-13T16:05:00-05:00",
-      "excerpt": "Since its September announcement, Argon had been confined to vetted cybersecurity partners and the U.S. government under a voluntary pre-release process. API pricing starts at $2 per million input…",
-      "body": "Since its September announcement, Argon had been confined to vetted cybersecurity partners and the U.S. government under a voluntary pre-release process. [API pricing starts at $2 per million input tokens and $10 per million output tokens](https://www.reuters.com/business/google-launches-flagship-ai-model-gemini-4-argon-developers-businesses-2026-10-13/), with rates set to double after November 30, per Reuters.",
-      "url": "https://www.reuters.com/business/google-launches-flagship-ai-model-gemini-4-argon-developers-businesses-2026-10-13/",
-      "icon": "🤖",
-      "image_url": "https://d1yei2z3i6k35z.cloudfront.net/11118075/690ddda8db1ed_Google_Gemini_logo_2025.svg.png"
-    },
-    {
-      "id": "f489fef9-a1da-43da-a3a8-729de345c4a7",
-      "kicker": "TWO STORMS",
-      "title": "Category 2 Hurricane Simon nears Mexico as Isaias recovery drags on",
-      "category": "General news",
-      "published_at": "2026-10-13T15:30:00-05:00",
-      "excerpt": "Hurricane Simon was creeping along Mexico's Pacific coast Monday as a Category 2 system with 110 mph winds, forecast to make landfall in Sinaloa on Thursday with life-threatening flooding and…",
-      "body": "Hurricane Simon was creeping along Mexico's Pacific coast Monday as a Category 2 system with 110 mph winds, forecast to make landfall in Sinaloa on Thursday with life-threatening flooding and mudslides. Isaias recovery continues in the Southeast, with about 670,000 people still without power and Pensacola's airport [closed to commercial flights](https://www.reuters.com/sustainability/multiple-hurricanes-hit-us-mexico-2026-10-13/).",
-      "url": "https://www.reuters.com/sustainability/multiple-hurricanes-hit-us-mexico-2026-10-13/",
-      "icon": "📰",
-      "image_url": "https://lagazzettadf.com/wp-content/uploads/2014/10/huracan-simon-cat-1.jpg"
     }
   ]
 }
