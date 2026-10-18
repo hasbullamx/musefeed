@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T03:30:58-05:00",
+  "generated_at": "2026-10-18T09:31:38-05:00",
   "posts": [
+    {
+      "id": "01fd7eea-d10b-4aa9-a086-396673a59eb3",
+      "kicker": "VOLUME CEILING",
+      "title": "60 weekly sets built no more muscle than 40",
+      "category": "Fitness",
+      "published_at": "2026-10-18T12:10:00-05:00",
+      "excerpt": "In the Finnish trial, 27 trained athletes who pushed leg training to about 60 weekly sets gained no significant extra muscle or strength over the group holding near 40, with deadlift gains actually…",
+      "body": "In the [Finnish trial](https://macrosmeasure.com/blog/is-there-a-ceiling-on-training-volume-what-the-63-sets-a-week-study-says-about-more-is-better), 27 trained athletes who pushed leg training to about 60 weekly sets gained no significant extra muscle or strength over the group holding near 40, with deadlift gains actually favoring the lower-volume group, 6.3% versus 4.3%. A separate October systematic review found volume load (sets × reps × weight) the variable most consistently tied to hypertrophy: progressive overload is the engine, and extra sets past the productive zone mostly add fatigue.",
+      "url": "https://macrosmeasure.com/blog/is-there-a-ceiling-on-training-volume-what-the-63-sets-a-week-study-says-about-more-is-better",
+      "icon": "📰",
+      "image_url": "https://builtwithscience.com/wp-content/uploads/2023/10/how-many-sets-per-muscle-group-per-week-1.webp"
+    },
+    {
+      "id": "7638781d-afdc-4753-9c86-7614288f7e93",
+      "kicker": "BUSINESS",
+      "title": "Main Street Rising Tour lands in Houston Nov 10",
+      "category": "Business",
+      "published_at": "2026-10-18T11:55:00-05:00",
+      "excerpt": "The free day centers on hands-on AI workshops and a live pitch competition with a cash prize, per the tour site. Pitch applications close Wednesday, October 28.",
+      "body": "The free day centers on hands-on AI workshops and a live pitch competition with a cash prize, [per the tour site](https://www.mainstreetrisingtour.com/). Pitch applications close Wednesday, October 28.",
+      "url": "https://www.mainstreetrisingtour.com/",
+      "icon": "📰",
+      "image_url": "https://6amcity.brightspotcdn.com/dims4/default/546833b/2147483647/strip/true/crop/960x720+60+0/resize/500x375!/format/webp/quality/90/?url=https%3A%2F%2Fk1-prod-sixam-city.s3.amazonaws.com%2Fbrightspot%2F68%2F75%2Fafeb560041d3b32d89e6b9dfebb6%2Fstate-fair.jpeg"
+    },
+    {
+      "id": "39f382f8-8b70-4bb4-adbb-0f56810d2f2f",
+      "kicker": "[Deals]",
+      "title": "Innocn's fall monitor sale takes up to 58% off",
+      "category": "Deals",
+      "published_at": "2026-10-18T11:40:00-05:00",
+      "excerpt": "Innocn's fall sale covers select gaming and ultrawide monitors, per DealNews. The deals run through October 28 with free shipping.",
+      "body": "Innocn's fall sale covers select gaming and ultrawide monitors, [per DealNews](https://www.dealnews.com/Innocn-Fall-Monitor-Sale-Up-to-58-off-free-shipping/22289249.html). The deals run through October 28 with free shipping.",
+      "url": "https://www.dealnews.com/Innocn-Fall-Monitor-Sale-Up-to-58-off-free-shipping/22289249.html",
+      "icon": "🏷️",
+      "image_url": "https://innocn.com/cdn/shop/files/ANNIVERSARY-banner-pc.webp?v=1787539250&width=3840"
+    },
     {
       "id": "a046b61e-90ce-4ace-a4c7-0f44facf62be",
       "kicker": "Xbox on PlayStation",
@@ -577,54 +613,6 @@
       "url": "https://invezz.com/news/2026/10/15/nvidia-amd-and-micron-plunge-premarket-as-ai-stocks-face-a-brutal-new-reality/",
       "icon": "🤖",
       "image_url": "https://image.cnbcfm.com/api/v1/image/108242673-1765922858341-gettyimages-2251668348-MICRON_EARNS.jpeg?v=1778264935&w=1920&h=1080"
-    },
-    {
-      "id": "7742c461-3d29-4798-ae5d-c7b85298afb2",
-      "kicker": "COUPON DROP",
-      "title": "Udemy's cloud-course drop lands around $10",
-      "category": "Deals",
-      "published_at": "2026-10-15T08:48:21-05:00",
-      "excerpt": "Published Oct 15, 2026, 3:05 PM: all 34 coupons in today's Udemy coupon drop are verified active, but codes expire without notice. The lineup runs heavy on Azure, AWS, Terraform, Docker, and…",
-      "body": "Published Oct 15, 2026, 3:05 PM: all 34 coupons in [today's Udemy coupon drop](https://www.linkedin.com/pulse/udemy-coupon-today-october-15-2026-34-free-courses-discount-b0hwc) are verified active, but codes expire without notice. The lineup runs heavy on Azure, AWS, Terraform, Docker, and Kubernetes, and the 21-hour Azure flagship is the course to start with.",
-      "url": "https://www.linkedin.com/pulse/udemy-coupon-today-october-15-2026-34-free-courses-discount-b0hwc",
-      "icon": "🏷️",
-      "image_url": "https://www.engadget.com/img/gallery/the-udemy-new-year-sale-drops-prices-on-online-tech-courses-to-under-10-151522570/l-intro-1787675976.jpg"
-    },
-    {
-      "id": "ce7a3a27-fef3-4848-a9d1-af00563f0b3d",
-      "kicker": "RACE-DAY GUT CHECK",
-      "title": "Triple odds of ischemic colitis for endurance athletes in hospital data",
-      "category": "Fitness",
-      "published_at": "2026-10-15T06:38:24-05:00",
-      "excerpt": "Published Oct 15, 2026, 1:05 PM: Researchers at the American College of Gastroenterology's 2026 meeting in Nashville found ischemic colitis in 5.5% of hospitalized patients with documented endurance…",
-      "body": "Published Oct 15, 2026, 1:05 PM: Researchers at the American College of Gastroenterology's 2026 meeting in Nashville found ischemic colitis in 5.5% of hospitalized patients with documented endurance activity, versus 2.0% of matched controls, roughly triple the odds, with risk climbing for ultra-distance events [per Medical Daily](https://www.medicaldaily.com/endurance-athletes-ischemic-colitis-acg-2026-479868). The authors called it a signal, not a verdict: a conference abstract, not peer-reviewed, drawn from hospital records only, and they named steady hydration, caution with ibuprofen around races, and gradual distance buildup as sensible habits rather than tested fixes.",
-      "url": "https://www.medicaldaily.com/endurance-athletes-ischemic-colitis-acg-2026-479868",
-      "icon": "📰",
-      "image_url": "https://cos.medicine.net/uploads/20250723/e0f189e5c5e84545dd5e3b5b0bd6ba7b.file"
-    },
-    {
-      "id": "b1f9a9ee-dfc3-4c79-aeea-7fb9a08a11b7",
-      "kicker": "DAY FOUR",
-      "title": "Day four: Birchmore's friend and police chief lined up to testify",
-      "category": "True crime",
-      "published_at": "2026-10-15T06:24:16-05:00",
-      "excerpt": "Published Oct 15, 2026, 12:05 PM: Stoughton Police Sergeant Robert Kuhn resumes his testimony this morning in the federal murder trial of his former colleague Matthew Farwell, with Birchmore's friend…",
-      "body": "Published Oct 15, 2026, 12:05 PM: Stoughton Police Sergeant Robert Kuhn resumes his testimony this morning in the federal murder trial of his former colleague Matthew Farwell, with Birchmore's friend Leslie Davis, Stoughton Police Chief Donna McNamara, and former state trooper Nicholas Guarino lined up behind him, [per The Enterprise's live coverage from the Moakley Courthouse](https://www.enterprisenews.com/story/news/courts/2026/10/15/matthew-farwell-sandra-birchmore-murder-trial-prosecution-witnesses--live/92255187007/). On Wednesday, trooper Matthew Dunne testified that as of August 2024, more than three years after Birchmore's death was ruled a suicide, Farwell remained the target of at least one open state police investigation.",
-      "url": "https://www.enterprisenews.com/story/news/courts/2026/10/15/matthew-farwell-sandra-birchmore-murder-trial-prosecution-witnesses--live/92255187007/",
-      "icon": "🔍",
-      "image_url": "https://s.hdnux.com/photos/74/04/70/15748669/26/640x0.webp"
-    },
-    {
-      "id": "0ad67714-2961-471f-bf69-5f452bde4d41",
-      "kicker": "On camera",
-      "title": "Texas DA says ICE agent appeared to intentionally hit man with vehicle",
-      "category": "Texas",
-      "published_at": "2026-10-15T04:26:42-05:00",
-      "excerpt": "Published Oct 15, 2026, 11:05 AM: Harris County District Attorney Sean Teare said surveillance footage appears to show an ICE agent intentionally striking Miguel Parra Hernandez, 48, with an SUV…",
-      "body": "Published Oct 15, 2026, 11:05 AM: Harris County District Attorney Sean Teare said surveillance footage appears to show an ICE agent intentionally striking Miguel Parra Hernandez, 48, with an SUV during an enforcement stop Saturday in Houston. Teare called aggravated assault with a deadly weapon the most obvious charge, [per the Associated Press](https://www.wcia.com/news/national/ap-texas-prosecutor-says-ice-agent-appeared-to-intentionally-strike-man-with-vehicle-in-houston/).",
-      "url": "https://www.wcia.com/news/national/ap-texas-prosecutor-says-ice-agent-appeared-to-intentionally-strike-man-with-vehicle-in-houston/",
-      "icon": "🤠",
-      "image_url": "https://internewscast.com/wp-content/uploads/2025/07/Texas-man-on-probation-allegedly-chases-ICE-vehicle-damages-it.jpg"
     }
   ]
 }
