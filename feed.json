@@ -1,7 +1,67 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T21:29:49-05:00",
+  "generated_at": "2026-10-18T03:29:53-05:00",
   "posts": [
+    {
+      "id": "a046b61e-90ce-4ace-a4c7-0f44facf62be",
+      "kicker": "Xbox on PlayStation",
+      "title": "Modded PS5 emulator runs Xbox games at 96%",
+      "category": "PS5 Homebrew",
+      "published_at": "2026-10-18T10:40:00-05:00",
+      "excerpt": "Developer ZiZc3 published XPSemu Alpha 1 on GitHub as a native port of the xemu Xbox emulator for jailbroken PS5s, per Tech Insider's roundup. A separate effort called AnyPS5 now reports 1,118 of…",
+      "body": "Developer ZiZc3 published XPSemu Alpha 1 on GitHub as a native port of the xemu Xbox emulator for jailbroken PS5s, [per Tech Insider's roundup](https://tech-insider.org/ps5-emulator-xpsemu-anyps5-xbox-games-2026/). A separate effort called AnyPS5 now reports 1,118 of 1,166 GPU shader instructions covered, about 96%, in its bid to run PS5 executables on PC.",
+      "url": "https://tech-insider.org/ps5-emulator-xpsemu-anyps5-xbox-games-2026/",
+      "icon": "🎮",
+      "image_url": "https://intotech.ir/s/wp-content/uploads/images/2024/10/intotech-ir-37068-1728240258-compressed.webp"
+    },
+    {
+      "id": "cb456084-2208-4d96-82e9-6052e06ba589",
+      "kicker": "VOICE AI DEAL",
+      "title": "ElevenLabs half-price through Oct 19",
+      "category": "AI",
+      "published_at": "2026-10-18T09:12:00-05:00",
+      "excerpt": "OpenRouter lists the promo across every ElevenLabs model, per the October pricing roundup. The roundup flags it as a launch offer ending Oct 19, not a permanent rate reset.",
+      "body": "OpenRouter lists the promo across every ElevenLabs model, [per the October pricing roundup](https://local-ai-zone.github.io/blog/October_2026_AI_Model_Updates.html). The roundup flags it as a launch offer ending Oct 19, not a permanent rate reset.",
+      "url": "https://local-ai-zone.github.io/blog/October_2026_AI_Model_Updates.html",
+      "icon": "🏷️",
+      "image_url": "https://super-monitoring.com/blog/wp-content/uploads/2023/09/elevenlabs.png"
+    },
+    {
+      "id": "e3a4b486-d560-4401-b5e6-4ad53fea8109",
+      "kicker": "LETTER: REVERSE COURSE",
+      "title": "51 lawmakers urge agencies to reverse fast-track child deportations",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-18T00:23:00-05:00",
+      "excerpt": "Representative Andrea Salinas of Oregon and Senator Ron Wyden of Oregon led 51 members of Congress in an October 16 letter to the Justice Department, the Executive Office for Immigration Review, ICE,…",
+      "body": "Representative Andrea Salinas of Oregon and Senator Ron Wyden of Oregon led 51 members of Congress in an October 16 letter to the Justice Department, the Executive Office for Immigration Review, ICE, and USCIS urging the administration to \"immediately reverse course\" on accelerated deportation proceedings for unaccompanied children, citing 24-hour asylum-interview notices, large \"mega master\" hearings, limits on continuances, and reduced access to lawyers, per [VisaVerge's writeup](https://www.visaverge.com/legal/andrea-salinas-ron-wyden-lead-lawmakers-in-letter-on-unaccompanied-children-deportations/). The letter demands answers to 25 questions by October 30, 2026, with the Acacia Center for Justice endorsing it and a full public copy included, per the [press-release mirror](https://www.quiverquant.com/news/Press%20Release:%20Andrea%20Salinas%20and%20Ron%20Wyden%20Lead%20Lawmakers%20in%20Letter%20on%20Unaccompanied%20Children%20Deportations); it is oversight pressure rather than a remedy, and it stands apart from the legal-service providers' October 15 lawsuit covered earlier on this feed.",
+      "url": "https://www.visaverge.com/legal/andrea-salinas-ron-wyden-lead-lawmakers-in-letter-on-unaccompanied-children-deportations/",
+      "icon": "📰",
+      "image_url": "https://s.hdnux.com/photos/01/26/25/65/22633842/4/480x0.webp"
+    },
+    {
+      "id": "21f7d169-6276-4a39-bedb-44dd59caf896",
+      "kicker": "Wednesday's one question",
+      "title": "TDLR publishes no JEEP-approved program list",
+      "category": "Texas",
+      "published_at": "2026-10-18T00:00:00-05:00",
+      "excerpt": "TDLR approves JEEP programs one by one through a $90 curriculum evaluation. In the Valley, TSTC Harlingen's Electrical Construction certificate is the strongest lead, listed at $6,496–$15,312 for…",
+      "body": "TDLR approves JEEP programs one by one through a $90 curriculum evaluation. In the Valley, TSTC Harlingen's Electrical Construction certificate is the strongest lead, listed at $6,496–$15,312 for in-person or hybrid day classes only.",
+      "url": null,
+      "icon": "🤠",
+      "image_url": "https://s.hdnux.com/photos/01/66/02/42/30943416/3/ratio3x2_480.webp"
+    },
+    {
+      "id": "950bb106-cab2-4a1e-929c-9004fe640065",
+      "kicker": "TONIGHT ONLY",
+      "title": "Dollar General $5 off $25: 12 baskets for Saturday only",
+      "category": "Deals",
+      "published_at": "2026-10-17T22:15:00-05:00",
+      "excerpt": "Saturday's $5-off-$25 digital stacks with product digitals across 12 worked baskets. The cheapest lands six items for $4.75.",
+      "body": "Saturday's $5-off-$25 digital stacks with product digitals across [12 worked baskets](http://networkingmamasidehustlevault.blogspot.com/2026/10/dollar-general-saturday-game-plan-5-off.html). The cheapest lands six items for $4.75.",
+      "url": "http://networkingmamasidehustlevault.blogspot.com/2026/10/dollar-general-saturday-game-plan-5-off.html",
+      "icon": "🏷️",
+      "image_url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/27zsgDcbiBFmFo0nsKEM1o/ba25de2ad825d4789873b2ded7739498/how-to-coupon-at-dollar-general-coupons-policy-5-off-25-receipt-saturday-only-offer-1672959944-1672959944.jpg"
+    },
     {
       "id": "c48067ea-076c-4e94-a98b-e440f6c8b356",
       "kicker": "FLASH UPDATE",
@@ -565,42 +625,6 @@
       "url": "https://www.wcia.com/news/national/ap-texas-prosecutor-says-ice-agent-appeared-to-intentionally-strike-man-with-vehicle-in-houston/",
       "icon": "🤠",
       "image_url": "https://internewscast.com/wp-content/uploads/2025/07/Texas-man-on-probation-allegedly-chases-ICE-vehicle-damages-it.jpg"
-    },
-    {
-      "id": "6b8f63d4-22c9-49a5-99d5-10d3fb023e48",
-      "kicker": "CHEAPEST 12GB YET",
-      "title": "Arc B580 hits $329 with a free 360mm AIO at Newegg",
-      "category": "PC hardware",
-      "published_at": "2026-10-15T02:31:52-05:00",
-      "excerpt": "Published Oct 15, 2026, 10:05 AM: Newegg dropped the ASRock Challenger Arc B580 12GB to $329 and threw in a free 360mm AIO cooler worth $89, per Wccftech. Counting the cooler, the card effectively…",
-      "body": "Published Oct 15, 2026, 10:05 AM: Newegg dropped the ASRock Challenger Arc B580 12GB to $329 and threw in a free 360mm AIO cooler worth $89, [per Wccftech](https://wccftech.com/buy-intel-arc-b580-for-329-and-get-a-free-90-aio-cooler/). Counting the cooler, the card effectively lands below its $249 launch price and becomes the cheapest 12GB GPU on the shelf.",
-      "url": "https://wccftech.com/buy-intel-arc-b580-for-329-and-get-a-free-90-aio-cooler/",
-      "icon": "📰",
-      "image_url": "https://cdn.videocardz.com/1/2026/03/ASROCK-B580-FREE-AIO-2048x1065.jpg"
-    },
-    {
-      "id": "20f06887-3820-44f8-b7cf-22037ba3c98c",
-      "kicker": "open on your machine",
-      "title": "NVIDIA open-sources a 74B agentic model that fits in 24GB",
-      "category": "AI",
-      "published_at": "2026-10-15T00:20:05-05:00",
-      "excerpt": "Published Oct 15, 2026, 9:30 AM. Nemotron 3.5 Bolt 74B-A9B lands today, firing only 9 billion of its parameters per query to fit on a laptop. NVIDIA's free PAIR router leaves beta alongside it,…",
-      "body": "Published Oct 15, 2026, 9:30 AM. Nemotron 3.5 Bolt 74B-A9B lands today, firing only 9 billion of its parameters per query to fit on a laptop. NVIDIA's free PAIR router leaves beta alongside it, sending whole inference requests to whichever PC on your home network has spare capacity.",
-      "url": null,
-      "icon": "🤖",
-      "image_url": "https://content.presspage.com/uploads/2428/bb76fc4b-715c-48a3-95ff-ee448493a332/far877-inline.png?10000"
-    },
-    {
-      "id": "3777715c-cb43-4f08-a823-1734c6c732a7",
-      "kicker": "CROSS-EXAMINATION",
-      "title": "Investigator admits gaps in Birchmore death probe",
-      "category": "True crime",
-      "published_at": "2026-10-14T22:58:07-05:00",
-      "excerpt": "Published Oct 14, 2026, 10:50 PM: State Police Trooper Matthew Dunne admitted Wednesday that investigators never collected the camouflage duffel bag that may have matched the ligature around Sandra…",
-      "body": "Published Oct 14, 2026, 10:50 PM: State Police Trooper Matthew Dunne admitted Wednesday that investigators never collected the camouflage duffel bag that may have matched the ligature around Sandra Birchmore's neck. On cross-examination, he conceded there were no boot tread marks in the apartment, despite the video the defense played appearing to show Farwell wearing heavy-duty boots, [per The Enterprise's day-three live coverage](https://www.enterprisenews.com/story/news/courts/2026/10/14/matthew-farwell-sandra-birchmore-trial-witnesses-testimony-murder-stoughton-police-officer--live/92238678007/).",
-      "url": "https://www.enterprisenews.com/story/news/courts/2026/10/14/matthew-farwell-sandra-birchmore-trial-witnesses-testimony-murder-stoughton-police-officer--live/92238678007/",
-      "icon": "🔍",
-      "image_url": "https://www.greekcomics.gr/forums/uploads/monthly_12_2016/post-277-0-30447100-1482251961.jpg"
     }
   ]
 }
