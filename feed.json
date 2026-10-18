@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T09:32:40-05:00",
+  "generated_at": "2026-10-18T15:34:59-05:00",
   "posts": [
+    {
+      "id": "8f0a679c-2d6f-4eca-abfc-f81ea0acc9ba",
+      "kicker": "BROWNSVILLE BUILD",
+      "title": "Brownsville construction totals $440.3M in a year",
+      "category": "Texas",
+      "published_at": "2026-10-18T15:33:18-05:00",
+      "excerpt": "More than 24 projects are set to finish in the next 120 days, including Sumo Brownsville and Zumiez, per Zabalist's October report. Another 24+ cleared inspection or closed out in the past 90 days.",
+      "body": "More than 24 projects are set to finish in the next 120 days, including Sumo Brownsville and Zumiez, [per Zabalist's October report](https://www.zabalist.com/reports/city/brownsville). Another 24+ cleared inspection or closed out in the past 90 days.",
+      "url": "https://www.zabalist.com/reports/city/brownsville",
+      "icon": "🤠",
+      "image_url": "https://s.hdnux.com/photos/74/77/63/15990006/10/640x0.jpg"
+    },
+    {
+      "id": "8901ff47-32b9-4bba-a2a6-51163408e79c",
+      "kicker": "FREE AGENT",
+      "title": "OpenCode hits 216,000 stars as open-source coding agent",
+      "category": "AI",
+      "published_at": "2026-10-18T14:25:17-05:00",
+      "excerpt": "The MIT-licensed agent plugs into 75+ model providers, per the rundown. You can log in with the ChatGPT or Copilot subscription you already pay for instead of buying another seat.",
+      "body": "The MIT-licensed agent plugs into 75+ model providers, [per the rundown](http://dev.to/itxtayab/opencode-the-open-source-ai-coding-agent-with-216000-github-stars-7hi). You can log in with the ChatGPT or Copilot subscription you already pay for instead of buying another seat.",
+      "url": "http://dev.to/itxtayab/opencode-the-open-source-ai-coding-agent-with-216000-github-stars-7hi",
+      "icon": "🤖",
+      "image_url": "https://bestofjs.org/api/og/projects/?page=2&limit=30&tags=ai&sort=weekly&scope=all&t=2026-09-07T17-50"
+    },
+    {
+      "id": "b49da617-6206-4ef9-a381-55250fc54cab",
+      "kicker": "FAST TRACK",
+      "title": "OPM axes minimum tenure for federal hires",
+      "category": "Federal workforce",
+      "published_at": "2026-10-18T12:11:58-05:00",
+      "excerpt": "OPM published a final rule Friday scrapping the 52-week time-in-grade requirement that kept federal employees at a grade for a year before promotion, per Bloomberg Law. Director Scott Kupor called…",
+      "body": "OPM published a final rule Friday scrapping the 52-week time-in-grade requirement that kept federal employees at a grade for a year before promotion, [per Bloomberg Law](https://news.bloomberglaw.com/daily-labor-report/trump-personnel-office-removes-minimum-tenure-for-federal-hires).\nDirector Scott Kupor called the wait an \"anti-merit principle\" that slowed high performers from moving up.",
+      "url": "https://news.bloomberglaw.com/daily-labor-report/trump-personnel-office-removes-minimum-tenure-for-federal-hires",
+      "icon": "📰",
+      "image_url": "https://cdn.govexec.com/media/img/cd/2025/06/20/062025_Getty_GovExec_OPMperformance/860x394.jpg?1750455500"
+    },
     {
       "id": "01fd7eea-d10b-4aa9-a086-396673a59eb3",
       "kicker": "VOLUME CEILING",
@@ -37,6 +73,18 @@
       "url": "https://www.dealnews.com/Innocn-Fall-Monitor-Sale-Up-to-58-off-free-shipping/22289249.html",
       "icon": "🏷️",
       "image_url": "https://innocn.com/cdn/shop/files/ANNIVERSARY-banner-pc.webp?v=1787539250&width=3840"
+    },
+    {
+      "id": "79c617d9-ada7-4cf0-80aa-81d6ecbbd99b",
+      "kicker": "AGENT ECONOMICS",
+      "title": "DeepSeek Flash beats bigger rivals, cuts per-task cost again",
+      "category": "AI",
+      "published_at": "2026-10-18T10:48:35-05:00",
+      "excerpt": "DeepSeek's V4.1-Flash-1017 hits 77.0% on DeepSWE at about $0.20 per task versus $2 to over $10 for larger rivals, per the breakdown. DeepSeek also opened its Search & Fetch APIs to all developers,…",
+      "body": "DeepSeek's V4.1-Flash-1017 hits 77.0% on DeepSWE at about $0.20 per task versus $2 to over $10 for larger rivals, [per the breakdown](https://cryptogames.gg/deepseek-v4-1-flash-1017-beats-bigger-rivals-on-agentic-tasks-and-cuts-per-task-costs-again/). DeepSeek also opened its Search & Fetch APIs to all developers, free via Harness, Claude Code and Codex until Oct 31.",
+      "url": "https://cryptogames.gg/deepseek-v4-1-flash-1017-beats-bigger-rivals-on-agentic-tasks-and-cuts-per-task-costs-again/",
+      "icon": "🤖",
+      "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/10/9a6da837-2c9e-4e21-86a1-82ad760f4b06_dd5e5028.jpg?itok=dafO_wNK&v=1786359025"
     },
     {
       "id": "a046b61e-90ce-4ace-a4c7-0f44facf62be",
@@ -553,66 +601,6 @@
       "url": "https://www.floridatoday.com/story/tech/science/space/spacex/2026/10/15/when-is-the-spacex-starship-florida-launch-kennedy-space-center-progress/92245783007/",
       "icon": "🤠",
       "image_url": "https://www.sciencefriday.com/wp-content/uploads/2024/11/starlink_flight-6-flickr.jpg?resize=1024,733"
-    },
-    {
-      "id": "cd169f3c-8bd0-4faa-bc19-cf659b3a4ad3",
-      "kicker": "Without counsel",
-      "title": "24,000 children lost legal funding after ORR contracts lapsed",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-15T14:27:12-05:00",
-      "excerpt": "ORR custody now stretches past 200 days, up from about 35, in Heather Yountz's account in The 74 interview. The contracts behind that coverage lapsed July 31, worth about $65 million.",
-      "body": "ORR custody now stretches past 200 days, up from about 35, in Heather Yountz's account [in The 74 interview](https://www.the74million.org/article/immigration-lawyer-on-trumps-constellation-of-attacks-on-newcomer-children/). The contracts behind that coverage lapsed July 31, worth about $65 million.",
-      "url": "https://www.the74million.org/article/immigration-lawyer-on-trumps-constellation-of-attacks-on-newcomer-children/",
-      "icon": "📰",
-      "image_url": "https://www.solicitorsjournal.com/_next/image?url=https%3A%2F%2Fimages.iicj.net%2Farticle%2Ffeature%2FSYRIAN%20REFUGEES.jpg&w=1080&q=75"
-    },
-    {
-      "id": "80c7c7f1-be20-47c4-ba00-8e46348f5b26",
-      "kicker": "Slimmer agent loops",
-      "title": "Arcade.dev's Tool Recommendation claims 37% input cost cut",
-      "category": "AI",
-      "published_at": "2026-10-15T13:08:50-05:00",
-      "excerpt": "Arcade.dev's Tool Recommendation went live on Arcade Cloud today at no separate feature charge, replacing the practice of loading the platform's whole tool catalog into the agent's context with…",
-      "body": "Arcade.dev's Tool Recommendation went live on Arcade Cloud today at no separate feature charge, replacing the practice of loading the platform's whole tool catalog into the agent's context with smaller models that search, rank, and shortlist tools on demand. The [7.6% cut to the total token bill](https://venturebeat.com/orchestration/new-tool-recommendation-system-cuts-your-firms-input-token-costs-by-37-according-to-arcade-dev) measured across 408 sessions sits well below the modeled 37% headline, and task completion didn't move.",
-      "url": "https://venturebeat.com/orchestration/new-tool-recommendation-system-cuts-your-firms-input-token-costs-by-37-according-to-arcade-dev",
-      "icon": "🤖",
-      "image_url": "https://www.llmrelevance.com/og/tools/arcade.png?v=1786734816125"
-    },
-    {
-      "id": "3dee2454-a15d-40b6-8317-ccb94458a1ed",
-      "kicker": "UNDER YOUR TV",
-      "title": "Jailbroken PS5 runs a 27B AI model on its GPU",
-      "category": "PS5 Homebrew",
-      "published_at": "2026-10-15T12:19:01-05:00",
-      "excerpt": "A jailbroken PS5 is now a local AI server: PS5LM Plus runs Qwen 3.8 27B on the console's GPU at 20.3 tokens per second, per Back2Gaming. The native app serves the model to the home network through an…",
-      "body": "A jailbroken PS5 is now a local AI server: PS5LM Plus runs Qwen 3.8 27B on the console's GPU at 20.3 tokens per second, [per Back2Gaming](https://www.back2gaming.com/news/ps5lm-qwen-3-8-27b-jailbroken-ps5-gpu/). The native app serves the model to the home network through an OpenAI-compatible API, with the GPU unlocked via a community port of the Vulkan driver.",
-      "url": "https://www.back2gaming.com/news/ps5lm-qwen-3-8-27b-jailbroken-ps5-gpu/",
-      "icon": "🎮",
-      "image_url": "https://greatgamer.ru/resize/w700/images/news/10.2025/11/news_14268.jpg?772"
-    },
-    {
-      "id": "2b8a3353-4b34-4793-a70d-20e9a5979cc3",
-      "kicker": "FAILURE BY DESIGN",
-      "title": "Trump funding cuts halt repairs, critical work at national parks",
-      "category": "Federal workforce",
-      "published_at": "2026-10-15T11:52:25-05:00",
-      "excerpt": "The National Park Service halted funding for 133 already-appropriated projects in August and struck them under a brand-new \"disapproved\" designation, per The Arizona Republic. Since last year's mass…",
-      "body": "The National Park Service halted funding for 133 already-appropriated projects in August and struck them under a brand-new \"disapproved\" designation, [per The Arizona Republic](https://www.azcentral.com/story/news/environment/2026/10/15/trump-funding-cuts-halt-critical-work-at-southwest-national-parks/92249668007/). Since last year's mass firings, the agency has lost 25% of its workforce.",
-      "url": "https://www.azcentral.com/story/news/environment/2026/10/15/trump-funding-cuts-halt-critical-work-at-southwest-national-parks/92249668007/",
-      "icon": "📰",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-860x484,f_auto,q_auto:best/MSNBC/Components/Video/__NEW/x_dc_mtp_frm_20141205.jpg"
-    },
-    {
-      "id": "87190c1a-f68b-4075-bc23-37ad26834b8c",
-      "kicker": "AI STOCKS SLIDE",
-      "title": "Nvidia, AMD, and Micron plunge in premarket trading",
-      "category": "Business",
-      "published_at": "2026-10-15T10:48:44-05:00",
-      "excerpt": "Wall Street's AI sell-off stopped being a demand story Thursday and became a financing one, with the open question now who can still afford to keep building the infrastructure boom, per Invezz.…",
-      "body": "Wall Street's AI sell-off stopped being a demand story Thursday and became a financing one, with the open question now who can still afford to keep building the infrastructure boom, [per Invezz](https://invezz.com/news/2026/10/15/nvidia-amd-and-micron-plunge-premarket-as-ai-stocks-face-a-brutal-new-reality/). CoreWeave's unsecured bond yields neared 15%, distress pricing that could ripple upstream to chip orders before suppliers see any slowdown in current shipments.",
-      "url": "https://invezz.com/news/2026/10/15/nvidia-amd-and-micron-plunge-premarket-as-ai-stocks-face-a-brutal-new-reality/",
-      "icon": "🤖",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108242673-1765922858341-gettyimages-2251668348-MICRON_EARNS.jpeg?v=1778264935&w=1920&h=1080"
     }
   ]
 }
