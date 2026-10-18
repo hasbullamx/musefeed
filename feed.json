@@ -1,7 +1,67 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T15:26:19-05:00",
+  "generated_at": "2026-10-17T21:28:06-05:00",
   "posts": [
+    {
+      "id": "c48067ea-076c-4e94-a98b-e440f6c8b356",
+      "kicker": "FLASH UPDATE",
+      "title": "DeepSeek's Flash update claims gains on 11 benchmarks at same price",
+      "category": "AI",
+      "published_at": "2026-10-17T21:20:00-05:00",
+      "excerpt": "DeepSeek put V4.1-Flash-1017 weights on Hugging Face on Saturday under MIT license, per TECHi. Its own table has Terminal-Bench 4.0 jumping from 31.2 to 42.3, the largest of the gains it claims.",
+      "body": "DeepSeek put V4.1-Flash-1017 weights on Hugging Face on Saturday under MIT license, [per TECHi](https://www.techi.com/deepseek-v4-1-flash-1017-update-benchmarks-price/). Its own table has Terminal-Bench 4.0 jumping from 31.2 to 42.3, the largest of the gains it claims.",
+      "url": "https://www.techi.com/deepseek-v4-1-flash-1017-update-benchmarks-price/",
+      "icon": "🤖",
+      "image_url": "https://eastfrontier.com/wp-content/uploads/2026/08/deepseek-v4-flash-696x348.webp"
+    },
+    {
+      "id": "c82c0640-4bbb-4205-9c97-204bff3d5d6e",
+      "kicker": "PS5 GOES LINUX",
+      "title": "Linux boots on jailbroken PS5s up to July firmware",
+      "category": "PS5 Homebrew",
+      "published_at": "2026-10-17T19:30:00-05:00",
+      "excerpt": "The new pLinux5-NG bootloader boots Linux on jailbroken PS5s running firmware up to July's 13.60, up from the old bootloader's 7.61 ceiling, per Notebookcheck. Whether PC games follow is still open,…",
+      "body": "The new pLinux5-NG bootloader boots Linux on jailbroken PS5s running firmware up to July's 13.60, up from the old bootloader's 7.61 ceiling, [per Notebookcheck](https://www.notebookcheck.net/Linux-now-runs-on-PS5-console-jailbreaks-and-July-firmware-with-PC-games-possible.1425575.0.html). Whether PC games follow is still open, but the old bootloader ran GTA 5 Enhanced at close to 60 fps at 1440p through Proton.",
+      "url": "https://www.notebookcheck.net/Linux-now-runs-on-PS5-console-jailbreaks-and-July-firmware-with-PC-games-possible.1425575.0.html",
+      "icon": "🎮",
+      "image_url": "https://criticalhits.com.br/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2026/05/em5-linux-en-la-ps5-480x270.jpg.webp"
+    },
+    {
+      "id": "0d7cd9fa-d93a-46a5-9341-75cc1b449874",
+      "kicker": "CASH PAY OPTIONS",
+      "title": "Milophene 50mg without insurance: what to check next",
+      "category": "Health",
+      "published_at": "2026-10-17T17:50:00-05:00",
+      "excerpt": "Cash price for clomiphene 50 mg runs about $69.28 for 10 tablets per Drugs.com's price guide. Checking GoodRx or SingleCare against nearby pharmacies usually surfaces the lowest cash number.",
+      "body": "Cash price for clomiphene 50 mg runs about $69.28 for 10 tablets [per Drugs.com's price guide](https://www.drugs.com/price-guide/clomiphene). Checking GoodRx or SingleCare against nearby pharmacies usually surfaces the lowest cash number.",
+      "url": "https://www.drugs.com/price-guide/clomiphene",
+      "icon": "📰",
+      "image_url": "https://images.hive.blog/768x0/https://images.ecency.com/DQmf4FD2QymLeyRyQ7kGxeyoEQwPvNvNAFcQkciKqJY2rKD/1742153736222.jpg"
+    },
+    {
+      "id": "d4d61c18-4d5c-4ef3-83f6-79a878da1c2c",
+      "kicker": "RECRUITING REFUGEES",
+      "title": "US mulls $335,000 ad push to recruit more Afrikaner refugees",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-17T16:45:00-05:00",
+      "excerpt": "Washington is reportedly weighing a $335,000 research and advertising campaign to persuade more Afrikaners to apply for US refugee status, after an internal State Department proposal noted…",
+      "body": "Washington is reportedly weighing a $335,000 research and advertising campaign to persuade more Afrikaners to apply for US refugee status, after an internal State Department proposal noted applications have \"trended lower than expected,\" [per Current Affairs ZA's writeup of the Guardian exclusive](https://currentaffairsza.com/2026/10/15/us-mulls-r5m-campaign-to-lure-more-afrikaner-refugees-as-uptake-disappoints-report/). The push follows a fiscal 2026 in which all but five of the 16,292 admitted refugees were already South African.",
+      "url": "https://currentaffairsza.com/2026/10/15/us-mulls-r5m-campaign-to-lure-more-afrikaner-refugees-as-uptake-disappoints-report/",
+      "icon": "📰",
+      "image_url": "https://www.joburgetc.com/wp-content/uploads/2025/09/image-3-6.jpg"
+    },
+    {
+      "id": "1634f4f1-c974-4945-b65d-95e8f6a260c6",
+      "kicker": "TOKEN SAVER",
+      "title": "Open-source TOMC trims coding-agent token use",
+      "category": "AI",
+      "published_at": "2026-10-17T16:30:00-05:00",
+      "excerpt": "TOMC shrinks the conversation history your agent resends each turn, cutting input by 29.8% in the author's Codex run, per the build notes. It runs on CPU with no extra model calls, so it stacks with…",
+      "body": "TOMC shrinks the conversation history your agent resends each turn, cutting input by 29.8% in the author's Codex run, [per the build notes](https://medium.com/@wzp0724/bro-just-a-few-more-tokens-i-built-an-open-source-token-saver-for-ai-coding-agents-6b8975149ff5). It runs on CPU with no extra model calls, so it stacks with reply-shorteners like Caveman instead of replacing them.",
+      "url": "https://medium.com/@wzp0724/bro-just-a-few-more-tokens-i-built-an-open-source-token-saver-for-ai-coding-agents-6b8975149ff5",
+      "icon": "🤖",
+      "image_url": "https://leonardo.osnova.io/164eb162-1029-55dc-903a-42fb249a2c3d/-/scale_crop/592x/-/format/webp/"
+    },
     {
       "id": "1797f911-c0a9-4df9-a753-bf60e0c6da4f",
       "kicker": "DEAL OF THE DAY",
@@ -541,42 +601,6 @@
       "url": "https://www.enterprisenews.com/story/news/courts/2026/10/14/matthew-farwell-sandra-birchmore-trial-witnesses-testimony-murder-stoughton-police-officer--live/92238678007/",
       "icon": "🔍",
       "image_url": "https://www.greekcomics.gr/forums/uploads/monthly_12_2016/post-277-0-30447100-1482251961.jpg"
-    },
-    {
-      "id": "3db25697-8a05-4878-bfc4-15cabcfb4850",
-      "kicker": "PUBLIC COMMENT",
-      "title": "SpaceX wants 456 launches a year at Starbase",
-      "category": "Texas",
-      "published_at": "2026-10-14T21:17:26-05:00",
-      "excerpt": "Published Oct 14, 2026, 9:10 PM: The formal filing puts SpaceX's ask at up to 456 launches and 912 landings a year at Boca Chica. The FAA will take public comment at meetings in Brownsville on…",
-      "body": "Published Oct 14, 2026, 9:10 PM: The formal filing puts SpaceX's ask at up to [456 launches and 912 landings a year at Boca Chica](https://www.advanced-television.com/2026/10/14/spacex-wants-456-launches-year/). The FAA will [take public comment at meetings in Brownsville on November 17 and Port Isabel on November 19, plus a virtual session on November 18](https://behindtheblack.com/tag/superheavy/).",
-      "url": "https://www.advanced-television.com/2026/10/14/spacex-wants-456-launches-year/",
-      "icon": "🤠",
-      "image_url": "https://wsrv.nl/?output=webp&url=storage.liga.net/images/general/2022/10/22/20221022080452-5713.jpeg?v=2048-1534-875248&w=780&fit=cover&dpr=2"
-    },
-    {
-      "id": "889b6d94-4523-424e-b2e2-cec56a711402",
-      "kicker": "ASHORE",
-      "title": "Two deaths reported as Rachel and Simon strike Mexico's coast",
-      "category": "General news",
-      "published_at": "2026-10-14T21:06:37-05:00",
-      "excerpt": "The governors of Guerrero and Baja California have confirmed deaths after Hurricanes Rachel and Simon made landfall on Mexico's Pacific coast, according to Al Jazeera. AFP reported Monday that the…",
-      "body": "The governors of Guerrero and Baja California have confirmed deaths after [Hurricanes Rachel and Simon made landfall on Mexico's Pacific coast](https://newsasfacts.com/news/162699), according to Al Jazeera. AFP reported Monday that [the two storms had already killed five people](https://witness.co.za/news/2026/10/13/five-dead-as-hurricane-simon-rachel-pummel-mexicos-pacific-coast/).",
-      "url": "https://newsasfacts.com/news/162699",
-      "icon": "📰",
-      "image_url": "https://www.salzburgertageblatt.at/media/shared/articles/12/e6/65/Three-foreigners-among-Mexico-hurri-791674.jpg"
-    },
-    {
-      "id": "37e8ce7d-059f-4e61-8719-3c565ef6598d",
-      "kicker": "SHAKE STOCK-UP",
-      "title": "Core Power shakes as low as $1.67 each with coupon, Subscribe & Save",
-      "category": "Deals",
-      "published_at": "2026-10-14T18:11:47-05:00",
-      "excerpt": "The vanilla 12-pack of 14 oz Core Power shakes drops to $19.99 shipped when you clip the 35% coupon and check out with Subscribe & Save, per Passionate Penny Pincher. You can cancel Subscribe & Save…",
-      "body": "The vanilla 12-pack of 14 oz Core Power shakes drops to $19.99 shipped when you clip the 35% coupon and check out with Subscribe & Save, [per Passionate Penny Pincher](https://passionatepennypincher.com/core-power-protein-shake/). You can cancel Subscribe & Save after the first order ships.",
-      "url": "https://passionatepennypincher.com/core-power-protein-shake/",
-      "icon": "🏷️",
-      "image_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=569,h=353,fit=crop,trim=176.4;156.97950219619327;176.4;156.97950219619327/m6LZerqr14HyX7z1/are-core-power-protein-shakes-healthy-A85eB04RZjSa6pqe.jpg"
     }
   ]
 }
