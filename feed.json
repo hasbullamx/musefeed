@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T09:45:02-05:00",
+  "generated_at": "2026-10-19T15:45:10-05:00",
   "posts": [
+    {
+      "id": "7473827f-8656-4ab4-9521-7fd5611c0895",
+      "kicker": "CHEAPER AGENTS",
+      "title": "MiniMax's M3.1 Flash cuts agent costs 70%",
+      "category": "AI",
+      "published_at": "2026-10-19T15:30:00-05:00",
+      "excerpt": "OpenRouter is running MiniMax's just-launched M3.1 Flash free for 72 hours. MiniMax says online inference runs nearly three times faster than its predecessor, aimed at agentic coding and computer-use…",
+      "body": "OpenRouter is running MiniMax's just-launched [M3.1 Flash](https://www.unite.ai/minimax-launches-m3-1-flash-revealing-space-bunny-stealth-model/) free for 72 hours. MiniMax says online inference runs nearly three times faster than its predecessor, aimed at agentic coding and computer-use work.",
+      "url": "https://www.unite.ai/minimax-launches-m3-1-flash-revealing-space-bunny-stealth-model/",
+      "icon": "🤖",
+      "image_url": "https://img.caixin.com/2026-07-10/178367420120499_560_373.jpg"
+    },
+    {
+      "id": "34ed4d0b-4bb2-4d87-9468-75de5323c7c2",
+      "kicker": "TPS REPRIEVE",
+      "title": "US keeps Ukraine and Sudan TPS protections for now",
+      "category": "General news",
+      "published_at": "2026-10-19T13:30:00-05:00",
+      "excerpt": "Protections stay running past Monday's deadline while DHS finishes its review, saying decisions will come at the appropriate time. It is the second TPS hold in two months, after El Salvador's…",
+      "body": "Protections stay running past Monday's deadline while DHS finishes its review, saying decisions will come [at the appropriate time](https://985theriver.com/2026/10/19/us-says-immigrants-from-ukraine-sudan-can-keep-protected-status-for-now-2/). It is the second TPS hold in two months, after El Salvador's reprieve in September.",
+      "url": "https://985theriver.com/2026/10/19/us-says-immigrants-from-ukraine-sudan-can-keep-protected-status-for-now-2/",
+      "icon": "📰",
+      "image_url": "https://secure.actblue.com/x/object/actblue-cyanotypes/replaced_images/pagelist/1250985/1a0e8044-9b43-4f97-9910-8f957b118ba2-IMG_7758-7a4bab2c.jpeg"
+    },
+    {
+      "id": "237047c3-c7c1-4fe5-b0e3-97419af4f42c",
+      "kicker": "BIG BET ON TEXAS",
+      "title": "Lockheed Martin expands in Texas, plans 6,000 U.S. jobs",
+      "category": "Business",
+      "published_at": "2026-10-19T12:25:00-05:00",
+      "excerpt": "Lockheed Martin is pouring $300 million into its Grand Prairie, Texas, munitions plant, growing the site past 735,000 square feet. The company says the build-out will create 6,000 U.S. jobs, with…",
+      "body": "Lockheed Martin is pouring $300 million into its Grand Prairie, Texas, munitions plant, growing the site past 735,000 square feet. The company says the build-out will [create 6,000 U.S. jobs](https://defence-industry.eu/lockheed-martin-ceo-says-deterrence-requires-greater-production-citing-texas-expansion-and-plans-for-6000-u-s-jobs/), with 2,000 of them in Texas.",
+      "url": "https://defence-industry.eu/lockheed-martin-ceo-says-deterrence-requires-greater-production-citing-texas-expansion-and-plans-for-6000-u-s-jobs/",
+      "icon": "🤠",
+      "image_url": "https://alphai.io/_next/image?url=%2Fdata%2Fnews-image%3Furl%3Dhttps%253A%252F%252Fmedia.barchart.com%252Fcontributors-admin%252Fcommon-images%252Fimages%252FS%252526P%252520500%252520Companies%252FIndustrials%252520(names%252520J%252520-%252520Z)%252FLockheed%252520Martin%252520Corp_%252520TX%252520facility-by%252520JHVEPhpoto%252520via%252520iStock.jpg&w=1200&q=75"
+    },
+    {
+      "id": "25407fb1-8301-4c12-8bad-0afa555a6119",
+      "kicker": "DOLLAR GENERAL",
+      "title": "Dollar General coupon matchups for October 18–24",
+      "category": "Deals",
+      "published_at": "2026-10-19T11:20:00-05:00",
+      "excerpt": "Four coupons are verified on Dollar General's own site for the new week, including two Gain EZ-Squeeze 24.3-oz bottles for $3 after the $3-off-2 digital coupon. The early ad preview also lists six…",
+      "body": "Four coupons are verified on Dollar General's own site for the new week, including two Gain EZ-Squeeze 24.3-oz bottles for $3 after the [$3-off-2 digital coupon](https://glitchndealz.com/2026/10/dollar-general-coupon-matchups-october-18-24-2026.html). The [early ad preview](https://glitchndealz.com/2026/10/dollar-general-coupon-matchups-october-18-24-2026.html) also lists six coupon offers to plan around, like three qualifying Gain laundry items for $10 and Pepsi 12-packs at three for $16.",
+      "url": "https://glitchndealz.com/2026/10/dollar-general-coupon-matchups-october-18-24-2026.html",
+      "icon": "🏷️",
+      "image_url": "https://crazy4couponing.com/wp-content/uploads/2024/10/file-588.png"
+    },
     {
       "id": "0a6eb421-9544-4d6e-b117-b653a2ab0416",
       "kicker": "CHIP SWITCH",
@@ -517,30 +565,6 @@
       "url": "https://inusnews.com/immigration-proposal-cuts-orr-reporting-burden/",
       "icon": "📰",
       "image_url": "https://www.hstoday.us/wp-content/uploads/2018/06/11999380734_47e40515c1_k.jpg"
-    },
-    {
-      "id": "ec2c2d4a-3a3e-401f-b037-377b9c9237c2",
-      "kicker": "DAY FIVE",
-      "title": "FBI: Birchmore had a list of baby names",
-      "category": "True crime",
-      "published_at": "2026-10-16T14:37:04-05:00",
-      "excerpt": "Published Oct 16, 2026, 3:00 PM: FBI forensics examiner Christopher Beckstrom testified Friday that Matthew Farwell's phone held Google searches asking whether consent can be revoked in Massachusetts…",
-      "body": "Published Oct 16, 2026, 3:00 PM: FBI forensics examiner Christopher Beckstrom testified Friday that Matthew Farwell's phone held Google searches asking whether consent can be revoked in Massachusetts and whether deleted iMessages can be recovered with Cellebrite, [per The Enterprise's live coverage from the Boston courthouse](https://www.enterprisenews.com/story/news/courts/2026/10/16/matthew-farwell-sandra-birchmore-stoughton-police-murder-trial--live/92266523007/). The same examiner said Birchmore's Apple Note from January 27, 2021 listed potential baby names for the son she was carrying.",
-      "url": "https://www.enterprisenews.com/story/news/courts/2026/10/16/matthew-farwell-sandra-birchmore-stoughton-police-murder-trial--live/92266523007/",
-      "icon": "🔍",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:good:444,e_sharpen:60/msnbc/Components/Photos/070731/070731_babies_hmed_9a.jpg"
-    },
-    {
-      "id": "77d260b6-c1ab-40fb-becd-ca4a3d1f820b",
-      "kicker": "OPEN AGENT KERNEL",
-      "title": "Reflection open-sources Beam under Apache 2.0",
-      "category": "AI",
-      "published_at": "2026-10-16T10:55:33-05:00",
-      "excerpt": "Published Oct 16, 2026, 9:40 AM: Reflection put Beam's weights on Hugging Face under Apache 2.0, a mixture-of-experts model built for agentic coding with a tunable reasoning-effort dial. Baseten's…",
-      "body": "Published Oct 16, 2026, 9:40 AM: Reflection [put Beam's weights on Hugging Face under Apache 2.0](https://www.unite.ai/reflection-releases-beams-open-weights-under-apache-2-0-license/), a mixture-of-experts model built for agentic coding with a tunable reasoning-effort dial. Baseten's day-zero API lists output at $0.13 per million tokens, a rate that rewrites the math on long agent runs.",
-      "url": "https://www.unite.ai/reflection-releases-beams-open-weights-under-apache-2-0-license/",
-      "icon": "🤖",
-      "image_url": "https://licenses.dev/go/github.com%2Fapache%2Fbeam/v2.75.0-RC1+incompatible"
     }
   ]
 }
