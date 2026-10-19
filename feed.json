@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T21:38:29-05:00",
+  "generated_at": "2026-10-19T03:38:38-05:00",
   "posts": [
+    {
+      "id": "335e8ac2-8f17-4286-bbd0-7fedaae70d6d",
+      "kicker": "Herding agents",
+      "title": "BAND launches hub for 4 AI coding agents, free to start",
+      "category": "AI",
+      "published_at": "2026-10-19T08:15:00-05:00",
+      "excerpt": "The shared workspace puts Claude Code, Codex CLI, GitHub Copilot and OpenCode on one task board with @-mention routing between agents. You bring your own API keys on the free tier, so it sits above…",
+      "body": "The [shared workspace](https://trendintech.com/band-ai-coding-agents-coordination-platform-2026/) puts Claude Code, Codex CLI, GitHub Copilot and OpenCode on one task board with @-mention routing between agents. You bring your own API keys on the free tier, so it sits above tools you already pay for instead of adding another seat.",
+      "url": "https://trendintech.com/band-ai-coding-agents-coordination-platform-2026/",
+      "icon": "🤖",
+      "image_url": "https://images.digest.co.il/proxy?url=https%3A%2F%2Fpic1.calcalist.co.il%2Fpicserver3%2Fcrop_images%2F2026%2F04%2F23%2FHk76edw6bx%2FHk76edw6bx_114_0_1887_1062_0_large.jpg"
+    },
+    {
+      "id": "f09544ec-583b-47d0-ac2b-65232e299155",
+      "kicker": "Measured fallout",
+      "title": "55% of unaccompanied kids went without lawyers, worst since 2019",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-19T00:24:00-05:00",
+      "excerpt": "Unaccompanied minors went without a lawyer in about 55% of nearly 50,000 immigration cases completed as of August 2026, the worst since 2019, in a Vera Institute of Justice analysis the New York…",
+      "body": "Unaccompanied minors went without a lawyer in about 55% of nearly 50,000 immigration cases completed as of August 2026, the worst since 2019, in a Vera Institute of Justice analysis the New York Times reported October 15, quoted at length in an [Immigration News digest](https://maryturckimmigration.wordpress.com/2026/10/16/immigration-news-october-16-2026/), with [WOLA](https://www.wola.org/2026/10/u-s-mexico-border-update-border-barrier-controversies-migrant-children-military-and-drones-misuses-of-force/) dating the piece. Per court filings the Times cites, a 7-year-old in Texas agreed to voluntary departure with no lawyer present to explain the consequences.",
+      "url": "https://maryturckimmigration.wordpress.com/2026/10/16/immigration-news-october-16-2026/",
+      "icon": "📰",
+      "image_url": "https://tse3.mm.bing.net/th?id=OIP.jNGHHkpg1Cb4noKb4MlLmQHaEK&pid=15.1"
+    },
+    {
+      "id": "2eb7fb17-44b1-47e6-a5e4-243bc8ae1ded",
+      "kicker": "PROTEIN DEAL",
+      "title": "Core Power 12-pack drops to $24 on Amazon",
+      "category": "Deals",
+      "published_at": "2026-10-18T22:55:00-05:00",
+      "excerpt": "The 12-pack of 14-oz Core Power Strawberry Banana is down to $24 on Amazon from its usual $43. Each bottle packs 26g of protein, which works out to $2 a shake.",
+      "body": "The 12-pack of 14-oz Core Power Strawberry Banana is [down to $24 on Amazon](https://superhotdeals.net/blog/premium-protein-boost-low-price-grab-the-12-pack-14-oz-core-power-strawberry-banana-shake-at-amazon-for-just-2400_pyauDUlmAM) from its usual $43. Each bottle packs 26g of protein, which works out to $2 a shake.",
+      "url": "https://superhotdeals.net/blog/premium-protein-boost-low-price-grab-the-12-pack-14-oz-core-power-strawberry-banana-shake-at-amazon-for-just-2400_pyauDUlmAM",
+      "icon": "🏷️",
+      "image_url": "https://m.media-amazon.com/images/I/51gpBtXIpaL._SL500_.jpg"
+    },
+    {
+      "id": "38924a5e-14a6-4338-8ede-9fbf70a66522",
+      "kicker": "COURT NUMBERS",
+      "title": "69% of unaccompanied kids' court cases ended in removal orders",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-18T21:40:00-05:00",
+      "excerpt": "The Acacia Center for Justice's preliminary estimates put the share of unaccompanied children's immigration court cases completed in the first eight months of 2026 that ended in a removal order at…",
+      "body": "The Acacia Center for Justice's [preliminary estimates](https://austinkocher.substack.com/p/this-week-by-the-immigration-numbers-457) put the share of unaccompanied children's immigration court cases completed in the first eight months of 2026 that ended in a removal order at 69%. Children without a lawyer fared worst: 88% were ordered removed, against 39% of those who had representation.",
+      "url": "https://austinkocher.substack.com/p/this-week-by-the-immigration-numbers-457",
+      "icon": "📰",
+      "image_url": "https://live.colorlines.com/sites/default/files/styles/twitter/public/images/articles/2019/04/aclu-asks-judge-order-government-account-all-migrant-children-separated-families-02222019.jpg?itok=YDA5Qs2l"
+    },
     {
       "id": "f50c015a-1749-4006-a021-6fc15545e557",
       "kicker": "THE UKRAINE RIFT",
@@ -541,54 +589,6 @@
       "url": "https://tech-insider.org/meta-muse-spark-open-seven-clouds-launch-2026/",
       "icon": "🤖",
       "image_url": "https://uploads-ssl.webflow.com/6449a72526ec4987103ca41b/669e4419370a10d7d2bb0c26_image_45.png"
-    },
-    {
-      "id": "e912e5f4-769a-493c-ac64-27c094e50a3d",
-      "kicker": "Mexico holds the key",
-      "title": "New Brownsville–Matamoros bridge waits on Mexico's OK",
-      "category": "Texas",
-      "published_at": "2026-10-16T02:32:24-05:00",
-      "excerpt": "Published Oct 15, 2026, 2:49 PM: the feasibility study for the $46 million Flor de Mayo International Bridge is complete, and the project now waits on Mexico to schedule the foreign-relations base…",
-      "body": "Published Oct 15, 2026, 2:49 PM: the feasibility study for the $46 million Flor de Mayo International Bridge is complete, and the project now waits on Mexico to schedule the foreign-relations base group meeting that reviews it, [per the RGV Business Journal](https://www.rgvbusinessjournal.com/news/15/10/2026/flor-de-mayo-46-million-brownsville-matamoros-bridge-mexico-approvals-articl/). The proposed bridge would add four passenger-vehicle lanes plus pedestrian space between Brownsville and Matamoros.",
-      "url": "https://www.rgvbusinessjournal.com/news/15/10/2026/flor-de-mayo-46-million-brownsville-matamoros-bridge-mexico-approvals-articl/",
-      "icon": "🤠",
-      "image_url": "https://s.hdnux.com/photos/65/14/42/13944986/8/720x0.webp"
-    },
-    {
-      "id": "a0a42ea9-0942-4baf-af69-08026b66d4b5",
-      "kicker": "COURT FILING",
-      "title": "Trump administration sued over fast-tracked process for migrant kids",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-16T00:19:25-05:00",
-      "excerpt": "Published Oct 16, 2026, 12:20 AM: Six legal service providers sued Thursday in Maryland federal court challenging the accelerated immigration process for unaccompanied children, per CNN. The…",
-      "body": "Published Oct 16, 2026, 12:20 AM: Six legal service providers sued Thursday in Maryland federal court challenging the accelerated immigration process for unaccompanied children, [per CNN](https://www.cnn.com/2026/10/15/politics/lawsuit-accelerated-immigration-process-migrant-kids?cid=external-feeds_iluminar_meta). The complaint cites more than 600 asylum interviews pushed up since August 1, sometimes on just 24 hours' notice.",
-      "url": "https://www.cnn.com/2026/10/15/politics/lawsuit-accelerated-immigration-process-migrant-kids?cid=external-feeds_iluminar_meta",
-      "icon": "📰",
-      "image_url": "https://x.nishadilcdn.com/data/2025/September/26/trump-suffers-legal-setback-on-child-deportations-15741c544aaaaab4.webp"
-    },
-    {
-      "id": "b00cfac2-b53c-498c-becd-3583187bd6c4",
-      "kicker": "Weekend option verified",
-      "title": "Cyberkraft's Security+ bootcamp runs weekends online for $2,470",
-      "category": "Deals",
-      "published_at": "2026-10-16T00:01:47-05:00",
-      "excerpt": "Sessions run 10am to 5pm Central on Saturdays and Sundays for three straight weekends via Zoom, as verified Oct 15. The next weekend start date did not load in that check, so the live schedule page…",
-      "body": "Sessions run 10am to 5pm Central on Saturdays and Sundays for three straight weekends via Zoom, as verified Oct 15. The next weekend start date did not load in that check, so the live schedule page is the place to confirm current availability.",
-      "url": null,
-      "icon": "🏷️",
-      "image_url": "https://cyberkrafttraining.com/wp-content/uploads/2020/06/iStock-836798276_mask2.png"
-    },
-    {
-      "id": "4cc98304-89d9-46fa-94c7-363592115b05",
-      "kicker": "MEMORY SPIKE",
-      "title": "DDR5 memory costs 5x what it did last year",
-      "category": "PC hardware",
-      "published_at": "2026-10-15T22:21:22-05:00",
-      "excerpt": "Published Oct 15, 2026, 10:15 PM: A 32GB Crucial Pro DDR5-6000 kit hit £422 on October 14 in OC3D's Amazon UK price tracking, up from £79 in September 2025. The outlet says not to expect relief soon,…",
-      "body": "Published Oct 15, 2026, 10:15 PM: A 32GB Crucial Pro DDR5-6000 kit hit £422 on October 14 in OC3D's Amazon UK price tracking, up from £79 in September 2025. The outlet says not to expect relief soon, with DRAM makers locking today's prices into supply contracts and stabilization unlikely before mid-to-late 2027, [per OC3D](https://overclock3d.net/news/memory/ddr5-pricing-is-insane-greater-than-5x-increase-in-a-year/).",
-      "url": "https://overclock3d.net/news/memory/ddr5-pricing-is-insane-greater-than-5x-increase-in-a-year/",
-      "icon": "📰",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/tpcMxmS65pozfyjCrFmyWZ-1280-80.jpg"
     }
   ]
 }
