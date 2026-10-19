@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T15:34:59-05:00",
+  "generated_at": "2026-10-18T21:36:38-05:00",
   "posts": [
+    {
+      "id": "f50c015a-1749-4006-a021-6fc15545e557",
+      "kicker": "THE UKRAINE RIFT",
+      "title": "Trump excoriates Zelensky after Ukraine's major attack on Russia",
+      "category": "General news",
+      "published_at": "2026-10-18T21:04:40-05:00",
+      "excerpt": "Ukraine launched one of its biggest drone attacks this year overnight Saturday, hitting the Saint Petersburg oil terminal in defiance of Trump's demand to stop hitting Russian energy infrastructure,…",
+      "body": "Ukraine launched one of its biggest drone attacks this year overnight Saturday, hitting the Saint Petersburg oil terminal in defiance of Trump's demand to stop hitting Russian energy infrastructure, [per CNN](https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl?cid=external-feeds_iluminar_meta). Trump said Sunday on Truth Social he did not want to drive Russia from the bargaining table and that Zelensky 'doesn't want to end this war, and probably never did.'",
+      "url": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl?cid=external-feeds_iluminar_meta",
+      "icon": "📰",
+      "image_url": "https://technewscity.com/wp-content/uploads/2025/03/trump-zelenskyy-row-is-triumph-for-russia-and-makes-uk-summit-of-european-leaders-all-the-more-critical-bb1285b.jpg"
+    },
+    {
+      "id": "156a9baa-9aba-472e-9639-988504451757",
+      "kicker": "CUTTING THE METER",
+      "title": "Claude Opus 5.5 launches at 40% lower cost",
+      "category": "AI",
+      "published_at": "2026-10-18T18:09:42-05:00",
+      "excerpt": "Cache reads cost 60% less than Opus 5, per AI Parabellum. It is live now in the Claude apps and on AWS, Google Cloud and Azure.",
+      "body": "Cache reads cost 60% less than Opus 5, [per AI Parabellum](https://aiparabellum.com/claude-opus-5-5-launch/). It is live now in the Claude apps and on AWS, Google Cloud and Azure.",
+      "url": "https://aiparabellum.com/claude-opus-5-5-launch/",
+      "icon": "🤖",
+      "image_url": "https://acturesume.com/wp-content/uploads/2026/07/claude-opus-5-anthropic-ia-moitie-prix-fable-5-420x280.jpg"
+    },
+    {
+      "id": "0cad504d-fe52-41cf-90a6-a8e5abfb30db",
+      "kicker": "TV REVIEW",
+      "title": "Hisense U6SF 65-inch looks and runs better than expected for $600",
+      "category": "Tech",
+      "published_at": "2026-10-18T17:08:14-05:00",
+      "excerpt": "Notebookcheck measured 656 nits peak HDR and 12 ms black-white response on the 65-inch U6SF, calling its Fire TV navigation smoother than expected for a budget mini-LED, per its review. Stepping to…",
+      "body": "Notebookcheck measured 656 nits peak HDR and 12 ms black-white response on the 65-inch U6SF, calling its Fire TV navigation smoother than expected for a budget mini-LED, [per its review](https://www.notebookcheck.net/Hisense-U6SF-4K-144-Hz-QLED-TV-looks-and-runs-better-than-we-expected-for-just-600.1426981.0.html). Stepping to the Pro you are watching adds over 1000 nits HDR, FreeSync Premium Pro and an integrated subwoofer to fix the weak bass it flagged.",
+      "url": "https://www.notebookcheck.net/Hisense-U6SF-4K-144-Hz-QLED-TV-looks-and-runs-better-than-we-expected-for-just-600.1426981.0.html",
+      "icon": "📰",
+      "image_url": "https://datilin.co.il/wp-content/uploads/2026/09/1788555468_367_%D7%96%D7%94-%D7%A2%D7%AA%D7%94-%D7%A1%D7%A7%D7%A8%D7%AA%D7%99-%D7%90%D7%AA-Hisense-U6SF-Pro-%D7%95%D7%96%D7%95-%D7%94%D7%95%D7%9B%D7%97%D7%94-%D7%A9%D7%90%D7%99%D7%A0%D7%9A.jpg"
+    },
+    {
+      "id": "07dca314-a2e2-4237-acbb-9d177a54aa53",
+      "kicker": "THE 60-DAY DEFENSE",
+      "title": "Rubio frames Russia waiver as 60-day pause to study economic fallout",
+      "category": "General news",
+      "published_at": "2026-10-18T16:27:12-05:00",
+      "excerpt": "Secretary of State Marco Rubio said Saturday the waiver of Russia sanctions and tariffs is a 60-day pause to study their impact on the global and US economy, naming India as the ally that can't pivot…",
+      "body": "Secretary of State Marco Rubio said Saturday the waiver of Russia sanctions and tariffs is a 60-day pause to study their impact on the global and US economy, naming India as the ally that can't pivot off Russian energy overnight, [per Eyewitness News](https://www.ewn.co.za/2026/10/18/trump-paused-russia-sanctions-to-analyze-impact-on-global-economy-rubio). Republican senators Thom Tillis and Ted Cruz called the move a mistake that rewards Putin.",
+      "url": "https://www.ewn.co.za/2026/10/18/trump-paused-russia-sanctions-to-analyze-impact-on-global-economy-rubio",
+      "icon": "📰",
+      "image_url": "https://svoi.dp.ua/wp-content/uploads/2026/07/xh2yn3cmri_big.webp.e459250246207af5d429eb51c66dbc7f.webp.jpg"
+    },
     {
       "id": "8f0a679c-2d6f-4eca-abfc-f81ea0acc9ba",
       "kicker": "BROWNSVILLE BUILD",
@@ -541,66 +589,6 @@
       "url": "https://overclock3d.net/news/memory/ddr5-pricing-is-insane-greater-than-5x-increase-in-a-year/",
       "icon": "📰",
       "image_url": "https://cdn.mos.cms.futurecdn.net/tpcMxmS65pozfyjCrFmyWZ-1280-80.jpg"
-    },
-    {
-      "id": "503b9a0e-6d6a-45fa-a3a0-9a083c01acd4",
-      "kicker": "SPEED DAY",
-      "title": "Saucony Endorphin Speed 6 lands today",
-      "category": "Fitness",
-      "published_at": "2026-10-15T21:01:28-05:00",
-      "excerpt": "Published Oct 15, 2026, 8:15 PM: Saucony's Endorphin Speed 6 officially released today, carrying 2mm more PWRUN PBX superfoam and a new nylon plate for fast days. USA Today's reviewer ran it on track…",
-      "body": "Published Oct 15, 2026, 8:15 PM: Saucony's Endorphin Speed 6 officially released today, carrying 2mm more PWRUN PBX superfoam and a new nylon plate for fast days. USA Today's reviewer ran it on track and trail and came away impressed enough to recommend it for daily miles or competition training, [in the full review](https://www.usatoday.com/story/shopping/trending/drops/2026/10/15/saucony-endorphin-speed-6-running-shoes-review/92236061007/).",
-      "url": "https://www.usatoday.com/story/shopping/trending/drops/2026/10/15/saucony-endorphin-speed-6-running-shoes-review/92236061007/",
-      "icon": "📰",
-      "image_url": "https://cdn.fleetfeet.com/a:1.5-f:cover-w:1200/products/S101825-1043_1.jpg?s=6f14b33d"
-    },
-    {
-      "id": "b3c31cf8-9d2e-49c9-a867-76beb4a07ab7",
-      "kicker": "NOT THEIR MONEY",
-      "title": "Judge pauses USDA's plan to move thousands of workers out of DC",
-      "category": "Federal workforce",
-      "published_at": "2026-10-15T18:10:09-05:00",
-      "excerpt": "Published Oct 15, 2026, 7:05 PM: A federal judge on Tuesday paused the Agriculture Department's plan to move thousands of workers from Washington to regional hubs, ruling the reorganization likely…",
-      "body": "Published Oct 15, 2026, 7:05 PM: A federal judge on Tuesday paused the Agriculture Department's plan to move thousands of workers from Washington to regional hubs, ruling the reorganization likely violates congressional appropriations law, [per Bloomberg Law](https://news.bloomberglaw.com/daily-labor-report/judge-pauses-trump-plan-to-relocate-agriculture-agency-workers). The stay, granted under the Administrative Procedure Act at the federal unions' request, bars USDA from relocating or reassigning employees outside their local commuting area while the case proceeds.",
-      "url": "https://news.bloomberglaw.com/daily-labor-report/judge-pauses-trump-plan-to-relocate-agriculture-agency-workers",
-      "icon": "📰",
-      "image_url": "https://reportersonline.eu/wp-content/uploads/2026/02/390.jpg"
-    },
-    {
-      "id": "c0923797-6971-43b2-9b6b-f32c0b206c58",
-      "kicker": "Vegas race shot",
-      "title": "Las Vegas Grand Prix giveaway ends Oct 26",
-      "category": "Deals",
-      "published_at": "2026-10-15T17:03:33-05:00",
-      "excerpt": "The prize is StubHub gift cards for two tickets to the Nov 19-21 race plus $1,000 for travel accommodations. Entry is name and email on the form with no purchase or social sharing required.",
-      "body": "The prize is StubHub gift cards for two tickets to the Nov 19-21 race plus $1,000 for travel accommodations. Entry is name and email on the form with no purchase or social sharing required.",
-      "url": null,
-      "icon": "🏷️",
-      "image_url": "https://www.f1lasvegasgp.com/app/uploads/2026/03/TMO-GS-768x768.png"
-    },
-    {
-      "id": "de2dbb06-03ac-46f2-8216-8f756da9fd05",
-      "kicker": "SHELTER SCRAMBLE",
-      "title": "Emails show 2021 rush to expand Pomona migrant-kids shelter",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-15T16:57:51-05:00",
-      "excerpt": "Published Oct 15, 2026, 4:45 PM: Newly obtained emails show an ACF official pressing contractor Cherokee Federal for immediate plans to add bunk beds and COVID quarantine space at the Pomona shelter…",
-      "body": "Published Oct 15, 2026, 4:45 PM: Newly obtained emails show an ACF official pressing contractor Cherokee Federal for immediate plans to add bunk beds and COVID quarantine space at the Pomona shelter in August 2021, [according to the Daily Caller's exclusive](https://dailycaller.com/2026/10/15/biden-admin-cherokee-federal-hhs-acf-migrant-kids-shelter-casa-james-fitzpatrick). The HHS inspector general later found 8 of the 11 emergency sites it visited, Pomona included, never traced the contacts of children or staff who tested positive for COVID.",
-      "url": "https://dailycaller.com/2026/10/15/biden-admin-cherokee-federal-hhs-acf-migrant-kids-shelter-casa-james-fitzpatrick",
-      "icon": "📰",
-      "image_url": "https://i0.wp.com/thepolypost.com/wp-content/uploads/2021/05/DSC_0458-scaled-e1620244475543.jpg?resize=768%2C445&ssl=1"
-    },
-    {
-      "id": "834042af-6c43-4b63-8729-aa206e5d8293",
-      "kicker": "FLORIDA BOUND",
-      "title": "SpaceX moves all Florida Starlink launches to Starship",
-      "category": "Texas",
-      "published_at": "2026-10-15T16:29:40-05:00",
-      "excerpt": "Published Oct 15, 2026, 3:35 PM: SpaceX is moving its Florida Starlink business from its proven Falcon 9 workhorse to Starship, with the last Falcon 9 Starlink launch from the Space Coast flown in…",
-      "body": "Published Oct 15, 2026, 3:35 PM: SpaceX is [moving its Florida Starlink business from its proven Falcon 9 workhorse to Starship](https://www.floridatoday.com/story/tech/science/space/spacex/2026/10/15/when-is-the-spacex-starship-florida-launch-kennedy-space-center-progress/92245783007/), with the last Falcon 9 Starlink launch from the Space Coast flown in August. On October 14 the Starship barge \"You'll Thank Me Later\" returned to Cape Canaveral from Texas carrying the Starlink V3 satellite loader.",
-      "url": "https://www.floridatoday.com/story/tech/science/space/spacex/2026/10/15/when-is-the-spacex-starship-florida-launch-kennedy-space-center-progress/92245783007/",
-      "icon": "🤠",
-      "image_url": "https://www.sciencefriday.com/wp-content/uploads/2024/11/starlink_flight-6-flickr.jpg?resize=1024,733"
     }
   ]
 }
