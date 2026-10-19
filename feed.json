@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T03:39:34-05:00",
+  "generated_at": "2026-10-19T09:42:57-05:00",
   "posts": [
+    {
+      "id": "0a6eb421-9544-4d6e-b117-b653a2ab0416",
+      "kicker": "CHIP SWITCH",
+      "title": "Amazon makes Trainium run PyTorch with one setting",
+      "category": "AI",
+      "published_at": "2026-10-19T10:30:00-05:00",
+      "excerpt": "Amazon will release TorchNeuron as a free, open-source tool at its Silicon Valley developer conference Monday. It lets PyTorch code run on Trainium chips with a single configuration change and no…",
+      "body": "Amazon will [release TorchNeuron](https://www.reuters.com/business/retail-consumer/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-2026-10-19/) as a free, open-source tool at its Silicon Valley developer conference Monday. It lets PyTorch code run on Trainium chips with a single configuration change and no rewriting.",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-2026-10-19/",
+      "icon": "🤖",
+      "image_url": "https://www.findarticles.com/wp-content/uploads/2025/12/aws_trainium_edited_1765976715-615x410.png"
+    },
+    {
+      "id": "d4698d5b-e30c-4d82-9b3c-dab810ceaa6c",
+      "kicker": "Fitness",
+      "title": "Creatine built muscle even without exercise, trial finds",
+      "category": "Fitness",
+      "published_at": "2026-10-19T09:10:00-05:00",
+      "excerpt": "Adults taking 10 grams of creatine a day gained about 2.4 pounds of lean tissue over 12 weeks with no structured exercise program, a September Texas A&M trial found. Those who paired the same dose…",
+      "body": "Adults taking 10 grams of creatine a day gained about 2.4 pounds of lean tissue over 12 weeks with no structured exercise program, [a September Texas A&M trial](https://www.womenfitness.net/news-flash/creatine-build-muscle-without/) found. Those who paired the same dose with training three times a week and a modest calorie deficit added nearly 3 pounds of lean tissue while cutting more body fat than the placebo group, which the researchers call the first trial to show the combo beating diet and exercise alone on body-fat percentage.",
+      "url": "https://www.womenfitness.net/news-flash/creatine-build-muscle-without/",
+      "icon": "📰",
+      "image_url": "https://radioaki1.com.br/wp-content/uploads/2025/01/99-3-1024x683.png"
+    },
     {
       "id": "335e8ac2-8f17-4286-bbd0-7fedaae70d6d",
       "kicker": "Herding agents",
@@ -517,78 +541,6 @@
       "url": "https://www.unite.ai/reflection-releases-beams-open-weights-under-apache-2-0-license/",
       "icon": "🤖",
       "image_url": "https://licenses.dev/go/github.com%2Fapache%2Fbeam/v2.75.0-RC1+incompatible"
-    },
-    {
-      "id": "5cd7d83b-cfb5-4365-9617-f7355eb53cf6",
-      "kicker": "THE SUPPLIER PLAY",
-      "title": "Taiwan plans $4 billion AI supply park in Texas",
-      "category": "Business",
-      "published_at": "2026-10-16T08:45:27-05:00",
-      "excerpt": "Published Oct 16, 2026, 1:20 PM: Smaller Taiwanese suppliers would get loan guarantees and help with visas and land to set up in Texas, per Aju Press. It is Taiwan's first U.S. industrial park for…",
-      "body": "Published Oct 16, 2026, 1:20 PM: Smaller Taiwanese suppliers would get loan guarantees and help with visas and land to set up in Texas, [per Aju Press](https://www.ajupress.com/view/20261016154870184). It is Taiwan's first U.S. industrial park for the AI hardware chain, from chips to server parts.",
-      "url": "https://www.ajupress.com/view/20261016154870184",
-      "icon": "📰",
-      "image_url": "https://www.crbcnews.com/_next/image?url=https%3A%2F%2Fsvetvesti-prod.s3.eu-west-1.amazonaws.com%2Farticle-images-prod%2F6a9a1796f866863e30a19bf2.jpg&w=3840&q=75"
-    },
-    {
-      "id": "ba514ebf-9a0b-4742-a244-cd104c8b2e20",
-      "kicker": "PRICE HIKE",
-      "title": "AMD raises RX 9000 prices by up to 20%",
-      "category": "PC hardware",
-      "published_at": "2026-10-16T08:19:53-05:00",
-      "excerpt": "Published Oct 16, 2026, 12:55 PM: AMD has raised suggested prices across its entire Radeon RX 9000 lineup for the third quarter of 2026. The RX 9070 XT takes the biggest hit, jumping from $830 to…",
-      "body": "Published Oct 16, 2026, 12:55 PM: AMD has [raised suggested prices across its entire Radeon RX 9000 lineup](https://www.eteknix.com/amd-officially-raises-radeon-rx-9000-prices-by-up-to-20/) for the third quarter of 2026. The RX 9070 XT takes the biggest hit, jumping from $830 to over $1,000.",
-      "url": "https://www.eteknix.com/amd-officially-raises-radeon-rx-9000-prices-by-up-to-20/",
-      "icon": "📰",
-      "image_url": "https://media.comm.cx/cache/preview_cards/images/006/590/192/original/ff26b49df0d84230.jpeg"
-    },
-    {
-      "id": "c077b9d4-cf62-44ea-8b80-c6aac78a6cbb",
-      "kicker": "THE OFFLINE LIFE",
-      "title": "Sony locks jailbroken PS5s out of PSN unless they update to 14.10",
-      "category": "PS5 Homebrew",
-      "published_at": "2026-10-16T08:00:46-05:00",
-      "excerpt": "Published Oct 16, 2026, 12:05 PM: Jailbroken PS5 owners now face a hard choice: stay on older firmware and lose PSN entirely, or update to 14.10 and lose the jailbreak, since Sony now demands the new…",
-      "body": "Published Oct 16, 2026, 12:05 PM: Jailbroken PS5 owners now face a hard choice: stay on older firmware and lose PSN entirely, or update to 14.10 and lose the jailbreak, since Sony now demands the new firmware for sign-in, [per Notebookcheck](https://www.notebookcheck.net/Sony-blocks-PS5-console-jailbreak-from-PSN-requiring-firmware-update-14-10.1424308.0.html). The squeeze tightens next month, because data miners found GTA 6 will require 14.10 at launch even though it is single-player oriented.",
-      "url": "https://www.notebookcheck.net/Sony-blocks-PS5-console-jailbreak-from-PSN-requiring-firmware-update-14-10.1424308.0.html",
-      "icon": "🎮",
-      "image_url": "https://www.notebookcheck.nl/fileadmin/Notebooks/News/_nc5/PS5showninJailCell.jpg"
-    },
-    {
-      "id": "7308341e-f75a-45a4-a2cf-b18fdbf805ec",
-      "kicker": "LIFT TO RUN",
-      "title": "Strength only helps runners who actually stick with it",
-      "category": "Fitness",
-      "published_at": "2026-10-16T07:39:46-05:00",
-      "excerpt": "Published Oct 16, 2026, 11:20 AM: A 25-study meta-analysis of 26,610 athletes found strength programs cut sports injuries by more than 60%, though a runner-specific review found the benefit only held…",
-      "body": "Published Oct 16, 2026, 11:20 AM: A 25-study meta-analysis of 26,610 athletes found strength programs cut sports injuries by more than 60%, though a runner-specific review found the benefit only held in supervised high-adherence groups, [per MedicalXpress](https://medicalxpress.com/news/2026-10-runners-injuries-strength-difference.html?deviceType=mobile). The Oct 9 piece prescribes calf raises, split squats, squats and deadlifts at heavy loads for 5-6 reps plus plyometrics like pogo hops, which improve running economy even when injury risk barely moves.",
-      "url": "https://medicalxpress.com/news/2026-10-runners-injuries-strength-difference.html?deviceType=mobile",
-      "icon": "📰",
-      "image_url": "https://cdn.prod.website-files.com/637b8a9e20daa90df41ff50a/6578741ef35413b1a27a111e_blog%20(23).avif"
-    },
-    {
-      "id": "40b95c52-87f1-4a34-adbf-bc184571d743",
-      "kicker": "SENTENCING DAY",
-      "title": "Three convicted in murders of Australian surfers in Mexico",
-      "category": "True crime",
-      "published_at": "2026-10-16T06:38:55-05:00",
-      "excerpt": "Published Oct 16, 2026, 10:35 AM: Prosecutors are seeking 210 years each for the three men convicted in the Baja California surf-trip murders, who face sentencing today in Ensenada. Judge Raúl…",
-      "body": "Published Oct 16, 2026, 10:35 AM: Prosecutors are seeking 210 years each for the three men convicted in the Baja California surf-trip murders, who face sentencing today in Ensenada. Judge Raúl Hernández convicted Jesús Gerardo García, known as “El Kekas,” Irineo Francisco, and Ángel Jesús last week of murdering brothers Jake and Callum Robinson and their American friend Carter Redd Rhoad at a Baja campsite in April 2024, [per The Trent](https://www.thetrentonline.com/three-convicted-of-murdering-australian-surfers-in-mexico/).",
-      "url": "https://www.thetrentonline.com/three-convicted-of-murdering-australian-surfers-in-mexico/",
-      "icon": "🔍",
-      "image_url": "https://elurbano.news/wp-content/uploads/2026/09/6c5f68dd3a6868ebe6a2aba5e4736c786f51d931-4x3-x0y49w1080h810-scaled.jpg"
-    },
-    {
-      "id": "ab19417b-fd85-476f-b041-bb4d62fb1953",
-      "kicker": "DAY ONE EVERYWHERE",
-      "title": "Meta's 816B open-weight model debuts across seven clouds",
-      "category": "AI",
-      "published_at": "2026-10-16T04:26:20-05:00",
-      "excerpt": "Published Oct 16, 2026, 9:00 AM: Meta released Muse Spark Open on October 15, an 816-billion-parameter open-weight model built for coding and agentic work. Rather than a quiet weights drop, it…",
-      "body": "Published Oct 16, 2026, 9:00 AM: Meta [released Muse Spark Open](https://tech-insider.org/meta-muse-spark-open-seven-clouds-launch-2026/) on October 15, an 816-billion-parameter open-weight model built for coding and agentic work. Rather than a quiet weights drop, it launched with live APIs on seven providers and downloadable weights on four major hosts.",
-      "url": "https://tech-insider.org/meta-muse-spark-open-seven-clouds-launch-2026/",
-      "icon": "🤖",
-      "image_url": "https://uploads-ssl.webflow.com/6449a72526ec4987103ca41b/669e4419370a10d7d2bb0c26_image_45.png"
     }
   ]
 }
