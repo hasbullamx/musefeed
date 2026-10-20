@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T09:52:55-05:00",
+  "generated_at": "2026-10-20T15:57:13-05:00",
   "posts": [
+    {
+      "id": "813b83a7-af1e-4216-b09e-6c6537582a95",
+      "kicker": "Less clicking",
+      "title": "Five new Copilot features land in Excel this month",
+      "category": "AI",
+      "published_at": "2026-10-20T17:40:00-05:00",
+      "excerpt": "Skill Builder turns a workflow you describe into a reusable Copilot skill. Worth a look before your next round of tracker updates.",
+      "body": "Skill Builder turns a workflow you describe into a [reusable Copilot skill](https://windowsreport.com/microsoft-brings-5-powerful-new-copilot-features-to-excel/). Worth a look before your next round of tracker updates.",
+      "url": "https://windowsreport.com/microsoft-brings-5-powerful-new-copilot-features-to-excel/",
+      "icon": "🤖",
+      "image_url": "https://www.bridgeall.com/wp-content/uploads/2023/03/excel.gif"
+    },
     {
       "id": "5c8a4cf3-7546-45bc-862a-6900e8a11147",
       "kicker": "PROTEIN TIMING",
@@ -25,6 +37,18 @@
       "url": "https://www.notebookcheck.net/PS5-console-jailbreak-on-latest-14-10-firmware-shared-before-GTA-6-release-date.1428405.0.html",
       "icon": "🎮",
       "image_url": "https://media.ixbt.games/984x384/smart/ixbt-data/1297781/f9df9c55-ae36-47eb-8249-d90f8b9b2065.jpg"
+    },
+    {
+      "id": "f73205a7-2408-422b-a6e1-45b04e9ed151",
+      "kicker": "SSD PRICE DROP",
+      "title": "Samsung 990 2TB drops to $330 at Amazon",
+      "category": "PC hardware",
+      "published_at": "2026-10-20T12:27:00-05:00",
+      "excerpt": "It undercuts the $530 level the drive held through the recent price spike, via PC Guide's October 20 roundup. Its 7,250MB/s read speed sits near the practical ceiling of PCIe 4.0 for large libraries…",
+      "body": "It undercuts the $530 level the drive held through the recent price spike, via [PC Guide's October 20 roundup](https://www.pcguide.com/deals/samsung-990-2tb-nvme-ssd-deal-shaves-hundreds-from-the-recent-peak-prices/).\nIts 7,250MB/s read speed sits near the practical ceiling of PCIe 4.0 for large libraries and video work.",
+      "url": "https://www.pcguide.com/deals/samsung-990-2tb-nvme-ssd-deal-shaves-hundreds-from-the-recent-peak-prices/",
+      "icon": "📰",
+      "image_url": "https://images.dealcatcher.com/offers/9f0c3353-7e93-4399-9e55-0a4d5e667c6d.jpg"
     },
     {
       "id": "3f7e08f1-2f14-437e-93d8-0ed0bc6f307f",
@@ -217,6 +241,18 @@
       "url": "https://maryturckimmigration.wordpress.com/2026/10/16/immigration-news-october-16-2026/",
       "icon": "📰",
       "image_url": "https://tse3.mm.bing.net/th?id=OIP.jNGHHkpg1Cb4noKb4MlLmQHaEK&pid=15.1"
+    },
+    {
+      "id": "59fed19b-e4a7-4245-9579-c9bac19b0abb",
+      "kicker": "THE FAST TRACK, SLOWLY",
+      "title": "OPM ends time-in-grade rule for GS promotions",
+      "category": "Federal workforce",
+      "published_at": "2026-10-19T00:00:00-05:00",
+      "excerpt": "Published Oct 19, 2026: OPM scrapped the 52-week time-in-grade wait for GS promotions, effective January 19, 2027. The catch is OPM's own: the end of the rule won't automatically mean faster…",
+      "body": "Published Oct 19, 2026: OPM [scrapped the 52-week time-in-grade wait](https://www.fedsmith.com/2026/10/19/opm-finalizes-rule-eliminating-time-in-grade-for-gs-promotions/) for GS promotions, effective January 19, 2027. The catch is OPM's own: the end of the rule won't automatically mean faster promotions, because its qualification standards still carry a comparable one-year service period.",
+      "url": "https://www.fedsmith.com/2026/10/19/opm-finalizes-rule-eliminating-time-in-grade-for-gs-promotions/",
+      "icon": "📰",
+      "image_url": "https://i0.wp.com/northdenvernews.com/wp-content/uploads/2026/04/GettyImages-2197648687-resized-scaled.jpg?resize=600%2C400&ssl=1"
     },
     {
       "id": "2eb7fb17-44b1-47e6-a5e4-243bc8ae1ded",
@@ -493,90 +529,6 @@
       "url": "https://medium.com/@wzp0724/bro-just-a-few-more-tokens-i-built-an-open-source-token-saver-for-ai-coding-agents-6b8975149ff5",
       "icon": "🤖",
       "image_url": "https://leonardo.osnova.io/164eb162-1029-55dc-903a-42fb249a2c3d/-/scale_crop/592x/-/format/webp/"
-    },
-    {
-      "id": "1797f911-c0a9-4df9-a753-bf60e0c6da4f",
-      "kicker": "DEAL OF THE DAY",
-      "title": "LG deals at Best Buy from $87 with free shipping",
-      "category": "Deals",
-      "published_at": "2026-10-17T15:20:00-05:00",
-      "excerpt": "Best Buy's Deal of the Day puts LG's 42-inch C6 OLED evo TV at $949.99 today, per RobinsPost. The one-day lineup stretches from monitors to appliances with free shipping.",
-      "body": "Best Buy's Deal of the Day puts LG's 42-inch C6 OLED evo TV at $949.99 today, [per RobinsPost](https://www.robinspost.com/news/daily-specials/2275884-lg-daily-deals-at-best-buy-for-from-$87-free-shipping). The one-day lineup stretches from monitors to appliances with free shipping.",
-      "url": "https://www.robinspost.com/news/daily-specials/2275884-lg-daily-deals-at-best-buy-for-from-$87-free-shipping",
-      "icon": "🏷️",
-      "image_url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6727/6727027cv11a.jpg"
-    },
-    {
-      "id": "18c8df99-a358-4163-87f9-4d4bb1b43c57",
-      "kicker": "THE DIESEL TRADE",
-      "title": "Trump waives Russia sanctions and duties under Graham Act",
-      "category": "General news",
-      "published_at": "2026-10-17T13:30:00-05:00",
-      "excerpt": "The order invokes the law's national-interest waiver provision, pausing the duties, sanctions and restrictions the law imposed, with the waivers in effect until the administration decides otherwise.…",
-      "body": "The order invokes the law's national-interest waiver provision, pausing the duties, sanctions and restrictions the law imposed, with the waivers in effect until the administration decides otherwise. [The waiver follows Trump's announcement of a deal for more than 300,000 tonnes of Russian diesel immediately, with further shipments in November](https://timesofindia.indiatimes.com/business/international-business/trump-waives-russia-sanctions-restrictions-and-duties-under-graham-act-diesel-us-midterms/articleshow/135005808.cms).",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/trump-waives-russia-sanctions-restrictions-and-duties-under-graham-act-diesel-us-midterms/articleshow/135005808.cms",
-      "icon": "📰",
-      "image_url": "https://mf.b37mrtl.ru/russian/images/2025.02/article/67c206e9ae5ac9649b6dedb5.jpg"
-    },
-    {
-      "id": "fa508b8e-c346-4a74-835e-811b86fdf884",
-      "kicker": "READ THE FINE PRINT",
-      "title": "RTX Spark laptops go on sale from $2,599",
-      "category": "PC hardware",
-      "published_at": "2026-10-17T13:05:00-05:00",
-      "excerpt": "NVIDIA's RTX Spark laptops went on sale October 16 from ASUS, Dell, HP, Lenovo, Microsoft and MSI, with US pricing starting at $2,599, per TechZei's launch roundup. For local-AI buyers, the catch is…",
-      "body": "NVIDIA's RTX Spark laptops went on sale October 16 from ASUS, Dell, HP, Lenovo, Microsoft and MSI, with US pricing starting at $2,599, [per TechZei's launch roundup](https://techzei.com/nvidia-rtx-spark-laptops-available/). For local-AI buyers, the catch is that entry configurations start at 24GB of shared memory, far short of the headline figure.",
-      "url": "https://techzei.com/nvidia-rtx-spark-laptops-available/",
-      "icon": "📰",
-      "image_url": "https://stuff.co.za/wp-content/uploads/2026/06/RTS-Spark-laptops-header-1024x640.jpg"
-    },
-    {
-      "id": "03254cd1-052f-44cb-89fe-6cfaf5aa70b5",
-      "kicker": "PORT AT 90",
-      "title": "Port of Brownsville opens gates today for 90th anniversary",
-      "category": "Texas",
-      "published_at": "2026-10-17T11:30:00-05:00",
-      "excerpt": "The Port of Brownsville announced Oct 13 its free Grand Community Celebration for today, 8 a.m. to 4 p.m. at the port's Business Park, 1000 Foust Road, per Local National. Free guided tours by bus…",
-      "body": "The Port of Brownsville announced Oct 13 its free Grand Community Celebration for today, 8 a.m. to 4 p.m. at the port's Business Park, 1000 Foust Road, [per Local National](https://localnational.com/city/brownsville/port-of-brownsville-opens-its-gates-saturday-for-90th-anniversary-celebration/). Free guided tours by bus and by boat are first come, first served through Eventbrite.",
-      "url": "https://localnational.com/city/brownsville/port-of-brownsville-opens-its-gates-saturday-for-90th-anniversary-celebration/",
-      "icon": "🤠",
-      "image_url": "https://inmobiliare.com/wp-content/uploads/2025/11/puerto-de-brownsville-recibira-a-la-primera-empresa-de-su-parque-industrial-688x387.jpg"
-    },
-    {
-      "id": "e2254973-607d-45d8-9e50-fdd6978d6ac6",
-      "kicker": "SATURDAY STEALS",
-      "title": "Hisense 55\" 4K TV hits $278 in Saturday deals drop",
-      "category": "Deals",
-      "published_at": "2026-10-17T11:30:00-05:00",
-      "excerpt": "The 55E6SR is a 2026 Hisense Hi-QLED 4K Roku TV with Dolby Vision, VRR and Game Mode Plus, per Geeks Are Sexy. It is listed at $277.99 in today's roundup.",
-      "body": "The 55E6SR is a 2026 Hisense Hi-QLED 4K Roku TV with Dolby Vision, VRR and Game Mode Plus, [per Geeks Are Sexy](https://www.geeksaresexy.net/2026/10/17/daily-deals-drop-hisense-55-4k-smart-tv-lego-star-wars-chopper-49-99-15-6-inch-portable-monitor-and-more-saturday-steals/). It is listed at $277.99 in today's roundup.",
-      "url": "https://www.geeksaresexy.net/2026/10/17/daily-deals-drop-hisense-55-4k-smart-tv-lego-star-wars-chopper-49-99-15-6-inch-portable-monitor-and-more-saturday-steals/",
-      "icon": "🏷️",
-      "image_url": "https://static.slickdealscdn.com/attachment/1/5/6/5/1/2/5/1/450x450/11517475.thumb?webp=1"
-    },
-    {
-      "id": "69362019-21a7-4698-85ec-2aba624a5e32",
-      "kicker": "MISSION GRANTS",
-      "title": "Mission EDC opens fourth year of Build Mission Fund grants",
-      "category": "Business",
-      "published_at": "2026-10-17T10:45:00-05:00",
-      "excerpt": "Eligible Mission businesses can apply through October 31 for grants of up to $15,000, per Texas Border Business. The fund has committed $675,000 to local businesses across its first three years.",
-      "body": "Eligible Mission businesses can apply through October 31 for grants of up to $15,000, [per Texas Border Business](https://texasborderbusiness.com/mission-edc-opens-fourth-year-of-ruby-red-ventures-build-mission-fund-following-675000-investment/). The fund has committed $675,000 to local businesses across its first three years.",
-      "url": "https://texasborderbusiness.com/mission-edc-opens-fourth-year-of-ruby-red-ventures-build-mission-fund-following-675000-investment/",
-      "icon": "📰",
-      "image_url": "https://secure-cdn.scdn6.secure.raxcdn.com/media/userfiles/subsite_290/images/DSC03588.jpg"
-    },
-    {
-      "id": "d35a6f54-0346-4b83-a6ac-9f1150268fb2",
-      "kicker": "MUSCLE SCIENCE",
-      "title": "Bigger muscles might fight fatigue, not just add strength",
-      "category": "Fitness",
-      "published_at": "2026-10-17T10:15:00-05:00",
-      "excerpt": "A review published Oct 13 in Sports Medicine asks whether muscle growth itself helps muscles resist fatigue, potentially letting you do more reps before tiring. The authors found size and endurance…",
-      "body": "A review published Oct 13 in Sports Medicine [asks whether muscle growth itself helps muscles resist fatigue](https://www.mensjournal.com/health/bigger-muscles-may-have-a-hidden-benefit-that-goes-beyond-lifting-heavier-weights), potentially letting you do more reps before tiring. The authors found size and endurance often improve together, but say no causal relationship can be established yet.",
-      "url": "https://www.mensjournal.com/health/bigger-muscles-may-have-a-hidden-benefit-that-goes-beyond-lifting-heavier-weights",
-      "icon": "📰",
-      "image_url": "https://i2.wp.com/blog.goodlifefitness.com/media/1720/hypertrophy.jpg"
     }
   ]
 }
