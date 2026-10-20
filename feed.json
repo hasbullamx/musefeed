@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T15:46:16-05:00",
+  "generated_at": "2026-10-19T21:47:21-05:00",
   "posts": [
+    {
+      "id": "7d0dd8ea-5bb9-4d6b-9a48-f2bdc8c3280c",
+      "kicker": "NO RELIEF",
+      "title": "Bernstein: memory prices to rise further in Q4",
+      "category": "PC hardware",
+      "published_at": "2026-10-19T21:45:00-05:00",
+      "excerpt": "Bernstein's October 15 report forecast memory contract prices climbing further in the fourth quarter, after both DRAM and NAND flash rose nearly 20% quarter over quarter in Q3, MoneyToday reports.…",
+      "body": "Bernstein's October 15 report forecast memory contract prices climbing further in the fourth quarter, after both DRAM and NAND flash rose nearly 20% quarter over quarter in Q3, [MoneyToday reports](https://www.mt.co.kr/en/industry/2026/10/15/2026101514104825515). Nvidia CFO Colette Kress said the increases had already exceeded the company's expectations and would run even higher next year.",
+      "url": "https://www.mt.co.kr/en/industry/2026/10/15/2026101514104825515",
+      "icon": "📰",
+      "image_url": "https://cogitodaily.com/_next/image?url=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F38361775%2Fpexels-photo-38361775.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26fit%3Dcrop%26h%3D627%26w%3D1200&w=640&q=75"
+    },
+    {
+      "id": "436f7b00-634c-49dd-8885-285fe358e405",
+      "kicker": "ORR / UAC",
+      "title": "Senators blast plan to have HHS lawyers represent migrant kids",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-19T19:05:00-05:00",
+      "excerpt": "Under the administration's new policy, the immigration judge, the prosecutor, and an unaccompanied minor's own lawyer would all work for the federal government. Six Democratic senators wrote HHS…",
+      "body": "Under the administration's new policy, the immigration judge, the prosecutor, and an unaccompanied minor's own lawyer would all work for the federal government. Six Democratic senators wrote HHS Secretary Robert F. Kennedy Jr. on Monday demanding he rescind the policy before a single HHS attorney stands beside a child in court, [Mother Jones reports](https://risecelestialstudios.com/senators-blast-trumps-plan-to-rig-child-deportation-proceedings-mother-jones/).",
+      "url": "https://risecelestialstudios.com/senators-blast-trumps-plan-to-rig-child-deportation-proceedings-mother-jones/",
+      "icon": "📰",
+      "image_url": "https://manage.frc.org/_next/image?url=https%3A%2F%2Fcdn.frc.org%2Fimages%2F2f9e2f80-6854-4e76-9d86-edcd127aca0a%2F1788486074611-AE26I24_NORMAL.jpg&w=640&q=75"
+    },
+    {
+      "id": "4a52e5f5-384d-4402-a69f-f333ffa868d2",
+      "kicker": "WORKFORCE REWRITE",
+      "title": "Three federal personnel rules land as one package",
+      "category": "Federal workforce",
+      "published_at": "2026-10-19T16:12:00-05:00",
+      "excerpt": "OPM and OMB published three linked final rules in today's Federal Register covering promotion speed, administrative leave during restructuring, and senior career ratings in the roundup. The leave…",
+      "body": "OPM and OMB published three linked final rules in today's Federal Register covering promotion speed, administrative leave during restructuring, and senior career ratings [in the roundup](https://bureaucracy.news/2026/10/19/federal-register-watch-october-19-2026/). The leave piece spells out when agencies can pay employees to stay home during a reduction-in-force notice or deferred-resignation program and when they can block a resignation from being taken back.",
+      "url": "https://bureaucracy.news/2026/10/19/federal-register-watch-october-19-2026/",
+      "icon": "📰",
+      "image_url": "https://sdcms-prod.s3.ap-southeast-2.amazonaws.com/images/CAD-7484efcd1782b287.2e16d0ba.fill-720x405.jpg"
+    },
     {
       "id": "7473827f-8656-4ab4-9521-7fd5611c0895",
       "kicker": "CHEAPER AGENTS",
@@ -49,6 +85,18 @@
       "url": "https://glitchndealz.com/2026/10/dollar-general-coupon-matchups-october-18-24-2026.html",
       "icon": "🏷️",
       "image_url": "https://crazy4couponing.com/wp-content/uploads/2024/10/file-588.png"
+    },
+    {
+      "id": "acc31429-cd76-4dc6-a423-88adf6bd848c",
+      "kicker": "OLD DISCS RETURN",
+      "title": "Jailbroken PS5s gain real PS2 disc support",
+      "category": "PS5 Homebrew",
+      "published_at": "2026-10-19T10:53:00-05:00",
+      "excerpt": "Sword's build is a native PCSX2 port that runs entirely on the PS5 with upscaling to 4K at up to six times native resolution. It needs a jailbroken console on compatible firmware, so standard…",
+      "body": "Sword's build is a native PCSX2 port that [runs entirely on the PS5](https://www.gadgetreview.com/homebrew-dev-brings-ps2-disc-support-to-jailbroken-ps5s) with upscaling to 4K at up to six times native resolution. It needs a jailbroken console on compatible firmware, so standard consoles on current official firmware cannot use it.",
+      "url": "https://www.gadgetreview.com/homebrew-dev-brings-ps2-disc-support-to-jailbroken-ps5s",
+      "icon": "🎮",
+      "image_url": "https://bites.tbsnews.net/wp-content/uploads/2026/07/ps5-1.jpg"
     },
     {
       "id": "0a6eb421-9544-4d6e-b117-b653a2ab0416",
@@ -517,54 +565,6 @@
       "url": "https://thefreebieguy.com/dr-squatch-natural-mens-bar-soap/",
       "icon": "🏷️",
       "image_url": "https://cdn.shopify.com/s/files/1/0555/4431/5957/files/6pack_988c0615-3844-4cdc-83ef-721f22568dc1.png?v=1736204860&width=1000&height=907&crop=center"
-    },
-    {
-      "id": "1fa36148-1038-4565-8305-fedb2c6f2ee0",
-      "kicker": "PORT OF BROWNSVILLE",
-      "title": "Morgan Stanley leads fundraising for Texas refinery",
-      "category": "Texas",
-      "published_at": "2026-10-16T21:03:43-05:00",
-      "excerpt": "Published Oct 16, 2026, 8:20 PM: America First Refining expects its Brownsville refinery to begin operations in 2029, per Energy Connects. Chief commercial officer Tom Ramsey said Thursday in…",
-      "body": "Published Oct 16, 2026, 8:20 PM: America First Refining expects its Brownsville refinery to begin operations in 2029, [per Energy Connects](https://www.energyconnects.com/news/gas-lng/2026/october/morgan-stanley-leads-fundraise-for-texas-refinery-company-says/). Chief commercial officer Tom Ramsey said Thursday in Galveston that Morgan Stanley is leading the equity and debt fundraising \"as we speak.\"",
-      "url": "https://www.energyconnects.com/news/gas-lng/2026/october/morgan-stanley-leads-fundraise-for-texas-refinery-company-says/",
-      "icon": "🤠",
-      "image_url": "https://assets.growers.social/cache/preview_cards/images/008/065/885/original/00d0ce4dab780612.jpg"
-    },
-    {
-      "id": "fb0479ab-24eb-4623-936e-04c77c42a939",
-      "kicker": "WORST WEEK SINCE JUNE",
-      "title": "Nasdaq sinks 2.1% on AI debt worries",
-      "category": "Business",
-      "published_at": "2026-10-16T18:10:35-05:00",
-      "excerpt": "Published Oct 16, 2026, 6:20 PM: CoreWeave dropped almost 12% on Friday as investors questioned debt-funded AI buildouts, per CNN. The Nasdaq finished down about 4.5% for the week, its worst week…",
-      "body": "Published Oct 16, 2026, 6:20 PM: CoreWeave dropped almost 12% on Friday as investors questioned debt-funded AI buildouts, [per CNN](https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave?cid=external-feeds_iluminar_meta). The Nasdaq finished down about 4.5% for the week, its worst week since June.",
-      "url": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave?cid=external-feeds_iluminar_meta",
-      "icon": "📰",
-      "image_url": "https://dr46azxe5rdcu.cloudfront.net/wp-content/uploads/2026/02/13132111/FM26fhO4B7bCgAW3jTZR-0-efcn8-1-852x485.jpg"
-    },
-    {
-      "id": "8fbd7e5d-80da-492a-9e7c-3d110dd263ba",
-      "kicker": "ARGON GOES AGENTIC",
-      "title": "Gemini 4 Argon lands in Antigravity for Pro subscribers",
-      "category": "AI",
-      "published_at": "2026-10-16T16:54:58-05:00",
-      "excerpt": "Published Oct 16, 2026, 5:10 PM: Google is rolling out Gemini 4 Argon inside Antigravity for AI Pro and AI Ultra subscribers, with a separate weekly-only Argon quota on top of the existing Gemini 3.8…",
-      "body": "Published Oct 16, 2026, 5:10 PM: Google is [rolling out Gemini 4 Argon inside Antigravity](https://9to5google.com/2026/10/15/gemini-4-argon-is-now-rolling-out-to-googles-antigravity-for-ai-pro-subscribers/) for AI Pro and AI Ultra subscribers, with a separate weekly-only Argon quota on top of the existing Gemini 3.8 Flash allowance. In Google's internal trials the model cleared 97 of 134 stale bug reports in under three hours with documented commit proof.",
-      "url": "https://9to5google.com/2026/10/15/gemini-4-argon-is-now-rolling-out-to-googles-antigravity-for-ai-pro-subscribers/",
-      "icon": "🤖",
-      "image_url": "https://magazineclonerepub.blob.core.windows.net/live-files/2829/291273/ops/images/650/img_62-1.jpg"
-    },
-    {
-      "id": "c1ecd55b-e07b-4337-9ef1-9c64dd5c149a",
-      "kicker": "LESS PAPERWORK",
-      "title": "ORR proposes 41% cut to URM reporting burden",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-16T16:24:40-05:00",
-      "excerpt": "Published Oct 16, 2026, 4:15 PM: The proposal revises the ORR-3 and ORR-4 information collections for the Unaccompanied Refugee Minors Program. Youth would no longer file self-reported outcome…",
-      "body": "Published Oct 16, 2026, 4:15 PM: The proposal [revises the ORR-3 and ORR-4 information collections](https://inusnews.com/immigration-proposal-cuts-orr-reporting-burden/) for the Unaccompanied Refugee Minors Program. Youth would no longer file self-reported outcome measures, with service providers reporting those outcomes instead.",
-      "url": "https://inusnews.com/immigration-proposal-cuts-orr-reporting-burden/",
-      "icon": "📰",
-      "image_url": "https://www.hstoday.us/wp-content/uploads/2018/06/11999380734_47e40515c1_k.jpg"
     }
   ]
 }
