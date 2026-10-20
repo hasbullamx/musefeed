@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T21:48:55-05:00",
+  "generated_at": "2026-10-20T03:49:30-05:00",
   "posts": [
+    {
+      "id": "8bc352cf-6693-4de7-822c-72b6e8d5cba5",
+      "kicker": "MISSION'S BIG HIRE",
+      "title": "Mission EDC launches search for new CEO, salary up to $190K",
+      "category": "Texas",
+      "published_at": "2026-10-20T10:30:00-05:00",
+      "excerpt": "The post oversees an $8.2 million annual budget for business recruitment and expansion per the announcement. Applications close November 18, 2026 according to Texas Border Business.",
+      "body": "The post oversees an $8.2 million annual budget for business recruitment and expansion [per the announcement](https://www.rgvbusinessjournal.com/news/19/10/2026/mission-edc-launches-search-for-new-ceo-with-salary-up-to-190k/). Applications close November 18, 2026 [according to Texas Border Business](https://texasborderbusiness.com/mission-edc-launches-statewide-search-for-next-chief-executive-officer/).",
+      "url": "https://www.rgvbusinessjournal.com/news/19/10/2026/mission-edc-launches-search-for-new-ceo-with-salary-up-to-190k/",
+      "icon": "🤠",
+      "image_url": "https://texasborderbusiness.com/wp-content/uploads/2024/03/in9.jpg"
+    },
+    {
+      "id": "7b025ca2-c143-459d-8aec-3aee2350c656",
+      "kicker": "NO METER",
+      "title": "Ready Server launches ReadyServer LLM API",
+      "category": "AI",
+      "published_at": "2026-10-20T08:45:00-05:00",
+      "excerpt": "The private LLM API is bundled with every ReadyServer VPS with no per-token billing. Existing OpenAI SDKs and agent frameworks work by changing the base URL.",
+      "body": "The [private LLM API is bundled with every ReadyServer VPS](https://readyserver.sg/press/ready-server-launches-readyserver-llm-api/) with no per-token billing. Existing OpenAI SDKs and agent frameworks work by changing the base URL.",
+      "url": "https://readyserver.sg/press/ready-server-launches-readyserver-llm-api/",
+      "icon": "🤖",
+      "image_url": "https://images.g2crowd.com/uploads/product/image/a38fc07b4ef6cb99c5e3d269b9880640/readyapi.png"
+    },
+    {
+      "id": "1eafbb4f-85ba-4c47-b269-a0616e8105ed",
+      "kicker": "TRIAL UPDATE",
+      "title": "FBI agent names Army recruiter as father of Birchmore's unborn child",
+      "category": "General news",
+      "published_at": "2026-10-19T22:45:00-05:00",
+      "excerpt": "The second week of Matthew Farwell's federal murder trial is underway in Boston, where FBI Special Agent Heidi Kelsch returned to the witness stand Monday. She identified Army recruiter Jason…",
+      "body": "The second week of Matthew Farwell's federal murder trial is underway in Boston, where [FBI Special Agent Heidi Kelsch returned to the witness stand Monday](https://www.enterprisenews.com/story/news/courts/2026/10/19/matthew-farwell-trial-sandra-birchmore-pregnant-father-paternity-army-recruiter-jason-pickard/92334587007/). She identified Army recruiter Jason Pickard, whom Birchmore met in 2019, as the father of her unborn child, the first official word on paternity after a defense filing confirmed DNA had excluded Farwell.",
+      "url": "https://www.enterprisenews.com/story/news/courts/2026/10/19/matthew-farwell-trial-sandra-birchmore-pregnant-father-paternity-army-recruiter-jason-pickard/92334587007/",
+      "icon": "📰",
+      "image_url": "https://nicegirlstv.com/wp-content/uploads/2012/03/PersonofInterestbluebaby1-e1331354766435.jpg"
+    },
     {
       "id": "7d0dd8ea-5bb9-4d6b-9a48-f2bdc8c3280c",
       "kicker": "NO RELIEF",
@@ -517,54 +553,6 @@
       "url": "https://www.alextech.ai/en/news/a-jailbroken-ps5-now-runs-gguf-models-on-its-gpu-via-ps5lm/",
       "icon": "🎮",
       "image_url": "https://greatgamer.ru/resize/w700/images/news/10.2025/11/news_14268.jpg?772"
-    },
-    {
-      "id": "6f0a1b75-ed12-42a8-a263-071332ef01e6",
-      "kicker": "AGENT COST CUTTER",
-      "title": "Coding-agent audit: the 'obvious' saving was 5.5x too big",
-      "category": "AI",
-      "published_at": "2026-10-17T02:33:41-05:00",
-      "excerpt": "Two-thirds of one developer's audited coding-agent spend was cache reads, the cost of re-reading context on every turn, per the audit. The headline saving from switching to the cheaper model shrank…",
-      "body": "Two-thirds of one developer's audited coding-agent spend was cache reads, the cost of re-reading context on every turn, [per the audit](https://dev.to/derrick_d15159abe0a5e6608/we-re-priced-six-weeks-of-our-own-ai-coding-agent-usage-the-obvious-saving-was-55x-too-big-3852). The headline saving from switching to the cheaper model shrank from $1,625 to $293 once only requests made after that version existed were counted.",
-      "url": "https://dev.to/derrick_d15159abe0a5e6608/we-re-priced-six-weeks-of-our-own-ai-coding-agent-usage-the-obvious-saving-was-55x-too-big-3852",
-      "icon": "🤖",
-      "image_url": "https://data.ibtimes.sg/en/full/94936/ai-generated-code.jpg?w=1200&h=630?q=60"
-    },
-    {
-      "id": "be0641b0-d38a-44d0-8d5f-8d8ef63f5ae2",
-      "kicker": "REFUGEE STATUS RULE",
-      "title": "DHS cuts refugees' deadline to contest status loss from 30 days to 10",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-17T00:21:05-05:00",
-      "excerpt": "DHS published an interim final rule this week that cuts the window refugees get to challenge the termination of their legal status from 30 days to 10, skipping the usual public-comment period so it…",
-      "body": "DHS published an interim final rule this week that cuts the window refugees get to challenge the termination of their legal status from 30 days to 10, skipping the usual public-comment period so it takes effect immediately, [per The Uninvited Press](https://uninvitedpress.com/us-slashes-refugees-deadline-to-challenge-loss-of-legal-status-from-30-days-to-10/). The department says it is already reviewing the cases of at least 185,000 refugees admitted in recent years who still have green card applications pending.",
-      "url": "https://uninvitedpress.com/us-slashes-refugees-deadline-to-challenge-loss-of-legal-status-from-30-days-to-10/",
-      "icon": "📰",
-      "image_url": "https://imgix.bustle.com/uploads/getty/2018/6/23/b11dbe62-d148-464a-912d-55fdcefc039b-getty-978048216.jpg?w=248&h=165&fit=crop&crop=faces&dpr=2"
-    },
-    {
-      "id": "abb0d89b-0d76-489e-b069-cc205e664651",
-      "kicker": "Grant changes the math",
-      "title": "TSC welding program cleared for new Workforce Pell grants",
-      "category": "Texas",
-      "published_at": "2026-10-17T00:01:31-05:00",
-      "excerpt": "Texas Southmost College in Brownsville is one of five Texas community colleges newly approved for the federal Workforce Pell program in early October. The approval named only Structural Welding –…",
-      "body": "Texas Southmost College in Brownsville is one of five Texas community colleges newly approved for the federal Workforce Pell program in early October. The approval named only Structural Welding – SMAW, leaving whether the evening pipefitting or electrical sections qualify as an open question for the Oct 21 orientation.",
-      "url": null,
-      "icon": "🤠",
-      "image_url": "https://images.wsj.net/im-44686253"
-    },
-    {
-      "id": "992df365-7a84-4ca6-9678-598e458bf6c2",
-      "kicker": "DEALS",
-      "title": "Dr. Squatch 6-pack drops to $21.xx on Amazon",
-      "category": "Deals",
-      "published_at": "2026-10-16T22:23:00-05:00",
-      "excerpt": "The Freebie Guy lists it with a clippable digital coupon that stacks with Subscribe & Save to reach the sale price. Shipping is free for Prime members, or free over $35 otherwise.",
-      "body": "[The Freebie Guy](https://thefreebieguy.com/dr-squatch-natural-mens-bar-soap/) lists it with a clippable digital coupon that stacks with Subscribe & Save to reach the sale price. Shipping is free for Prime members, or free over $35 otherwise.",
-      "url": "https://thefreebieguy.com/dr-squatch-natural-mens-bar-soap/",
-      "icon": "🏷️",
-      "image_url": "https://cdn.shopify.com/s/files/1/0555/4431/5957/files/6pack_988c0615-3844-4cdc-83ef-721f22568dc1.png?v=1736204860&width=1000&height=907&crop=center"
     }
   ]
 }
