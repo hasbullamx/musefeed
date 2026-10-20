@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T03:50:25-05:00",
+  "generated_at": "2026-10-20T09:51:17-05:00",
   "posts": [
+    {
+      "id": "5c8a4cf3-7546-45bc-862a-6900e8a11147",
+      "kicker": "PROTEIN TIMING",
+      "title": "Protein plus lifting beat lifting alone in 23-trial review",
+      "category": "Fitness",
+      "published_at": "2026-10-20T14:40:00-05:00",
+      "excerpt": "Pooling 23 randomized trials in 611 young adults, a Frontiers in Nutrition meta-analysis published October 13 found lifters adding protein gained 7.40 kg more on their squat than lifters training…",
+      "body": "Pooling 23 randomized trials in 611 young adults, [a Frontiers in Nutrition meta-analysis](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1946052/full) published October 13 found lifters adding protein gained 7.40 kg more on their squat than lifters training without it. The edge showed up mainly when lifters took protein both around their workouts and before sleep.",
+      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1946052/full",
+      "icon": "📰",
+      "image_url": "https://static2.protein.sk/imgcache/e-news-856-5-680-420.jpg"
+    },
+    {
+      "id": "041f7704-735d-4f2f-a9b8-78ab0b4c4154",
+      "kicker": "FASTER THAN SONY HOPED",
+      "title": "PS5 14.10 jailbreak demoed ahead of GTA 6 release",
+      "category": "PS5 Homebrew",
+      "published_at": "2026-10-20T13:35:00-05:00",
+      "excerpt": "Homebrew developer Gezine posted a short clip Monday showing the hidden Debug Settings menu on a PS5 running system software 26.06-14.10.00, a public crack of the current firmware. The hypervisor…",
+      "body": "Homebrew developer Gezine [posted a short clip Monday](https://www.notebookcheck.net/PS5-console-jailbreak-on-latest-14-10-firmware-shared-before-GTA-6-release-date.1428405.0.html) showing the hidden Debug Settings menu on a PS5 running system software 26.06-14.10.00, a public crack of the current firmware. The hypervisor bypass still doesn't work on 14.xx, so there is nothing to download or dump from it yet.",
+      "url": "https://www.notebookcheck.net/PS5-console-jailbreak-on-latest-14-10-firmware-shared-before-GTA-6-release-date.1428405.0.html",
+      "icon": "🎮",
+      "image_url": "https://media.ixbt.games/984x384/smart/ixbt-data/1297781/f9df9c55-ae36-47eb-8249-d90f8b9b2065.jpg"
+    },
+    {
+      "id": "3f7e08f1-2f14-437e-93d8-0ed0bc6f307f",
+      "kicker": "AGENTS AT WORK",
+      "title": "Gainsight's Atlas AI manages $75M in customer ARR",
+      "category": "Business",
+      "published_at": "2026-10-20T11:30:00-05:00",
+      "excerpt": "Gainsight is killing per-seat licensing next year for pricing that scales with ARR. Agent Studio enters beta alongside it, turning repeat retention work into reusable skills teams describe in plain…",
+      "body": "Gainsight is killing [per-seat licensing](https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/gainsight-proves-ai-native-services-model-for-retention-as-atlas-manages-over-75m-in-customer-arr/2449341/amp) next year for pricing that scales with ARR. Agent Studio enters beta alongside it, turning repeat retention work into reusable skills teams describe in plain language.",
+      "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/gainsight-proves-ai-native-services-model-for-retention-as-atlas-manages-over-75m-in-customer-arr/2449341/amp",
+      "icon": "📰",
+      "image_url": "https://www.thenextgentechinsider.com/_next/image?url=https%3A%2F%2Fcdn.thenextgentechinsider.com%2Fimages%2Fa%2Fpulse%2Fpulse_15495.png&w=1080&q=75"
+    },
     {
       "id": "8bc352cf-6693-4de7-822c-72b6e8d5cba5",
       "kicker": "MISSION'S BIG HIRE",
@@ -541,18 +577,6 @@
       "url": "https://www.mensjournal.com/health/bigger-muscles-may-have-a-hidden-benefit-that-goes-beyond-lifting-heavier-weights",
       "icon": "📰",
       "image_url": "https://i2.wp.com/blog.goodlifefitness.com/media/1720/hypertrophy.jpg"
-    },
-    {
-      "id": "7b1cbcc1-fc04-4b1f-80fd-bbc5e29a6c5d",
-      "kicker": "PS5 GOES LOCAL AI",
-      "title": "Jailbroken PS5 now runs GGUF models on GPU",
-      "category": "PS5 Homebrew",
-      "published_at": "2026-10-17T09:40:00-05:00",
-      "excerpt": "A Reddit fork rebuilds PS5LM as a native PS5 app on the PS5_Vulkan driver, lifting usable memory from about 6 GB to 11.4 GB. That turns Qwen 3.8 27B from a one-token-a-minute CPU curiosity into about…",
-      "body": "A Reddit fork [rebuilds PS5LM as a native PS5 app](https://www.alextech.ai/en/news/a-jailbroken-ps5-now-runs-gguf-models-on-its-gpu-via-ps5lm/) on the PS5_Vulkan driver, lifting usable memory from about 6 GB to 11.4 GB. That turns Qwen 3.8 27B from a one-token-a-minute CPU curiosity into about 20 tokens per second on the GPU.",
-      "url": "https://www.alextech.ai/en/news/a-jailbroken-ps5-now-runs-gguf-models-on-its-gpu-via-ps5lm/",
-      "icon": "🎮",
-      "image_url": "https://greatgamer.ru/resize/w700/images/news/10.2025/11/news_14268.jpg?772"
     }
   ]
 }
