@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T16:12:33-05:00",
+  "generated_at": "2026-10-20T22:00:39-05:00",
   "posts": [
+    {
+      "id": "b842d58e-4ce5-48fa-9a5b-609a82a876d4",
+      "kicker": "BROWNSVILLE JOBS",
+      "title": "Brownsville job fair lists 10,000 openings Thursday",
+      "category": "Texas",
+      "published_at": "2026-10-20T19:00:00-05:00",
+      "excerpt": "The free Careers & Coffee Job Expo runs Thursday from 10 a.m. to 2 p.m. at the Brownsville Events Center, listing more than 10,000 openings via the Greater Brownsville EDC and city. Some employers…",
+      "body": "The free Careers & Coffee Job Expo runs Thursday from 10 a.m. to 2 p.m. at the Brownsville Events Center, listing more than 10,000 openings via the [Greater Brownsville EDC and city](https://www.rgvbusinessjournal.com/news/20/10/2026/brownsville-careers-coffee-job-fair-10000-openings-article/). Some employers will run on-site interviews and may extend contingent offers the same day.",
+      "url": "https://www.rgvbusinessjournal.com/news/20/10/2026/brownsville-careers-coffee-job-fair-10000-openings-article/",
+      "icon": "🤠",
+      "image_url": "https://s.hdnux.com/photos/61/37/35/12973892/14/480x0.jpg"
+    },
     {
       "id": "813b83a7-af1e-4216-b09e-6c6537582a95",
       "kicker": "Less clicking",
@@ -13,6 +25,42 @@
       "url": "https://windowsreport.com/microsoft-brings-5-powerful-new-copilot-features-to-excel/",
       "icon": "🤖",
       "image_url": "https://www.bridgeall.com/wp-content/uploads/2023/03/excel.gif"
+    },
+    {
+      "id": "91cbebd2-d167-4278-b33e-24838bef3513",
+      "kicker": "AGENTS TO PRODUCTION",
+      "title": "SnapLogic adds plain-language agent builds",
+      "category": "AI",
+      "published_at": "2026-10-20T17:30:00-05:00",
+      "excerpt": "SnapGPT now generates complete agent and MCP Server pipelines from a natural-language prompt, cutting the manual work of assembling agentic workflows, per SnapLogic's announcement. The release also…",
+      "body": "SnapGPT now generates complete agent and MCP Server pipelines from a natural-language prompt, cutting the manual work of assembling agentic workflows, per [SnapLogic's announcement](https://www.globenewswire.com/news-release/2026/10/20/3384480/0/en/snaplogic-expands-agentic-integration-platform-to-help-enterprises-build-connect-and-operate-ai-agents.html). The release also adds 545 prebuilt tool patterns across 44 enterprise systems and three Amazon Bedrock snaps for RAG without custom retrieval code.",
+      "url": "https://www.globenewswire.com/news-release/2026/10/20/3384480/0/en/snaplogic-expands-agentic-integration-platform-to-help-enterprises-build-connect-and-operate-ai-agents.html",
+      "icon": "🤖",
+      "image_url": "https://smythos.com/wp-content/uploads/2024/06/snaplogic-ai-agent-builder-comparison-714x402.jpg"
+    },
+    {
+      "id": "64be47f2-cae2-47f5-847a-3afbc031c145",
+      "kicker": "Wednesday preparation brief",
+      "title": "WIOA orientation meets 9:30 AM Wednesday in Brownsville",
+      "category": "Texas",
+      "published_at": "2026-10-20T16:00:00-05:00",
+      "excerpt": "The wfscameron.org pages disagreed on start time as of Oct 19, so arriving for the earlier listing covers both postings. Checking the statewide ETPS list before Wednesday shows whether TSTC…",
+      "body": "The wfscameron.org pages disagreed on start time as of Oct 19, so arriving for the earlier listing covers both postings. Checking the statewide ETPS list before Wednesday shows whether TSTC Harlingen's Electrical Construction certificate can be funded through WIOA.",
+      "url": null,
+      "icon": "🤠",
+      "image_url": "https://pictures.alignable.com/eyJidWNrZXQiOiJhbGlnbmFibGV3ZWItcHJvZHVjdGlvbiIsImtleSI6ImltYWdlcy9waWN0dXJlcy9vcmlnaW5hbC81NjAyMTU3LzE3MzQxODIxNjguanBnIiwiZWRpdHMiOnt9fQ=="
+    },
+    {
+      "id": "3af62bbb-4f76-4242-8522-93efd5dc60e9",
+      "kicker": "NEW CHAIN, SAME WAIT",
+      "title": "14.10 jailbreak is real, but it's a new private chain",
+      "category": "PS5 Homebrew",
+      "published_at": "2026-10-20T14:45:00-05:00",
+      "excerpt": "Gezine says the 14.10 demo runs on a brand-new exploit chain, not a port of Relapse, since the kernel exploit behind 13.xx was patched in 14.00, per NextGenUpdate. With GTA 6 reportedly requiring…",
+      "body": "Gezine says the 14.10 demo runs on a brand-new exploit chain, not a port of Relapse, since the kernel exploit behind 13.xx was patched in 14.00, per [NextGenUpdate](https://nextgenupdate.com/articles/387/ps5-firmware-1410-has-been-jailbroken-but-dont-get-your-hopes-up-yet). With GTA 6 reportedly requiring 14.10 at its November 19 launch, some in the scene are asking him to hold the private chain until after release so Sony can't patch ahead of it.",
+      "url": "https://nextgenupdate.com/articles/387/ps5-firmware-1410-has-been-jailbroken-but-dont-get-your-hopes-up-yet",
+      "icon": "🎮",
+      "image_url": "https://wifinews.gr/wp-content/uploads/2026/04/jailbreak-1-728x409.png"
     },
     {
       "id": "5c8a4cf3-7546-45bc-862a-6900e8a11147",
@@ -97,6 +145,18 @@
       "url": "https://www.enterprisenews.com/story/news/courts/2026/10/19/matthew-farwell-trial-sandra-birchmore-pregnant-father-paternity-army-recruiter-jason-pickard/92334587007/",
       "icon": "📰",
       "image_url": "https://nicegirlstv.com/wp-content/uploads/2012/03/PersonofInterestbluebaby1-e1331354766435.jpg"
+    },
+    {
+      "id": "3453581f-3ed5-4944-ab1f-56fd86d5889f",
+      "kicker": "IDEA VAULT",
+      "title": "Bill Gross gives away 1.2 million business ideas",
+      "category": "Business",
+      "published_at": "2026-10-19T22:22:57-05:00",
+      "excerpt": "Serial entrepreneur Bill Gross launched Idealab.ai today, opening more than 1.2 million AI-generated business ideas for anyone to search, save, and test for free. The giveaway is born of scale: his…",
+      "body": "Serial entrepreneur Bill Gross launched [Idealab.ai](https://www.manilatimes.net/2026/10/19/tmt-newswire/globenewswire/bill-gross-the-entrepreneur-behind-175-companies-launches-idealabai-to-give-away-millions-of-business-ideas-and-help-people-everywhere-build-them/2448789) today, opening more than 1.2 million AI-generated business ideas for anyone to search, save, and test for free. The giveaway is born of scale: his system spits out far more potential businesses than any one company could pursue, so the surplus goes to the public.",
+      "url": "https://www.manilatimes.net/2026/10/19/tmt-newswire/globenewswire/bill-gross-the-entrepreneur-behind-175-companies-launches-idealabai-to-give-away-millions-of-business-ideas-and-help-people-everywhere-build-them/2448789",
+      "icon": "📰",
+      "image_url": "https://miro.medium.com/v2/resize:fit:750/0*DKl5bYxHD2zrqdqN.jpg"
     },
     {
       "id": "7d0dd8ea-5bb9-4d6b-9a48-f2bdc8c3280c",
@@ -469,66 +529,6 @@
       "url": "http://networkingmamasidehustlevault.blogspot.com/2026/10/dollar-general-saturday-game-plan-5-off.html",
       "icon": "🏷️",
       "image_url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/27zsgDcbiBFmFo0nsKEM1o/ba25de2ad825d4789873b2ded7739498/how-to-coupon-at-dollar-general-coupons-policy-5-off-25-receipt-saturday-only-offer-1672959944-1672959944.jpg"
-    },
-    {
-      "id": "c48067ea-076c-4e94-a98b-e440f6c8b356",
-      "kicker": "FLASH UPDATE",
-      "title": "DeepSeek's Flash update claims gains on 11 benchmarks at same price",
-      "category": "AI",
-      "published_at": "2026-10-17T21:20:00-05:00",
-      "excerpt": "DeepSeek put V4.1-Flash-1017 weights on Hugging Face on Saturday under MIT license, per TECHi. Its own table has Terminal-Bench 4.0 jumping from 31.2 to 42.3, the largest of the gains it claims.",
-      "body": "DeepSeek put V4.1-Flash-1017 weights on Hugging Face on Saturday under MIT license, [per TECHi](https://www.techi.com/deepseek-v4-1-flash-1017-update-benchmarks-price/). Its own table has Terminal-Bench 4.0 jumping from 31.2 to 42.3, the largest of the gains it claims.",
-      "url": "https://www.techi.com/deepseek-v4-1-flash-1017-update-benchmarks-price/",
-      "icon": "🤖",
-      "image_url": "https://eastfrontier.com/wp-content/uploads/2026/08/deepseek-v4-flash-696x348.webp"
-    },
-    {
-      "id": "c82c0640-4bbb-4205-9c97-204bff3d5d6e",
-      "kicker": "PS5 GOES LINUX",
-      "title": "Linux boots on jailbroken PS5s up to July firmware",
-      "category": "PS5 Homebrew",
-      "published_at": "2026-10-17T19:30:00-05:00",
-      "excerpt": "The new pLinux5-NG bootloader boots Linux on jailbroken PS5s running firmware up to July's 13.60, up from the old bootloader's 7.61 ceiling, per Notebookcheck. Whether PC games follow is still open,…",
-      "body": "The new pLinux5-NG bootloader boots Linux on jailbroken PS5s running firmware up to July's 13.60, up from the old bootloader's 7.61 ceiling, [per Notebookcheck](https://www.notebookcheck.net/Linux-now-runs-on-PS5-console-jailbreaks-and-July-firmware-with-PC-games-possible.1425575.0.html). Whether PC games follow is still open, but the old bootloader ran GTA 5 Enhanced at close to 60 fps at 1440p through Proton.",
-      "url": "https://www.notebookcheck.net/Linux-now-runs-on-PS5-console-jailbreaks-and-July-firmware-with-PC-games-possible.1425575.0.html",
-      "icon": "🎮",
-      "image_url": "https://criticalhits.com.br/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2026/05/em5-linux-en-la-ps5-480x270.jpg.webp"
-    },
-    {
-      "id": "0d7cd9fa-d93a-46a5-9341-75cc1b449874",
-      "kicker": "CASH PAY OPTIONS",
-      "title": "Milophene 50mg without insurance: what to check next",
-      "category": "Health",
-      "published_at": "2026-10-17T17:50:00-05:00",
-      "excerpt": "Cash price for clomiphene 50 mg runs about $69.28 for 10 tablets per Drugs.com's price guide. Checking GoodRx or SingleCare against nearby pharmacies usually surfaces the lowest cash number.",
-      "body": "Cash price for clomiphene 50 mg runs about $69.28 for 10 tablets [per Drugs.com's price guide](https://www.drugs.com/price-guide/clomiphene). Checking GoodRx or SingleCare against nearby pharmacies usually surfaces the lowest cash number.",
-      "url": "https://www.drugs.com/price-guide/clomiphene",
-      "icon": "📰",
-      "image_url": "https://images.hive.blog/768x0/https://images.ecency.com/DQmf4FD2QymLeyRyQ7kGxeyoEQwPvNvNAFcQkciKqJY2rKD/1742153736222.jpg"
-    },
-    {
-      "id": "d4d61c18-4d5c-4ef3-83f6-79a878da1c2c",
-      "kicker": "RECRUITING REFUGEES",
-      "title": "US mulls $335,000 ad push to recruit more Afrikaner refugees",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-17T16:45:00-05:00",
-      "excerpt": "Washington is reportedly weighing a $335,000 research and advertising campaign to persuade more Afrikaners to apply for US refugee status, after an internal State Department proposal noted…",
-      "body": "Washington is reportedly weighing a $335,000 research and advertising campaign to persuade more Afrikaners to apply for US refugee status, after an internal State Department proposal noted applications have \"trended lower than expected,\" [per Current Affairs ZA's writeup of the Guardian exclusive](https://currentaffairsza.com/2026/10/15/us-mulls-r5m-campaign-to-lure-more-afrikaner-refugees-as-uptake-disappoints-report/). The push follows a fiscal 2026 in which all but five of the 16,292 admitted refugees were already South African.",
-      "url": "https://currentaffairsza.com/2026/10/15/us-mulls-r5m-campaign-to-lure-more-afrikaner-refugees-as-uptake-disappoints-report/",
-      "icon": "📰",
-      "image_url": "https://www.joburgetc.com/wp-content/uploads/2025/09/image-3-6.jpg"
-    },
-    {
-      "id": "1634f4f1-c974-4945-b65d-95e8f6a260c6",
-      "kicker": "TOKEN SAVER",
-      "title": "Open-source TOMC trims coding-agent token use",
-      "category": "AI",
-      "published_at": "2026-10-17T16:30:00-05:00",
-      "excerpt": "TOMC shrinks the conversation history your agent resends each turn, cutting input by 29.8% in the author's Codex run, per the build notes. It runs on CPU with no extra model calls, so it stacks with…",
-      "body": "TOMC shrinks the conversation history your agent resends each turn, cutting input by 29.8% in the author's Codex run, [per the build notes](https://medium.com/@wzp0724/bro-just-a-few-more-tokens-i-built-an-open-source-token-saver-for-ai-coding-agents-6b8975149ff5). It runs on CPU with no extra model calls, so it stacks with reply-shorteners like Caveman instead of replacing them.",
-      "url": "https://medium.com/@wzp0724/bro-just-a-few-more-tokens-i-built-an-open-source-token-saver-for-ai-coding-agents-6b8975149ff5",
-      "icon": "🤖",
-      "image_url": "https://leonardo.osnova.io/164eb162-1029-55dc-903a-42fb249a2c3d/-/scale_crop/592x/-/format/webp/"
     }
   ]
 }
