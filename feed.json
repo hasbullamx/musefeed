@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T22:01:32-05:00",
+  "generated_at": "2026-10-21T04:02:33-05:00",
   "posts": [
+    {
+      "id": "2b19dc03-1dc1-4b68-8cff-8370fbc506da",
+      "kicker": "FEDERAL HIRING",
+      "title": "OPM sets government-wide recruitment plan",
+      "category": "Federal workforce",
+      "published_at": "2026-10-21T09:15:00-05:00",
+      "excerpt": "The plan sets a target that one-third of federal hires be early-career talent, per Fedweek's October 19 report. Agencies are told to hire on demonstrated skills and merit-based assessments instead of…",
+      "body": "The plan sets a target that one-third of federal hires be early-career talent, per [Fedweek's October 19 report](https://www.fedweek.com/federal-managers-daily-report/opm-issues-government-wide-recruitment-plan/). Agencies are told to hire on demonstrated skills and merit-based assessments instead of degrees or years of tenure.",
+      "url": "https://www.fedweek.com/federal-managers-daily-report/opm-issues-government-wide-recruitment-plan/",
+      "icon": "📰",
+      "image_url": "https://www.defensedaily.com/wp-content/uploads/2015/06/OPM.png"
+    },
+    {
+      "id": "e91f5e45-a9a2-4201-8516-12aaca71bf6f",
+      "kicker": "[AI] FEDERAL BAN",
+      "title": "US orders DeepSeek removed from civilian agency systems",
+      "category": "AI",
+      "published_at": "2026-10-21T08:30:00-05:00",
+      "excerpt": "The notice published Monday covers DeepSeek products plus third-party services built on them and bars civilian agencies from buying them going forward. DHS says the models present “multiple threat…",
+      "body": "The [notice published Monday](https://www.thehindubusinessline.com/info-tech/us-orders-removal-of-deepseek-from-civilian-government-it-systems/article71603248.ece/amp/) covers DeepSeek products plus third-party services built on them and bars civilian agencies from buying them going forward. DHS says the models present “multiple threat vectors,” including possible transfer of sensitive data and malware in the models themselves.",
+      "url": "https://www.thehindubusinessline.com/info-tech/us-orders-removal-of-deepseek-from-civilian-government-it-systems/article71603248.ece/amp/",
+      "icon": "🤖",
+      "image_url": "https://bizinsider.org/content/2025/01/u-s-navy-bans-use-of-deepseek-due-to-security-and-ethical-concerns-scaled.jpg"
+    },
     {
       "id": "b842d58e-4ce5-48fa-9a5b-609a82a876d4",
       "kicker": "BROWNSVILLE JOBS",
@@ -493,42 +517,6 @@
       "url": "https://local-ai-zone.github.io/blog/October_2026_AI_Model_Updates.html",
       "icon": "🏷️",
       "image_url": "https://super-monitoring.com/blog/wp-content/uploads/2023/09/elevenlabs.png"
-    },
-    {
-      "id": "e3a4b486-d560-4401-b5e6-4ad53fea8109",
-      "kicker": "LETTER: REVERSE COURSE",
-      "title": "51 lawmakers urge agencies to reverse fast-track child deportations",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-18T00:23:00-05:00",
-      "excerpt": "Representative Andrea Salinas of Oregon and Senator Ron Wyden of Oregon led 51 members of Congress in an October 16 letter to the Justice Department, the Executive Office for Immigration Review, ICE,…",
-      "body": "Representative Andrea Salinas of Oregon and Senator Ron Wyden of Oregon led 51 members of Congress in an October 16 letter to the Justice Department, the Executive Office for Immigration Review, ICE, and USCIS urging the administration to \"immediately reverse course\" on accelerated deportation proceedings for unaccompanied children, citing 24-hour asylum-interview notices, large \"mega master\" hearings, limits on continuances, and reduced access to lawyers, per [VisaVerge's writeup](https://www.visaverge.com/legal/andrea-salinas-ron-wyden-lead-lawmakers-in-letter-on-unaccompanied-children-deportations/). The letter demands answers to 25 questions by October 30, 2026, with the Acacia Center for Justice endorsing it and a full public copy included, per the [press-release mirror](https://www.quiverquant.com/news/Press%20Release:%20Andrea%20Salinas%20and%20Ron%20Wyden%20Lead%20Lawmakers%20in%20Letter%20on%20Unaccompanied%20Children%20Deportations); it is oversight pressure rather than a remedy, and it stands apart from the legal-service providers' October 15 lawsuit covered earlier on this feed.",
-      "url": "https://www.visaverge.com/legal/andrea-salinas-ron-wyden-lead-lawmakers-in-letter-on-unaccompanied-children-deportations/",
-      "icon": "📰",
-      "image_url": "https://s.hdnux.com/photos/01/26/25/65/22633842/4/480x0.webp"
-    },
-    {
-      "id": "21f7d169-6276-4a39-bedb-44dd59caf896",
-      "kicker": "Wednesday's one question",
-      "title": "TDLR publishes no JEEP-approved program list",
-      "category": "Texas",
-      "published_at": "2026-10-18T00:00:00-05:00",
-      "excerpt": "TDLR approves JEEP programs one by one through a $90 curriculum evaluation. In the Valley, TSTC Harlingen's Electrical Construction certificate is the strongest lead, listed at $6,496–$15,312 for…",
-      "body": "TDLR approves JEEP programs one by one through a $90 curriculum evaluation. In the Valley, TSTC Harlingen's Electrical Construction certificate is the strongest lead, listed at $6,496–$15,312 for in-person or hybrid day classes only.",
-      "url": null,
-      "icon": "🤠",
-      "image_url": "https://s.hdnux.com/photos/01/66/02/42/30943416/3/ratio3x2_480.webp"
-    },
-    {
-      "id": "950bb106-cab2-4a1e-929c-9004fe640065",
-      "kicker": "TONIGHT ONLY",
-      "title": "Dollar General $5 off $25: 12 baskets for Saturday only",
-      "category": "Deals",
-      "published_at": "2026-10-17T22:15:00-05:00",
-      "excerpt": "Saturday's $5-off-$25 digital stacks with product digitals across 12 worked baskets. The cheapest lands six items for $4.75.",
-      "body": "Saturday's $5-off-$25 digital stacks with product digitals across [12 worked baskets](http://networkingmamasidehustlevault.blogspot.com/2026/10/dollar-general-saturday-game-plan-5-off.html). The cheapest lands six items for $4.75.",
-      "url": "http://networkingmamasidehustlevault.blogspot.com/2026/10/dollar-general-saturday-game-plan-5-off.html",
-      "icon": "🏷️",
-      "image_url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/27zsgDcbiBFmFo0nsKEM1o/ba25de2ad825d4789873b2ded7739498/how-to-coupon-at-dollar-general-coupons-policy-5-off-25-receipt-saturday-only-offer-1672959944-1672959944.jpg"
     }
   ]
 }
