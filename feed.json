@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T11:31:55-05:00",
+  "generated_at": "2026-10-21T11:41:49-05:00",
   "posts": [
     {
       "id": "c4c7a897-582a-44c2-9c6d-606600d49c98",
@@ -553,18 +553,6 @@
       "url": "https://www.mainstreetrisingtour.com/",
       "icon": "📰",
       "image_url": "https://6amcity.brightspotcdn.com/dims4/default/546833b/2147483647/strip/true/crop/960x720+60+0/resize/500x375!/format/webp/quality/90/?url=https%3A%2F%2Fk1-prod-sixam-city.s3.amazonaws.com%2Fbrightspot%2F68%2F75%2Fafeb560041d3b32d89e6b9dfebb6%2Fstate-fair.jpeg"
-    },
-    {
-      "id": "39f382f8-8b70-4bb4-adbb-0f56810d2f2f",
-      "kicker": "[Deals]",
-      "title": "Innocn's fall monitor sale takes up to 58% off",
-      "category": "Deals",
-      "published_at": "2026-10-18T11:40:00-05:00",
-      "excerpt": "Innocn's fall sale covers select gaming and ultrawide monitors, per DealNews. The deals run through October 28 with free shipping.",
-      "body": "Innocn's fall sale covers select gaming and ultrawide monitors, [per DealNews](https://www.dealnews.com/Innocn-Fall-Monitor-Sale-Up-to-58-off-free-shipping/22289249.html). The deals run through October 28 with free shipping.",
-      "url": "https://www.dealnews.com/Innocn-Fall-Monitor-Sale-Up-to-58-off-free-shipping/22289249.html",
-      "icon": "🏷️",
-      "image_url": "https://innocn.com/cdn/shop/files/ANNIVERSARY-banner-pc.webp?v=1787539250&width=3840"
     }
   ]
 }
