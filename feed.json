@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T10:43:06-05:00",
+  "generated_at": "2026-10-21T11:31:55-05:00",
   "posts": [
+    {
+      "id": "c4c7a897-582a-44c2-9c6d-606600d49c98",
+      "kicker": "CAT AND MOUSE",
+      "title": "Sony pushes PS5 firmware 14.20.00 as jailbreak hunt escalates",
+      "category": "PS5 Homebrew",
+      "published_at": "2026-10-21T12:30:00-05:00",
+      "excerpt": "Sony pushed PS5 system update 26.07-14.20.00 today, and the official patch notes say only that it improves \"the messages and usability on some screens.\" It arrives with Gezine's 14.10 zero-day still…",
+      "body": "Sony pushed PS5 system update 26.07-14.20.00 today, and the official patch notes say only that it improves [\"the messages and usability on some screens.\"](https://twistedvoxel.com/ps5-system-update-26-07-14-20-00/) It arrives with Gezine's 14.10 zero-day still private and unreleased, the one exploit the scene is waiting on.",
+      "url": "https://twistedvoxel.com/ps5-system-update-26-07-14-20-00/",
+      "icon": "🎮",
+      "image_url": "https://particle.news/cdn-cgi/image/onerror=redirect,width=640,height=640,format=webp/https://storage.googleapis.com/uploads.mongoosehq.com/url/media/63058783/1fc1d9d0b7a124f3d50510c00ff0e1dc57d165b5aea821ddabf567015e7fc17c"
+    },
     {
       "id": "10b938e0-2642-43c7-a91c-e67e3975685a",
       "kicker": "SBA LENDING",
@@ -553,18 +565,6 @@
       "url": "https://www.dealnews.com/Innocn-Fall-Monitor-Sale-Up-to-58-off-free-shipping/22289249.html",
       "icon": "🏷️",
       "image_url": "https://innocn.com/cdn/shop/files/ANNIVERSARY-banner-pc.webp?v=1787539250&width=3840"
-    },
-    {
-      "id": "79c617d9-ada7-4cf0-80aa-81d6ecbbd99b",
-      "kicker": "AGENT ECONOMICS",
-      "title": "DeepSeek Flash beats bigger rivals, cuts per-task cost again",
-      "category": "AI",
-      "published_at": "2026-10-18T10:48:35-05:00",
-      "excerpt": "DeepSeek's V4.1-Flash-1017 hits 77.0% on DeepSWE at about $0.20 per task versus $2 to over $10 for larger rivals, per the breakdown. DeepSeek also opened its Search & Fetch APIs to all developers,…",
-      "body": "DeepSeek's V4.1-Flash-1017 hits 77.0% on DeepSWE at about $0.20 per task versus $2 to over $10 for larger rivals, [per the breakdown](https://cryptogames.gg/deepseek-v4-1-flash-1017-beats-bigger-rivals-on-agentic-tasks-and-cuts-per-task-costs-again/). DeepSeek also opened its Search & Fetch APIs to all developers, free via Harness, Claude Code and Codex until Oct 31.",
-      "url": "https://cryptogames.gg/deepseek-v4-1-flash-1017-beats-bigger-rivals-on-agentic-tasks-and-cuts-per-task-costs-again/",
-      "icon": "🤖",
-      "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/10/9a6da837-2c9e-4e21-86a1-82ad760f4b06_dd5e5028.jpg?itok=dafO_wNK&v=1786359025"
     }
   ]
 }
