@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T14:11:35-05:00",
+  "generated_at": "2026-10-21T14:41:59-05:00",
   "posts": [
+    {
+      "id": "2f3de04e-09b5-4aa7-9a4b-5333938bd320",
+      "kicker": "BUILT LIKE SOFTWARE",
+      "title": "Glean adds headless agent building for Claude Code, Cursor and Codex",
+      "category": "AI",
+      "published_at": "2026-10-21T14:20:00-05:00",
+      "excerpt": "A new Glean plugin drops an agent into the workspace as spec.yaml and instructions.md, testable from the editor. Publishing sends it to Glean's managed runtime, where it keeps permissioned access…",
+      "body": "A [new Glean plugin](https://www.unite.ai/glean-adds-headless-agent-building-for-claude-code-cursor-and-codex/) drops an agent into the workspace as spec.yaml and instructions.md, testable from the editor. Publishing sends it to Glean's managed runtime, where it keeps permissioned access across 275+ enterprise sources.",
+      "url": "https://www.unite.ai/glean-adds-headless-agent-building-for-claude-code-cursor-and-codex/",
+      "icon": "🤖",
+      "image_url": "https://orply.com/_next/image?url=https%3A%2F%2Fslfciotaumbfmhdhpdjl.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fimages%2Fpieces%2Fe770514f-8ac1-463e-9be6-c639939656d9%2Flight.png&w=3840&q=75"
+    },
     {
       "id": "d8b95f34-d73b-4f00-b295-273d11f511c7",
       "kicker": "CERT DENIED",
@@ -517,18 +529,6 @@
       "url": "https://www.zabalist.com/reports/city/brownsville",
       "icon": "🤠",
       "image_url": "https://s.hdnux.com/photos/74/77/63/15990006/10/640x0.jpg"
-    },
-    {
-      "id": "8901ff47-32b9-4bba-a2a6-51163408e79c",
-      "kicker": "FREE AGENT",
-      "title": "OpenCode hits 216,000 stars as open-source coding agent",
-      "category": "AI",
-      "published_at": "2026-10-18T14:25:17-05:00",
-      "excerpt": "The MIT-licensed agent plugs into 75+ model providers, per the rundown. You can log in with the ChatGPT or Copilot subscription you already pay for instead of buying another seat.",
-      "body": "The MIT-licensed agent plugs into 75+ model providers, [per the rundown](http://dev.to/itxtayab/opencode-the-open-source-ai-coding-agent-with-216000-github-stars-7hi). You can log in with the ChatGPT or Copilot subscription you already pay for instead of buying another seat.",
-      "url": "http://dev.to/itxtayab/opencode-the-open-source-ai-coding-agent-with-216000-github-stars-7hi",
-      "icon": "🤖",
-      "image_url": "https://bestofjs.org/api/og/projects/?page=2&limit=30&tags=ai&sort=weekly&scope=all&t=2026-09-07T17-50"
     }
   ]
 }
