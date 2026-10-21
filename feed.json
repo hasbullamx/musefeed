@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T18:20:57-05:00",
+  "generated_at": "2026-10-21T18:56:17-05:00",
   "posts": [
+    {
+      "id": "c3ffb89f-6cd8-41cb-9b64-ba452b8876f0",
+      "kicker": "Trades get a boost",
+      "title": "Labor Department awards $81.5M for rural job training",
+      "category": "Federal workforce",
+      "published_at": "2026-10-21T18:30:00-05:00",
+      "excerpt": "The seventh round of the Workforce Opportunity for Rural Communities program funds training across the Appalachian, Delta and Northern Border regions. The money leans into skilled trades and…",
+      "body": "The seventh round of the [Workforce Opportunity for Rural Communities program](https://www.hrdive.com/news/nearly-82m-government-grant-targets-rural-job-training/833608/) funds training across the Appalachian, Delta and Northern Border regions. The money leans into skilled trades and construction, backing Registered Apprenticeships for new and dislocated workers.",
+      "url": "https://www.hrdive.com/news/nearly-82m-government-grant-targets-rural-job-training/833608/",
+      "icon": "📰",
+      "image_url": "https://marketrelocationreport.com/wp-content/uploads/2026/08/6293e11445623811ed076d7bca040e52-400x380.jpg"
+    },
     {
       "id": "2f3de04e-09b5-4aa7-9a4b-5333938bd320",
       "kicker": "BUILT LIKE SOFTWARE",
