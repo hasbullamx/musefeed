@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T10:07:36-05:00",
+  "generated_at": "2026-10-21T10:43:06-05:00",
   "posts": [
+    {
+      "id": "10b938e0-2642-43c7-a91c-e67e3975685a",
+      "kicker": "SBA LENDING",
+      "title": "SBA loans shrank 28%, losing the smallest ones",
+      "category": "Business",
+      "published_at": "2026-10-21T10:30:00-05:00",
+      "excerpt": "SBA approved 56,130 7(a) loans for $32.43 billion in fiscal 2026, down from 78,078 loans a year earlier, according to the agency totals. The average approved loan rose from about $477,600 to about…",
+      "body": "SBA approved 56,130 7(a) loans for $32.43 billion in fiscal 2026, down from 78,078 loans a year earlier, [according to the agency totals](https://medium.com/@Tomasz_Felpel/sba-lending-shrank-28-percent-and-the-loans-that-vanished-were-the-small-ones-295300b54541). The average approved loan rose from about $477,600 to about $577,700 as the smallest loans disappeared in the thousands.",
+      "url": "https://medium.com/@Tomasz_Felpel/sba-lending-shrank-28-percent-and-the-loans-that-vanished-were-the-small-ones-295300b54541",
+      "icon": "📰",
+      "image_url": "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=39dvOY_1ExOtYYe00"
+    },
     {
       "id": "d8633241-8a10-4280-aa51-1b1742258476",
       "kicker": "BROWNSVILLE REFINERY",
@@ -553,18 +565,6 @@
       "url": "https://cryptogames.gg/deepseek-v4-1-flash-1017-beats-bigger-rivals-on-agentic-tasks-and-cuts-per-task-costs-again/",
       "icon": "🤖",
       "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/10/9a6da837-2c9e-4e21-86a1-82ad760f4b06_dd5e5028.jpg?itok=dafO_wNK&v=1786359025"
-    },
-    {
-      "id": "a046b61e-90ce-4ace-a4c7-0f44facf62be",
-      "kicker": "Xbox on PlayStation",
-      "title": "Modded PS5 emulator runs Xbox games at 96%",
-      "category": "PS5 Homebrew",
-      "published_at": "2026-10-18T10:40:00-05:00",
-      "excerpt": "Developer ZiZc3 published XPSemu Alpha 1 on GitHub as a native port of the xemu Xbox emulator for jailbroken PS5s, per Tech Insider's roundup. A separate effort called AnyPS5 now reports 1,118 of…",
-      "body": "Developer ZiZc3 published XPSemu Alpha 1 on GitHub as a native port of the xemu Xbox emulator for jailbroken PS5s, [per Tech Insider's roundup](https://tech-insider.org/ps5-emulator-xpsemu-anyps5-xbox-games-2026/). A separate effort called AnyPS5 now reports 1,118 of 1,166 GPU shader instructions covered, about 96%, in its bid to run PS5 executables on PC.",
-      "url": "https://tech-insider.org/ps5-emulator-xpsemu-anyps5-xbox-games-2026/",
-      "icon": "🎮",
-      "image_url": "https://intotech.ir/s/wp-content/uploads/images/2024/10/intotech-ir-37068-1728240258-compressed.webp"
     }
   ]
 }
