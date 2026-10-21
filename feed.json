@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T11:41:49-05:00",
+  "generated_at": "2026-10-21T12:11:36-05:00",
   "posts": [
     {
       "id": "c4c7a897-582a-44c2-9c6d-606600d49c98",
@@ -529,30 +529,6 @@
       "url": "https://news.bloomberglaw.com/daily-labor-report/trump-personnel-office-removes-minimum-tenure-for-federal-hires",
       "icon": "📰",
       "image_url": "https://cdn.govexec.com/media/img/cd/2025/06/20/062025_Getty_GovExec_OPMperformance/860x394.jpg?1750455500"
-    },
-    {
-      "id": "01fd7eea-d10b-4aa9-a086-396673a59eb3",
-      "kicker": "VOLUME CEILING",
-      "title": "60 weekly sets built no more muscle than 40",
-      "category": "Fitness",
-      "published_at": "2026-10-18T12:10:00-05:00",
-      "excerpt": "In the Finnish trial, 27 trained athletes who pushed leg training to about 60 weekly sets gained no significant extra muscle or strength over the group holding near 40, with deadlift gains actually…",
-      "body": "In the [Finnish trial](https://macrosmeasure.com/blog/is-there-a-ceiling-on-training-volume-what-the-63-sets-a-week-study-says-about-more-is-better), 27 trained athletes who pushed leg training to about 60 weekly sets gained no significant extra muscle or strength over the group holding near 40, with deadlift gains actually favoring the lower-volume group, 6.3% versus 4.3%. A separate October systematic review found volume load (sets × reps × weight) the variable most consistently tied to hypertrophy: progressive overload is the engine, and extra sets past the productive zone mostly add fatigue.",
-      "url": "https://macrosmeasure.com/blog/is-there-a-ceiling-on-training-volume-what-the-63-sets-a-week-study-says-about-more-is-better",
-      "icon": "📰",
-      "image_url": "https://builtwithscience.com/wp-content/uploads/2023/10/how-many-sets-per-muscle-group-per-week-1.webp"
-    },
-    {
-      "id": "7638781d-afdc-4753-9c86-7614288f7e93",
-      "kicker": "BUSINESS",
-      "title": "Main Street Rising Tour lands in Houston Nov 10",
-      "category": "Business",
-      "published_at": "2026-10-18T11:55:00-05:00",
-      "excerpt": "The free day centers on hands-on AI workshops and a live pitch competition with a cash prize, per the tour site. Pitch applications close Wednesday, October 28.",
-      "body": "The free day centers on hands-on AI workshops and a live pitch competition with a cash prize, [per the tour site](https://www.mainstreetrisingtour.com/). Pitch applications close Wednesday, October 28.",
-      "url": "https://www.mainstreetrisingtour.com/",
-      "icon": "📰",
-      "image_url": "https://6amcity.brightspotcdn.com/dims4/default/546833b/2147483647/strip/true/crop/960x720+60+0/resize/500x375!/format/webp/quality/90/?url=https%3A%2F%2Fk1-prod-sixam-city.s3.amazonaws.com%2Fbrightspot%2F68%2F75%2Fafeb560041d3b32d89e6b9dfebb6%2Fstate-fair.jpeg"
     }
   ]
 }
