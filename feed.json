@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T04:03:34-05:00",
+  "generated_at": "2026-10-21T10:04:27-05:00",
   "posts": [
+    {
+      "id": "d8633241-8a10-4280-aa51-1b1742258476",
+      "kicker": "BROWNSVILLE REFINERY",
+      "title": "Rubio's Jamnagar detour spotlights Brownsville refinery",
+      "category": "Texas",
+      "published_at": "2026-10-21T09:56:09-05:00",
+      "excerpt": "Secretary of State Marco Rubio skipped New Delhi for Mumbai and Jamnagar on his October 20-21 India visit to press energy deals. The detour put the Port of Brownsville refinery project back in the…",
+      "body": "Secretary of State Marco Rubio skipped New Delhi for Mumbai and Jamnagar on his October 20-21 India visit to press energy deals. [The detour put the Port of Brownsville refinery project back in the frame](https://www.theweek.in/news/biz-tech/2026/10/21/explained-what-marco-rubio-said-in-india-and-what-he-meant.amp.html), described as the first new U.S. refinery in half a century in partnership with Reliance.",
+      "url": "https://www.theweek.in/news/biz-tech/2026/10/21/explained-what-marco-rubio-said-in-india-and-what-he-meant.amp.html",
+      "icon": "🤠",
+      "image_url": "https://cafefcdn.com/zoom/600_315/203337114487263232/2026/4/13/avatar1776052602591-1776052603314552126.png"
+    },
     {
       "id": "2b19dc03-1dc1-4b68-8cff-8370fbc506da",
       "kicker": "FEDERAL HIRING",
@@ -15,6 +27,18 @@
       "image_url": "https://www.defensedaily.com/wp-content/uploads/2015/06/OPM.png"
     },
     {
+      "id": "f4d15bf3-7b7b-44c7-9916-04f264bfe75a",
+      "kicker": "COST CUTTER",
+      "title": "Open-source compressor cuts AI coding-agent bills 22.7%",
+      "category": "AI",
+      "published_at": "2026-10-21T08:46:34-05:00",
+      "excerpt": "Hystax released OptScale Kompressor on GitHub under MIT as a deterministic filter that touches only machine-generated tool output. It cut the real provider bill by 22.7% on Terminal-Bench 2.1 with…",
+      "body": "Hystax [released OptScale Kompressor](https://www.prweb.com/releases/hystax-releases-open-source-token-compressor-that-cuts-ai-coding-agent-costs-by-22-7-without-changing-the-agent-302912355.html) on GitHub under MIT as a deterministic filter that touches only machine-generated tool output. It cut the real provider bill by 22.7% on Terminal-Bench 2.1 with task success effectively unchanged.",
+      "url": "https://www.prweb.com/releases/hystax-releases-open-source-token-compressor-that-cuts-ai-coding-agent-costs-by-22-7-without-changing-the-agent-302912355.html",
+      "icon": "🤖",
+      "image_url": "https://cdn.edgee.app/blog/inline/270786b8-2e7a-4a4e-b6d5-51e8ce0157b7.png"
+    },
+    {
       "id": "e91f5e45-a9a2-4201-8516-12aaca71bf6f",
       "kicker": "[AI] FEDERAL BAN",
       "title": "US orders DeepSeek removed from civilian agency systems",
@@ -25,6 +49,42 @@
       "url": "https://www.thehindubusinessline.com/info-tech/us-orders-removal-of-deepseek-from-civilian-government-it-systems/article71603248.ece/amp/",
       "icon": "🤖",
       "image_url": "https://bizinsider.org/content/2025/01/u-s-navy-bans-use-of-deepseek-due-to-security-and-ethical-concerns-scaled.jpg"
+    },
+    {
+      "id": "7cdd023b-306c-488c-afcb-f8019d213527",
+      "kicker": "FREE SHOP SKILLS",
+      "title": "UTRGV to offer free manufacturing training for Valley jobs",
+      "category": "Texas",
+      "published_at": "2026-10-21T07:43:46-05:00",
+      "excerpt": "EMPOWER-RGV will offer free hands-on manufacturing training in the Valley starting in mid-January 2027. It is built for the Port Alpha shipyard wave at the Port of Brownsville, a project expected to…",
+      "body": "[EMPOWER-RGV](https://couriertexas.com/local/local-news/as-south-texas-manufacturing-industry-grows-utrgv-will-offer-free-training-for-incoming-jobs/) will offer free hands-on manufacturing training in the Valley starting in mid-January 2027. It is built for the Port Alpha shipyard wave at the Port of Brownsville, a project expected to create up to 10,000 direct jobs.",
+      "url": "https://couriertexas.com/local/local-news/as-south-texas-manufacturing-industry-grows-utrgv-will-offer-free-training-for-incoming-jobs/",
+      "icon": "🤠",
+      "image_url": "https://btxtoday.com/wp-content/uploads/2026/08/aug16-9-1068x601.png"
+    },
+    {
+      "id": "b1aa9ec1-a424-4dac-81e7-55d51d309f4c",
+      "kicker": "WHOSE LAWYER IS IT",
+      "title": "Senators tell HHS to drop in-house UAC lawyers",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-21T06:39:38-05:00",
+      "excerpt": "HHS has until October 30 to confirm in writing that none of its own attorneys will represent an unaccompanied child in immigration court, under a letter led by Senator Tammy Duckworth and signed by…",
+      "body": "HHS has until October 30 to confirm in writing that none of its own attorneys will represent an unaccompanied child in immigration court, under [a letter led by Senator Tammy Duckworth](https://immigration-analytics.com/2026/10/20/hhs-unaccompanied-children-lawyers/) and signed by five other Democratic senators. The letter targets the Unaccompanied Alien Children Legal Representation Division that HHS created inside its Office of the General Counsel on September 29, arriving as the nonprofit lawyer network covering more than 20,000 children has largely stopped since its contract expired July 31.",
+      "url": "https://immigration-analytics.com/2026/10/20/hhs-unaccompanied-children-lawyers/",
+      "icon": "📰",
+      "image_url": "https://napanow.org/wp-content/uploads/2026/05/Image_markup-780x470.jpg"
+    },
+    {
+      "id": "02d90e34-5058-440f-b817-306d25374aad",
+      "kicker": "THE CUDA EXIT",
+      "title": "Google open-sources TorchTPU, a native PyTorch backend for TPUs",
+      "category": "AI",
+      "published_at": "2026-10-21T04:26:08-05:00",
+      "excerpt": "Google has open-sourced TorchTPU, a native PyTorch backend that makes its TPUs a first-class hardware target alongside GPUs and CPUs, built with Meta's PyTorch team and announced at PyTorch…",
+      "body": "Google has [open-sourced TorchTPU](https://www.newsbytesapp.com/news/science/google-takes-on-nvidia-with-new-ai-developer-tool/story), a native PyTorch backend that makes its TPUs a first-class hardware target alongside GPUs and CPUs, built with Meta's PyTorch team and announced at PyTorch Conference 2026. The bet is on switching costs: Amazon shipped its own no-rewrite port, TorchNeuron, the same week, so the GPU default now has two funded exits.",
+      "url": "https://www.newsbytesapp.com/news/science/google-takes-on-nvidia-with-new-ai-developer-tool/story",
+      "icon": "🤖",
+      "image_url": "https://techblog.gr/wp-content/uploads/2026/04/TPU-1024x576.jpg"
     },
     {
       "id": "b842d58e-4ce5-48fa-9a5b-609a82a876d4",
@@ -505,18 +565,6 @@
       "url": "https://tech-insider.org/ps5-emulator-xpsemu-anyps5-xbox-games-2026/",
       "icon": "🎮",
       "image_url": "https://intotech.ir/s/wp-content/uploads/images/2024/10/intotech-ir-37068-1728240258-compressed.webp"
-    },
-    {
-      "id": "cb456084-2208-4d96-82e9-6052e06ba589",
-      "kicker": "VOICE AI DEAL",
-      "title": "ElevenLabs half-price through Oct 19",
-      "category": "AI",
-      "published_at": "2026-10-18T09:12:00-05:00",
-      "excerpt": "OpenRouter lists the promo across every ElevenLabs model, per the October pricing roundup. The roundup flags it as a launch offer ending Oct 19, not a permanent rate reset.",
-      "body": "OpenRouter lists the promo across every ElevenLabs model, [per the October pricing roundup](https://local-ai-zone.github.io/blog/October_2026_AI_Model_Updates.html). The roundup flags it as a launch offer ending Oct 19, not a permanent rate reset.",
-      "url": "https://local-ai-zone.github.io/blog/October_2026_AI_Model_Updates.html",
-      "icon": "🏷️",
-      "image_url": "https://super-monitoring.com/blog/wp-content/uploads/2023/09/elevenlabs.png"
     }
   ]
 }
