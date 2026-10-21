@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T17:12:28-05:00",
+  "generated_at": "2026-10-21T18:20:57-05:00",
   "posts": [
     {
       "id": "2f3de04e-09b5-4aa7-9a4b-5333938bd320",
@@ -481,18 +481,6 @@
       "url": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl?cid=external-feeds_iluminar_meta",
       "icon": "📰",
       "image_url": "https://technewscity.com/wp-content/uploads/2025/03/trump-zelenskyy-row-is-triumph-for-russia-and-makes-uk-summit-of-european-leaders-all-the-more-critical-bb1285b.jpg"
-    },
-    {
-      "id": "156a9baa-9aba-472e-9639-988504451757",
-      "kicker": "CUTTING THE METER",
-      "title": "Claude Opus 5.5 launches at 40% lower cost",
-      "category": "AI",
-      "published_at": "2026-10-18T18:09:42-05:00",
-      "excerpt": "Cache reads cost 60% less than Opus 5, per AI Parabellum. It is live now in the Claude apps and on AWS, Google Cloud and Azure.",
-      "body": "Cache reads cost 60% less than Opus 5, [per AI Parabellum](https://aiparabellum.com/claude-opus-5-5-launch/). It is live now in the Claude apps and on AWS, Google Cloud and Azure.",
-      "url": "https://aiparabellum.com/claude-opus-5-5-launch/",
-      "icon": "🤖",
-      "image_url": "https://acturesume.com/wp-content/uploads/2026/07/claude-opus-5-anthropic-ia-moitie-prix-fable-5-420x280.jpg"
     }
   ]
 }
