@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T12:11:36-05:00",
+  "generated_at": "2026-10-21T12:42:10-05:00",
   "posts": [
+    {
+      "id": "d8b95f34-d73b-4f00-b295-273d11f511c7",
+      "kicker": "CERT DENIED",
+      "title": "Supreme Court lets Trump's NLRB firing stand",
+      "category": "Federal workforce",
+      "published_at": "2026-10-21T13:35:00-05:00",
+      "excerpt": "The justices declined Monday to hear Gwynne Wilcox's challenge to her firing from the NLRB, ending her bid for reinstatement. The denial leaves the D.C. Circuit's ruling in place, so the president…",
+      "body": "The justices declined Monday to hear Gwynne Wilcox's challenge to her firing from the NLRB, ending her bid for reinstatement. [The denial](https://www.reuters.com/world/us-supreme-court-wont-review-trumps-firing-labor-board-member-2026-10-19/) leaves the D.C. Circuit's ruling in place, so the president can now remove board members at will.",
+      "url": "https://www.reuters.com/world/us-supreme-court-wont-review-trumps-firing-labor-board-member-2026-10-19/",
+      "icon": "📰",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/05/22/4c1e7e09-e9ab-402f-93d2-6d074e386e27/thumbnail/1200x630/831819efe14f5a1736f3b49e6e0533d0/gettyimages-2207555120.jpg"
+    },
     {
       "id": "c4c7a897-582a-44c2-9c6d-606600d49c98",
       "kicker": "CAT AND MOUSE",
@@ -517,18 +529,6 @@
       "url": "http://dev.to/itxtayab/opencode-the-open-source-ai-coding-agent-with-216000-github-stars-7hi",
       "icon": "🤖",
       "image_url": "https://bestofjs.org/api/og/projects/?page=2&limit=30&tags=ai&sort=weekly&scope=all&t=2026-09-07T17-50"
-    },
-    {
-      "id": "b49da617-6206-4ef9-a381-55250fc54cab",
-      "kicker": "FAST TRACK",
-      "title": "OPM axes minimum tenure for federal hires",
-      "category": "Federal workforce",
-      "published_at": "2026-10-18T12:11:58-05:00",
-      "excerpt": "OPM published a final rule Friday scrapping the 52-week time-in-grade requirement that kept federal employees at a grade for a year before promotion, per Bloomberg Law. Director Scott Kupor called…",
-      "body": "OPM published a final rule Friday scrapping the 52-week time-in-grade requirement that kept federal employees at a grade for a year before promotion, [per Bloomberg Law](https://news.bloomberglaw.com/daily-labor-report/trump-personnel-office-removes-minimum-tenure-for-federal-hires).\nDirector Scott Kupor called the wait an \"anti-merit principle\" that slowed high performers from moving up.",
-      "url": "https://news.bloomberglaw.com/daily-labor-report/trump-personnel-office-removes-minimum-tenure-for-federal-hires",
-      "icon": "📰",
-      "image_url": "https://cdn.govexec.com/media/img/cd/2025/06/20/062025_Getty_GovExec_OPMperformance/860x394.jpg?1750455500"
     }
   ]
 }
