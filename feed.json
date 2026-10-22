@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T14:11:52-05:00",
+  "generated_at": "2026-10-22T14:42:02-05:00",
   "posts": [
+    {
+      "id": "328aaa09-dd14-4e73-8e71-f035ee61ab27",
+      "kicker": "GAMING PC DEAL",
+      "title": "PowerSpec G764 gaming PC with Ryzen 7 9800X3D + RX 9070 XT cut by $850 at Micro Center",
+      "category": "Deals",
+      "published_at": "2026-10-22T14:15:00-05:00",
+      "excerpt": "The PowerSpec G764 pairs a Ryzen 7 9800X3D with a Radeon RX 9070 XT 16GB. It is in-store pickup only at Micro Center.",
+      "body": "The [PowerSpec G764](https://wccftech.com/micro-center-just-slashed-ryzen-9800x3d-rx-9070-xt-gaming-pc-by-850/) pairs a Ryzen 7 9800X3D with a Radeon RX 9070 XT 16GB.\nIt is in-store pickup only at Micro Center.",
+      "url": "https://wccftech.com/micro-center-just-slashed-ryzen-9800x3d-rx-9070-xt-gaming-pc-by-850/",
+      "icon": "🎮",
+      "image_url": "https://productimages.microcenter.com/711399_041152_02_front_comping.jpg"
+    },
     {
       "id": "76324f66-c557-48f3-bb07-4809e0ad94ec",
       "kicker": "CHEAPER TO RUN",
