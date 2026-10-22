@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T23:13:20-05:00",
+  "generated_at": "2026-10-22T00:32:26-05:00",
   "posts": [
+    {
+      "id": "10db33bf-843c-46f4-9faa-6b9a3f3a7c87",
+      "kicker": "ALWAYS-ON ASSISTANT",
+      "title": "Anthropic's Claude Duet takes on Meta's Muse and OpenAI's Dots",
+      "category": "AI",
+      "published_at": "2026-10-22T09:15:00-05:00",
+      "excerpt": "Claude Duet is in research preview on a waitlist as a standalone iOS and Android app and on the web for Pro and Max subscribers in the US. It monitors connected apps through the day and pings you…",
+      "body": "Claude Duet is in [research preview](https://www.newsbytesapp.com/news/science/anthropic-unveils-claude-duet-ai-agent/story) on a waitlist as a standalone iOS and Android app and on the web for Pro and Max subscribers in the US. It monitors connected apps through the day and pings you only when something needs you, from scheduling to dashboards and financial forecasts.",
+      "url": "https://www.newsbytesapp.com/news/science/anthropic-unveils-claude-duet-ai-agent/story",
+      "icon": "🤖",
+      "image_url": "https://static.dailyaibyai.news/images/ai-newsletter-2026-04-10-attempt-1.png"
+    },
     {
       "id": "c3ffb89f-6cd8-41cb-9b64-ba452b8876f0",
       "kicker": "Trades get a boost",
@@ -447,28 +459,16 @@
       "image_url": "https://images.digest.co.il/proxy?url=https%3A%2F%2Fpic1.calcalist.co.il%2Fpicserver3%2Fcrop_images%2F2026%2F04%2F23%2FHk76edw6bx%2FHk76edw6bx_114_0_1887_1062_0_large.jpg"
     },
     {
-      "id": "f09544ec-583b-47d0-ac2b-65232e299155",
-      "kicker": "Measured fallout",
-      "title": "55% of unaccompanied kids went without lawyers, worst since 2019",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-19T00:24:00-05:00",
-      "excerpt": "Unaccompanied minors went without a lawyer in about 55% of nearly 50,000 immigration cases completed as of August 2026, the worst since 2019, in a Vera Institute of Justice analysis the New York…",
-      "body": "Unaccompanied minors went without a lawyer in about 55% of nearly 50,000 immigration cases completed as of August 2026, the worst since 2019, in a Vera Institute of Justice analysis the New York Times reported October 15, quoted at length in an [Immigration News digest](https://maryturckimmigration.wordpress.com/2026/10/16/immigration-news-october-16-2026/), with [WOLA](https://www.wola.org/2026/10/u-s-mexico-border-update-border-barrier-controversies-migrant-children-military-and-drones-misuses-of-force/) dating the piece. Per court filings the Times cites, a 7-year-old in Texas agreed to voluntary departure with no lawyer present to explain the consequences.",
-      "url": "https://maryturckimmigration.wordpress.com/2026/10/16/immigration-news-october-16-2026/",
+      "id": "913012f5-72df-484b-aa7f-76da61682e99",
+      "kicker": "Worth building",
+      "title": "I can build your WIOA orientation one-pager",
+      "category": "💡 Ideas",
+      "published_at": "2026-10-19T04:24:17-05:00",
+      "excerpt": "From the 14-program training report you got on Oct 13, I can rank the free and conditionally free fields into a short shortlist and put the exact eligibility questions to ask at the October 21 9:30…",
+      "body": "From the 14-program training report you got on Oct 13, I can rank the free and conditionally free fields into a short shortlist and put the exact eligibility questions to ask at the October 21 9:30 AM WIOA orientation on one page. You walk in with your questions set and keep the field choice and WIOA eligibility call yourself.",
+      "url": null,
       "icon": "📰",
-      "image_url": "https://tse3.mm.bing.net/th?id=OIP.jNGHHkpg1Cb4noKb4MlLmQHaEK&pid=15.1"
-    },
-    {
-      "id": "59fed19b-e4a7-4245-9579-c9bac19b0abb",
-      "kicker": "THE FAST TRACK, SLOWLY",
-      "title": "OPM ends time-in-grade rule for GS promotions",
-      "category": "Federal workforce",
-      "published_at": "2026-10-19T00:00:00-05:00",
-      "excerpt": "Published Oct 19, 2026: OPM scrapped the 52-week time-in-grade wait for GS promotions, effective January 19, 2027. The catch is OPM's own: the end of the rule won't automatically mean faster…",
-      "body": "Published Oct 19, 2026: OPM [scrapped the 52-week time-in-grade wait](https://www.fedsmith.com/2026/10/19/opm-finalizes-rule-eliminating-time-in-grade-for-gs-promotions/) for GS promotions, effective January 19, 2027. The catch is OPM's own: the end of the rule won't automatically mean faster promotions, because its qualification standards still carry a comparable one-year service period.",
-      "url": "https://www.fedsmith.com/2026/10/19/opm-finalizes-rule-eliminating-time-in-grade-for-gs-promotions/",
-      "icon": "📰",
-      "image_url": "https://i0.wp.com/northdenvernews.com/wp-content/uploads/2026/04/GettyImages-2197648687-resized-scaled.jpg?resize=600%2C400&ssl=1"
+      "image_url": "https://www.mjcpa.com/wp-content/uploads/2020/05/Workforce-Innovation-and-Opportunity-Act-WIOA-1_Page_1.png"
     }
   ]
 }
