@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T02:08:37-05:00",
+  "generated_at": "2026-10-22T02:42:56-05:00",
   "posts": [
+    {
+      "id": "31f29f2e-1614-4bf2-b154-d31e51ba6dac",
+      "kicker": "DIMINISHING RETURNS",
+      "title": "Strength gains level off after 3–4 sets per muscle group",
+      "category": "Fitness",
+      "published_at": "2026-10-22T11:15:00-05:00",
+      "excerpt": "A Brookbush Institute review of the training-volume research, published Oct 12, puts the per-session ceiling at 3–4 hard sets per muscle group (press release). In the standout study, the 10-set group…",
+      "body": "A Brookbush Institute review of the training-volume research, published Oct 12, puts the per-session ceiling at 3–4 hard sets per muscle group ([press release](https://lifestyle.the-newshub.com/story/921435/brookbush-institute-publishes-an-article-update-is-3-sets-per-muscle-group-the-upper-limit/)). In the standout study, the 10-set group outgained the 20-set group in both muscle and strength over 12 weeks.",
+      "url": "https://lifestyle.the-newshub.com/story/921435/brookbush-institute-publishes-an-article-update-is-3-sets-per-muscle-group-the-upper-limit/",
+      "icon": "📰",
+      "image_url": "https://iiab.me/kiwix/content/fitness.stackexchange.com_en_all_2022-11/images/3799125059.webp"
+    },
     {
       "id": "10db33bf-843c-46f4-9faa-6b9a3f3a7c87",
       "kicker": "ALWAYS-ON ASSISTANT",
