@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T07:41:59-05:00",
+  "generated_at": "2026-10-22T08:41:36-05:00",
   "posts": [
     {
       "id": "76324f66-c557-48f3-bb07-4809e0ad94ec",
@@ -481,18 +481,6 @@
       "url": "https://www.womenfitness.net/news-flash/creatine-build-muscle-without/",
       "icon": "📰",
       "image_url": "https://radioaki1.com.br/wp-content/uploads/2025/01/99-3-1024x683.png"
-    },
-    {
-      "id": "335e8ac2-8f17-4286-bbd0-7fedaae70d6d",
-      "kicker": "Herding agents",
-      "title": "BAND launches hub for 4 AI coding agents, free to start",
-      "category": "AI",
-      "published_at": "2026-10-19T08:15:00-05:00",
-      "excerpt": "The shared workspace puts Claude Code, Codex CLI, GitHub Copilot and OpenCode on one task board with @-mention routing between agents. You bring your own API keys on the free tier, so it sits above…",
-      "body": "The [shared workspace](https://trendintech.com/band-ai-coding-agents-coordination-platform-2026/) puts Claude Code, Codex CLI, GitHub Copilot and OpenCode on one task board with @-mention routing between agents. You bring your own API keys on the free tier, so it sits above tools you already pay for instead of adding another seat.",
-      "url": "https://trendintech.com/band-ai-coding-agents-coordination-platform-2026/",
-      "icon": "🤖",
-      "image_url": "https://images.digest.co.il/proxy?url=https%3A%2F%2Fpic1.calcalist.co.il%2Fpicserver3%2Fcrop_images%2F2026%2F04%2F23%2FHk76edw6bx%2FHk76edw6bx_114_0_1887_1062_0_large.jpg"
     }
   ]
 }
