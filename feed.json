@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T18:11:11-05:00",
+  "generated_at": "2026-10-22T18:13:41-05:00",
   "posts": [
+    {
+      "id": "9fdcd791-1c60-4f79-bf60-c3c223d4613c",
+      "kicker": "NO LONGER A RUMOR",
+      "title": "Carrier confirms $600M+ Fort Worth manufacturing center",
+      "category": "Texas",
+      "published_at": "2026-10-22T18:10:03-05:00",
+      "excerpt": "The Fort Worth site will expand production of air- and water-cooled chillers for data centers, healthcare and industrial customers. Carrier expects operations to begin in 2027.",
+      "body": "The Fort Worth site will expand production of air- and water-cooled chillers for data centers, healthcare and industrial customers.\n[Carrier](https://www.wcia.com/business/press-releases/cision/20261022CG78122/carrier-to-invest-more-than-600-million-to-expand-advanced-u-s-manufacturing-and-engineering-capacity/) expects operations to begin in 2027.",
+      "url": "https://www.wcia.com/business/press-releases/cision/20261022CG78122/carrier-to-invest-more-than-600-million-to-expand-advanced-u-s-manufacturing-and-engineering-capacity/",
+      "icon": "🤠",
+      "image_url": "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3Htuh7_1AzDC15Q00"
+    },
+    {
+      "id": "f2cd09a3-b8d4-4e2a-9fc4-750deeb51536",
+      "kicker": "Startable tonight, no prerequisites",
+      "title": "Two TEEX courses are open tonight for $104 total",
+      "category": "Federal workforce",
+      "published_at": "2026-10-22T18:02:32-05:00",
+      "excerpt": "As verified October 22, each allowed 45 days to complete from registration with no prerequisites. The only time-bound item was ENV410 Intro to Environmental Compliance running live online November…",
+      "body": "As verified October 22, each allowed 45 days to complete from registration with no prerequisites.\nThe only time-bound item was ENV410 Intro to Environmental Compliance running live online November 17–20 with registration open.",
+      "url": null,
+      "icon": "📰",
+      "image_url": "https://golf-pass.brightspotcdn.com/dims4/default/e5f790c/2147483647/strip/true/crop/2048x1151+0+192/resize/900x506!/quality/90/?url=https%3A%2F%2Fgolf-pass-brightspot.s3.amazonaws.com%2F73%2Fc5%2Fe0a45dd0440385e5915bcb30971e%2Fimg-2510.jpeg"
+    },
     {
       "id": "13300c07-4920-48b8-9d7c-02edf0c18150",
       "kicker": "The cooling economy",
