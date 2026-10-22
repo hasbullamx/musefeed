@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T12:01:04-05:00",
+  "generated_at": "2026-10-22T12:24:17-05:00",
   "posts": [
     {
       "id": "76324f66-c557-48f3-bb07-4809e0ad94ec",
@@ -13,6 +13,18 @@
       "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-open-sources-inference-tech-to-lower-ai-costs/",
       "icon": "🤖",
       "image_url": "https://aithority.com/wp-content/uploads/2025/01/KS-83.jpg"
+    },
+    {
+      "id": "119ac00c-47b1-4b4a-ba35-260adc0bc8d8",
+      "kicker": "AI AGENT WITH AUDIT TRAIL",
+      "title": "Nuix launches AI agent for investigations with audit trail",
+      "category": "AI",
+      "published_at": "2026-10-22T12:10:00-05:00",
+      "excerpt": "Nuix launched the Nuix Neo AI Agent today, an investigative assistant whose every answer links back to its source and whose every step is recorded so findings hold up before courts and boards.…",
+      "body": "[Nuix](https://www.channelnewsasia.com/media-release/nuix-launches-agentic-ai-in-nuix-neo-audit-trail-built-in-6480736) launched the Nuix Neo AI Agent today, an investigative assistant whose every answer links back to its source and whose every step is recorded so findings hold up before courts and boards. Investigators can export the full conversation with its steps and findings, a record built to read like evidence rather than a chat log.",
+      "url": "https://www.channelnewsasia.com/media-release/nuix-launches-agentic-ai-in-nuix-neo-audit-trail-built-in-6480736",
+      "icon": "🤖",
+      "image_url": "https://cdfs.com.au/wp-content/uploads/2022/03/nuix_neo_discover_header.png"
     },
     {
       "id": "6e489266-d069-46ec-af86-58c50924d1a6",
