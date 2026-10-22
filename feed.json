@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T16:12:41-05:00",
+  "generated_at": "2026-10-22T16:41:56-05:00",
   "posts": [
+    {
+      "id": "13300c07-4920-48b8-9d7c-02edf0c18150",
+      "kicker": "The cooling economy",
+      "title": "Fort Worth pitches 495 jobs from Carrier's Project Jay cooling build-out",
+      "category": "Texas",
+      "published_at": "2026-10-22T15:25:00-05:00",
+      "excerpt": "The build-out is aimed squarely at data-center cooling: Fort Worth has tied the site to Carrier's air- and water-cooled chiller lines, with at least 495 full-time jobs projected there by the end of…",
+      "body": "The build-out is aimed squarely at data-center cooling: Fort Worth has tied the site to Carrier's air- and water-cooled chiller lines, with at least 495 full-time jobs projected there by the end of 2029.\nThe [October 14 state filing](https://ntxfrontporch.com/state-filing-details-500-million-manufacturing-project-near-alliance/) names the project \"Project Jay – Carrier\" without confirming the occupant, the investment, or any hiring, so that jobs number is Fort Worth's pitch, not Carrier's promise.",
+      "url": "https://ntxfrontporch.com/state-filing-details-500-million-manufacturing-project-near-alliance/",
+      "icon": "🤠",
+      "image_url": "https://wyomingstarnews.org/wp-content/uploads/2026/02/6978118fd3c7faef0eccf636.webp"
+    },
     {
       "id": "328aaa09-dd14-4e73-8e71-f035ee61ab27",
       "kicker": "GAMING PC DEAL",
