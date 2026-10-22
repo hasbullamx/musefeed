@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T04:24:23-05:00",
+  "generated_at": "2026-10-22T04:41:17-05:00",
   "posts": [
+    {
+      "id": "6e489266-d069-46ec-af86-58c50924d1a6",
+      "kicker": "PORT OF BROWNSVILLE",
+      "title": "Port of Brownsville approves $2M SpaceX pipeline deal",
+      "category": "Texas",
+      "published_at": "2026-10-22T11:45:00-05:00",
+      "excerpt": "The Brownsville Navigation District board approved a series of SpaceX deals Tuesday night, including a memorandum of understanding to bury two natural gas pipelines under the dredged channel (RGV…",
+      "body": "The Brownsville Navigation District board approved a series of SpaceX deals Tuesday night, including a memorandum of understanding to bury two natural gas pipelines under the dredged channel ([RGV Business Journal](https://www.rgvbusinessjournal.com/news/20/10/2026/port-of-brownsville-spacex-10-million-revenue-deals-article/)). Port CEO William Dietrich called the agreements a milestone, describing SpaceX as a new customer and a new revenue stream for the port.",
+      "url": "https://www.rgvbusinessjournal.com/news/20/10/2026/port-of-brownsville-spacex-10-million-revenue-deals-article/",
+      "icon": "🤠",
+      "image_url": "https://greaterbrownsville.com/images/uploads/_xl/POB-SpaceIndustry.jpg"
+    },
     {
       "id": "31f29f2e-1614-4bf2-b154-d31e51ba6dac",
       "kicker": "DIMINISHING RETURNS",
