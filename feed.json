@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T06:11:32-05:00",
+  "generated_at": "2026-10-22T06:41:25-05:00",
   "posts": [
+    {
+      "id": "76324f66-c557-48f3-bb07-4809e0ad94ec",
+      "kicker": "CHEAPER TO RUN",
+      "title": "DeepSeek open-sources DeepInfer to cut AI running costs",
+      "category": "AI",
+      "published_at": "2026-10-22T12:15:00-05:00",
+      "excerpt": "The open-sourced stack is the production system behind DeepSeek-V4.1-Flash, built for high throughput at low latency. Also out: deepseek-recipe, the production token encoder that lets self-hosters…",
+      "body": "The [open-sourced stack](https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-open-sources-inference-tech-to-lower-ai-costs/) is the production system behind DeepSeek-V4.1-Flash, built for high throughput at low latency. Also out: deepseek-recipe, the production token encoder that lets self-hosters match the official API behavior.",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-open-sources-inference-tech-to-lower-ai-costs/",
+      "icon": "🤖",
+      "image_url": "https://aithority.com/wp-content/uploads/2025/01/KS-83.jpg"
+    },
     {
       "id": "6e489266-d069-46ec-af86-58c50924d1a6",
       "kicker": "PORT OF BROWNSVILLE",
