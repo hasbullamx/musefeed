@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T15:11:34-05:00",
+  "generated_at": "2026-10-22T15:41:51-05:00",
   "posts": [
     {
       "id": "328aaa09-dd14-4e73-8e71-f035ee61ab27",
@@ -445,18 +445,6 @@
       "url": "https://bureaucracy.news/2026/10/19/federal-register-watch-october-19-2026/",
       "icon": "📰",
       "image_url": "https://sdcms-prod.s3.ap-southeast-2.amazonaws.com/images/CAD-7484efcd1782b287.2e16d0ba.fill-720x405.jpg"
-    },
-    {
-      "id": "7473827f-8656-4ab4-9521-7fd5611c0895",
-      "kicker": "CHEAPER AGENTS",
-      "title": "MiniMax's M3.1 Flash cuts agent costs 70%",
-      "category": "AI",
-      "published_at": "2026-10-19T15:30:00-05:00",
-      "excerpt": "OpenRouter is running MiniMax's just-launched M3.1 Flash free for 72 hours. MiniMax says online inference runs nearly three times faster than its predecessor, aimed at agentic coding and computer-use…",
-      "body": "OpenRouter is running MiniMax's just-launched [M3.1 Flash](https://www.unite.ai/minimax-launches-m3-1-flash-revealing-space-bunny-stealth-model/) free for 72 hours. MiniMax says online inference runs nearly three times faster than its predecessor, aimed at agentic coding and computer-use work.",
-      "url": "https://www.unite.ai/minimax-launches-m3-1-flash-revealing-space-bunny-stealth-model/",
-      "icon": "🤖",
-      "image_url": "https://img.caixin.com/2026-07-10/178367420120499_560_373.jpg"
     }
   ]
 }
