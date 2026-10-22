@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T10:17:55-05:00",
+  "generated_at": "2026-10-22T11:13:55-05:00",
   "posts": [
     {
       "id": "76324f66-c557-48f3-bb07-4809e0ad94ec",
@@ -457,30 +457,6 @@
       "url": "https://glitchndealz.com/2026/10/dollar-general-coupon-matchups-october-18-24-2026.html",
       "icon": "🏷️",
       "image_url": "https://crazy4couponing.com/wp-content/uploads/2024/10/file-588.png"
-    },
-    {
-      "id": "acc31429-cd76-4dc6-a423-88adf6bd848c",
-      "kicker": "OLD DISCS RETURN",
-      "title": "Jailbroken PS5s gain real PS2 disc support",
-      "category": "PS5 Homebrew",
-      "published_at": "2026-10-19T10:53:00-05:00",
-      "excerpt": "Sword's build is a native PCSX2 port that runs entirely on the PS5 with upscaling to 4K at up to six times native resolution. It needs a jailbroken console on compatible firmware, so standard…",
-      "body": "Sword's build is a native PCSX2 port that [runs entirely on the PS5](https://www.gadgetreview.com/homebrew-dev-brings-ps2-disc-support-to-jailbroken-ps5s) with upscaling to 4K at up to six times native resolution. It needs a jailbroken console on compatible firmware, so standard consoles on current official firmware cannot use it.",
-      "url": "https://www.gadgetreview.com/homebrew-dev-brings-ps2-disc-support-to-jailbroken-ps5s",
-      "icon": "🎮",
-      "image_url": "https://bites.tbsnews.net/wp-content/uploads/2026/07/ps5-1.jpg"
-    },
-    {
-      "id": "0a6eb421-9544-4d6e-b117-b653a2ab0416",
-      "kicker": "CHIP SWITCH",
-      "title": "Amazon makes Trainium run PyTorch with one setting",
-      "category": "AI",
-      "published_at": "2026-10-19T10:30:00-05:00",
-      "excerpt": "Amazon will release TorchNeuron as a free, open-source tool at its Silicon Valley developer conference Monday. It lets PyTorch code run on Trainium chips with a single configuration change and no…",
-      "body": "Amazon will [release TorchNeuron](https://www.reuters.com/business/retail-consumer/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-2026-10-19/) as a free, open-source tool at its Silicon Valley developer conference Monday. It lets PyTorch code run on Trainium chips with a single configuration change and no rewriting.",
-      "url": "https://www.reuters.com/business/retail-consumer/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-2026-10-19/",
-      "icon": "🤖",
-      "image_url": "https://www.findarticles.com/wp-content/uploads/2025/12/aws_trainium_edited_1765976715-615x410.png"
     }
   ]
 }
