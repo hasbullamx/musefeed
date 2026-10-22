@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T11:13:55-05:00",
+  "generated_at": "2026-10-22T12:01:04-05:00",
   "posts": [
     {
       "id": "76324f66-c557-48f3-bb07-4809e0ad94ec",
@@ -25,6 +25,18 @@
       "url": "https://www.rgvbusinessjournal.com/news/20/10/2026/port-of-brownsville-spacex-10-million-revenue-deals-article/",
       "icon": "🤠",
       "image_url": "https://greaterbrownsville.com/images/uploads/_xl/POB-SpaceIndustry.jpg"
+    },
+    {
+      "id": "15cf845e-409b-426d-bba6-f1e321a77b56",
+      "kicker": "MINIMAL-DOSE TRIAL",
+      "title": "Four-minute daily workout lifted older adults' strength and balance",
+      "category": "Fitness",
+      "published_at": "2026-10-22T11:20:00-05:00",
+      "excerpt": "A Penn State randomized trial put 97 relatively inactive adults, average age 74, on a daily four-minute bodyweight routine for 12 weeks (Men's Journal). Against the control group they completed 4.2…",
+      "body": "A Penn State randomized trial put 97 relatively inactive adults, average age 74, on a daily four-minute bodyweight routine for 12 weeks ([Men's Journal](https://www.mensjournal.com/health/scientists-found-a-4-minute-daily-workout-that-could-improve-longevity-after-65)). Against the control group they completed 4.2 more chair stands in 30 seconds, though the authors caution the study measured physical performance rather than actual falls.",
+      "url": "https://www.mensjournal.com/health/scientists-found-a-4-minute-daily-workout-that-could-improve-longevity-after-65",
+      "icon": "📰",
+      "image_url": "https://pbs.twimg.com/media/F0DABitX0AQBzML.jpg"
     },
     {
       "id": "31f29f2e-1614-4bf2-b154-d31e51ba6dac",
@@ -445,18 +457,6 @@
       "url": "https://defence-industry.eu/lockheed-martin-ceo-says-deterrence-requires-greater-production-citing-texas-expansion-and-plans-for-6000-u-s-jobs/",
       "icon": "🤠",
       "image_url": "https://alphai.io/_next/image?url=%2Fdata%2Fnews-image%3Furl%3Dhttps%253A%252F%252Fmedia.barchart.com%252Fcontributors-admin%252Fcommon-images%252Fimages%252FS%252526P%252520500%252520Companies%252FIndustrials%252520(names%252520J%252520-%252520Z)%252FLockheed%252520Martin%252520Corp_%252520TX%252520facility-by%252520JHVEPhpoto%252520via%252520iStock.jpg&w=1200&q=75"
-    },
-    {
-      "id": "25407fb1-8301-4c12-8bad-0afa555a6119",
-      "kicker": "DOLLAR GENERAL",
-      "title": "Dollar General coupon matchups for October 18–24",
-      "category": "Deals",
-      "published_at": "2026-10-19T11:20:00-05:00",
-      "excerpt": "Four coupons are verified on Dollar General's own site for the new week, including two Gain EZ-Squeeze 24.3-oz bottles for $3 after the $3-off-2 digital coupon. The early ad preview also lists six…",
-      "body": "Four coupons are verified on Dollar General's own site for the new week, including two Gain EZ-Squeeze 24.3-oz bottles for $3 after the [$3-off-2 digital coupon](https://glitchndealz.com/2026/10/dollar-general-coupon-matchups-october-18-24-2026.html). The [early ad preview](https://glitchndealz.com/2026/10/dollar-general-coupon-matchups-october-18-24-2026.html) also lists six coupon offers to plan around, like three qualifying Gain laundry items for $10 and Pepsi 12-packs at three for $16.",
-      "url": "https://glitchndealz.com/2026/10/dollar-general-coupon-matchups-october-18-24-2026.html",
-      "icon": "🏷️",
-      "image_url": "https://crazy4couponing.com/wp-content/uploads/2024/10/file-588.png"
     }
   ]
 }
