@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T08:41:36-05:00",
+  "generated_at": "2026-10-22T09:12:21-05:00",
   "posts": [
     {
       "id": "76324f66-c557-48f3-bb07-4809e0ad94ec",
@@ -49,6 +49,18 @@
       "url": "https://www.newsbytesapp.com/news/science/anthropic-unveils-claude-duet-ai-agent/story",
       "icon": "🤖",
       "image_url": "https://static.dailyaibyai.news/images/ai-newsletter-2026-04-10-attempt-1.png"
+    },
+    {
+      "id": "7ebe1943-0f2c-4c70-9bca-7adc332f2dad",
+      "kicker": "BIG BEND WALL FIGHT",
+      "title": "Administration asks Supreme Court to revive Big Bend border wall",
+      "category": "Texas",
+      "published_at": "2026-10-22T08:45:00-05:00",
+      "excerpt": "The Justice Department filed an emergency request Wednesday asking the Supreme Court to lift Judge Kathleen Cardone's October 2 injunction halting border wall construction in Big Bend National Park…",
+      "body": "The Justice Department filed an emergency request Wednesday asking the Supreme Court to lift Judge Kathleen Cardone's October 2 injunction halting border wall construction in Big Bend National Park ([Media Selangor](https://mediaselangor.com/en/2026/10/402613)). The request disputes the ruling that DHS waivers from Kristi Noem and Markwayne Mullin exceeded their authority to set environmental laws aside for the build.",
+      "url": "https://mediaselangor.com/en/2026/10/402613",
+      "icon": "🤠",
+      "image_url": "https://jarayid.com/_next/image?url=https%3A%2F%2Fassets1.cbsnewsstatic.com%2Fhub%2Fi%2Fr%2F2026%2F08%2F20%2F8c01748c-39f5-4c4b-9fd7-77fb2e9fbc49%2Fthumbnail%2F1200x630%2Fe37e135fd835a769fa2d2a8598c7dd53%2Fgettyimages-2290131000.jpg&w=828&q=75"
     },
     {
       "id": "c3ffb89f-6cd8-41cb-9b64-ba452b8876f0",
@@ -469,18 +481,6 @@
       "url": "https://www.reuters.com/business/retail-consumer/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-2026-10-19/",
       "icon": "🤖",
       "image_url": "https://www.findarticles.com/wp-content/uploads/2025/12/aws_trainium_edited_1765976715-615x410.png"
-    },
-    {
-      "id": "d4698d5b-e30c-4d82-9b3c-dab810ceaa6c",
-      "kicker": "Fitness",
-      "title": "Creatine built muscle even without exercise, trial finds",
-      "category": "Fitness",
-      "published_at": "2026-10-19T09:10:00-05:00",
-      "excerpt": "Adults taking 10 grams of creatine a day gained about 2.4 pounds of lean tissue over 12 weeks with no structured exercise program, a September Texas A&M trial found. Those who paired the same dose…",
-      "body": "Adults taking 10 grams of creatine a day gained about 2.4 pounds of lean tissue over 12 weeks with no structured exercise program, [a September Texas A&M trial](https://www.womenfitness.net/news-flash/creatine-build-muscle-without/) found. Those who paired the same dose with training three times a week and a modest calorie deficit added nearly 3 pounds of lean tissue while cutting more body fat than the placebo group, which the researchers call the first trial to show the combo beating diet and exercise alone on body-fat percentage.",
-      "url": "https://www.womenfitness.net/news-flash/creatine-build-muscle-without/",
-      "icon": "📰",
-      "image_url": "https://radioaki1.com.br/wp-content/uploads/2025/01/99-3-1024x683.png"
     }
   ]
 }
