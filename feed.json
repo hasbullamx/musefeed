@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T13:12:26-05:00",
+  "generated_at": "2026-10-23T13:41:37-05:00",
   "posts": [
     {
       "id": "9e19825c-259e-4dc1-97ec-f226fd6037a6",
@@ -529,18 +529,6 @@
       "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1946052/full",
       "icon": "📰",
       "image_url": "https://static2.protein.sk/imgcache/e-news-856-5-680-420.jpg"
-    },
-    {
-      "id": "041f7704-735d-4f2f-a9b8-78ab0b4c4154",
-      "kicker": "FASTER THAN SONY HOPED",
-      "title": "PS5 14.10 jailbreak demoed ahead of GTA 6 release",
-      "category": "PS5 Homebrew",
-      "published_at": "2026-10-20T13:35:00-05:00",
-      "excerpt": "Homebrew developer Gezine posted a short clip Monday showing the hidden Debug Settings menu on a PS5 running system software 26.06-14.10.00, a public crack of the current firmware. The hypervisor…",
-      "body": "Homebrew developer Gezine [posted a short clip Monday](https://www.notebookcheck.net/PS5-console-jailbreak-on-latest-14-10-firmware-shared-before-GTA-6-release-date.1428405.0.html) showing the hidden Debug Settings menu on a PS5 running system software 26.06-14.10.00, a public crack of the current firmware. The hypervisor bypass still doesn't work on 14.xx, so there is nothing to download or dump from it yet.",
-      "url": "https://www.notebookcheck.net/PS5-console-jailbreak-on-latest-14-10-firmware-shared-before-GTA-6-release-date.1428405.0.html",
-      "icon": "🎮",
-      "image_url": "https://media.ixbt.games/984x384/smart/ixbt-data/1297781/f9df9c55-ae36-47eb-8249-d90f8b9b2065.jpg"
     }
   ]
 }
