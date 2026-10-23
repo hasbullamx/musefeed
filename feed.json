@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T08:12:32-05:00",
+  "generated_at": "2026-10-23T08:43:01-05:00",
   "posts": [
     {
       "id": "1281609a-2f2e-4421-852f-89aee6755ebf",
@@ -37,6 +37,18 @@
       "url": "https://runtimewire.com/article/minimax-m31-flash-open-weights-together-inference",
       "icon": "🤖",
       "image_url": "https://app.alphaneural.io/api/og/asset?slug=MiniMaxAI%2FMiniMax-M3"
+    },
+    {
+      "id": "1afa8aa9-0ea8-4b6d-82c5-4fbbc9f04a6e",
+      "kicker": "ORR RESPONDS",
+      "title": "ORR says 1-year-old was never in immigration court alone; blames Acacia for filing gap",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-23T08:29:00-05:00",
+      "excerpt": "ORR's timeline says the 1-year-old was never in immigration court alone: he and his 17-year-old mother were encountered near Naco, Arizona, on June 25, and she accompanied him to every proceeding.…",
+      "body": "ORR's [timeline](https://foxnews.com/politics/fed-timeline-challenges-reports-migrant-baby-facing-immigration-judge-alone) says the 1-year-old was never in immigration court alone: he and his 17-year-old mother were encountered near Naco, Arizona, on June 25, and she accompanied him to every proceeding. The agency pins the July 8 gap on contractor Acacia, which completed legal orientation on July 1 but never filed the E28 notice of appearance.",
+      "url": "https://foxnews.com/politics/fed-timeline-challenges-reports-migrant-baby-facing-immigration-judge-alone",
+      "icon": "📰",
+      "image_url": "https://acaciajustice.org/wp-content/uploads/2026/07/Screenshot-2026-07-14-at-2.13.24-PM-1024x573.png"
     },
     {
       "id": "41ee702c-0349-4b21-81f0-91c1bcb19bda",
