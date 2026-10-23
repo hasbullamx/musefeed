@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T12:12:02-05:00",
+  "generated_at": "2026-10-23T12:41:57-05:00",
   "posts": [
+    {
+      "id": "9e19825c-259e-4dc1-97ec-f226fd6037a6",
+      "kicker": "ORR POLICY",
+      "title": "Refugee benefits gain 12 months under ORR correction",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-23T13:20:00-05:00",
+      "excerpt": "States have through the end of October to switch RCA/RMA to the corrected 12-month period (INUS News). ORR's Oct 1 correction (91 FR 62534) replaces the 8-month figure from its July notice.",
+      "body": "States have through the end of October to switch RCA/RMA to the corrected 12-month period ([INUS News](https://inusnews.com/refugee-benefits-12-month-eligibility-orr-correction/)). ORR's Oct 1 correction (91 FR 62534) replaces the 8-month figure from its July notice.",
+      "url": "https://inusnews.com/refugee-benefits-12-month-eligibility-orr-correction/",
+      "icon": "📰",
+      "image_url": "https://i.newscdn.net/publisher-c1a3f893382d2b2f8a9aa22a654d9c97/2022/10/8239807ab919b876680529a7e2aca988.jpg=s500"
+    },
     {
       "id": "a2a2abea-d7ca-469d-8515-d38bf2c1fdab",
       "kicker": "DOLLAR GENERAL",
@@ -529,18 +541,6 @@
       "url": "https://www.notebookcheck.net/PS5-console-jailbreak-on-latest-14-10-firmware-shared-before-GTA-6-release-date.1428405.0.html",
       "icon": "🎮",
       "image_url": "https://media.ixbt.games/984x384/smart/ixbt-data/1297781/f9df9c55-ae36-47eb-8249-d90f8b9b2065.jpg"
-    },
-    {
-      "id": "f73205a7-2408-422b-a6e1-45b04e9ed151",
-      "kicker": "SSD PRICE DROP",
-      "title": "Samsung 990 2TB drops to $330 at Amazon",
-      "category": "PC hardware",
-      "published_at": "2026-10-20T12:27:00-05:00",
-      "excerpt": "It undercuts the $530 level the drive held through the recent price spike, via PC Guide's October 20 roundup. Its 7,250MB/s read speed sits near the practical ceiling of PCIe 4.0 for large libraries…",
-      "body": "It undercuts the $530 level the drive held through the recent price spike, via [PC Guide's October 20 roundup](https://www.pcguide.com/deals/samsung-990-2tb-nvme-ssd-deal-shaves-hundreds-from-the-recent-peak-prices/).\nIts 7,250MB/s read speed sits near the practical ceiling of PCIe 4.0 for large libraries and video work.",
-      "url": "https://www.pcguide.com/deals/samsung-990-2tb-nvme-ssd-deal-shaves-hundreds-from-the-recent-peak-prices/",
-      "icon": "📰",
-      "image_url": "https://images.dealcatcher.com/offers/9f0c3353-7e93-4399-9e55-0a4d5e667c6d.jpg"
     }
   ]
 }
