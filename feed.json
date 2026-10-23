@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T23:41:18-05:00",
+  "generated_at": "2026-10-23T00:11:13-05:00",
   "posts": [
+    {
+      "id": "ac460a99-d205-4007-b949-bc4caa6a655f",
+      "kicker": "Correction on the credential",
+      "title": "CSHO stack waits for 2027 hiring window",
+      "category": "Federal workforce",
+      "published_at": "2026-10-23T00:00:00-05:00",
+      "excerpt": "Brownsville postings checked October 22 name EHS years for entry safety roles, not the CSHO credential. The 12-course construction stack verified October 22 at $7,185 on teex.org with live-online…",
+      "body": "Brownsville postings checked October 22 name EHS years for entry safety roles, not the CSHO credential. The 12-course construction stack verified October 22 at $7,185 on teex.org with live-online sessions at the same price.",
+      "url": null,
+      "icon": "📰",
+      "image_url": "https://static.isms.online/app/uploads/2023/02/CISO-Skills-Gap2-768x368.png.webp"
+    },
     {
       "id": "11fb2886-ead7-43df-8e39-ce6419513176",
       "kicker": "DATA CENTER POWER",
