@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T09:41:41-05:00",
+  "generated_at": "2026-10-23T10:12:32-05:00",
   "posts": [
+    {
+      "id": "a9677369-56d5-4cbb-ac21-ae0cef4e0970",
+      "kicker": "GPU MARKET",
+      "title": "GPUs average 55% over MSRP as pressure stays high",
+      "category": "PC hardware",
+      "published_at": "2026-10-23T11:55:00-05:00",
+      "excerpt": "DropReference's live US board updated October 23 puts the current-gen GPU market at 55% over MSRP on average (DropReference). With zero cards below list price, builders are paying the crisis tax for…",
+      "body": "DropReference's live US board updated October 23 puts the current-gen GPU market at 55% over MSRP on average ([DropReference](https://dropreference.com/en/benchmarks/gpu-crisis/us)). With zero cards below list price, builders are paying the crisis tax for now.",
+      "url": "https://dropreference.com/en/benchmarks/gpu-crisis/us",
+      "icon": "📰",
+      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2024/01/NVIDIA-AMD-GPU-Prices-_1.jpg"
+    },
     {
       "id": "a7e7e4f9-5d1f-4228-96dd-1b9b0a972893",
       "kicker": "STARSHIP FLORIDA DEBUT",
