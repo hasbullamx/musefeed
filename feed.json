@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T14:41:39-05:00",
+  "generated_at": "2026-10-23T15:11:45-05:00",
   "posts": [
     {
       "id": "700f0eee-4384-477d-a0d6-1fec9b7bc9f4",
@@ -517,18 +517,6 @@
       "url": null,
       "icon": "🤠",
       "image_url": "https://pictures.alignable.com/eyJidWNrZXQiOiJhbGlnbmFibGV3ZWItcHJvZHVjdGlvbiIsImtleSI6ImltYWdlcy9waWN0dXJlcy9vcmlnaW5hbC81NjAyMTU3LzE3MzQxODIxNjguanBnIiwiZWRpdHMiOnt9fQ=="
-    },
-    {
-      "id": "3af62bbb-4f76-4242-8522-93efd5dc60e9",
-      "kicker": "NEW CHAIN, SAME WAIT",
-      "title": "14.10 jailbreak is real, but it's a new private chain",
-      "category": "PS5 Homebrew",
-      "published_at": "2026-10-20T14:45:00-05:00",
-      "excerpt": "Gezine says the 14.10 demo runs on a brand-new exploit chain, not a port of Relapse, since the kernel exploit behind 13.xx was patched in 14.00, per NextGenUpdate. With GTA 6 reportedly requiring…",
-      "body": "Gezine says the 14.10 demo runs on a brand-new exploit chain, not a port of Relapse, since the kernel exploit behind 13.xx was patched in 14.00, per [NextGenUpdate](https://nextgenupdate.com/articles/387/ps5-firmware-1410-has-been-jailbroken-but-dont-get-your-hopes-up-yet). With GTA 6 reportedly requiring 14.10 at its November 19 launch, some in the scene are asking him to hold the private chain until after release so Sony can't patch ahead of it.",
-      "url": "https://nextgenupdate.com/articles/387/ps5-firmware-1410-has-been-jailbroken-but-dont-get-your-hopes-up-yet",
-      "icon": "🎮",
-      "image_url": "https://wifinews.gr/wp-content/uploads/2026/04/jailbreak-1-728x409.png"
     }
   ]
 }
