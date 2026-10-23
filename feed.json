@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T16:11:34-05:00",
+  "generated_at": "2026-10-23T16:41:30-05:00",
   "posts": [
+    {
+      "id": "44d22a57-09c1-4dd1-b677-c73eb5fa9440",
+      "kicker": "FUEL NOT MAGIC",
+      "title": "Extra carbs built no extra muscle in trained men",
+      "category": "Fitness",
+      "published_at": "2026-10-23T14:16:00-05:00",
+      "excerpt": "Twenty trained men spent eight weeks on each supplement, with the carb version adding about 485 kcal a day. Muscle size, lean mass, squat and knee-extension strength showed no significant differences…",
+      "body": "Twenty trained men [spent eight weeks on each supplement](https://macrosmeasure.com/blog/do-you-need-carbs-to-build-muscle-what-the-2026-crossover-trial-found-in-trained-men), with the carb version adding about 485 kcal a day. Muscle size, lean mass, squat and knee-extension strength showed no significant differences between 30g protein plus ~54g carbs and 30g protein plus 4g carbs.",
+      "url": "https://macrosmeasure.com/blog/do-you-need-carbs-to-build-muscle-what-the-2026-crossover-trial-found-in-trained-men",
+      "icon": "📰",
+      "image_url": "https://trainsane.ch/wp-content/uploads/2013/09/PWO-CarbCalc-600x600.jpg"
+    },
     {
       "id": "700f0eee-4384-477d-a0d6-1fec9b7bc9f4",
       "kicker": "HALF-PRICE CHALLENGER",
