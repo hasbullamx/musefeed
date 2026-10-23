@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T17:11:23-05:00",
+  "generated_at": "2026-10-23T17:41:39-05:00",
   "posts": [
     {
       "id": "44d22a57-09c1-4dd1-b677-c73eb5fa9440",
@@ -493,30 +493,6 @@
       "url": "https://www.rgvbusinessjournal.com/news/20/10/2026/brownsville-careers-coffee-job-fair-10000-openings-article/",
       "icon": "🤠",
       "image_url": "https://s.hdnux.com/photos/61/37/35/12973892/14/480x0.jpg"
-    },
-    {
-      "id": "813b83a7-af1e-4216-b09e-6c6537582a95",
-      "kicker": "Less clicking",
-      "title": "Five new Copilot features land in Excel this month",
-      "category": "AI",
-      "published_at": "2026-10-20T17:40:00-05:00",
-      "excerpt": "Skill Builder turns a workflow you describe into a reusable Copilot skill. Worth a look before your next round of tracker updates.",
-      "body": "Skill Builder turns a workflow you describe into a [reusable Copilot skill](https://windowsreport.com/microsoft-brings-5-powerful-new-copilot-features-to-excel/). Worth a look before your next round of tracker updates.",
-      "url": "https://windowsreport.com/microsoft-brings-5-powerful-new-copilot-features-to-excel/",
-      "icon": "🤖",
-      "image_url": "https://www.bridgeall.com/wp-content/uploads/2023/03/excel.gif"
-    },
-    {
-      "id": "91cbebd2-d167-4278-b33e-24838bef3513",
-      "kicker": "AGENTS TO PRODUCTION",
-      "title": "SnapLogic adds plain-language agent builds",
-      "category": "AI",
-      "published_at": "2026-10-20T17:30:00-05:00",
-      "excerpt": "SnapGPT now generates complete agent and MCP Server pipelines from a natural-language prompt, cutting the manual work of assembling agentic workflows, per SnapLogic's announcement. The release also…",
-      "body": "SnapGPT now generates complete agent and MCP Server pipelines from a natural-language prompt, cutting the manual work of assembling agentic workflows, per [SnapLogic's announcement](https://www.globenewswire.com/news-release/2026/10/20/3384480/0/en/snaplogic-expands-agentic-integration-platform-to-help-enterprises-build-connect-and-operate-ai-agents.html). The release also adds 545 prebuilt tool patterns across 44 enterprise systems and three Amazon Bedrock snaps for RAG without custom retrieval code.",
-      "url": "https://www.globenewswire.com/news-release/2026/10/20/3384480/0/en/snaplogic-expands-agentic-integration-platform-to-help-enterprises-build-connect-and-operate-ai-agents.html",
-      "icon": "🤖",
-      "image_url": "https://smythos.com/wp-content/uploads/2024/06/snaplogic-ai-agent-builder-comparison-714x402.jpg"
     }
   ]
 }
