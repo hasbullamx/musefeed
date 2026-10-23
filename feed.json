@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T22:11:04-05:00",
+  "generated_at": "2026-10-22T22:41:19-05:00",
   "posts": [
     {
       "id": "11fb2886-ead7-43df-8e39-ce6419513176",
@@ -13,6 +13,18 @@
       "url": "https://www.einnews.com/pr_news/951589787/commissioner-christian-backs-energy-secretary-wright-s-call-for-responsible-texas-data-center-growth",
       "icon": "🤠",
       "image_url": "https://static-secure.clapix.com/images/thumb260/1/117/933/1117933879.jpg?e=1788559199&h=httrdjwWuhSCepG38z1ONA"
+    },
+    {
+      "id": "55781514-95bf-46e8-b828-d909a8bb5dcf",
+      "kicker": "IRS HIRING REVERSAL",
+      "title": "IRS to hire about 1,000 for civil divisions after DOGE cuts",
+      "category": "Federal workforce",
+      "published_at": "2026-10-22T20:28:00-05:00",
+      "excerpt": "The IRS will hire roughly 1,000 employees for its small business/self-employed and large business/international divisions, compliance chief Jarod Koopman said Thursday at the UCLA tax controversy…",
+      "body": "The IRS will hire roughly 1,000 employees for its small business/self-employed and large business/international divisions, compliance chief Jarod Koopman said Thursday at the UCLA tax controversy conference, as reported by [Bloomberg Law](https://news.bloomberglaw.com/us-law-week/after-doge-cuts-irs-to-now-hire-about-1-000-for-civil-divisions).\nIt is rebuilding after Department of Government Efficiency departure incentives drove about a quarter of the agency's workforce out last year.",
+      "url": "https://news.bloomberglaw.com/us-law-week/after-doge-cuts-irs-to-now-hire-about-1-000-for-civil-divisions",
+      "icon": "📰",
+      "image_url": "https://www.elepoch.com/_next/image?url=https%3A%2F%2Fimages.elepoch.com%2Fassets%2Fuploads%2F2026%2F09%2Fid80946-IRS.webp&w=384&q=75"
     },
     {
       "id": "e81dde2f-800b-4a15-962e-7060e667d907",
@@ -457,18 +469,6 @@
       "url": "https://www.enterprisenews.com/story/news/courts/2026/10/19/matthew-farwell-trial-sandra-birchmore-pregnant-father-paternity-army-recruiter-jason-pickard/92334587007/",
       "icon": "📰",
       "image_url": "https://nicegirlstv.com/wp-content/uploads/2012/03/PersonofInterestbluebaby1-e1331354766435.jpg"
-    },
-    {
-      "id": "3453581f-3ed5-4944-ab1f-56fd86d5889f",
-      "kicker": "IDEA VAULT",
-      "title": "Bill Gross gives away 1.2 million business ideas",
-      "category": "Business",
-      "published_at": "2026-10-19T22:22:57-05:00",
-      "excerpt": "Serial entrepreneur Bill Gross launched Idealab.ai today, opening more than 1.2 million AI-generated business ideas for anyone to search, save, and test for free. The giveaway is born of scale: his…",
-      "body": "Serial entrepreneur Bill Gross launched [Idealab.ai](https://www.manilatimes.net/2026/10/19/tmt-newswire/globenewswire/bill-gross-the-entrepreneur-behind-175-companies-launches-idealabai-to-give-away-millions-of-business-ideas-and-help-people-everywhere-build-them/2448789) today, opening more than 1.2 million AI-generated business ideas for anyone to search, save, and test for free. The giveaway is born of scale: his system spits out far more potential businesses than any one company could pursue, so the surplus goes to the public.",
-      "url": "https://www.manilatimes.net/2026/10/19/tmt-newswire/globenewswire/bill-gross-the-entrepreneur-behind-175-companies-launches-idealabai-to-give-away-millions-of-business-ideas-and-help-people-everywhere-build-them/2448789",
-      "icon": "📰",
-      "image_url": "https://miro.medium.com/v2/resize:fit:750/0*DKl5bYxHD2zrqdqN.jpg"
     }
   ]
 }
