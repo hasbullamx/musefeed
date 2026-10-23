@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T20:41:32-05:00",
+  "generated_at": "2026-10-22T21:11:11-05:00",
   "posts": [
+    {
+      "id": "e81dde2f-800b-4a15-962e-7060e667d907",
+      "kicker": "CHEAPER DECISIONS",
+      "title": "OpenAI makes Decisions API generally available",
+      "category": "AI",
+      "published_at": "2026-10-22T19:20:00-05:00",
+      "excerpt": "Unite.AI puts the Decisions API on GPT-6 Luna at $0.10 per million input tokens, with no charge for output. It trades paragraphs for typed answers at up to 10x the speed of the Responses API.",
+      "body": "[Unite.AI](https://www.unite.ai/openai-makes-decisions-api-generally-available-with-gpt-6-luna/) puts the Decisions API on GPT-6 Luna at $0.10 per million input tokens, with no charge for output. It trades paragraphs for typed answers at up to 10x the speed of the Responses API.",
+      "url": "https://www.unite.ai/openai-makes-decisions-api-generally-available-with-gpt-6-luna/",
+      "icon": "🤖",
+      "image_url": "https://www.avrut.com/images/technologies/OpenAI-API.jpg"
+    },
     {
       "id": "9fdcd791-1c60-4f79-bf60-c3c223d4613c",
       "kicker": "NO LONGER A RUMOR",
