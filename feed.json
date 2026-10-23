@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T14:11:24-05:00",
+  "generated_at": "2026-10-23T14:41:39-05:00",
   "posts": [
+    {
+      "id": "700f0eee-4384-477d-a0d6-1fec9b7bc9f4",
+      "kicker": "HALF-PRICE CHALLENGER",
+      "title": "Kimi K3.1 Pro nearly matches Claude Opus 5.5, weights by Nov 4",
+      "category": "AI",
+      "published_at": "2026-10-23T14:15:00-05:00",
+      "excerpt": "It is live today across Kimi's apps and API with a 1M-token context window (madrobot.blog). Moonshot lists it at $2 per million input tokens and $10 per million output, half the price of Claude Opus…",
+      "body": "It is live today across Kimi's apps and API with a 1M-token context window ([madrobot.blog](https://madrobot.blog/2026/10/23/kimi-k3-1-pro-moonshot-open-weight-nearly-matches-claude-opus-5-5-coding/)). Moonshot lists it at $2 per million input tokens and $10 per million output, half the price of Claude Opus 5.5.",
+      "url": "https://madrobot.blog/2026/10/23/kimi-k3-1-pro-moonshot-open-weight-nearly-matches-claude-opus-5-5-coding/",
+      "icon": "🤖",
+      "image_url": "https://robocikowo.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fjedjeeny%2Fproduction%2Fa35adb0b9f85e6f275b368d39e628490c91b9011-2304x1296.png%3Fw%3D600%26h%3D340&w=828&q=75&dpl=dpl_JBjEX4PTFjQ76d5wScFtfFvw1piM"
+    },
     {
       "id": "9e19825c-259e-4dc1-97ec-f226fd6037a6",
       "kicker": "ORR POLICY",
@@ -517,18 +529,6 @@
       "url": "https://nextgenupdate.com/articles/387/ps5-firmware-1410-has-been-jailbroken-but-dont-get-your-hopes-up-yet",
       "icon": "🎮",
       "image_url": "https://wifinews.gr/wp-content/uploads/2026/04/jailbreak-1-728x409.png"
-    },
-    {
-      "id": "5c8a4cf3-7546-45bc-862a-6900e8a11147",
-      "kicker": "PROTEIN TIMING",
-      "title": "Protein plus lifting beat lifting alone in 23-trial review",
-      "category": "Fitness",
-      "published_at": "2026-10-20T14:40:00-05:00",
-      "excerpt": "Pooling 23 randomized trials in 611 young adults, a Frontiers in Nutrition meta-analysis published October 13 found lifters adding protein gained 7.40 kg more on their squat than lifters training…",
-      "body": "Pooling 23 randomized trials in 611 young adults, [a Frontiers in Nutrition meta-analysis](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1946052/full) published October 13 found lifters adding protein gained 7.40 kg more on their squat than lifters training without it. The edge showed up mainly when lifters took protein both around their workouts and before sleep.",
-      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1946052/full",
-      "icon": "📰",
-      "image_url": "https://static2.protein.sk/imgcache/e-news-856-5-680-420.jpg"
     }
   ]
 }
