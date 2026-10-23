@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T07:11:25-05:00",
+  "generated_at": "2026-10-23T07:13:24-05:00",
   "posts": [
     {
       "id": "1281609a-2f2e-4421-852f-89aee6755ebf",
@@ -37,6 +37,18 @@
       "url": "https://runtimewire.com/article/minimax-m31-flash-open-weights-together-inference",
       "icon": "🤖",
       "image_url": "https://app.alphaneural.io/api/og/asset?slug=MiniMaxAI%2FMiniMax-M3"
+    },
+    {
+      "id": "41ee702c-0349-4b21-81f0-91c1bcb19bda",
+      "kicker": "Old dog, new loop",
+      "title": "Xojo adds compiler loop for outside AI coding agents",
+      "category": "AI",
+      "published_at": "2026-10-23T06:38:26-05:00",
+      "excerpt": "Xojo 2026 Release 3 shipped October 20 with Agentic Mode, opening its compiler to outside coding agents. The loop detects the agent's edits, reloads the project, and hands back compiler errors for…",
+      "body": "Xojo 2026 Release 3 shipped October 20 with [Agentic Mode](https://tech-insider.org/xojo-agentic-mode-5-tool-coding-wave-2026/), opening its compiler to outside coding agents. The loop detects the agent's edits, reloads the project, and hands back compiler errors for the agent to revise until the build succeeds.",
+      "url": "https://tech-insider.org/xojo-agentic-mode-5-tool-coding-wave-2026/",
+      "icon": "🤖",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!iKQb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fb77f55-ad2c-4449-b033-b27ad62280ee_2848x1504.png"
     },
     {
       "id": "ac460a99-d205-4007-b949-bc4caa6a655f",
