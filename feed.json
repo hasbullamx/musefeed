@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T10:41:31-05:00",
+  "generated_at": "2026-10-23T11:14:27-05:00",
   "posts": [
+    {
+      "id": "a2a2abea-d7ca-469d-8515-d38bf2c1fdab",
+      "kicker": "DOLLAR GENERAL",
+      "title": "Dollar General Oct 25-31 weekly ad preview surfaces early",
+      "category": "Deals",
+      "published_at": "2026-10-23T12:10:00-05:00",
+      "excerpt": "Axe deodorant or body spray is $6 off when you buy two in the early Oct 25-31 ad. The same preview puts Crest toothpaste, Scope or Oral-B at $5 off when you buy two.",
+      "body": "Axe deodorant or body spray is $6 off when you buy two in the [early Oct 25-31 ad](https://weeklyadhunters.com/dollar-general-weekly-ad/). The same preview puts Crest toothpaste, Scope or Oral-B at $5 off when you buy two.",
+      "url": "https://weeklyadhunters.com/dollar-general-weekly-ad/",
+      "icon": "🏷️",
+      "image_url": "https://archiv.kompasslev.cz/weekly-ads.us/public/gimg/2/7/2/2/5/4/6/dollar-general-flyer-07-25-2021-07-31-2021--2722546-900-100000.jpg"
+    },
     {
       "id": "a9677369-56d5-4cbb-ac21-ae0cef4e0970",
       "kicker": "GPU MARKET",
@@ -241,6 +253,18 @@
       "url": "https://lifestyle.the-newshub.com/story/921435/brookbush-institute-publishes-an-article-update-is-3-sets-per-muscle-group-the-upper-limit/",
       "icon": "📰",
       "image_url": "https://iiab.me/kiwix/content/fitness.stackexchange.com_en_all_2022-11/images/3799125059.webp"
+    },
+    {
+      "id": "d0e9ac29-8b64-4282-ac4f-8768ca7d19e8",
+      "kicker": "FAST-TRACK SUIT",
+      "title": "Six legal groups sue to stop fast-tracked child asylum cases",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-22T09:20:00-05:00",
+      "excerpt": "Filed October 15 in Maryland federal court, the complaint says children in ORR custody are getting as little as 24 hours' notice before asylum interviews, with attorneys blocked from rescheduling…",
+      "body": "Filed October 15 in Maryland federal court, [the complaint](https://www.immdef.org/blog/thedoorvedlow-filing) says children in ORR custody are getting as little as 24 hours' notice before asylum interviews, with attorneys blocked from rescheduling even when double-booked. It also asks the court to vacate the order directing immigration judges to finish detained children's dockets by January 31, 2027.",
+      "url": "https://www.immdef.org/blog/thedoorvedlow-filing",
+      "icon": "📰",
+      "image_url": "https://migrantaffairs.info/wp-content/uploads/2026/03/US-Supreme-Court-migrant-asylum-case-450x300.webp"
     },
     {
       "id": "10db33bf-843c-46f4-9faa-6b9a3f3a7c87",
