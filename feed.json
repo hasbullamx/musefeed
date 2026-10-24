@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T04:11:25-05:00",
+  "generated_at": "2026-10-24T04:41:16-05:00",
   "posts": [
+    {
+      "id": "20e74c3f-0beb-4fc8-82ce-1fc739c218ad",
+      "kicker": "SATURDAY ONLY",
+      "title": "Dollar General Oct 24 scenarios start at $1.83",
+      "category": "Deals",
+      "published_at": "2026-10-24T09:30:00-05:00",
+      "excerpt": "Dollar General's Saturday-only lineup for October 24 includes seven scenarios, with the personalized $10 off $30 basket netting 16 items for $1.83 after rebates and estimated Fetch rewards, per…",
+      "body": "Dollar General's Saturday-only lineup for October 24 includes seven scenarios, with the personalized $10 off $30 basket netting 16 items for $1.83 after rebates and estimated Fetch rewards, per [DealSeek](https://dealseek.com/shopping-guides/dollar-general-deals-october24). The standard $5 off $25 version nets 14 items for $4.18.",
+      "url": "https://dealseek.com/shopping-guides/dollar-general-deals-october24",
+      "icon": "🏷️",
+      "image_url": "https://www.rli.uk.com/wp-content/uploads/2020/12/Dollar-General-1536x798.jpg"
+    },
     {
       "id": "4edd302a-1ed0-4742-b6c2-028791c8ee9a",
       "kicker": "AI SAFETY",
@@ -565,18 +577,6 @@
       "url": "https://immigration-analytics.com/2026/10/20/hhs-unaccompanied-children-lawyers/",
       "icon": "📰",
       "image_url": "https://napanow.org/wp-content/uploads/2026/05/Image_markup-780x470.jpg"
-    },
-    {
-      "id": "02d90e34-5058-440f-b817-306d25374aad",
-      "kicker": "THE CUDA EXIT",
-      "title": "Google open-sources TorchTPU, a native PyTorch backend for TPUs",
-      "category": "AI",
-      "published_at": "2026-10-21T04:26:08-05:00",
-      "excerpt": "Google has open-sourced TorchTPU, a native PyTorch backend that makes its TPUs a first-class hardware target alongside GPUs and CPUs, built with Meta's PyTorch team and announced at PyTorch…",
-      "body": "Google has [open-sourced TorchTPU](https://www.newsbytesapp.com/news/science/google-takes-on-nvidia-with-new-ai-developer-tool/story), a native PyTorch backend that makes its TPUs a first-class hardware target alongside GPUs and CPUs, built with Meta's PyTorch team and announced at PyTorch Conference 2026. The bet is on switching costs: Amazon shipped its own no-rewrite port, TorchNeuron, the same week, so the GPU default now has two funded exits.",
-      "url": "https://www.newsbytesapp.com/news/science/google-takes-on-nvidia-with-new-ai-developer-tool/story",
-      "icon": "🤖",
-      "image_url": "https://techblog.gr/wp-content/uploads/2026/04/TPU-1024x576.jpg"
     }
   ]
 }
