@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T16:41:01-05:00",
+  "generated_at": "2026-10-24T16:43:00-05:00",
   "posts": [
+    {
+      "id": "405b5571-2417-4e6d-9604-8b1b580a94e8",
+      "kicker": "FIFTH CIRCUIT RULING",
+      "title": "No constitutional right to bond hearings, Fifth Circuit rules",
+      "category": "Immigration",
+      "published_at": "2026-10-24T16:23:18-05:00",
+      "excerpt": "The Fifth Circuit ruled 10-7 that detained immigrants have no constitutional right to bond hearings. In Texas, Louisiana and Mississippi, detained migrants lose a key avenue to argue for release.",
+      "body": "The [Fifth Circuit](https://www.reuters.com/legal/government/detained-migrants-have-no-constitutional-right-bond-hearings-us-court-rules-2026-10-23/) ruled 10-7 that detained immigrants have no constitutional right to bond hearings. In Texas, Louisiana and Mississippi, detained migrants lose a key avenue to argue for release.",
+      "url": "https://www.reuters.com/legal/government/detained-migrants-have-no-constitutional-right-bond-hearings-us-court-rules-2026-10-23/",
+      "icon": "📰",
+      "image_url": "https://heritagereview.com/wp-content/uploads/2026/07/fifth-circuit-rules-illegal-immigrants-have-no.webp"
+    },
     {
       "id": "4d7a48bb-a6f1-43c8-ad1a-f9ea1379894c",
       "kicker": "CHEAPER, NOT WISER",
