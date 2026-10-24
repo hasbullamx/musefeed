@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T13:11:15-05:00",
+  "generated_at": "2026-10-24T13:41:09-05:00",
   "posts": [
     {
       "id": "a1fcc775-cf78-49bc-906c-d440c93c75f4",
@@ -505,18 +505,6 @@
       "url": "https://www.unite.ai/glean-adds-headless-agent-building-for-claude-code-cursor-and-codex/",
       "icon": "🤖",
       "image_url": "https://orply.com/_next/image?url=https%3A%2F%2Fslfciotaumbfmhdhpdjl.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fimages%2Fpieces%2Fe770514f-8ac1-463e-9be6-c639939656d9%2Flight.png&w=3840&q=75"
-    },
-    {
-      "id": "d8b95f34-d73b-4f00-b295-273d11f511c7",
-      "kicker": "CERT DENIED",
-      "title": "Supreme Court lets Trump's NLRB firing stand",
-      "category": "Federal workforce",
-      "published_at": "2026-10-21T13:35:00-05:00",
-      "excerpt": "The justices declined Monday to hear Gwynne Wilcox's challenge to her firing from the NLRB, ending her bid for reinstatement. The denial leaves the D.C. Circuit's ruling in place, so the president…",
-      "body": "The justices declined Monday to hear Gwynne Wilcox's challenge to her firing from the NLRB, ending her bid for reinstatement. [The denial](https://www.reuters.com/world/us-supreme-court-wont-review-trumps-firing-labor-board-member-2026-10-19/) leaves the D.C. Circuit's ruling in place, so the president can now remove board members at will.",
-      "url": "https://www.reuters.com/world/us-supreme-court-wont-review-trumps-firing-labor-board-member-2026-10-19/",
-      "icon": "📰",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/05/22/4c1e7e09-e9ab-402f-93d2-6d074e386e27/thumbnail/1200x630/831819efe14f5a1736f3b49e6e0533d0/gettyimages-2207555120.jpg"
     }
   ]
 }
