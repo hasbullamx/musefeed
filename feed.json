@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T14:11:06-05:00",
+  "generated_at": "2026-10-24T14:41:10-05:00",
   "posts": [
+    {
+      "id": "4d7a48bb-a6f1-43c8-ad1a-f9ea1379894c",
+      "kicker": "CHEAPER, NOT WISER",
+      "title": "DeepSeek Flash improves coding and cost, still lags on facts",
+      "category": "AI",
+      "published_at": "2026-10-24T13:45:00-05:00",
+      "excerpt": "Artificial Analysis puts DeepSeek V4.1 Flash 1017 at $0.26 per benchmark task, down from $0.40 for its predecessor. Its Terminal-Bench score rose from 27% to 34%, though its factual-reliability score…",
+      "body": "Artificial Analysis puts DeepSeek V4.1 Flash 1017 at $0.26 per benchmark task, down from $0.40 for its predecessor. Its Terminal-Bench score rose from 27% to 34%, though its factual-reliability score of 5 still trails Claude Opus 5.5 at 46, per [WinBuzzer](https://winbuzzer.com/2026/10/24/deepseeks-flash-ai-improves-coding-but-still-lags-on-facts-xcxwbn/).",
+      "url": "https://winbuzzer.com/2026/10/24/deepseeks-flash-ai-improves-coding-but-still-lags-on-facts-xcxwbn/",
+      "icon": "🤖",
+      "image_url": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Njc3ODYyMy9vcmlnaW5hbF81NzNjMmIyZDI0Mjk5ZmJiODY1ODNjMTA5YmNiYWZiMy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjEyMDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0="
+    },
     {
       "id": "a1fcc775-cf78-49bc-906c-d440c93c75f4",
       "kicker": "WHEN A SUCCESSOR ISN'T",
@@ -493,18 +505,6 @@
       "url": "https://www.hrdive.com/news/nearly-82m-government-grant-targets-rural-job-training/833608/",
       "icon": "📰",
       "image_url": "https://marketrelocationreport.com/wp-content/uploads/2026/08/6293e11445623811ed076d7bca040e52-400x380.jpg"
-    },
-    {
-      "id": "2f3de04e-09b5-4aa7-9a4b-5333938bd320",
-      "kicker": "BUILT LIKE SOFTWARE",
-      "title": "Glean adds headless agent building for Claude Code, Cursor and Codex",
-      "category": "AI",
-      "published_at": "2026-10-21T14:20:00-05:00",
-      "excerpt": "A new Glean plugin drops an agent into the workspace as spec.yaml and instructions.md, testable from the editor. Publishing sends it to Glean's managed runtime, where it keeps permissioned access…",
-      "body": "A [new Glean plugin](https://www.unite.ai/glean-adds-headless-agent-building-for-claude-code-cursor-and-codex/) drops an agent into the workspace as spec.yaml and instructions.md, testable from the editor. Publishing sends it to Glean's managed runtime, where it keeps permissioned access across 275+ enterprise sources.",
-      "url": "https://www.unite.ai/glean-adds-headless-agent-building-for-claude-code-cursor-and-codex/",
-      "icon": "🤖",
-      "image_url": "https://orply.com/_next/image?url=https%3A%2F%2Fslfciotaumbfmhdhpdjl.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fimages%2Fpieces%2Fe770514f-8ac1-463e-9be6-c639939656d9%2Flight.png&w=3840&q=75"
     }
   ]
 }
