@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T00:11:11-05:00",
+  "generated_at": "2026-10-24T00:41:48-05:00",
   "posts": [
+    {
+      "id": "4edd302a-1ed0-4742-b6c2-028791c8ee9a",
+      "kicker": "AI SAFETY",
+      "title": "Moonshot curbs hacking ability in new Kimi model",
+      "category": "AI",
+      "published_at": "2026-10-24T08:30:00-05:00",
+      "excerpt": "Moonshot removed cyber-related data from Kimi K3.1 Pro's training corpus and reinforcement-learning environments while keeping general coding skills, with Reuters reporting the open weights still set…",
+      "body": "Moonshot removed cyber-related data from Kimi K3.1 Pro's training corpus and reinforcement-learning environments while keeping general coding skills, with [Reuters reporting](https://965wtou.com/2026/10/24/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-ai-powered-cyberattacks/) the open weights still set for November 4. Its internal controlled test scored the curbed model at 81.0% on finding and exploiting vulnerabilities versus 90.5% for the version without the reduction, a result not yet independently verified.",
+      "url": "https://965wtou.com/2026/10/24/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-ai-powered-cyberattacks/",
+      "icon": "🤖",
+      "image_url": "https://public.bnbstatic.com/static/content/square/images/6dc1a67d4bbb405980c79604cacc8dcb.jpg"
+    },
+    {
+      "id": "ecafa61b-7275-4e68-b91d-c1a058e3c7a0",
+      "kicker": "NINTH CIRCUIT ARGUMENT",
+      "title": "No ruling yet on bid to scrap 40-year-old UAC safeguards",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-24T00:23:00-05:00",
+      "excerpt": "On October 22, Justice Department lawyers asked Ninth Circuit judges in Pasadena to dissolve the Perez-Funez injunction that requires agents to advise unaccompanied children of their rights before…",
+      "body": "On October 22, Justice Department lawyers asked Ninth Circuit judges in Pasadena to dissolve the Perez-Funez injunction that requires agents to advise unaccompanied children of their rights before accepting voluntary departure, in argument [detailed by Immigration Analytics](https://immigration-analytics.com/2026/10/23/perez-funez-injunction-ninth-circuit/) from Courthouse News' October 22 reporting (\"Feds ask Ninth Circuit to scrap 40-year-old safeguards for unaccompanied minor migrants\"). The panel of Judges Patrick Bumatay, Lawrence VanDyke, and Salvador Mendoza Jr. did not signal how it would rule.",
+      "url": "https://immigration-analytics.com/2026/10/23/perez-funez-injunction-ninth-circuit/",
+      "icon": "📰",
+      "image_url": "https://www.zgst.ai/_next/image?url=https%3A%2F%2Ffrfcbxwttxxrzumfoslt.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fstory-images%2Fstories%2F2026%2F09%2F3edd3625ff75c6f4d149d46aa79ec6a5000d32ac64fe768f453ad20e08f59e8c.jpg&w=384&q=75"
+    },
     {
       "id": "f217bd93-82a5-45cb-ae65-7a03768ebf3d",
       "kicker": "DEFERRED RESIGNATION",
