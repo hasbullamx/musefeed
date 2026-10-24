@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T19:11:46-05:00",
+  "generated_at": "2026-10-23T19:41:55-05:00",
   "posts": [
+    {
+      "id": "03a27140-1d91-4d03-9ff3-bf293797c728",
+      "kicker": "COPILOT UPDATE",
+      "title": "GitHub updates HydraFusion AI for Copilot users",
+      "category": "AI",
+      "published_at": "2026-10-23T19:12:00-05:00",
+      "excerpt": "GitHub updated its HydraFusion AI orchestration for Copilot to draw from an expanded model pool including Claude Opus 5.5, GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna, plus a new Max option for demanding…",
+      "body": "GitHub updated its HydraFusion AI orchestration for Copilot to draw from an expanded model pool including Claude Opus 5.5, GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna, plus a new Max option for demanding builds ([Wisevoter](https://wisevoter.com/world/us/2026/10/23/github-updates-hydrafusion-ai-copilot)). The Cascade and Critique workflows add judging and parallel-model review steps inside VS Code, the Copilot app and CLI for paid plans with previews enabled.",
+      "url": "https://wisevoter.com/world/us/2026/10/23/github-updates-hydrafusion-ai-copilot",
+      "icon": "🤖",
+      "image_url": "https://devops.com/wp-content/uploads/2026/09/github_hydrafusion_770x330.jpg"
+    },
     {
       "id": "812535d7-d08d-474d-bf16-045bde534b7f",
       "kicker": "SONY PULLS AHEAD",
