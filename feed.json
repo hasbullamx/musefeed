@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T18:11:17-05:00",
+  "generated_at": "2026-10-24T18:41:20-05:00",
   "posts": [
+    {
+      "id": "6dbe89bd-0901-4e9c-a8a9-2f089640a53b",
+      "kicker": "ONE LEG AT A TIME",
+      "title": "Single-leg training vs squats: 2026 evidence for home gyms",
+      "category": "Fitness",
+      "published_at": "2026-10-24T18:30:00-05:00",
+      "excerpt": "A July 2026 review of 24 randomized trials found single-leg work favored one-leg strength and jumping, while two-legged work favored bilateral strength, per Mind Muscle Perfection. It found no clear…",
+      "body": "A July 2026 review of 24 randomized trials found single-leg work favored one-leg strength and jumping, while two-legged work favored bilateral strength, per [Mind Muscle Perfection](https://mindmuscleperfection.com/single-leg-training-vs-squats-2026-home-gym-guide/). It found no clear muscle-growth advantage for either approach, so the practical takeaway is specificity: train the movement you want to get stronger at.",
+      "url": "https://mindmuscleperfection.com/single-leg-training-vs-squats-2026-home-gym-guide/",
+      "icon": "📰",
+      "image_url": "https://images.ctfassets.net/3s5io6mnxfqz/3lzM2UkrBdvK2aThFriAGH/386710e8e28f944a3aa0fe8e80bd2a40/AdobeStock_342187618.jpeg?w=1920"
+    },
     {
       "id": "405b5571-2417-4e6d-9604-8b1b580a94e8",
       "kicker": "FIFTH CIRCUIT RULING",
@@ -517,18 +529,6 @@
       "url": "https://mediaselangor.com/en/2026/10/402613",
       "icon": "🤠",
       "image_url": "https://jarayid.com/_next/image?url=https%3A%2F%2Fassets1.cbsnewsstatic.com%2Fhub%2Fi%2Fr%2F2026%2F08%2F20%2F8c01748c-39f5-4c4b-9fd7-77fb2e9fbc49%2Fthumbnail%2F1200x630%2Fe37e135fd835a769fa2d2a8598c7dd53%2Fgettyimages-2290131000.jpg&w=828&q=75"
-    },
-    {
-      "id": "c3ffb89f-6cd8-41cb-9b64-ba452b8876f0",
-      "kicker": "Trades get a boost",
-      "title": "Labor Department awards $81.5M for rural job training",
-      "category": "Federal workforce",
-      "published_at": "2026-10-21T18:30:00-05:00",
-      "excerpt": "The seventh round of the Workforce Opportunity for Rural Communities program funds training across the Appalachian, Delta and Northern Border regions. The money leans into skilled trades and…",
-      "body": "The seventh round of the [Workforce Opportunity for Rural Communities program](https://www.hrdive.com/news/nearly-82m-government-grant-targets-rural-job-training/833608/) funds training across the Appalachian, Delta and Northern Border regions. The money leans into skilled trades and construction, backing Registered Apprenticeships for new and dislocated workers.",
-      "url": "https://www.hrdive.com/news/nearly-82m-government-grant-targets-rural-job-training/833608/",
-      "icon": "📰",
-      "image_url": "https://marketrelocationreport.com/wp-content/uploads/2026/08/6293e11445623811ed076d7bca040e52-400x380.jpg"
     }
   ]
 }
