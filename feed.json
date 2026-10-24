@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T12:11:15-05:00",
+  "generated_at": "2026-10-24T12:41:16-05:00",
   "posts": [
+    {
+      "id": "a1fcc775-cf78-49bc-906c-d440c93c75f4",
+      "kicker": "WHEN A SUCCESSOR ISN'T",
+      "title": "Novablast 6 is a completely different ride",
+      "category": "Fitness",
+      "published_at": "2026-10-24T12:45:00-05:00",
+      "excerpt": "The redesign swaps in new midsole foam, giving the 6 a noticeably different ride from the 5. RunToTheFinish puts the shoe at 50/50 for longtime 5 fans.",
+      "body": "The redesign swaps in new midsole foam, giving the 6 a noticeably different ride from the 5. [RunToTheFinish](https://runtothefinish.com/asics-novablast-6-review/) puts the shoe at 50/50 for longtime 5 fans.",
+      "url": "https://runtothefinish.com/asics-novablast-6-review/",
+      "icon": "📰",
+      "image_url": "https://preview.thenewsmarket.com/Previews/ASIC/StillAssets/960x540/725077_v3.jpg"
+    },
     {
       "id": "c492e393-6295-40f9-bb81-84fd5e8c391d",
       "kicker": "FEDERAL ENERGY HUBS",
@@ -505,18 +517,6 @@
       "url": "https://www.reuters.com/world/us-supreme-court-wont-review-trumps-firing-labor-board-member-2026-10-19/",
       "icon": "📰",
       "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/05/22/4c1e7e09-e9ab-402f-93d2-6d074e386e27/thumbnail/1200x630/831819efe14f5a1736f3b49e6e0533d0/gettyimages-2207555120.jpg"
-    },
-    {
-      "id": "c4c7a897-582a-44c2-9c6d-606600d49c98",
-      "kicker": "CAT AND MOUSE",
-      "title": "Sony pushes PS5 firmware 14.20.00 as jailbreak hunt escalates",
-      "category": "PS5 Homebrew",
-      "published_at": "2026-10-21T12:30:00-05:00",
-      "excerpt": "Sony pushed PS5 system update 26.07-14.20.00 today, and the official patch notes say only that it improves \"the messages and usability on some screens.\" It arrives with Gezine's 14.10 zero-day still…",
-      "body": "Sony pushed PS5 system update 26.07-14.20.00 today, and the official patch notes say only that it improves [\"the messages and usability on some screens.\"](https://twistedvoxel.com/ps5-system-update-26-07-14-20-00/) It arrives with Gezine's 14.10 zero-day still private and unreleased, the one exploit the scene is waiting on.",
-      "url": "https://twistedvoxel.com/ps5-system-update-26-07-14-20-00/",
-      "icon": "🎮",
-      "image_url": "https://particle.news/cdn-cgi/image/onerror=redirect,width=640,height=640,format=webp/https://storage.googleapis.com/uploads.mongoosehq.com/url/media/63058783/1fc1d9d0b7a124f3d50510c00ff0e1dc57d165b5aea821ddabf567015e7fc17c"
     }
   ]
 }
