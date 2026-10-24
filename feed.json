@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T08:41:16-05:00",
+  "generated_at": "2026-10-24T09:11:30-05:00",
   "posts": [
+    {
+      "id": "81665964-7ba1-4e35-a295-9f371a79b4e2",
+      "kicker": "LAPTOP SALE",
+      "title": "Woot slashes laptops, plus an extra 10% off",
+      "category": "PC hardware",
+      "published_at": "2026-10-24T11:00:00-05:00",
+      "excerpt": "Woot stacks an extra 10% off laptop prices at checkout with code TENOFFLAPTOP, per HotHardware. The Alienware 15 lands at $1,394.99 once that code is applied.",
+      "body": "Woot stacks an extra 10% off laptop prices at checkout with code TENOFFLAPTOP, per [HotHardware](https://hothardware.com/news/alienware-hp-laptops-slashed-woot-plus-extra-10-percent-off). The Alienware 15 lands at $1,394.99 once that code is applied.",
+      "url": "https://hothardware.com/news/alienware-hp-laptops-slashed-woot-plus-extra-10-percent-off",
+      "icon": "🏷️",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/5rGxPMgYE7mr7XUx5HqfLd-1280-80.jpg"
+    },
     {
       "id": "20e74c3f-0beb-4fc8-82ce-1fc739c218ad",
       "kicker": "SATURDAY ONLY",
@@ -541,18 +553,6 @@
       "url": "https://www.fedweek.com/federal-managers-daily-report/opm-issues-government-wide-recruitment-plan/",
       "icon": "📰",
       "image_url": "https://www.defensedaily.com/wp-content/uploads/2015/06/OPM.png"
-    },
-    {
-      "id": "f4d15bf3-7b7b-44c7-9916-04f264bfe75a",
-      "kicker": "COST CUTTER",
-      "title": "Open-source compressor cuts AI coding-agent bills 22.7%",
-      "category": "AI",
-      "published_at": "2026-10-21T08:46:34-05:00",
-      "excerpt": "Hystax released OptScale Kompressor on GitHub under MIT as a deterministic filter that touches only machine-generated tool output. It cut the real provider bill by 22.7% on Terminal-Bench 2.1 with…",
-      "body": "Hystax [released OptScale Kompressor](https://www.prweb.com/releases/hystax-releases-open-source-token-compressor-that-cuts-ai-coding-agent-costs-by-22-7-without-changing-the-agent-302912355.html) on GitHub under MIT as a deterministic filter that touches only machine-generated tool output. It cut the real provider bill by 22.7% on Terminal-Bench 2.1 with task success effectively unchanged.",
-      "url": "https://www.prweb.com/releases/hystax-releases-open-source-token-compressor-that-cuts-ai-coding-agent-costs-by-22-7-without-changing-the-agent-302912355.html",
-      "icon": "🤖",
-      "image_url": "https://cdn.edgee.app/blog/inline/270786b8-2e7a-4a4e-b6d5-51e8ce0157b7.png"
     }
   ]
 }
