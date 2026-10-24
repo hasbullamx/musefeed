@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T17:40:59-05:00",
+  "generated_at": "2026-10-24T18:11:17-05:00",
   "posts": [
     {
       "id": "405b5571-2417-4e6d-9604-8b1b580a94e8",
@@ -61,6 +61,18 @@
       "url": "https://hothardware.com/news/alienware-hp-laptops-slashed-woot-plus-extra-10-percent-off",
       "icon": "🏷️",
       "image_url": "https://cdn.mos.cms.futurecdn.net/5rGxPMgYE7mr7XUx5HqfLd-1280-80.jpg"
+    },
+    {
+      "id": "5c1f23dc-787e-4000-a195-e2f2d5df9dfb",
+      "kicker": "BUILDING BLOCKS",
+      "title": "Newegg drops Ryzen 9600X bundle to $680, free 850W PSU included",
+      "category": "PC hardware",
+      "published_at": "2026-10-24T10:39:00-05:00",
+      "excerpt": "The bundle pairs the 6-core Ryzen 5 9600X with a Gigabyte B650E board and 32GB of DDR5-6000 memory. The free supply is an ASRock Pro-850B, rated 80 Plus Bronze and ATX 3.1-certified, per Wccftech.",
+      "body": "The bundle pairs the 6-core Ryzen 5 9600X with a Gigabyte B650E board and 32GB of DDR5-6000 memory. The free supply is an ASRock Pro-850B, rated 80 Plus Bronze and ATX 3.1-certified, per [Wccftech](https://wccftech.com/newegg-drops-900-bundle-to-680-while-giving-away-a-free-850w-psu/amp/).",
+      "url": "https://wccftech.com/newegg-drops-900-bundle-to-680-while-giving-away-a-free-850w-psu/amp/",
+      "icon": "📰",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/FkPv3jnMuNVoaBCRDrSwj-450-80.jpg"
     },
     {
       "id": "20e74c3f-0beb-4fc8-82ce-1fc739c218ad",
