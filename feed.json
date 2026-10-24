@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T10:41:24-05:00",
+  "generated_at": "2026-10-24T11:11:44-05:00",
   "posts": [
+    {
+      "id": "c492e393-6295-40f9-bb81-84fd5e8c391d",
+      "kicker": "FEDERAL ENERGY HUBS",
+      "title": "NextEra secures $5.7B for federal energy hubs",
+      "category": "Business",
+      "published_at": "2026-10-24T11:45:00-05:00",
+      "excerpt": "NextEra Energy has secured definitive agreements for three federally backed energy hubs, with $5.7 billion in funding so far this year, per Utility Dive. The Encinal, Texas hub will pair 6.5 GW of…",
+      "body": "NextEra Energy has secured definitive agreements for three federally backed energy hubs, with $5.7 billion in funding so far this year, per [Utility Dive](https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/). The Encinal, Texas hub will pair 6.5 GW of natural gas generation with a data center campus.",
+      "url": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
+      "icon": "📰",
+      "image_url": "https://article-images.tldrdaily.news/tldr-article-images/3KSQGrECDm7Nafh46.webp"
+    },
     {
       "id": "81665964-7ba1-4e35-a295-9f371a79b4e2",
       "kicker": "LAPTOP SALE",
@@ -505,18 +517,6 @@
       "url": "https://twistedvoxel.com/ps5-system-update-26-07-14-20-00/",
       "icon": "🎮",
       "image_url": "https://particle.news/cdn-cgi/image/onerror=redirect,width=640,height=640,format=webp/https://storage.googleapis.com/uploads.mongoosehq.com/url/media/63058783/1fc1d9d0b7a124f3d50510c00ff0e1dc57d165b5aea821ddabf567015e7fc17c"
-    },
-    {
-      "id": "d2cd042f-7ad3-49e4-b57e-d2a184cd8b2e",
-      "kicker": "DOLLAR GENERAL",
-      "title": "Saturday Dollar General deals hit $0.46 Tide spray",
-      "category": "Deals",
-      "published_at": "2026-10-21T11:01:00-05:00",
-      "excerpt": "Saturday, Oct 24 stacks the store coupon with manufacturer coupons plus Fetch and Ibotta rebates (Saturday deals). The 16-item household-and-grocery haul works out to $0.46 each after the rebates.",
-      "body": "Saturday, Oct 24 stacks the store coupon with manufacturer coupons plus Fetch and Ibotta rebates ([Saturday deals](https://thekrazycouponlady.com/2026/10/21/dollar-general-saturday-deals-0-46-tide-spray-soda-2-liters-more)). The 16-item household-and-grocery haul works out to $0.46 each after the rebates.",
-      "url": "https://thekrazycouponlady.com/2026/10/21/dollar-general-saturday-deals-0-46-tide-spray-soda-2-liters-more",
-      "icon": "🏷️",
-      "image_url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/3HtKiBLhBNU1u5haDoi7rU/2a4a115a0a4e0be4632fb113bf0e02c3/IMG_1305_jpg__1_.jpg?fit=max&auto=format"
     }
   ]
 }
