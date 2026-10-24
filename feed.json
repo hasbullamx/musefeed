@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-23T18:41:10-05:00",
+  "generated_at": "2026-10-23T19:11:46-05:00",
   "posts": [
+    {
+      "id": "812535d7-d08d-474d-bf16-045bde534b7f",
+      "kicker": "SONY PULLS AHEAD",
+      "title": "PS5 jailbreakers race Sony's firmware before GTA VI",
+      "category": "PS5 jailbreak",
+      "published_at": "2026-10-23T16:07:00-05:00",
+      "excerpt": "Sony has shipped three PS5 firmware updates in five weeks, all outside the public Relapse jailbreak's reach, while Gezine's new 14.10 exploit stays private (TruViber). The scene is losing its stars:…",
+      "body": "Sony has shipped three PS5 firmware updates in five weeks, all outside the public Relapse jailbreak's reach, while Gezine's new 14.10 exploit stays private ([TruViber](https://truviber.com/article/ps5-jailbreakers-racing-sony-firmware-updates-gta-vi)). The scene is losing its stars: TheFloW quit PS5 work on Sep 15 after his last private hypervisor bug went to Sony.",
+      "url": "https://truviber.com/article/ps5-jailbreakers-racing-sony-firmware-updates-gta-vi",
+      "icon": "🎮",
+      "image_url": "https://images.cyber-amber.com/article-images/6a9eaa4935d67ab8feab155a.webp"
+    },
     {
       "id": "44d22a57-09c1-4dd1-b677-c73eb5fa9440",
       "kicker": "FUEL NOT MAGIC",
@@ -481,18 +493,6 @@
       "url": "https://www.newsbytesapp.com/news/science/google-takes-on-nvidia-with-new-ai-developer-tool/story",
       "icon": "🤖",
       "image_url": "https://techblog.gr/wp-content/uploads/2026/04/TPU-1024x576.jpg"
-    },
-    {
-      "id": "b842d58e-4ce5-48fa-9a5b-609a82a876d4",
-      "kicker": "BROWNSVILLE JOBS",
-      "title": "Brownsville job fair lists 10,000 openings Thursday",
-      "category": "Texas",
-      "published_at": "2026-10-20T19:00:00-05:00",
-      "excerpt": "The free Careers & Coffee Job Expo runs Thursday from 10 a.m. to 2 p.m. at the Brownsville Events Center, listing more than 10,000 openings via the Greater Brownsville EDC and city. Some employers…",
-      "body": "The free Careers & Coffee Job Expo runs Thursday from 10 a.m. to 2 p.m. at the Brownsville Events Center, listing more than 10,000 openings via the [Greater Brownsville EDC and city](https://www.rgvbusinessjournal.com/news/20/10/2026/brownsville-careers-coffee-job-fair-10000-openings-article/). Some employers will run on-site interviews and may extend contingent offers the same day.",
-      "url": "https://www.rgvbusinessjournal.com/news/20/10/2026/brownsville-careers-coffee-job-fair-10000-openings-article/",
-      "icon": "🤠",
-      "image_url": "https://s.hdnux.com/photos/61/37/35/12973892/14/480x0.jpg"
     }
   ]
 }
