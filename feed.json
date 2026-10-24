@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T06:11:13-05:00",
+  "generated_at": "2026-10-24T06:41:16-05:00",
   "posts": [
     {
       "id": "20e74c3f-0beb-4fc8-82ce-1fc739c218ad",
@@ -25,6 +25,18 @@
       "url": "https://965wtou.com/2026/10/24/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-ai-powered-cyberattacks/",
       "icon": "🤖",
       "image_url": "https://public.bnbstatic.com/static/content/square/images/6dc1a67d4bbb405980c79604cacc8dcb.jpg"
+    },
+    {
+      "id": "6791d177-2d98-4531-93d7-c6b18781524c",
+      "kicker": "CRANES OVER BROWNSVILLE",
+      "title": "Brownsville's building tally hits 132 projects",
+      "category": "Texas",
+      "published_at": "2026-10-24T06:38:44-05:00",
+      "excerpt": "Zabalist's October report, refreshed Oct 24, draws that tally from Texas Department of Licensing and Regulation records (Zabalist). More than 24 of them are estimated to open in the next 120 days.",
+      "body": "Zabalist's October report, refreshed Oct 24, draws that tally from Texas Department of Licensing and Regulation records ([Zabalist](https://www.zabalist.com/reports/city/brownsville)). More than 24 of them are estimated to open in the next 120 days.",
+      "url": "https://www.zabalist.com/reports/city/brownsville",
+      "icon": "🤠",
+      "image_url": "https://www.protexasindustry.com/public/uploads/2026/02/04/47573838e7cf109899577b578aa17bfd.png"
     },
     {
       "id": "2e979fe9-ebc9-4e77-989f-a0a7372ab5d0",
@@ -565,18 +577,6 @@
       "url": "https://couriertexas.com/local/local-news/as-south-texas-manufacturing-industry-grows-utrgv-will-offer-free-training-for-incoming-jobs/",
       "icon": "🤠",
       "image_url": "https://btxtoday.com/wp-content/uploads/2026/08/aug16-9-1068x601.png"
-    },
-    {
-      "id": "b1aa9ec1-a424-4dac-81e7-55d51d309f4c",
-      "kicker": "WHOSE LAWYER IS IT",
-      "title": "Senators tell HHS to drop in-house UAC lawyers",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-21T06:39:38-05:00",
-      "excerpt": "HHS has until October 30 to confirm in writing that none of its own attorneys will represent an unaccompanied child in immigration court, under a letter led by Senator Tammy Duckworth and signed by…",
-      "body": "HHS has until October 30 to confirm in writing that none of its own attorneys will represent an unaccompanied child in immigration court, under [a letter led by Senator Tammy Duckworth](https://immigration-analytics.com/2026/10/20/hhs-unaccompanied-children-lawyers/) and signed by five other Democratic senators. The letter targets the Unaccompanied Alien Children Legal Representation Division that HHS created inside its Office of the General Counsel on September 29, arriving as the nonprofit lawyer network covering more than 20,000 children has largely stopped since its contract expired July 31.",
-      "url": "https://immigration-analytics.com/2026/10/20/hhs-unaccompanied-children-lawyers/",
-      "icon": "📰",
-      "image_url": "https://napanow.org/wp-content/uploads/2026/05/Image_markup-780x470.jpg"
     }
   ]
 }
