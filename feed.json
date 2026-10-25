@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T06:11:24-05:00",
+  "generated_at": "2026-10-25T06:42:04-05:00",
   "posts": [
+    {
+      "id": "69b3c4b6-6d30-4750-9ed3-e1dc487c6543",
+      "kicker": "THE MIND'S EDGE",
+      "title": "Mental tasks paired with exercise boost strength and endurance",
+      "category": "Fitness",
+      "published_at": "2026-10-25T11:00:00-05:00",
+      "excerpt": "After 12 sessions, recreational athletes who added cognitive tasks before and after each gym session increased their total repetitions to failure by 50%, per mindbodygreen. They also reported lower…",
+      "body": "After 12 sessions, recreational athletes who added cognitive tasks before and after each gym session increased their total repetitions to failure by 50%, per [mindbodygreen](https://www.mindbodygreen.com/articles/combining-mental-tasks-with-exercise-boosts-strength-and-endurance-know-more-about). They also reported lower perceived effort, so the extra work felt easier.",
+      "url": "https://www.mindbodygreen.com/articles/combining-mental-tasks-with-exercise-boosts-strength-and-endurance-know-more-about",
+      "icon": "📰",
+      "image_url": "https://www.muscleandfitness.com/wp-content/uploads/2020/09/brain-training-exercise.jpg?quality=86&strip=all"
+    },
     {
       "id": "aa2deb42-3569-4708-bb2d-56e037cfa77c",
       "kicker": "The shortcut build",
