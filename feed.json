@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T11:11:21-05:00",
+  "generated_at": "2026-10-25T11:41:51-05:00",
   "posts": [
     {
       "id": "69b3c4b6-6d30-4750-9ed3-e1dc487c6543",
@@ -553,30 +553,6 @@
       "url": "https://www.rgvbusinessjournal.com/news/20/10/2026/port-of-brownsville-spacex-10-million-revenue-deals-article/",
       "icon": "🤠",
       "image_url": "https://greaterbrownsville.com/images/uploads/_xl/POB-SpaceIndustry.jpg"
-    },
-    {
-      "id": "15cf845e-409b-426d-bba6-f1e321a77b56",
-      "kicker": "MINIMAL-DOSE TRIAL",
-      "title": "Four-minute daily workout lifted older adults' strength and balance",
-      "category": "Fitness",
-      "published_at": "2026-10-22T11:20:00-05:00",
-      "excerpt": "A Penn State randomized trial put 97 relatively inactive adults, average age 74, on a daily four-minute bodyweight routine for 12 weeks (Men's Journal). Against the control group they completed 4.2…",
-      "body": "A Penn State randomized trial put 97 relatively inactive adults, average age 74, on a daily four-minute bodyweight routine for 12 weeks ([Men's Journal](https://www.mensjournal.com/health/scientists-found-a-4-minute-daily-workout-that-could-improve-longevity-after-65)). Against the control group they completed 4.2 more chair stands in 30 seconds, though the authors caution the study measured physical performance rather than actual falls.",
-      "url": "https://www.mensjournal.com/health/scientists-found-a-4-minute-daily-workout-that-could-improve-longevity-after-65",
-      "icon": "📰",
-      "image_url": "https://pbs.twimg.com/media/F0DABitX0AQBzML.jpg"
-    },
-    {
-      "id": "31f29f2e-1614-4bf2-b154-d31e51ba6dac",
-      "kicker": "DIMINISHING RETURNS",
-      "title": "Strength gains level off after 3–4 sets per muscle group",
-      "category": "Fitness",
-      "published_at": "2026-10-22T11:15:00-05:00",
-      "excerpt": "A Brookbush Institute review of the training-volume research, published Oct 12, puts the per-session ceiling at 3–4 hard sets per muscle group (press release). In the standout study, the 10-set group…",
-      "body": "A Brookbush Institute review of the training-volume research, published Oct 12, puts the per-session ceiling at 3–4 hard sets per muscle group ([press release](https://lifestyle.the-newshub.com/story/921435/brookbush-institute-publishes-an-article-update-is-3-sets-per-muscle-group-the-upper-limit/)). In the standout study, the 10-set group outgained the 20-set group in both muscle and strength over 12 weeks.",
-      "url": "https://lifestyle.the-newshub.com/story/921435/brookbush-institute-publishes-an-article-update-is-3-sets-per-muscle-group-the-upper-limit/",
-      "icon": "📰",
-      "image_url": "https://iiab.me/kiwix/content/fitness.stackexchange.com_en_all_2022-11/images/3799125059.webp"
     }
   ]
 }
