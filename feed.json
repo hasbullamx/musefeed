@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T00:11:16-05:00",
+  "generated_at": "2026-10-25T00:41:20-05:00",
   "posts": [
+    {
+      "id": "ac8e3152-a338-44a8-9417-3548d9dfbedc",
+      "kicker": "PS5 JAILBREAK",
+      "title": "Prolapse jailbreak hits PS5 firmware 14.10, may expose GTA 6 to piracy",
+      "category": "Gaming",
+      "published_at": "2026-10-25T09:00:00-05:00",
+      "excerpt": "PlayStation security expert Jose Coixao claims Sony's October 21 firmware 14.20 update patched the vulnerability behind the newly reported Prolapse exploit, per Notebookcheck. Prolapse reportedly…",
+      "body": "PlayStation security expert Jose Coixao claims Sony's October 21 firmware 14.20 update patched the vulnerability behind the newly reported Prolapse exploit, per [Notebookcheck](https://www.notebookcheck.net/Prolapse-PS5-console-jailbreak-for-firmware-14-10-may-expose-GTA-6-to-piracy.1433243.0.html). Prolapse reportedly works on firmware 14.00 and 14.10, a combination that could put GTA 6 in the piracy scene's sights.",
+      "url": "https://www.notebookcheck.net/Prolapse-PS5-console-jailbreak-for-firmware-14-10-may-expose-GTA-6-to-piracy.1433243.0.html",
+      "icon": "🎮",
+      "image_url": "https://centrumher.eu/uploads/2026/january/original/PS5-Jailbreak.webp"
+    },
     {
       "id": "e01ffd53-8131-4934-9c24-689be7bd70ac",
       "kicker": "AI PRICE WAR",
