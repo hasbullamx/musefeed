@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T14:11:16-05:00",
+  "generated_at": "2026-10-25T14:41:07-05:00",
   "posts": [
     {
       "id": "69b3c4b6-6d30-4750-9ed3-e1dc487c6543",
@@ -25,6 +25,18 @@
       "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd450-on-this-4k-gaming-pc-with-an-rtx-5070-ti-and-9800x3d-now-usd2-549-99-liquid-cooled-abs-stratos-ii-ruby-rig-comes-with-32gb-ddr5-and-a-2tb-ssd",
       "icon": "📰",
       "image_url": "https://www.yeahk.com/wp-content/uploads/2026/09/img_4529-scaled.jpg"
+    },
+    {
+      "id": "8b7cfcf9-cd0f-4c48-a09c-c25d4f16418a",
+      "kicker": "FREEZER AISLE GOLD",
+      "title": "Klondike and Reese's treats are $2 at Dollar General",
+      "category": "Deals",
+      "published_at": "2026-10-25T09:01:00-05:00",
+      "excerpt": "Klondike ice cream bars and Reese's frozen dessert sandwiches are $4 each when you buy two at Dollar General, per The Krazy Coupon Lady. The $2 digital coupon and a Fetch Rewards receipt upload bring…",
+      "body": "Klondike ice cream bars and Reese's frozen dessert sandwiches are $4 each when you buy two at Dollar General, per [The Krazy Coupon Lady](https://thekrazycouponlady.com/2026/10/25/klondike-and-reeses-frozen-treats-only-2-at-dollar-general-reg-4-50). The $2 digital coupon and a Fetch Rewards receipt upload bring the final cost to $4 for two, or $2 each.",
+      "url": "https://thekrazycouponlady.com/2026/10/25/klondike-and-reeses-frozen-treats-only-2-at-dollar-general-reg-4-50",
+      "icon": "🏷️",
+      "image_url": "https://townsquare.media/site/660/files/2026/02/attachment-gettyimages-1244040026-1.jpg?w=980&q=75"
     },
     {
       "id": "ac8e3152-a338-44a8-9417-3548d9dfbedc",
@@ -505,18 +517,6 @@
       "url": "https://ntxfrontporch.com/state-filing-details-500-million-manufacturing-project-near-alliance/",
       "icon": "🤠",
       "image_url": "https://wyomingstarnews.org/wp-content/uploads/2026/02/6978118fd3c7faef0eccf636.webp"
-    },
-    {
-      "id": "328aaa09-dd14-4e73-8e71-f035ee61ab27",
-      "kicker": "GAMING PC DEAL",
-      "title": "PowerSpec G764 gaming PC with Ryzen 7 9800X3D + RX 9070 XT cut by $850 at Micro Center",
-      "category": "Deals",
-      "published_at": "2026-10-22T14:15:00-05:00",
-      "excerpt": "The PowerSpec G764 pairs a Ryzen 7 9800X3D with a Radeon RX 9070 XT 16GB. It is in-store pickup only at Micro Center.",
-      "body": "The [PowerSpec G764](https://wccftech.com/micro-center-just-slashed-ryzen-9800x3d-rx-9070-xt-gaming-pc-by-850/) pairs a Ryzen 7 9800X3D with a Radeon RX 9070 XT 16GB.\nIt is in-store pickup only at Micro Center.",
-      "url": "https://wccftech.com/micro-center-just-slashed-ryzen-9800x3d-rx-9070-xt-gaming-pc-by-850/",
-      "icon": "🎮",
-      "image_url": "https://productimages.microcenter.com/711399_041152_02_front_comping.jpg"
     }
   ]
 }
