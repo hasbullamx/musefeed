@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T22:11:05-05:00",
+  "generated_at": "2026-10-24T22:41:07-05:00",
   "posts": [
+    {
+      "id": "e01ffd53-8131-4934-9c24-689be7bd70ac",
+      "kicker": "AI PRICE WAR",
+      "title": "Replit shifts $100M+ AI spend to OpenAI after 30% price cut",
+      "category": "AI",
+      "published_at": "2026-10-24T21:30:00-05:00",
+      "excerpt": "Anthropic declined to extend Replit's earlier discount. OpenAI is now the default for Replit Agent.",
+      "body": "Anthropic declined to extend Replit's earlier discount. [OpenAI is now the default for Replit Agent](https://aiweekly.co/alerts/replit-shifts-100m-ai-spend-to-openai-after-30-price-cut).",
+      "url": "https://aiweekly.co/alerts/replit-shifts-100m-ai-spend-to-openai-after-30-price-cut",
+      "icon": "🤖",
+      "image_url": "https://www.pcbuildadvisor.com/wp-content/uploads/2026/05/Replit-1024x576.jpg"
+    },
     {
       "id": "6dbe89bd-0901-4e9c-a8a9-2f089640a53b",
       "kicker": "ONE LEG AT A TIME",
