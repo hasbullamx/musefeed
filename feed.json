@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T08:41:59-05:00",
+  "generated_at": "2026-10-25T09:12:11-05:00",
   "posts": [
     {
       "id": "69b3c4b6-6d30-4750-9ed3-e1dc487c6543",
@@ -589,18 +589,6 @@
       "url": "https://www.newsbytesapp.com/news/science/anthropic-unveils-claude-duet-ai-agent/story",
       "icon": "🤖",
       "image_url": "https://static.dailyaibyai.news/images/ai-newsletter-2026-04-10-attempt-1.png"
-    },
-    {
-      "id": "7ebe1943-0f2c-4c70-9bca-7adc332f2dad",
-      "kicker": "BIG BEND WALL FIGHT",
-      "title": "Administration asks Supreme Court to revive Big Bend border wall",
-      "category": "Texas",
-      "published_at": "2026-10-22T08:45:00-05:00",
-      "excerpt": "The Justice Department filed an emergency request Wednesday asking the Supreme Court to lift Judge Kathleen Cardone's October 2 injunction halting border wall construction in Big Bend National Park…",
-      "body": "The Justice Department filed an emergency request Wednesday asking the Supreme Court to lift Judge Kathleen Cardone's October 2 injunction halting border wall construction in Big Bend National Park ([Media Selangor](https://mediaselangor.com/en/2026/10/402613)). The request disputes the ruling that DHS waivers from Kristi Noem and Markwayne Mullin exceeded their authority to set environmental laws aside for the build.",
-      "url": "https://mediaselangor.com/en/2026/10/402613",
-      "icon": "🤠",
-      "image_url": "https://jarayid.com/_next/image?url=https%3A%2F%2Fassets1.cbsnewsstatic.com%2Fhub%2Fi%2Fr%2F2026%2F08%2F20%2F8c01748c-39f5-4c4b-9fd7-77fb2e9fbc49%2Fthumbnail%2F1200x630%2Fe37e135fd835a769fa2d2a8598c7dd53%2Fgettyimages-2290131000.jpg&w=828&q=75"
     }
   ]
 }
