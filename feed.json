@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T09:12:11-05:00",
+  "generated_at": "2026-10-25T09:42:09-05:00",
   "posts": [
     {
       "id": "69b3c4b6-6d30-4750-9ed3-e1dc487c6543",
@@ -37,6 +37,18 @@
       "url": "https://www.notebookcheck.net/Prolapse-PS5-console-jailbreak-for-firmware-14-10-may-expose-GTA-6-to-piracy.1433243.0.html",
       "icon": "🎮",
       "image_url": "https://centrumher.eu/uploads/2026/january/original/PS5-Jailbreak.webp"
+    },
+    {
+      "id": "c16f1d6f-c1cc-4aaf-9cc5-6dedc6e9e184",
+      "kicker": "A QUIETER BORDER",
+      "title": "Southwest border crossings reach lowest annual level in U.S. history",
+      "category": "Immigration",
+      "published_at": "2026-10-25T08:44:03-05:00",
+      "excerpt": "CBP's preliminary fiscal 2026 tally, reported October 20, put southwest border apprehensions down 95% from October 1, 2025, through September 30, 2026, per The Star News Network. Nationwide…",
+      "body": "CBP's preliminary fiscal 2026 tally, reported October 20, put southwest border apprehensions down 95% from October 1, 2025, through September 30, 2026, per [The Star News Network](https://thestarnewsnetwork.com/2026/10/20/southwest-illegal-border-crossings-reach-lowest-level-for-one-year-in-u-s-history/). Nationwide encounters totaled 379,243, the lowest in agency history and 88% below fiscal 2023, according to CBP.",
+      "url": "https://thestarnewsnetwork.com/2026/10/20/southwest-illegal-border-crossings-reach-lowest-level-for-one-year-in-u-s-history/",
+      "icon": "📰",
+      "image_url": "https://imagecloud.thepaper.cn/thepaper/image/205/768/702.jpg"
     },
     {
       "id": "e01ffd53-8131-4934-9c24-689be7bd70ac",
@@ -565,30 +577,6 @@
       "url": "https://lifestyle.the-newshub.com/story/921435/brookbush-institute-publishes-an-article-update-is-3-sets-per-muscle-group-the-upper-limit/",
       "icon": "📰",
       "image_url": "https://iiab.me/kiwix/content/fitness.stackexchange.com_en_all_2022-11/images/3799125059.webp"
-    },
-    {
-      "id": "d0e9ac29-8b64-4282-ac4f-8768ca7d19e8",
-      "kicker": "FAST-TRACK SUIT",
-      "title": "Six legal groups sue to stop fast-tracked child asylum cases",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-22T09:20:00-05:00",
-      "excerpt": "Filed October 15 in Maryland federal court, the complaint says children in ORR custody are getting as little as 24 hours' notice before asylum interviews, with attorneys blocked from rescheduling…",
-      "body": "Filed October 15 in Maryland federal court, [the complaint](https://www.immdef.org/blog/thedoorvedlow-filing) says children in ORR custody are getting as little as 24 hours' notice before asylum interviews, with attorneys blocked from rescheduling even when double-booked. It also asks the court to vacate the order directing immigration judges to finish detained children's dockets by January 31, 2027.",
-      "url": "https://www.immdef.org/blog/thedoorvedlow-filing",
-      "icon": "📰",
-      "image_url": "https://migrantaffairs.info/wp-content/uploads/2026/03/US-Supreme-Court-migrant-asylum-case-450x300.webp"
-    },
-    {
-      "id": "10db33bf-843c-46f4-9faa-6b9a3f3a7c87",
-      "kicker": "ALWAYS-ON ASSISTANT",
-      "title": "Anthropic's Claude Duet takes on Meta's Muse and OpenAI's Dots",
-      "category": "AI",
-      "published_at": "2026-10-22T09:15:00-05:00",
-      "excerpt": "Claude Duet is in research preview on a waitlist as a standalone iOS and Android app and on the web for Pro and Max subscribers in the US. It monitors connected apps through the day and pings you…",
-      "body": "Claude Duet is in [research preview](https://www.newsbytesapp.com/news/science/anthropic-unveils-claude-duet-ai-agent/story) on a waitlist as a standalone iOS and Android app and on the web for Pro and Max subscribers in the US. It monitors connected apps through the day and pings you only when something needs you, from scheduling to dashboards and financial forecasts.",
-      "url": "https://www.newsbytesapp.com/news/science/anthropic-unveils-claude-duet-ai-agent/story",
-      "icon": "🤖",
-      "image_url": "https://static.dailyaibyai.news/images/ai-newsletter-2026-04-10-attempt-1.png"
     }
   ]
 }
