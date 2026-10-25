@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T02:11:04-05:00",
+  "generated_at": "2026-10-25T02:41:26-05:00",
   "posts": [
     {
       "id": "ac8e3152-a338-44a8-9417-3548d9dfbedc",
@@ -25,6 +25,18 @@
       "url": "https://aiweekly.co/alerts/replit-shifts-100m-ai-spend-to-openai-after-30-price-cut",
       "icon": "🤖",
       "image_url": "https://www.pcbuildadvisor.com/wp-content/uploads/2026/05/Replit-1024x576.jpg"
+    },
+    {
+      "id": "dfd97e1a-f4c1-4ce7-a6f7-a4c85e425eee",
+      "kicker": "KIMI PRICE CHECK",
+      "title": "Kimi's lower prices barely cut the bill in tests",
+      "category": "AI",
+      "published_at": "2026-10-24T20:33:00-05:00",
+      "excerpt": "Artificial Analysis put an Intelligence Index task at $1.98 with K3.1 Pro, against $2 for K3, despite a one-third cut in rates, per Search Engine Watch. The longer answers explain much of the gap:…",
+      "body": "Artificial Analysis put an Intelligence Index task at $1.98 with K3.1 Pro, against $2 for K3, despite a one-third cut in rates, per [Search Engine Watch](https://searchenginewatch.com/kimi-ai-token-price-cut-claude/). The longer answers explain much of the gap: K3.1 Pro used about 55,000 output tokens per task, against 48,000 for K3.",
+      "url": "https://searchenginewatch.com/kimi-ai-token-price-cut-claude/",
+      "icon": "🤖",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8d117030-f403-43f6-a48a-09fc33ee0be2/ChatGPT_Image_Jul_15__2025_at_02_09_08_PM.png?t=1752584975"
     },
     {
       "id": "6dbe89bd-0901-4e9c-a8a9-2f089640a53b",
