@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T10:11:18-05:00",
+  "generated_at": "2026-10-26T10:41:18-05:00",
   "posts": [
+    {
+      "id": "98624a29-26fb-48f7-8c52-ef1a0e7c891e",
+      "kicker": "THE RULEBOOK THINS",
+      "title": "DOL dismantles affirmative-action rules for federal contractors",
+      "category": "Federal workforce",
+      "published_at": "2026-10-26T10:30:00-05:00",
+      "excerpt": "The change lands today: the rule removing the regulations behind Executive Order 11246 takes effect on October 26, 2026. Contractors remain subject to federal, state, and local laws that prohibit…",
+      "body": "The change lands today: the [rule removing the regulations behind Executive Order 11246](https://www.mondaq.com/employee-rights-labour-relations/1856280/dol-dismantles-affirmative-action-rules-for-federal-contractors) takes effect on October 26, 2026. Contractors remain subject to federal, state, and local laws that prohibit discrimination.",
+      "url": "https://www.mondaq.com/employee-rights-labour-relations/1856280/dol-dismantles-affirmative-action-rules-for-federal-contractors",
+      "icon": "📰",
+      "image_url": "https://imgproxy.divecdn.com/nkekmbvkIAmIwHkFo9tHG48hiV7ry1rwkp7Uuf4YX0U/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUctNTE1MC5qcGc=.webp"
+    },
     {
       "id": "4628d5bc-8798-470c-b869-3971ee4bc5ec",
       "kicker": "NO CONDUCTOR NEEDED",
