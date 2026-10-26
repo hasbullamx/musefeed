@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T19:12:10-05:00",
+  "generated_at": "2026-10-25T19:42:09-05:00",
   "posts": [
     {
       "id": "69b3c4b6-6d30-4750-9ed3-e1dc487c6543",
@@ -469,18 +469,6 @@
       "url": "https://news.bloomberglaw.com/us-law-week/after-doge-cuts-irs-to-now-hire-about-1-000-for-civil-divisions",
       "icon": "📰",
       "image_url": "https://www.elepoch.com/_next/image?url=https%3A%2F%2Fimages.elepoch.com%2Fassets%2Fuploads%2F2026%2F09%2Fid80946-IRS.webp&w=384&q=75"
-    },
-    {
-      "id": "e81dde2f-800b-4a15-962e-7060e667d907",
-      "kicker": "CHEAPER DECISIONS",
-      "title": "OpenAI makes Decisions API generally available",
-      "category": "AI",
-      "published_at": "2026-10-22T19:20:00-05:00",
-      "excerpt": "Unite.AI puts the Decisions API on GPT-6 Luna at $0.10 per million input tokens, with no charge for output. It trades paragraphs for typed answers at up to 10x the speed of the Responses API.",
-      "body": "[Unite.AI](https://www.unite.ai/openai-makes-decisions-api-generally-available-with-gpt-6-luna/) puts the Decisions API on GPT-6 Luna at $0.10 per million input tokens, with no charge for output. It trades paragraphs for typed answers at up to 10x the speed of the Responses API.",
-      "url": "https://www.unite.ai/openai-makes-decisions-api-generally-available-with-gpt-6-luna/",
-      "icon": "🤖",
-      "image_url": "https://www.avrut.com/images/technologies/OpenAI-API.jpg"
     }
   ]
 }
