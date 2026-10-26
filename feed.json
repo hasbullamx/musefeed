@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T13:41:33-05:00",
+  "generated_at": "2026-10-26T14:11:58-05:00",
   "posts": [
+    {
+      "id": "dffa5fb5-38b2-44ca-b517-e1e74ed9eba2",
+      "kicker": "THE PORTABLE 5080",
+      "title": "Gigabyte RTX 5080 laptop drops $454 at Newegg",
+      "category": "PC hardware",
+      "published_at": "2026-10-26T14:05:07-05:00",
+      "excerpt": "The Gaming A16 Pro pairs the RTX 5080 with 32GB of memory and a 165Hz 16-inch display. That configuration is $2,195.99 at Newegg.",
+      "body": "The Gaming A16 Pro pairs the RTX 5080 with 32GB of memory and a 165Hz 16-inch display. That configuration is [$2,195.99 at Newegg](https://mixed-news.com/en/gigabyte-a16-pro-rtx-5080-32gb-newegg-deal/).",
+      "url": "https://mixed-news.com/en/gigabyte-a16-pro-rtx-5080-32gb-newegg-deal/",
+      "icon": "📰",
+      "image_url": "https://c1.neweggimages.com/productimage/nb640/34-233-611-36.jpg"
+    },
     {
       "id": "98624a29-26fb-48f7-8c52-ef1a0e7c891e",
       "kicker": "THE RULEBOOK THINS",
