@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T09:41:58-05:00",
+  "generated_at": "2026-10-26T10:11:18-05:00",
   "posts": [
+    {
+      "id": "4628d5bc-8798-470c-b869-3971ee4bc5ec",
+      "kicker": "NO CONDUCTOR NEEDED",
+      "title": "Microsoft open-sources Agensh; 1,024-agent result is for Pandoc",
+      "category": "AI",
+      "published_at": "2026-10-26T09:45:00-05:00",
+      "excerpt": "Microsoft open-sourced Agensh on October 24 under the MIT License, per NeoTeo. Its workers claim subtasks and share progress without a central orchestrator.",
+      "body": "Microsoft open-sourced Agensh on October 24 under the MIT License, per [NeoTeo](https://www.neoteo.com/en/microsoft-open-sourced-agensh-its-1024-agent-result-is-for-pandoc). Its workers claim subtasks and share progress without a central orchestrator.",
+      "url": "https://www.neoteo.com/en/microsoft-open-sourced-agensh-its-1024-agent-result-is-for-pandoc",
+      "icon": "🤖",
+      "image_url": "https://byteiota.com/wp-content/uploads/2026/08/microsoft-agent-framework-1-18-400x300.jpg"
+    },
     {
       "id": "4ae60c1d-a001-4dc9-bf01-0a28dd94ec26",
       "kicker": "LIGHT-WEIGHT LIFTING",
@@ -421,18 +433,6 @@
       "url": "https://www.olgn.news/seatrade-maritime-texas-lng-seeks-five-year-extension-for-brownsville-export-terminal/",
       "icon": "🤠",
       "image_url": "https://images-global.nhst.tech/image/L0h2L0JUTTluYWk1VjJRY0lnbExYcENBUFJybW1YR3hrL1dWWmxIT0FnTT0=/nhst/binary/4e984e60fe3cec34f9c902dcdae757c1"
-    },
-    {
-      "id": "e29d75b3-dbf3-4ee4-ae0d-46bdc599abb3",
-      "kicker": "FRIYAY, LITERALLY",
-      "title": "Free SBA workshop in Harlingen today, 10–11 AM",
-      "category": "Business",
-      "published_at": "2026-10-23T09:45:00-05:00",
-      "excerpt": "The SBA Lower Rio Grande Valley office is covering its loan programs, federal contracting certifications, and no-cost advising and mentoring in a single session. It is in person at 2422 E. Tyler…",
-      "body": "The SBA Lower Rio Grande Valley office is covering its loan programs, federal contracting certifications, and no-cost advising and mentoring in a single session. It is in person at 2422 E. Tyler Avenue, Suite E in Harlingen. Source: https://www.eventbrite.com/e/friyay-informational-session-sba-assistance-to-small-business-tickets-2003627847829",
-      "url": null,
-      "icon": "📰",
-      "image_url": "https://chambermaster.blob.core.windows.net/images/events/1828/17599/EventSNPImage_APRIL%2017TH%20(1).png"
     }
   ]
 }
