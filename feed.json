@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T21:41:42-05:00",
+  "generated_at": "2026-10-26T00:11:31-05:00",
   "posts": [
     {
       "id": "5b16b6eb-0cf9-482a-babe-2708c7bfe343",
@@ -445,30 +445,6 @@
       "url": "https://tech-insider.org/xojo-agentic-mode-5-tool-coding-wave-2026/",
       "icon": "🤖",
       "image_url": "https://substackcdn.com/image/fetch/$s_!iKQb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fb77f55-ad2c-4449-b033-b27ad62280ee_2848x1504.png"
-    },
-    {
-      "id": "ac460a99-d205-4007-b949-bc4caa6a655f",
-      "kicker": "Correction on the credential",
-      "title": "CSHO stack waits for 2027 hiring window",
-      "category": "Federal workforce",
-      "published_at": "2026-10-23T00:00:00-05:00",
-      "excerpt": "Brownsville postings checked October 22 name EHS years for entry safety roles, not the CSHO credential. The 12-course construction stack verified October 22 at $7,185 on teex.org with live-online…",
-      "body": "Brownsville postings checked October 22 name EHS years for entry safety roles, not the CSHO credential. The 12-course construction stack verified October 22 at $7,185 on teex.org with live-online sessions at the same price.",
-      "url": null,
-      "icon": "📰",
-      "image_url": "https://static.isms.online/app/uploads/2023/02/CISO-Skills-Gap2-768x368.png.webp"
-    },
-    {
-      "id": "11fb2886-ead7-43df-8e39-ce6419513176",
-      "kicker": "DATA CENTER POWER",
-      "title": "Christian backs Wright's call for responsible Texas data center growth",
-      "category": "Texas",
-      "published_at": "2026-10-22T22:15:00-05:00",
-      "excerpt": "Wright tied responsible data-center expansion to a $50 million Department of Energy bet on Texas grid resilience during a Tuesday Houston visit, as reported by EIN News. Christian wants developers to…",
-      "body": "Wright tied responsible data-center expansion to a $50 million Department of Energy bet on Texas grid resilience during a Tuesday Houston visit, as reported by [EIN News](https://www.einnews.com/pr_news/951589787/commissioner-christian-backs-energy-secretary-wright-s-call-for-responsible-texas-data-center-growth). Christian wants developers to fund their own reliable power, naming natural gas and nuclear, instead of pushing the cost onto ratepayers before the 90th Legislative Session.",
-      "url": "https://www.einnews.com/pr_news/951589787/commissioner-christian-backs-energy-secretary-wright-s-call-for-responsible-texas-data-center-growth",
-      "icon": "🤠",
-      "image_url": "https://static-secure.clapix.com/images/thumb260/1/117/933/1117933879.jpg?e=1788559199&h=httrdjwWuhSCepG38z1ONA"
     }
   ]
 }
