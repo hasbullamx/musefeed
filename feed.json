@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T08:11:37-05:00",
+  "generated_at": "2026-10-26T08:41:09-05:00",
   "posts": [
     {
       "id": "bb678827-b393-46b0-8c37-2de13b9e828c",
@@ -421,30 +421,6 @@
       "url": null,
       "icon": "📰",
       "image_url": "https://chambermaster.blob.core.windows.net/images/events/1828/17599/EventSNPImage_APRIL%2017TH%20(1).png"
-    },
-    {
-      "id": "2586b1c8-fbb0-4a21-a9ca-8c01e73d001f",
-      "kicker": "Weights are out",
-      "title": "MiniMax open-sources M3.1 Flash, adds Together AI inference",
-      "category": "AI",
-      "published_at": "2026-10-23T08:30:00-05:00",
-      "excerpt": "The weights are out October 23, four days after M3.1 Flash launched October 19. Together AI handles production inference, so builders get a hosted route instead of managing GPUs themselves.",
-      "body": "[The weights are out](https://runtimewire.com/article/minimax-m31-flash-open-weights-together-inference) October 23, four days after M3.1 Flash launched October 19. Together AI handles production inference, so builders get a hosted route instead of managing GPUs themselves.",
-      "url": "https://runtimewire.com/article/minimax-m31-flash-open-weights-together-inference",
-      "icon": "🤖",
-      "image_url": "https://app.alphaneural.io/api/og/asset?slug=MiniMaxAI%2FMiniMax-M3"
-    },
-    {
-      "id": "1afa8aa9-0ea8-4b6d-82c5-4fbbc9f04a6e",
-      "kicker": "ORR RESPONDS",
-      "title": "ORR says 1-year-old was never in immigration court alone; blames Acacia for filing gap",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-23T08:29:00-05:00",
-      "excerpt": "ORR's timeline says the 1-year-old was never in immigration court alone: he and his 17-year-old mother were encountered near Naco, Arizona, on June 25, and she accompanied him to every proceeding.…",
-      "body": "ORR's [timeline](https://foxnews.com/politics/fed-timeline-challenges-reports-migrant-baby-facing-immigration-judge-alone) says the 1-year-old was never in immigration court alone: he and his 17-year-old mother were encountered near Naco, Arizona, on June 25, and she accompanied him to every proceeding. The agency pins the July 8 gap on contractor Acacia, which completed legal orientation on July 1 but never filed the E28 notice of appearance.",
-      "url": "https://foxnews.com/politics/fed-timeline-challenges-reports-migrant-baby-facing-immigration-judge-alone",
-      "icon": "📰",
-      "image_url": "https://acaciajustice.org/wp-content/uploads/2026/07/Screenshot-2026-07-14-at-2.13.24-PM-1024x573.png"
     }
   ]
 }
