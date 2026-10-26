@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T05:41:40-05:00",
+  "generated_at": "2026-10-26T06:41:45-05:00",
   "posts": [
     {
       "id": "bb678827-b393-46b0-8c37-2de13b9e828c",
@@ -445,18 +445,6 @@
       "url": "https://foxnews.com/politics/fed-timeline-challenges-reports-migrant-baby-facing-immigration-judge-alone",
       "icon": "📰",
       "image_url": "https://acaciajustice.org/wp-content/uploads/2026/07/Screenshot-2026-07-14-at-2.13.24-PM-1024x573.png"
-    },
-    {
-      "id": "41ee702c-0349-4b21-81f0-91c1bcb19bda",
-      "kicker": "Old dog, new loop",
-      "title": "Xojo adds compiler loop for outside AI coding agents",
-      "category": "AI",
-      "published_at": "2026-10-23T06:38:26-05:00",
-      "excerpt": "Xojo 2026 Release 3 shipped October 20 with Agentic Mode, opening its compiler to outside coding agents. The loop detects the agent's edits, reloads the project, and hands back compiler errors for…",
-      "body": "Xojo 2026 Release 3 shipped October 20 with [Agentic Mode](https://tech-insider.org/xojo-agentic-mode-5-tool-coding-wave-2026/), opening its compiler to outside coding agents. The loop detects the agent's edits, reloads the project, and hands back compiler errors for the agent to revise until the build succeeds.",
-      "url": "https://tech-insider.org/xojo-agentic-mode-5-tool-coding-wave-2026/",
-      "icon": "🤖",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!iKQb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fb77f55-ad2c-4449-b033-b27ad62280ee_2848x1504.png"
     }
   ]
 }
