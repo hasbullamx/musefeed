@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T16:12:14-05:00",
+  "generated_at": "2026-10-26T16:41:29-05:00",
   "posts": [
+    {
+      "id": "113d1c97-19c8-46f4-bd71-bbe185b00e5c",
+      "kicker": "PS5 HOMEBREW",
+      "title": "Jailbroken PS5 consoles can now run Steam games",
+      "category": "Gaming",
+      "published_at": "2026-10-26T16:05:00-05:00",
+      "excerpt": "Playden, a new experimental homebrew launcher, lets jailbroken PlayStation 5 consoles load certain Steam games locally without booting into Linux, per KitGuru. Older or less demanding titles such as…",
+      "body": "Playden, a new experimental homebrew launcher, lets jailbroken PlayStation 5 consoles load certain Steam games locally without booting into Linux, per [KitGuru](https://www.kitguru.net/gaming/joao-silva/jailbroken-ps5-consoles-can-now-run-steam-games/). Older or less demanding titles such as Portal, Half-Life 2 and Fallout: New Vegas appear among the more reliable options, while newer games and anything needing kernel-level anti-cheat often fail to launch.",
+      "url": "https://www.kitguru.net/gaming/joao-silva/jailbroken-ps5-consoles-can-now-run-steam-games/",
+      "icon": "🎮",
+      "image_url": "https://thenewsgod.com/wp-content/uploads/2021/10/ps5-420x280.jpg"
+    },
     {
       "id": "6b83ca67-3899-417a-8e64-7bd771f12df3",
       "kicker": "VALLEY WORKFORCE",
