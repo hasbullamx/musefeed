@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T15:41:26-05:00",
+  "generated_at": "2026-10-26T16:12:14-05:00",
   "posts": [
     {
       "id": "6b83ca67-3899-417a-8e64-7bd771f12df3",
@@ -385,18 +385,6 @@
       "url": "https://www.technetbooks.com/2026/10/samsung-990-pro-and-9100-pro-ssd-deals.html",
       "icon": "📰",
       "image_url": "https://m.media-amazon.com/images/I/71OWtcxKgvL._AC_SX679_.jpg"
-    },
-    {
-      "id": "812535d7-d08d-474d-bf16-045bde534b7f",
-      "kicker": "SONY PULLS AHEAD",
-      "title": "PS5 jailbreakers race Sony's firmware before GTA VI",
-      "category": "PS5 jailbreak",
-      "published_at": "2026-10-23T16:07:00-05:00",
-      "excerpt": "Sony has shipped three PS5 firmware updates in five weeks, all outside the public Relapse jailbreak's reach, while Gezine's new 14.10 exploit stays private (TruViber). The scene is losing its stars:…",
-      "body": "Sony has shipped three PS5 firmware updates in five weeks, all outside the public Relapse jailbreak's reach, while Gezine's new 14.10 exploit stays private ([TruViber](https://truviber.com/article/ps5-jailbreakers-racing-sony-firmware-updates-gta-vi)). The scene is losing its stars: TheFloW quit PS5 work on Sep 15 after his last private hypervisor bug went to Sony.",
-      "url": "https://truviber.com/article/ps5-jailbreakers-racing-sony-firmware-updates-gta-vi",
-      "icon": "🎮",
-      "image_url": "https://images.cyber-amber.com/article-images/6a9eaa4935d67ab8feab155a.webp"
     }
   ]
 }
