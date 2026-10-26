@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T15:11:38-05:00",
+  "generated_at": "2026-10-26T15:41:26-05:00",
   "posts": [
+    {
+      "id": "6b83ca67-3899-417a-8e64-7bd771f12df3",
+      "kicker": "VALLEY WORKFORCE",
+      "title": "Valley manufacturers need more skilled workers to fuel growth",
+      "category": "Business",
+      "published_at": "2026-10-26T15:05:00-05:00",
+      "excerpt": "A manufacturing roundtable hosted by the Pharr Economic Development Corp. examined how the Valley can prepare for an industry increasingly shaped by automation and artificial intelligence.…",
+      "body": "A [manufacturing roundtable hosted by the Pharr Economic Development Corp.](https://www.rgvbusinessjournal.com/news/26/10/2026/rgv-manufacturing-workforce-shortage-expansion-article/) examined how the Valley can prepare for an industry increasingly shaped by automation and artificial intelligence. Manufacturing accounts for about 4% of the Valley's economy, leaving a limited pool of experienced workers as companies expand, according to Mike Willis of the South Texas Manufacturers Association.",
+      "url": "https://www.rgvbusinessjournal.com/news/26/10/2026/rgv-manufacturing-workforce-shortage-expansion-article/",
+      "icon": "📰",
+      "image_url": "https://pennbizreport.com/wp-content/uploads/2022/08/shutterstock_539932939.jpg"
+    },
     {
       "id": "dffa5fb5-38b2-44ca-b517-e1e74ed9eba2",
       "kicker": "THE PORTABLE 5080",
