@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T17:11:20-05:00",
+  "generated_at": "2026-10-26T17:42:05-05:00",
   "posts": [
     {
       "id": "113d1c97-19c8-46f4-bd71-bbe185b00e5c",
@@ -385,18 +385,6 @@
       "url": "https://wisevoter.com/world/us/2026/10/23/github-updates-hydrafusion-ai-copilot",
       "icon": "🤖",
       "image_url": "https://devops.com/wp-content/uploads/2026/09/github_hydrafusion_770x330.jpg"
-    },
-    {
-      "id": "dbf1d6ad-89fd-4e4b-9b26-ca29b1687445",
-      "kicker": "SSD PRICE",
-      "title": "Samsung 990 Pro 2TB drops to $409.99, 36% off on Amazon",
-      "category": "PC hardware",
-      "published_at": "2026-10-23T17:15:00-05:00",
-      "excerpt": "Amazon has the Samsung 990 PRO 2TB at $409.99, down from $639.99, per Technetbook's deal roundup. That's still well above your buy zone, so today is a market check rather than a trigger.",
-      "body": "Amazon has the Samsung 990 PRO 2TB at $409.99, down from $639.99, per [Technetbook's deal roundup](https://www.technetbooks.com/2026/10/samsung-990-pro-and-9100-pro-ssd-deals.html). That's still well above your buy zone, so today is a market check rather than a trigger.",
-      "url": "https://www.technetbooks.com/2026/10/samsung-990-pro-and-9100-pro-ssd-deals.html",
-      "icon": "📰",
-      "image_url": "https://m.media-amazon.com/images/I/71OWtcxKgvL._AC_SX679_.jpg"
     }
   ]
 }
