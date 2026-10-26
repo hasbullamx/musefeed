@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T14:11:58-05:00",
+  "generated_at": "2026-10-26T14:41:21-05:00",
   "posts": [
     {
       "id": "dffa5fb5-38b2-44ca-b517-e1e74ed9eba2",
@@ -13,6 +13,18 @@
       "url": "https://mixed-news.com/en/gigabyte-a16-pro-rtx-5080-32gb-newegg-deal/",
       "icon": "📰",
       "image_url": "https://c1.neweggimages.com/productimage/nb640/34-233-611-36.jpg"
+    },
+    {
+      "id": "bcaadff8-dc7d-45a7-b2da-25f48da5cc24",
+      "kicker": "ONE CARD, TWO CLUBS",
+      "title": "Walmart's $120 bundle takes on Prime",
+      "category": "Deals",
+      "published_at": "2026-10-26T14:05:00-05:00",
+      "excerpt": "Published Oct 26, 2026, 2:05 PM Walmart now offers Walmart+ and Sam's Club Plus together for $120 a year, against $139 a year for Amazon Prime. A streaming option comes with the bundle.",
+      "body": "Published Oct 26, 2026, 2:05 PM Walmart now offers Walmart+ and Sam's Club Plus together for [$120 a year](https://www.pymnts.com/walmart-profile/2026/walmart-takes-on-prime-with-120-subscription-bundle/), against $139 a year for Amazon Prime. A streaming option comes with the bundle.",
+      "url": "https://www.pymnts.com/walmart-profile/2026/walmart-takes-on-prime-with-120-subscription-bundle/",
+      "icon": "🏷️",
+      "image_url": "https://i.ebayimg.com/images/g/rYkAAOSw5ARnNRLd/s-l400.jpg"
     },
     {
       "id": "98624a29-26fb-48f7-8c52-ef1a0e7c891e",
@@ -373,30 +385,6 @@
       "url": "https://truviber.com/article/ps5-jailbreakers-racing-sony-firmware-updates-gta-vi",
       "icon": "🎮",
       "image_url": "https://images.cyber-amber.com/article-images/6a9eaa4935d67ab8feab155a.webp"
-    },
-    {
-      "id": "44d22a57-09c1-4dd1-b677-c73eb5fa9440",
-      "kicker": "FUEL NOT MAGIC",
-      "title": "Extra carbs built no extra muscle in trained men",
-      "category": "Fitness",
-      "published_at": "2026-10-23T14:16:00-05:00",
-      "excerpt": "Twenty trained men spent eight weeks on each supplement, with the carb version adding about 485 kcal a day. Muscle size, lean mass, squat and knee-extension strength showed no significant differences…",
-      "body": "Twenty trained men [spent eight weeks on each supplement](https://macrosmeasure.com/blog/do-you-need-carbs-to-build-muscle-what-the-2026-crossover-trial-found-in-trained-men), with the carb version adding about 485 kcal a day. Muscle size, lean mass, squat and knee-extension strength showed no significant differences between 30g protein plus ~54g carbs and 30g protein plus 4g carbs.",
-      "url": "https://macrosmeasure.com/blog/do-you-need-carbs-to-build-muscle-what-the-2026-crossover-trial-found-in-trained-men",
-      "icon": "📰",
-      "image_url": "https://trainsane.ch/wp-content/uploads/2013/09/PWO-CarbCalc-600x600.jpg"
-    },
-    {
-      "id": "700f0eee-4384-477d-a0d6-1fec9b7bc9f4",
-      "kicker": "HALF-PRICE CHALLENGER",
-      "title": "Kimi K3.1 Pro nearly matches Claude Opus 5.5, weights by Nov 4",
-      "category": "AI",
-      "published_at": "2026-10-23T14:15:00-05:00",
-      "excerpt": "It is live today across Kimi's apps and API with a 1M-token context window (madrobot.blog). Moonshot lists it at $2 per million input tokens and $10 per million output, half the price of Claude Opus…",
-      "body": "It is live today across Kimi's apps and API with a 1M-token context window ([madrobot.blog](https://madrobot.blog/2026/10/23/kimi-k3-1-pro-moonshot-open-weight-nearly-matches-claude-opus-5-5-coding/)). Moonshot lists it at $2 per million input tokens and $10 per million output, half the price of Claude Opus 5.5.",
-      "url": "https://madrobot.blog/2026/10/23/kimi-k3-1-pro-moonshot-open-weight-nearly-matches-claude-opus-5-5-coding/",
-      "icon": "🤖",
-      "image_url": "https://robocikowo.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fjedjeeny%2Fproduction%2Fa35adb0b9f85e6f275b368d39e628490c91b9011-2304x1296.png%3Fw%3D600%26h%3D340&w=828&q=75&dpl=dpl_JBjEX4PTFjQ76d5wScFtfFvw1piM"
     }
   ]
 }
