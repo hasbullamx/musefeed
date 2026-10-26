@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T02:11:18-05:00",
+  "generated_at": "2026-10-26T02:41:17-05:00",
   "posts": [
+    {
+      "id": "bb678827-b393-46b0-8c37-2de13b9e828c",
+      "kicker": "THE PAPERWORK SHIFT",
+      "title": "ORR proposes major health-form changes for unaccompanied children",
+      "category": "Immigration",
+      "published_at": "2026-10-26T02:32:16-05:00",
+      "excerpt": "The proposal folds the serious-procedure form into ORR's medical and dental collection, per the proposal. Limited health information could also go to DHS when a child with ongoing health needs leaves…",
+      "body": "The proposal folds the serious-procedure form into ORR's medical and dental collection, per [the proposal](https://inusnews.com/immigration-proposal-health-form-changes-children/). Limited health information could also go to DHS when a child with ongoing health needs leaves custody for DHS-led repatriation, for continuity of care.",
+      "url": "https://inusnews.com/immigration-proposal-health-form-changes-children/",
+      "icon": "📰",
+      "image_url": "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=4IaLbf_1E9EkiLW00"
+    },
     {
       "id": "5b16b6eb-0cf9-482a-babe-2708c7bfe343",
       "kicker": "THE WALK-BACK",
