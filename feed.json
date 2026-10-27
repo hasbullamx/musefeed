@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T10:41:28-05:00",
+  "generated_at": "2026-10-27T11:11:56-05:00",
   "posts": [
+    {
+      "id": "744a350e-0c0e-4e14-a099-f0e719bbd5a9",
+      "kicker": "The 24-month test",
+      "title": "SBA clarifies 7(a) acquisition rules",
+      "category": "Business",
+      "published_at": "2026-10-27T14:05:00-05:00",
+      "excerpt": "The SBA clarified that people who have not been employees for 24 months cannot become the largest shareholder in an employee buyout. More than 250 lenders are testing the Intelligent Capital Access…",
+      "body": "The SBA clarified that [people who have not been employees for 24 months](https://colemanreport.com/sba-hot-topic-tuesday-sba-clarifies-acquisition-rules-corrects-7a-guaranty-fees-and-expands-icap/) cannot become the largest shareholder in an employee buyout. More than 250 lenders are testing the Intelligent Capital Access Platform, which provides earlier eligibility and fraud checks.",
+      "url": "https://colemanreport.com/sba-hot-topic-tuesday-sba-clarifies-acquisition-rules-corrects-7a-guaranty-fees-and-expands-icap/",
+      "icon": "📰",
+      "image_url": "https://www.shutterstock.com/?mase_doc_id=8893144573351479288"
+    },
     {
       "id": "54f8e946-e5d4-4df6-89e8-c21160432137",
       "kicker": "One stage down",
@@ -361,18 +373,6 @@
       "url": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
       "icon": "📰",
       "image_url": "https://article-images.tldrdaily.news/tldr-article-images/3KSQGrECDm7Nafh46.webp"
-    },
-    {
-      "id": "81665964-7ba1-4e35-a295-9f371a79b4e2",
-      "kicker": "LAPTOP SALE",
-      "title": "Woot slashes laptops, plus an extra 10% off",
-      "category": "PC hardware",
-      "published_at": "2026-10-24T11:00:00-05:00",
-      "excerpt": "Woot stacks an extra 10% off laptop prices at checkout with code TENOFFLAPTOP, per HotHardware. The Alienware 15 lands at $1,394.99 once that code is applied.",
-      "body": "Woot stacks an extra 10% off laptop prices at checkout with code TENOFFLAPTOP, per [HotHardware](https://hothardware.com/news/alienware-hp-laptops-slashed-woot-plus-extra-10-percent-off). The Alienware 15 lands at $1,394.99 once that code is applied.",
-      "url": "https://hothardware.com/news/alienware-hp-laptops-slashed-woot-plus-extra-10-percent-off",
-      "icon": "🏷️",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/5rGxPMgYE7mr7XUx5HqfLd-1280-80.jpg"
     }
   ]
 }
