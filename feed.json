@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T22:11:45-05:00",
+  "generated_at": "2026-10-26T22:41:48-05:00",
   "posts": [
+    {
+      "id": "b4918cbf-ed92-47f0-94e1-1acfd656246e",
+      "kicker": "CHEAPER CODING",
+      "title": "GPT-6.1 Terra is now in GitHub Copilot",
+      "category": "AI",
+      "published_at": "2026-10-26T22:21:39-05:00",
+      "excerpt": "GitHub says the model is built for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol, per GitHub. It is open to Copilot Pro, Pro+, Max, Business, and Enterprise users, with a…",
+      "body": "GitHub says the model is built for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol, per [GitHub](https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot/). It is open to Copilot Pro, Pro+, Max, Business, and Enterprise users, with a gradual rollout.",
+      "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot/",
+      "icon": "🤖",
+      "image_url": "https://github.blog/wp-content/uploads/2023/02/copilot-header.png?resize=1600%2C840"
+    },
     {
       "id": "ba6f1137-cf45-476b-aa16-4fe3ab5e6419",
       "kicker": "MEMORY SQUEEZE",
