@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T08:11:25-05:00",
+  "generated_at": "2026-10-27T08:41:29-05:00",
   "posts": [
     {
       "id": "54f8e946-e5d4-4df6-89e8-c21160432137",
@@ -373,30 +373,6 @@
       "url": "https://dealseek.com/shopping-guides/dollar-general-deals-october24",
       "icon": "🏷️",
       "image_url": "https://www.rli.uk.com/wp-content/uploads/2020/12/Dollar-General-1536x798.jpg"
-    },
-    {
-      "id": "4edd302a-1ed0-4742-b6c2-028791c8ee9a",
-      "kicker": "AI SAFETY",
-      "title": "Moonshot curbs hacking ability in new Kimi model",
-      "category": "AI",
-      "published_at": "2026-10-24T08:30:00-05:00",
-      "excerpt": "Moonshot removed cyber-related data from Kimi K3.1 Pro's training corpus and reinforcement-learning environments while keeping general coding skills, with Reuters reporting the open weights still set…",
-      "body": "Moonshot removed cyber-related data from Kimi K3.1 Pro's training corpus and reinforcement-learning environments while keeping general coding skills, with [Reuters reporting](https://965wtou.com/2026/10/24/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-ai-powered-cyberattacks/) the open weights still set for November 4. Its internal controlled test scored the curbed model at 81.0% on finding and exploiting vulnerabilities versus 90.5% for the version without the reduction, a result not yet independently verified.",
-      "url": "https://965wtou.com/2026/10/24/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-ai-powered-cyberattacks/",
-      "icon": "🤖",
-      "image_url": "https://public.bnbstatic.com/static/content/square/images/6dc1a67d4bbb405980c79604cacc8dcb.jpg"
-    },
-    {
-      "id": "d2771657-da8c-4e1a-824a-8e2d8c47b92b",
-      "kicker": "PREBUILT DEAL",
-      "title": "RTX 5060 Ti build with 16GB RAM and 1TB SSD is $1,149 at Newegg",
-      "category": "PC hardware",
-      "published_at": "2026-10-24T08:13:00-05:00",
-      "excerpt": "The discount is $250 off the Stormcraft desktop, per TweakTown. Under the hood, it pairs an Intel i5-14400F with the RTX 5060 Ti 8GB.",
-      "body": "The discount is $250 off the Stormcraft desktop, per [TweakTown](https://www.tweaktown.com/news/114269/this-rtx-5060-ti-8gb-build-with-16gb-of-ram-and-a-1tb-ssd-for-dollars1149-at-newegg-eases-the-wallet-pain/index.html?utm_source=rss&utm_medium=feed&utm_campaign=news-mf). Under the hood, it pairs an Intel i5-14400F with the RTX 5060 Ti 8GB.",
-      "url": "https://www.tweaktown.com/news/114269/this-rtx-5060-ti-8gb-build-with-16gb-of-ram-and-a-1tb-ssd-for-dollars1149-at-newegg-eases-the-wallet-pain/index.html?utm_source=rss&utm_medium=feed&utm_campaign=news-mf",
-      "icon": "🏷️",
-      "image_url": "https://c1.neweggimages.com/productimage/nb640/B11ND2604290GFJ3LF9.jpg"
     }
   ]
 }
