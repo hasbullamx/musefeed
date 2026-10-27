@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T18:42:09-05:00",
+  "generated_at": "2026-10-26T19:12:09-05:00",
   "posts": [
     {
       "id": "113d1c97-19c8-46f4-bd71-bbe185b00e5c",
@@ -385,18 +385,6 @@
       "url": "https://www.theflightdeal.com/2026/10/23/american-dallas-fort-lauderdale-and-vice-versa-109-basic-economy-219-regular-economy-roundtrip-including-all-taxes/",
       "icon": "🏷️",
       "image_url": "https://s24806.pcdn.co/wp-content/uploads/2017/09/american-787-940x436.jpg"
-    },
-    {
-      "id": "03a27140-1d91-4d03-9ff3-bf293797c728",
-      "kicker": "COPILOT UPDATE",
-      "title": "GitHub updates HydraFusion AI for Copilot users",
-      "category": "AI",
-      "published_at": "2026-10-23T19:12:00-05:00",
-      "excerpt": "GitHub updated its HydraFusion AI orchestration for Copilot to draw from an expanded model pool including Claude Opus 5.5, GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna, plus a new Max option for demanding…",
-      "body": "GitHub updated its HydraFusion AI orchestration for Copilot to draw from an expanded model pool including Claude Opus 5.5, GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna, plus a new Max option for demanding builds ([Wisevoter](https://wisevoter.com/world/us/2026/10/23/github-updates-hydrafusion-ai-copilot)). The Cascade and Critique workflows add judging and parallel-model review steps inside VS Code, the Copilot app and CLI for paid plans with previews enabled.",
-      "url": "https://wisevoter.com/world/us/2026/10/23/github-updates-hydrafusion-ai-copilot",
-      "icon": "🤖",
-      "image_url": "https://devops.com/wp-content/uploads/2026/09/github_hydrafusion_770x330.jpg"
     }
   ]
 }
