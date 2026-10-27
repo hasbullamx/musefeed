@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T06:11:41-05:00",
+  "generated_at": "2026-10-27T06:43:44-05:00",
   "posts": [
+    {
+      "id": "54f8e946-e5d4-4df6-89e8-c21160432137",
+      "kicker": "One stage down",
+      "title": "Super Heavy tested for Flight 15",
+      "category": "Space",
+      "published_at": "2026-10-27T11:05:00-05:00",
+      "excerpt": "SpaceX completed a full-duration, 33-engine static fire of the Super Heavy booster for Flight 15 on October 25 at Starbase, Texas. The six-engine Starship upper stage still has its own full-duration…",
+      "body": "SpaceX completed a [full-duration, 33-engine static fire](https://aviationweek.com/space/launch-vehicles-propulsion/super-heavy-tested-flight-15) of the Super Heavy booster for Flight 15 on October 25 at Starbase, Texas. The six-engine Starship upper stage still has its own full-duration static firing pending.",
+      "url": "https://aviationweek.com/space/launch-vehicles-propulsion/super-heavy-tested-flight-15",
+      "icon": "🚀",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/08/25/e0d8e678-b67d-4232-b73a-f9182ec37979/thumbnail/640x907/5803a089a8286ecdf1fe15d7d02d3cea/super-heavy.jpg#"
+    },
     {
       "id": "86b124a7-555c-4aaf-8339-40c497924487",
       "kicker": "No download button",
@@ -385,18 +397,6 @@
       "url": "https://www.tweaktown.com/news/114269/this-rtx-5060-ti-8gb-build-with-16gb-of-ram-and-a-1tb-ssd-for-dollars1149-at-newegg-eases-the-wallet-pain/index.html?utm_source=rss&utm_medium=feed&utm_campaign=news-mf",
       "icon": "🏷️",
       "image_url": "https://c1.neweggimages.com/productimage/nb640/B11ND2604290GFJ3LF9.jpg"
-    },
-    {
-      "id": "6791d177-2d98-4531-93d7-c6b18781524c",
-      "kicker": "CRANES OVER BROWNSVILLE",
-      "title": "Brownsville's building tally hits 132 projects",
-      "category": "Texas",
-      "published_at": "2026-10-24T06:38:44-05:00",
-      "excerpt": "Zabalist's October report, refreshed Oct 24, draws that tally from Texas Department of Licensing and Regulation records (Zabalist). More than 24 of them are estimated to open in the next 120 days.",
-      "body": "Zabalist's October report, refreshed Oct 24, draws that tally from Texas Department of Licensing and Regulation records ([Zabalist](https://www.zabalist.com/reports/city/brownsville)). More than 24 of them are estimated to open in the next 120 days.",
-      "url": "https://www.zabalist.com/reports/city/brownsville",
-      "icon": "🤠",
-      "image_url": "https://www.protexasindustry.com/public/uploads/2026/02/04/47573838e7cf109899577b578aa17bfd.png"
     }
   ]
 }
