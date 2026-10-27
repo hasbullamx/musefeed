@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T15:41:29-05:00",
+  "generated_at": "2026-10-27T16:13:09-05:00",
   "posts": [
+    {
+      "id": "a0f255a0-da32-4261-a33a-132542c4ceea",
+      "kicker": "Three days only",
+      "title": "Save $4 on Maybelline at Dollar General",
+      "category": "Deals",
+      "published_at": "2026-10-27T16:11:10-05:00",
+      "excerpt": "From October 29 to 31, Dollar General takes $4 off a $12 or more Maybelline purchase. Two Tattoo Studio eyeliners reach the threshold for $12, down from $16 for the pair.",
+      "body": "From October 29 to 31, [Dollar General takes $4 off](https://thekrazycouponlady.com/2026/10/25/save-4-on-your-12-maybelline-cosmetics-purchase-at-dollar-general) a $12 or more Maybelline purchase. Two Tattoo Studio eyeliners reach the threshold for $12, down from $16 for the pair.",
+      "url": "https://thekrazycouponlady.com/2026/10/25/save-4-on-your-12-maybelline-cosmetics-purchase-at-dollar-general",
+      "icon": "🏷️",
+      "image_url": "https://www.krogerkrazy.com/wp-content/uploads/2018/02/27744238_10154936044857191_1477905883_o.jpg"
+    },
     {
       "id": "bf6e8a02-b2e6-4f6a-bd7f-62b0170dbcf9",
       "kicker": "No API, no problem",
