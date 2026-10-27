@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T13:41:25-05:00",
+  "generated_at": "2026-10-27T14:11:28-05:00",
   "posts": [
     {
       "id": "744a350e-0c0e-4e14-a099-f0e719bbd5a9",
@@ -349,18 +349,6 @@
       "url": "https://www.reuters.com/legal/government/detained-migrants-have-no-constitutional-right-bond-hearings-us-court-rules-2026-10-23/",
       "icon": "📰",
       "image_url": "https://heritagereview.com/wp-content/uploads/2026/07/fifth-circuit-rules-illegal-immigrants-have-no.webp"
-    },
-    {
-      "id": "4d7a48bb-a6f1-43c8-ad1a-f9ea1379894c",
-      "kicker": "CHEAPER, NOT WISER",
-      "title": "DeepSeek Flash improves coding and cost, still lags on facts",
-      "category": "AI",
-      "published_at": "2026-10-24T13:45:00-05:00",
-      "excerpt": "Artificial Analysis puts DeepSeek V4.1 Flash 1017 at $0.26 per benchmark task, down from $0.40 for its predecessor. Its Terminal-Bench score rose from 27% to 34%, though its factual-reliability score…",
-      "body": "Artificial Analysis puts DeepSeek V4.1 Flash 1017 at $0.26 per benchmark task, down from $0.40 for its predecessor. Its Terminal-Bench score rose from 27% to 34%, though its factual-reliability score of 5 still trails Claude Opus 5.5 at 46, per [WinBuzzer](https://winbuzzer.com/2026/10/24/deepseeks-flash-ai-improves-coding-but-still-lags-on-facts-xcxwbn/).",
-      "url": "https://winbuzzer.com/2026/10/24/deepseeks-flash-ai-improves-coding-but-still-lags-on-facts-xcxwbn/",
-      "icon": "🤖",
-      "image_url": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0Njc3ODYyMy9vcmlnaW5hbF81NzNjMmIyZDI0Mjk5ZmJiODY1ODNjMTA5YmNiYWZiMy5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjEyMDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0="
     }
   ]
 }
