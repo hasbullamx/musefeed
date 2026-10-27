@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T00:11:41-05:00",
+  "generated_at": "2026-10-27T00:41:35-05:00",
   "posts": [
+    {
+      "id": "39463a87-ea40-46e7-8a49-eaca31ad8b12",
+      "kicker": "Memory squeeze, quantified",
+      "title": "PC shipments fell 20.1% in Q3 2026",
+      "category": "PC hardware",
+      "published_at": "2026-10-27T00:19:20-05:00",
+      "excerpt": "Only 62.7 million desktops, notebooks, and workstations shipped in the third quarter, a 20.1 percent decline from a year earlier, according to preliminary figures from IDC. AI data centers are…",
+      "body": "Only 62.7 million desktops, notebooks, and workstations shipped in the third quarter, a 20.1 percent decline from a year earlier, according to [preliminary figures from IDC](https://basic-tutorials.com/news/pc-market-plummets-20-percent-in-the-third-quarter-of-2026/). AI data centers are absorbing much of the DRAM and NAND production that would otherwise go into PCs.",
+      "url": "https://basic-tutorials.com/news/pc-market-plummets-20-percent-in-the-third-quarter-of-2026/",
+      "icon": "📰",
+      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2026/09/CyberPowerPC-RTX-5070-Gaming-PC-1599.jpg"
+    },
     {
       "id": "b4918cbf-ed92-47f0-94e1-1acfd656246e",
       "kicker": "CHEAPER CODING",
@@ -373,18 +385,6 @@
       "url": "https://www.technology.org/2026/10/23/spacex-starship-flight-15-ship-booster-tower-catch-november/",
       "icon": "🤠",
       "image_url": "https://noticiadireto.rf.gd/wp-content/uploads/2024/10/SpaceX-da-Starship-noticias-direto-ultimas-noticias.png"
-    },
-    {
-      "id": "ecafa61b-7275-4e68-b91d-c1a058e3c7a0",
-      "kicker": "NINTH CIRCUIT ARGUMENT",
-      "title": "No ruling yet on bid to scrap 40-year-old UAC safeguards",
-      "category": "ORR / UAC",
-      "published_at": "2026-10-24T00:23:00-05:00",
-      "excerpt": "On October 22, Justice Department lawyers asked Ninth Circuit judges in Pasadena to dissolve the Perez-Funez injunction that requires agents to advise unaccompanied children of their rights before…",
-      "body": "On October 22, Justice Department lawyers asked Ninth Circuit judges in Pasadena to dissolve the Perez-Funez injunction that requires agents to advise unaccompanied children of their rights before accepting voluntary departure, in argument [detailed by Immigration Analytics](https://immigration-analytics.com/2026/10/23/perez-funez-injunction-ninth-circuit/) from Courthouse News' October 22 reporting (\"Feds ask Ninth Circuit to scrap 40-year-old safeguards for unaccompanied minor migrants\"). The panel of Judges Patrick Bumatay, Lawrence VanDyke, and Salvador Mendoza Jr. did not signal how it would rule.",
-      "url": "https://immigration-analytics.com/2026/10/23/perez-funez-injunction-ninth-circuit/",
-      "icon": "📰",
-      "image_url": "https://www.zgst.ai/_next/image?url=https%3A%2F%2Ffrfcbxwttxxrzumfoslt.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fstory-images%2Fstories%2F2026%2F09%2F3edd3625ff75c6f4d149d46aa79ec6a5000d32ac64fe768f453ad20e08f59e8c.jpg&w=384&q=75"
     }
   ]
 }
