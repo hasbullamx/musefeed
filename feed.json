@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T21:41:46-05:00",
+  "generated_at": "2026-10-26T22:11:45-05:00",
   "posts": [
     {
       "id": "ba6f1137-cf45-476b-aa16-4fe3ab5e6419",
@@ -373,18 +373,6 @@
       "url": "https://immigration-analytics.com/2026/10/23/perez-funez-injunction-ninth-circuit/",
       "icon": "📰",
       "image_url": "https://www.zgst.ai/_next/image?url=https%3A%2F%2Ffrfcbxwttxxrzumfoslt.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fstory-images%2Fstories%2F2026%2F09%2F3edd3625ff75c6f4d149d46aa79ec6a5000d32ac64fe768f453ad20e08f59e8c.jpg&w=384&q=75"
-    },
-    {
-      "id": "f217bd93-82a5-45cb-ae65-7a03768ebf3d",
-      "kicker": "DEFERRED RESIGNATION",
-      "title": "Deferred resignation authority is now formally on the books",
-      "category": "Federal workforce",
-      "published_at": "2026-10-23T21:50:00-05:00",
-      "excerpt": "The October 19 Federal Register finalizes rules giving agencies broad authority to use extended administrative leave for deferred resignation. New deferred-resignation leave is capped at 12 weeks per…",
-      "body": "The October 19 Federal Register finalizes rules giving agencies broad authority to use extended administrative leave for deferred resignation. New deferred-resignation leave is capped at 12 weeks per instance, a step down from last year, when some employees stayed on paid leave for six months or more.",
-      "url": null,
-      "icon": "📰",
-      "image_url": "https://www.hindustantimes.com/ht-img/img/2025/01/30/1600x900/Trump-Trump-2-0-0_1738210406277_1738210430461.jpg"
     }
   ]
 }
