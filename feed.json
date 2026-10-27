@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T20:42:00-05:00",
+  "generated_at": "2026-10-26T21:12:14-05:00",
   "posts": [
+    {
+      "id": "ba6f1137-cf45-476b-aa16-4fe3ab5e6419",
+      "kicker": "MEMORY SQUEEZE",
+      "title": "Samsung Display faces profit squeeze as Apple, Samsung cut orders",
+      "category": "PC hardware",
+      "published_at": "2026-10-26T18:14:00-05:00",
+      "excerpt": "Published Oct 26, 2026, 6:14 PM; Samsung Electronics and Apple are scaling back smartphone component orders as soaring memory prices squeeze margins, threatening Samsung Display's fourth-quarter…",
+      "body": "Published Oct 26, 2026, 6:14 PM; Samsung Electronics and Apple are scaling back smartphone component orders as soaring memory prices squeeze margins, threatening [Samsung Display's](https://m.koreaherald.com/article/10914960) fourth-quarter earnings. Samsung's mobile division asked suppliers to trim fourth-quarter component deliveries by 20 to 30 percent, while Apple cut October orders for certain iPhone 18 Pro and Pro Max parts by 15 to 20 percent.",
+      "url": "https://m.koreaherald.com/article/10914960",
+      "icon": "📰",
+      "image_url": "https://img.newspim.com/news/2025/05/20/2505200819173190_t1.jpg"
+    },
     {
       "id": "113d1c97-19c8-46f4-bd71-bbe185b00e5c",
       "kicker": "PS5 HOMEBREW",
