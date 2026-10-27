@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T04:11:14-05:00",
+  "generated_at": "2026-10-27T04:41:30-05:00",
   "posts": [
+    {
+      "id": "86b124a7-555c-4aaf-8339-40c497924487",
+      "kicker": "No download button",
+      "title": "PS3 games run on jailbroken PS5, NFS Carbon hits 60 FPS",
+      "category": "Gaming",
+      "published_at": "2026-10-27T04:25:03-05:00",
+      "excerpt": "Jailbroken PS5 consoles can now run PS3 games through native RPCS3 builds that drop the Linux layer earlier attempts needed. There is no installable package yet, with KB-RPCS3 shipping as source code…",
+      "body": "Jailbroken PS5 consoles can now [run PS3 games through native RPCS3 builds](https://tech-insider.org/ps3-games-on-ps5-rpcs3-kb-rpcs3-jailbreak-2026/) that drop the Linux layer earlier attempts needed. There is no installable package yet, with KB-RPCS3 shipping as source code and build instructions only.",
+      "url": "https://tech-insider.org/ps3-games-on-ps5-rpcs3-kb-rpcs3-jailbreak-2026/",
+      "icon": "🎮",
+      "image_url": "https://i.ytimg.com/vi/46kF0sla_KU/maxresdefault.jpg"
+    },
     {
       "id": "b0da22cd-4a7b-40da-aaeb-d1508cdc61b6",
       "kicker": "Cheaper everyday agent",
