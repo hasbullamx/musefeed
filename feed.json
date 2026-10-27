@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T02:11:11-05:00",
+  "generated_at": "2026-10-27T02:41:50-05:00",
   "posts": [
+    {
+      "id": "b0da22cd-4a7b-40da-aaeb-d1508cdc61b6",
+      "kicker": "Cheaper everyday agent",
+      "title": "GPT-6.1 Terra launches at half the price",
+      "category": "AI",
+      "published_at": "2026-10-27T02:32:34-05:00",
+      "excerpt": "It is available now to Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex. At maximum reasoning effort, it solved 50.3% of tasks on Terminal-Bench 4.0.",
+      "body": "It is available now to Plus, Pro, Enterprise, and Edu users in [ChatGPT Work and Codex](https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/). At maximum reasoning effort, it solved 50.3% of tasks on Terminal-Bench 4.0.",
+      "url": "https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/",
+      "icon": "🤖",
+      "image_url": "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3Pz8YM_1ErFuWkw00"
+    },
     {
       "id": "39463a87-ea40-46e7-8a49-eaca31ad8b12",
       "kicker": "Memory squeeze, quantified",
@@ -373,18 +385,6 @@
       "url": "https://www.zabalist.com/reports/city/brownsville",
       "icon": "🤠",
       "image_url": "https://www.protexasindustry.com/public/uploads/2026/02/04/47573838e7cf109899577b578aa17bfd.png"
-    },
-    {
-      "id": "2e979fe9-ebc9-4e77-989f-a0a7372ab5d0",
-      "kicker": "MORE LIKELY THAN NOT",
-      "title": "SpaceX to try first Ship catch on Starship Flight 15",
-      "category": "Texas",
-      "published_at": "2026-10-24T02:33:33-05:00",
-      "excerpt": "Elon Musk said on SpaceX's October 20 earnings webcast that Starship Flight 15, targeted for no earlier than November 8, will attempt to catch both the Super Heavy booster and the Ship upper stage…",
-      "body": "Elon Musk said on SpaceX's October 20 earnings webcast that Starship Flight 15, targeted for no earlier than November 8, will [attempt to catch both the Super Heavy booster and the Ship upper stage](https://www.technology.org/2026/10/23/spacex-starship-flight-15-ship-booster-tower-catch-november/) with the launch tower's chopstick arms at Starbase. The tower has caught Super Heavy boosters three times before, but never the Ship.",
-      "url": "https://www.technology.org/2026/10/23/spacex-starship-flight-15-ship-booster-tower-catch-november/",
-      "icon": "🤠",
-      "image_url": "https://noticiadireto.rf.gd/wp-content/uploads/2024/10/SpaceX-da-Starship-noticias-direto-ultimas-noticias.png"
     }
   ]
 }
