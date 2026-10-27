@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T14:11:28-05:00",
+  "generated_at": "2026-10-27T14:41:28-05:00",
   "posts": [
+    {
+      "id": "bf6e8a02-b2e6-4f6a-bd7f-62b0170dbcf9",
+      "kicker": "No API, no problem",
+      "title": "In its own test, Pomerado onboarded two employees for 3 cents",
+      "category": "AI",
+      "published_at": "2026-10-27T14:25:11-05:00",
+      "excerpt": "Pomerado lets agents use websites with no API by building and testing each integration itself. In its own test, onboarding two employees cost 3 cents, against $41 with Codex Computer Use.",
+      "body": "[Pomerado](https://www.thetoolnerd.com/p/new-ai-tools-this-week-oct-27-2026) lets agents use websites with no API by building and testing each integration itself. In its own test, onboarding two employees cost 3 cents, against $41 with Codex Computer Use.",
+      "url": "https://www.thetoolnerd.com/p/new-ai-tools-this-week-oct-27-2026",
+      "icon": "🤖",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/MMbqyZX7TqotLSBgJgX7tb-415-80.jpg.webp"
+    },
     {
       "id": "744a350e-0c0e-4e14-a099-f0e719bbd5a9",
       "kicker": "The 24-month test",
