@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T17:41:52-05:00",
+  "generated_at": "2026-10-27T18:11:52-05:00",
   "posts": [
+    {
+      "id": "53717b4f-ca58-4c02-8de5-819ea10d6441",
+      "kicker": "Rockets over Brownsville",
+      "title": "SpaceX employs more than 4,000 in the Valley, most of them locals",
+      "category": "Texas",
+      "published_at": "2026-10-27T18:07:34-05:00",
+      "excerpt": "As SpaceX expanded its production and launch facility near Brownsville, analysis by the Federal Reserve Bank of Dallas showed lower unemployment, higher wages, and an uptick in home and retail sales,…",
+      "body": "As SpaceX expanded its production and launch facility near Brownsville, [analysis by the Federal Reserve Bank of Dallas](http://www.marketplace.org/story/2026/10/27/how-spacex-is-changing-the-rio-grande-valley-economy) showed lower unemployment, higher wages, and an uptick in home and retail sales, though how much is attributable to SpaceX is unclear. SpaceX now employs more than 4,000 people, most of them locals, according to the company's website, after billions in capital investment.",
+      "url": "http://www.marketplace.org/story/2026/10/27/how-spacex-is-changing-the-rio-grande-valley-economy",
+      "icon": "🤠",
+      "image_url": "https://jbiznews.com/wp-content/uploads/2026/06/spacex-workers-1035x425.jpg"
+    },
     {
       "id": "2d14cee1-1f47-455d-8f16-cf36ea8b4779",
       "kicker": "Past the cache cliff",
