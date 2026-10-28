@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T12:11:36-05:00",
+  "generated_at": "2026-10-28T12:41:26-05:00",
   "posts": [
+    {
+      "id": "e5c7bfcc-e298-4f2e-858c-bbb806c009f2",
+      "kicker": "Rules baked in",
+      "title": "Eco's Sauce kit keeps AI agents inside operator-set limits",
+      "category": "AI",
+      "published_at": "2026-10-28T12:10:00-05:00",
+      "excerpt": "Eco launched Sauce SDK on Wednesday, letting developers write transaction conditions in TypeScript. If a transaction cannot satisfy every condition when it runs, it never executes and no funds move.",
+      "body": "[Eco launched Sauce SDK](https://unchainedcrypto.com/ecos-new-sauce-developer-kit-keeps-ai-agents-transactions-within-operator-set-limits/) on Wednesday, letting developers write transaction conditions in TypeScript. If a transaction cannot satisfy every condition when it runs, it never executes and no funds move.",
+      "url": "https://unchainedcrypto.com/ecos-new-sauce-developer-kit-keeps-ai-agents-transactions-within-operator-set-limits/",
+      "icon": "🤖",
+      "image_url": "https://coe.us/wp-content/uploads/2026/08/coeus-chronicle-august-2026-ai-model-sandbox.jpg"
+    },
     {
       "id": "f6e0f0db-d936-4b91-bd15-aac49b3f91fd",
       "kicker": "The clock stops",
