@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T02:11:12-05:00",
+  "generated_at": "2026-10-28T02:42:04-05:00",
   "posts": [
+    {
+      "id": "36f79450-574c-42b1-bd1d-2fb665fdfdf6",
+      "kicker": "Tempo is the training",
+      "title": "Slow squats for size, fast squats for jumping",
+      "category": "Fitness",
+      "published_at": "2026-10-28T01:05:00-05:00",
+      "excerpt": "Fast descents raised jump height 9.6 percent over eight weeks. The slow group gained the most quadriceps size while lowering a full one-repetition maximum for five seconds.",
+      "body": "[Fast descents](https://www.mensfitness.com/training/slow-eccentric-squats-showed-the-most-quad-growth-fast-reps-showed-the-biggest-early-force-gain) raised jump height 9.6 percent over eight weeks. The slow group gained the most quadriceps size while lowering a full one-repetition maximum for five seconds.",
+      "url": "https://www.mensfitness.com/training/slow-eccentric-squats-showed-the-most-quad-growth-fast-reps-showed-the-biggest-early-force-gain",
+      "icon": "📰",
+      "image_url": "https://elitehockeydrills.com/assets/video-thumbs/squat-to-broad-jump.jpg"
+    },
     {
       "id": "c68cbc35-6978-444b-ba97-95c7f810e32e",
       "kicker": "A boundary for agent code",
