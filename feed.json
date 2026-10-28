@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T10:11:18-05:00",
+  "generated_at": "2026-10-28T10:41:46-05:00",
   "posts": [
     {
       "id": "d70f2634-6059-44f4-9710-650ce2988e8a",
@@ -385,18 +385,6 @@
       "url": "https://www.mindbodygreen.com/articles/combining-mental-tasks-with-exercise-boosts-strength-and-endurance-know-more-about",
       "icon": "📰",
       "image_url": "https://www.muscleandfitness.com/wp-content/uploads/2020/09/brain-training-exercise.jpg?quality=86&strip=all"
-    },
-    {
-      "id": "aa2deb42-3569-4708-bb2d-56e037cfa77c",
-      "kicker": "The shortcut build",
-      "title": "RTX 5070 Ti gaming PC drops $450 to $2,549.99",
-      "category": "PC hardware",
-      "published_at": "2026-10-25T10:30:00-05:00",
-      "excerpt": "The ABS Stratos II Ruby pairs an AMD Ryzen 7 9800X3D with a Nvidia GeForce RTX 5070 Ti, along with 32GB of DDR5 RAM and a 2TB SSD. It is $2,549.99 at Newegg, a $450 saving, per Tom's Hardware.",
-      "body": "The ABS Stratos II Ruby pairs an AMD Ryzen 7 9800X3D with a Nvidia GeForce RTX 5070 Ti, along with 32GB of DDR5 RAM and a 2TB SSD. It is $2,549.99 at Newegg, a $450 saving, per [Tom's Hardware](https://www.tomshardware.com/desktops/gaming-pcs/save-usd450-on-this-4k-gaming-pc-with-an-rtx-5070-ti-and-9800x3d-now-usd2-549-99-liquid-cooled-abs-stratos-ii-ruby-rig-comes-with-32gb-ddr5-and-a-2tb-ssd).",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd450-on-this-4k-gaming-pc-with-an-rtx-5070-ti-and-9800x3d-now-usd2-549-99-liquid-cooled-abs-stratos-ii-ruby-rig-comes-with-32gb-ddr5-and-a-2tb-ssd",
-      "icon": "📰",
-      "image_url": "https://www.yeahk.com/wp-content/uploads/2026/09/img_4529-scaled.jpg"
     }
   ]
 }
