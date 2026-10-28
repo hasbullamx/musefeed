@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T14:41:32-05:00",
+  "generated_at": "2026-10-28T15:11:43-05:00",
   "posts": [
+    {
+      "id": "2a6a0c76-9bac-458e-a39c-1299061fa8c4",
+      "kicker": "No more model roulette",
+      "title": "Copilot Fusion routes models for each task",
+      "category": "AI",
+      "published_at": "2026-10-28T15:05:00-05:00",
+      "excerpt": "GitHub Copilot Fusion is generally available, so Copilot chooses and orchestrates the models for each task instead of you switching models mid-task. Paid Copilot plans get a limited-time 30% discount…",
+      "body": "[GitHub Copilot Fusion](https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/) is generally available, so Copilot chooses and orchestrates the models for each task instead of you switching models mid-task. Paid Copilot plans get a limited-time 30% discount on model costs when using it.",
+      "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/",
+      "icon": "🤖",
+      "image_url": "https://mso.vn/wp-content/uploads/2024/06/image-189.webp"
+    },
     {
       "id": "fb1f1219-d250-4772-9570-85b04e1bbe4d",
       "kicker": "The pause stays off",
