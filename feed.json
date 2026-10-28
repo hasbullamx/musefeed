@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T17:42:07-05:00",
+  "generated_at": "2026-10-28T18:12:15-05:00",
   "posts": [
+    {
+      "id": "3a7fb63e-aa52-4f23-9ed3-de9e5186aadc",
+      "kicker": "Three cities, one buildout",
+      "title": "Vanguard Academy plans $94M expansion across three Valley cities",
+      "category": "Texas",
+      "published_at": "2026-10-28T17:05:00-05:00",
+      "excerpt": "Vanguard Academy plans an estimated $94 million in school construction across Pharr, Alamo and Mission, with all three facilities expected to open in 2027. The first phase in Pharr is a $28 million…",
+      "body": "[Vanguard Academy](https://www.rgvbusinessjournal.com/news/27/10/2026/vanguard-academy-plans-94m-in-projects-across-three-valley-cities/) plans an estimated $94 million in school construction across Pharr, Alamo and Mission, with all three facilities expected to open in 2027. The first phase in Pharr is a $28 million secondary school at the Van Gogh campus, scheduled to open in August 2027.",
+      "url": "https://www.rgvbusinessjournal.com/news/27/10/2026/vanguard-academy-plans-94m-in-projects-across-three-valley-cities/",
+      "icon": "🤠",
+      "image_url": "https://www.dci-engineers.com/uploads/projects/_simpleGallery/a_Vanguard_1.jpg"
+    },
     {
       "id": "e2ff4344-7ee1-4e78-90c3-276365b04cf5",
       "kicker": "Cheaper gift-giving",
