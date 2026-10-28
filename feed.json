@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T00:11:31-05:00",
+  "generated_at": "2026-10-28T00:42:03-05:00",
   "posts": [
+    {
+      "id": "c68cbc35-6978-444b-ba97-95c7f810e32e",
+      "kicker": "A boundary for agent code",
+      "title": "Akamai launches AI inference & agent sandbox tools",
+      "category": "AI",
+      "published_at": "2026-10-28T00:19:01-05:00",
+      "excerpt": "Akamai Inference serves 12 open-weight models through OpenAI-compatible APIs. The Agent Sandbox runs code agents write in WebAssembly isolation, separate from the agent runtime.",
+      "body": "[Akamai Inference](https://www.securitybrief.com.au/story/akamai-launches-ai-inference-agent-sandbox-tools) serves 12 open-weight models through OpenAI-compatible APIs. The Agent Sandbox runs code agents write in WebAssembly isolation, separate from the agent runtime.",
+      "url": "https://www.securitybrief.com.au/story/akamai-launches-ai-inference-agent-sandbox-tools",
+      "icon": "🤖",
+      "image_url": "https://media.assettype.com/digitalterminal%2F2025-03-28%2F24sl2jzx%2FAkamai.gif?w=480&auto=format%2Ccompress&fit=max"
+    },
     {
       "id": "f010a788-7f9e-48f8-8183-4767fc4a7f71",
       "kicker": "A Faustian bargain",
