@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T16:12:18-05:00",
+  "generated_at": "2026-10-28T16:42:16-05:00",
   "posts": [
+    {
+      "id": "e2ff4344-7ee1-4e78-90c3-276365b04cf5",
+      "kicker": "Cheaper gift-giving",
+      "title": "Dollar General takes 10% off holiday gift cards",
+      "category": "Deals",
+      "published_at": "2026-10-28T16:26:05-05:00",
+      "excerpt": "The in-store offer covers GameStop, Domino's, and Chipotle gift cards, among others. It runs through October 31 for purchases made in store only.",
+      "body": "The [in-store offer](https://www.dealtikka.com/dollar-general-in-stores-offer-10-off-holiday-gift-cards-gamestop-dominos-chipotle-more/) covers GameStop, Domino's, and Chipotle gift cards, among others. It runs through October 31 for purchases made in store only.",
+      "url": "https://www.dealtikka.com/dollar-general-in-stores-offer-10-off-holiday-gift-cards-gamestop-dominos-chipotle-more/",
+      "icon": "🏷️",
+      "image_url": "https://gcanywhere.com/wp-content/uploads/2025/02/image-49.png"
+    },
     {
       "id": "2a6a0c76-9bac-458e-a39c-1299061fa8c4",
       "kicker": "No more model roulette",
