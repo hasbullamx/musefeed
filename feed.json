@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T14:11:37-05:00",
+  "generated_at": "2026-10-28T14:41:32-05:00",
   "posts": [
+    {
+      "id": "fb1f1219-d250-4772-9570-85b04e1bbe4d",
+      "kicker": "The pause stays off",
+      "title": "Supreme Court denies judges the power to pause deportation cases",
+      "category": "Immigration",
+      "published_at": "2026-10-28T14:23:00-05:00",
+      "excerpt": "The Supreme Court declined Tuesday to reinstate immigration judges' authority to temporarily postpone deportation cases. Administrative closure had let judges clear cases from active dockets while a…",
+      "body": "The Supreme Court [declined Tuesday to reinstate](https://www.reuters.com/world/us-supreme-court-denies-immigration-judges-power-shelve-deportation-cases-2026-10-27/) immigration judges' authority to temporarily postpone deportation cases. Administrative closure had let judges clear cases from active dockets while a visa petition or an appeal of a criminal conviction was still pending.",
+      "url": "https://www.reuters.com/world/us-supreme-court-denies-immigration-judges-power-shelve-deportation-cases-2026-10-27/",
+      "icon": "📰",
+      "image_url": "https://www.srnnews.com/media/2026/04/1777115118584348lpJCvv4X5t.jpg?x90053"
+    },
     {
       "id": "e5c7bfcc-e298-4f2e-858c-bbb806c009f2",
       "kicker": "Rules baked in",
