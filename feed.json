@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T08:41:50-05:00",
+  "generated_at": "2026-10-28T09:12:09-05:00",
   "posts": [
+    {
+      "id": "d70f2634-6059-44f4-9710-650ce2988e8a",
+      "kicker": "No relief in sight",
+      "title": "SK hynix sees memory shortage lasting through 2030",
+      "category": "PC hardware",
+      "published_at": "2026-10-28T08:59:00-05:00",
+      "excerpt": "SK hynix expects memory demand to exceed supply through 2030, in third-quarter 2026 results announced October 28. Long-term agreements with 14 major customers already cover more than 50% of its…",
+      "body": "SK hynix [expects memory demand to exceed supply through 2030](https://www.tweaktown.com/news/114347/sk-hynix-warns-the-memory-shortage-will-last-through-2030-as-ai-demand-keeps-growing/index.html), in third-quarter 2026 results announced October 28. Long-term agreements with 14 major customers already cover more than 50% of its production capacity for 2027 and 2028.",
+      "url": "https://www.tweaktown.com/news/114347/sk-hynix-warns-the-memory-shortage-will-last-through-2030-as-ai-demand-keeps-growing/index.html",
+      "icon": "📰",
+      "image_url": "https://ranzware.com/uploads/images/202607/image_450x280_cdbc860af988856f676c6db3c6eb6342.jpg"
+    },
+    {
+      "id": "32b9e340-bce1-489b-9983-2f18f073efcb",
+      "kicker": "More tokens, less proof",
+      "title": "Amazon discourages tokenmaxxing as AI costs climb",
+      "category": "AI",
+      "published_at": "2026-10-28T08:43:00-05:00",
+      "excerpt": "Amazon's guidelines, published October 27, call token consumption, AI adoption rates, and code changes \"deeply flawed\" ways to judge teams. The company shut down an internal usage leaderboard in May…",
+      "body": "[Amazon's guidelines](https://indianexpress.com/article/technology/tech-news-technology/amazon-discourages-tokenmaxxing-ai-usage-costs-10940049/), published October 27, call token consumption, AI adoption rates, and code changes \"deeply flawed\" ways to judge teams. The company shut down an internal usage leaderboard in May after employees inflated their usage to climb the rankings.",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/amazon-discourages-tokenmaxxing-ai-usage-costs-10940049/",
+      "icon": "🤖",
+      "image_url": "https://pixelnerd.pl/content/medium/img_6a1bdbd82c142.webp"
+    },
     {
       "id": "a7e91d5d-1491-4b4e-9c14-07efaca7e24b",
       "kicker": "Now running at Meta",
@@ -373,42 +397,6 @@
       "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd450-on-this-4k-gaming-pc-with-an-rtx-5070-ti-and-9800x3d-now-usd2-549-99-liquid-cooled-abs-stratos-ii-ruby-rig-comes-with-32gb-ddr5-and-a-2tb-ssd",
       "icon": "📰",
       "image_url": "https://www.yeahk.com/wp-content/uploads/2026/09/img_4529-scaled.jpg"
-    },
-    {
-      "id": "8b7cfcf9-cd0f-4c48-a09c-c25d4f16418a",
-      "kicker": "FREEZER AISLE GOLD",
-      "title": "Klondike and Reese's treats are $2 at Dollar General",
-      "category": "Deals",
-      "published_at": "2026-10-25T09:01:00-05:00",
-      "excerpt": "Klondike ice cream bars and Reese's frozen dessert sandwiches are $4 each when you buy two at Dollar General, per The Krazy Coupon Lady. The $2 digital coupon and a Fetch Rewards receipt upload bring…",
-      "body": "Klondike ice cream bars and Reese's frozen dessert sandwiches are $4 each when you buy two at Dollar General, per [The Krazy Coupon Lady](https://thekrazycouponlady.com/2026/10/25/klondike-and-reeses-frozen-treats-only-2-at-dollar-general-reg-4-50). The $2 digital coupon and a Fetch Rewards receipt upload bring the final cost to $4 for two, or $2 each.",
-      "url": "https://thekrazycouponlady.com/2026/10/25/klondike-and-reeses-frozen-treats-only-2-at-dollar-general-reg-4-50",
-      "icon": "🏷️",
-      "image_url": "https://townsquare.media/site/660/files/2026/02/attachment-gettyimages-1244040026-1.jpg?w=980&q=75"
-    },
-    {
-      "id": "ac8e3152-a338-44a8-9417-3548d9dfbedc",
-      "kicker": "PS5 JAILBREAK",
-      "title": "Prolapse jailbreak hits PS5 firmware 14.10, may expose GTA 6 to piracy",
-      "category": "Gaming",
-      "published_at": "2026-10-25T09:00:00-05:00",
-      "excerpt": "PlayStation security expert Jose Coixao claims Sony's October 21 firmware 14.20 update patched the vulnerability behind the newly reported Prolapse exploit, per Notebookcheck. Prolapse reportedly…",
-      "body": "PlayStation security expert Jose Coixao claims Sony's October 21 firmware 14.20 update patched the vulnerability behind the newly reported Prolapse exploit, per [Notebookcheck](https://www.notebookcheck.net/Prolapse-PS5-console-jailbreak-for-firmware-14-10-may-expose-GTA-6-to-piracy.1433243.0.html). Prolapse reportedly works on firmware 14.00 and 14.10, a combination that could put GTA 6 in the piracy scene's sights.",
-      "url": "https://www.notebookcheck.net/Prolapse-PS5-console-jailbreak-for-firmware-14-10-may-expose-GTA-6-to-piracy.1433243.0.html",
-      "icon": "🎮",
-      "image_url": "https://centrumher.eu/uploads/2026/january/original/PS5-Jailbreak.webp"
-    },
-    {
-      "id": "c16f1d6f-c1cc-4aaf-9cc5-6dedc6e9e184",
-      "kicker": "A QUIETER BORDER",
-      "title": "Southwest border crossings reach lowest annual level in U.S. history",
-      "category": "Immigration",
-      "published_at": "2026-10-25T08:44:03-05:00",
-      "excerpt": "CBP's preliminary fiscal 2026 tally, reported October 20, put southwest border apprehensions down 95% from October 1, 2025, through September 30, 2026, per The Star News Network. Nationwide…",
-      "body": "CBP's preliminary fiscal 2026 tally, reported October 20, put southwest border apprehensions down 95% from October 1, 2025, through September 30, 2026, per [The Star News Network](https://thestarnewsnetwork.com/2026/10/20/southwest-illegal-border-crossings-reach-lowest-level-for-one-year-in-u-s-history/). Nationwide encounters totaled 379,243, the lowest in agency history and 88% below fiscal 2023, according to CBP.",
-      "url": "https://thestarnewsnetwork.com/2026/10/20/southwest-illegal-border-crossings-reach-lowest-level-for-one-year-in-u-s-history/",
-      "icon": "📰",
-      "image_url": "https://imagecloud.thepaper.cn/thepaper/image/205/768/702.jpg"
     }
   ]
 }
