@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T22:11:25-05:00",
+  "generated_at": "2026-10-27T22:41:36-05:00",
   "posts": [
+    {
+      "id": "f010a788-7f9e-48f8-8183-4767fc4a7f71",
+      "kicker": "A Faustian bargain",
+      "title": "Jailbroken PS5 can play PS2 discs, but loses PSN",
+      "category": "Gaming",
+      "published_at": "2026-10-27T22:20:46-05:00",
+      "excerpt": "PS5SX2 offers 4K upscaling, widescreen support, 60fps patches and HD texture packs for PS2 discs on a jailbroken console. The catch is that Relapse works only up to system software 13.60, and staying…",
+      "body": "[PS5SX2](https://www.engadget.com/2295693/a-jailbroken-playstation-5-can-play-ps2-discs-but-sony-is-giving-users-a-tough-choice/) offers 4K upscaling, widescreen support, 60fps patches and HD texture packs for PS2 discs on a jailbroken console. The catch is that Relapse works only up to system software 13.60, and staying there costs PlayStation Network, the PlayStation Store and newer games requiring recent firmware.",
+      "url": "https://www.engadget.com/2295693/a-jailbroken-playstation-5-can-play-ps2-discs-but-sony-is-giving-users-a-tough-choice/",
+      "icon": "🎮",
+      "image_url": "https://www.notebookcheck-cn.com/fileadmin/Notebooks/News/_nc5/PS5showninJailCell.jpg"
+    },
     {
       "id": "53acd5d3-6121-4211-9349-76d9ce491070",
       "kicker": "Worlds that answer back",
