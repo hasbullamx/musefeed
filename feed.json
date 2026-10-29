@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T17:42:14-05:00",
+  "generated_at": "2026-10-29T18:11:52-05:00",
   "posts": [
+    {
+      "id": "ea746dd3-f092-4424-a379-b2e5e84d96bc",
+      "kicker": "Any agent, one IDE",
+      "title": "Android Studio opens to 40+ AI coding agents",
+      "category": "AI",
+      "published_at": "2026-10-29T18:07:00-05:00",
+      "excerpt": "Android Studio Rabbit 2 now supports over 40 ACP-compatible coding agents directly inside the IDE through Bring Your Own Agent, including Claude Agent and Codex. Android CLI is now an official plugin…",
+      "body": "[Android Studio Rabbit 2](https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance) now supports over 40 ACP-compatible coding agents directly inside the IDE through Bring Your Own Agent, including Claude Agent and Codex. Android CLI is now an official plugin for Claude Code and Codex, so agents can build, run, and debug Android apps without opening the IDE.",
+      "url": "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance",
+      "icon": "🤖",
+      "image_url": "https://codinglap.com/wp-content/uploads/2025/11/How-to-Fix-Android-Studio-Not-Opening-or-Crashing-on-Windows-11-958x539.jpg"
+    },
     {
       "id": "3c6a8130-6a5b-44ba-9df0-f5f7edfea98e",
       "kicker": "Deadline in two days",
