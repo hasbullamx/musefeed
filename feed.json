@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T16:11:54-05:00",
+  "generated_at": "2026-10-29T16:42:05-05:00",
   "posts": [
+    {
+      "id": "3c6a8130-6a5b-44ba-9df0-f5f7edfea98e",
+      "kicker": "Deadline in two days",
+      "title": "IIT Delhi launches Agentic AI certificate course",
+      "category": "Education",
+      "published_at": "2026-10-29T15:24:00-05:00",
+      "excerpt": "Applications for IIT Delhi's six-month Executive Certificate in Agentic AI Systems close October 31, 2026. The curriculum includes a dedicated AI Trust, Risk and Security Management module covering…",
+      "body": "Applications for [IIT Delhi's six-month Executive Certificate in Agentic AI Systems](https://news.careers360.com/iit-delhi-agentic-ai-systems-certificate-course-onlineworking-professionals-graduates-cep-apply-by-oct-31) close October 31, 2026. The curriculum includes a dedicated AI Trust, Risk and Security Management module covering model governance, explainability, regulatory compliance and security.",
+      "url": "https://news.careers360.com/iit-delhi-agentic-ai-systems-certificate-course-onlineworking-professionals-graduates-cep-apply-by-oct-31",
+      "icon": "📰",
+      "image_url": "https://cdn.masaischool.com/masai-website/O_Gimage2_ezgif_com_png_to_webp_converter_b0e98b1ba2.webp"
+    },
     {
       "id": "aa68939b-2417-4e3e-934a-5e7b56d9a1cf",
       "kicker": "Still far from cheap",
