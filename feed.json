@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T08:41:31-05:00",
+  "generated_at": "2026-10-29T09:12:43-05:00",
   "posts": [
+    {
+      "id": "2731c209-b4d9-477f-9a04-eb0118dca0b1",
+      "kicker": "Six engines, one catch",
+      "title": "SpaceX tests Ship 42 ahead of November Flight 15",
+      "category": "Space",
+      "published_at": "2026-10-29T08:42:00-05:00",
+      "excerpt": "SpaceX ran Ship 42 through a static fire of all six Raptor engines, including a simulated deorbit burn. Flight 15 will try to catch both the Ship and its Super Heavy booster at Starbase in Texas.",
+      "body": "SpaceX [ran Ship 42 through a static fire](https://www.newsbytesapp.com/news/science/spacex-tests-ship-42-upper-stage-before-november-flight-15/tldr) of all six Raptor engines, including a simulated deorbit burn. Flight 15 will try to catch both the Ship and its Super Heavy booster at Starbase in Texas.",
+      "url": "https://www.newsbytesapp.com/news/science/spacex-tests-ship-42-upper-stage-before-november-flight-15/tldr",
+      "icon": "🚀",
+      "image_url": "https://dev.supercluster.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F2vtv415l%2Fproduction%2F65732a8feb4eeb8d113f5cf974be9aa02cb5200b-3840x2160.jpg%3Frect%3D875%2C0%2C2965%2C1739%26w%3D1400%26fit%3Dmax&w=1200&q=75"
+    },
     {
       "id": "cf933d52-c53d-4f9d-a234-f257b7703804",
       "kicker": "Second pass, same answer",
@@ -517,18 +529,6 @@
       "url": "https://www.neoteo.com/en/microsoft-open-sourced-agensh-its-1024-agent-result-is-for-pandoc",
       "icon": "🤖",
       "image_url": "https://byteiota.com/wp-content/uploads/2026/08/microsoft-agent-framework-1-18-400x300.jpg"
-    },
-    {
-      "id": "4ae60c1d-a001-4dc9-bf01-0a28dd94ec26",
-      "kicker": "LIGHT-WEIGHT LIFTING",
-      "title": "Light weights with cuffs can build muscle",
-      "category": "Fitness",
-      "published_at": "2026-10-26T08:44:00-05:00",
-      "excerpt": "A 2026 synthesis covering 859 team-sport athletes found that adding blood-flow restriction to resistance training gave small gains in muscle size and strength, per Mind Muscle Perfection. It found no…",
-      "body": "A 2026 synthesis covering 859 team-sport athletes found that adding blood-flow restriction to resistance training gave small gains in muscle size and strength, per [Mind Muscle Perfection](https://mindmuscleperfection.com/blood-flow-restriction-training-light-weights-muscle-growth-2026/). It found no clear advantage for sprinting or jumping, so cuffs look more like a load-management accessory than a shortcut to explosive performance.",
-      "url": "https://mindmuscleperfection.com/blood-flow-restriction-training-light-weights-muscle-growth-2026/",
-      "icon": "📰",
-      "image_url": "https://www.shutterstock.com/image-photo/769923145"
     }
   ]
 }
