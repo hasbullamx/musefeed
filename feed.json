@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T20:41:58-05:00",
+  "generated_at": "2026-10-28T21:12:02-05:00",
   "posts": [
     {
       "id": "a90b209f-d6f4-445c-9d0f-aab35ad48251",
@@ -13,6 +13,18 @@
       "url": null,
       "icon": "🏷️",
       "image_url": "https://d37jsm3yxo26ez.cloudfront.net/public/innerview_event_activity_stub/a5/1d/34/33b5bc_6c56550.jpeg?c=1fb8"
+    },
+    {
+      "id": "f5eb2e2b-f214-4244-92b7-3a33b5898abd",
+      "kicker": "Proof over promises",
+      "title": "CSA launches STAR for AI Level 2 certification",
+      "category": "AI",
+      "published_at": "2026-10-28T19:05:00-05:00",
+      "excerpt": "STAR for AI Level 2 adds third-party-verified AI assurance to the Cloud Security Alliance's STAR program, alongside traditional cloud certification. The designation combines independent certification…",
+      "body": "[STAR for AI Level 2](https://cloudsecurityalliance.org/press-releases/2026/10/27/cloud-security-alliance-launches-star-for-ai-level-2-to-strengthen-ai-governance-and-trust) adds third-party-verified AI assurance to the Cloud Security Alliance's STAR program, alongside traditional cloud certification. The designation combines independent certification with automated analysis through Valid-AI-ted, aligned with the alliance's AI Controls Matrix.",
+      "url": "https://cloudsecurityalliance.org/press-releases/2026/10/27/cloud-security-alliance-launches-star-for-ai-level-2-to-strengthen-ai-governance-and-trust",
+      "icon": "🤖",
+      "image_url": "https://andesite.ai/wp-content/uploads/2025/07/CSA-Star-AI-2.png"
     },
     {
       "id": "3a7fb63e-aa52-4f23-9ed3-de9e5186aadc",
@@ -445,18 +457,6 @@
       "url": "https://inusnews.com/immigration-proposal-health-form-changes-children/",
       "icon": "📰",
       "image_url": "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=4IaLbf_1E9EkiLW00"
-    },
-    {
-      "id": "5b16b6eb-0cf9-482a-babe-2708c7bfe343",
-      "kicker": "THE WALK-BACK",
-      "title": "Texas AD clarifies use of AI",
-      "category": "Texas",
-      "published_at": "2026-10-25T21:03:00-05:00",
-      "excerpt": "Texas athletic director Chris Del Conte clarified that the fourth-and-2 example was what Bevo Lab could suggest, not what it actually did. Bevo Lab will cover all 21 Texas sports programs.",
-      "body": "Texas athletic director Chris Del Conte [clarified that the fourth-and-2 example was what Bevo Lab could suggest, not what it actually did](https://www.sportsbusinessjournal.com/Articles/2026/10/25/texas-ad-chris-del-conte-clarifies-use-of-ai/). Bevo Lab will cover all 21 Texas sports programs.",
-      "url": "https://www.sportsbusinessjournal.com/Articles/2026/10/25/texas-ad-chris-del-conte-clarifies-use-of-ai/",
-      "icon": "🤠",
-      "image_url": "https://img.particlenews.com/image.php?url=2D5I6B_1Ef2HdVm00"
     }
   ]
 }
