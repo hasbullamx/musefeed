@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T09:41:54-05:00",
+  "generated_at": "2026-10-29T10:11:25-05:00",
   "posts": [
+    {
+      "id": "3843fbd1-8771-46f0-8ef7-fca551183670",
+      "kicker": "Steam, without the PC",
+      "title": "Jailbroken PS5s can now run Steam games",
+      "category": "Gaming",
+      "published_at": "2026-10-29T10:00:00-05:00",
+      "excerpt": "Playden runs Windows games from a Steam library locally on a jailbroken PS5, using the console's own hardware instead of streaming from a PC. It is still in alpha, and games requiring kernel-level…",
+      "body": "[Playden](https://nextgenupdate.com/articles/402/jailbroken-ps5-consoles-can-now-run-steam-games-heres-how-it-works) runs Windows games from a Steam library locally on a jailbroken PS5, using the console's own hardware instead of streaming from a PC. It is still in alpha, and games requiring kernel-level anti-cheat or third-party launchers are generally unsupported.",
+      "url": "https://nextgenupdate.com/articles/402/jailbroken-ps5-consoles-can-now-run-steam-games-heres-how-it-works",
+      "icon": "🎮",
+      "image_url": "https://resize2.feedotter.com/resize/500x500/aHR0cHM6Ly9pLnBjbWFnLmNvbS9pbWFnZXJ5L2FydGljbGVzLzA2ZndsSWpUdHpRbFc2QUVhVDM1QU1RLTEuZml0X2xpbS5zaXplXzEyMDB4NjMwLnYxNzg2NzExMjkyLmpwZw.LHiSKWuUvXui"
+    },
     {
       "id": "2731c209-b4d9-477f-9a04-eb0118dca0b1",
       "kicker": "Six engines, one catch",
@@ -517,18 +529,6 @@
       "url": "https://www.mondaq.com/employee-rights-labour-relations/1856280/dol-dismantles-affirmative-action-rules-for-federal-contractors",
       "icon": "📰",
       "image_url": "https://imgproxy.divecdn.com/nkekmbvkIAmIwHkFo9tHG48hiV7ry1rwkp7Uuf4YX0U/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUctNTE1MC5qcGc=.webp"
-    },
-    {
-      "id": "4628d5bc-8798-470c-b869-3971ee4bc5ec",
-      "kicker": "NO CONDUCTOR NEEDED",
-      "title": "Microsoft open-sources Agensh; 1,024-agent result is for Pandoc",
-      "category": "AI",
-      "published_at": "2026-10-26T09:45:00-05:00",
-      "excerpt": "Microsoft open-sourced Agensh on October 24 under the MIT License, per NeoTeo. Its workers claim subtasks and share progress without a central orchestrator.",
-      "body": "Microsoft open-sourced Agensh on October 24 under the MIT License, per [NeoTeo](https://www.neoteo.com/en/microsoft-open-sourced-agensh-its-1024-agent-result-is-for-pandoc). Its workers claim subtasks and share progress without a central orchestrator.",
-      "url": "https://www.neoteo.com/en/microsoft-open-sourced-agensh-its-1024-agent-result-is-for-pandoc",
-      "icon": "🤖",
-      "image_url": "https://byteiota.com/wp-content/uploads/2026/08/microsoft-agent-framework-1-18-400x300.jpg"
     }
   ]
 }
