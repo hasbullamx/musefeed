@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T22:11:46-05:00",
+  "generated_at": "2026-10-28T22:41:38-05:00",
   "posts": [
+    {
+      "id": "b69b5ec5-1d9e-4669-9b12-91ff15d998da",
+      "kicker": "The incomplete chain",
+      "title": "Prolapse exploit works on PS5 firmware 14.10",
+      "category": "Gaming",
+      "published_at": "2026-10-28T22:20:00-05:00",
+      "excerpt": "Sony patched the flaw in firmware 14.20, released October 21. The hypervisor bypass needed to run game backups still stops at 13.60, so a bootable GTA 6 backup looks unlikely when it arrives November…",
+      "body": "Sony [patched the flaw in firmware 14.20](https://news.lavx.hu/article/ps5-kernel-exploit-prolapse-works-on-firmware-14-10-but-gta-6-piracy-remains-unlikely-for-now), released October 21. The hypervisor bypass needed to run game backups still stops at 13.60, so a bootable GTA 6 backup looks unlikely when it arrives November 19.",
+      "url": "https://news.lavx.hu/article/ps5-kernel-exploit-prolapse-works-on-firmware-14-10-but-gta-6-piracy-remains-unlikely-for-now",
+      "icon": "🎮",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/k6KuVr46GgBw6zPciJZCrL-970-80.jpg"
+    },
     {
       "id": "a90b209f-d6f4-445c-9d0f-aab35ad48251",
       "kicker": "A second look",
