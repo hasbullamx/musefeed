@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T02:11:54-05:00",
+  "generated_at": "2026-10-29T02:41:44-05:00",
   "posts": [
+    {
+      "id": "c408cef7-f515-40f0-8f74-02fcd828a38c",
+      "kicker": "Early voting's last day",
+      "title": "Early voting ends Friday, October 30",
+      "category": "Texas",
+      "published_at": "2026-10-29T02:36:00-05:00",
+      "excerpt": "You have through Friday, October 30, to vote early in Texas for the November 3, 2026, general election. Polling places will be open from 7 a.m. to 7 p.m. on Election Day.",
+      "body": "You have through Friday, October 30, to [vote early](https://texasborderbusiness.com/election-day-approaches-as-early-voting-begins-october-19-across-texas/) in Texas for the November 3, 2026, general election. Polling places will be open from 7 a.m. to 7 p.m. on Election Day.",
+      "url": "https://texasborderbusiness.com/election-day-approaches-as-early-voting-begins-october-19-across-texas/",
+      "icon": "🤠",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2020/11/AP_20304651409522.jpg?w=770&resize=770%2C513&quality=80"
+    },
     {
       "id": "c62fe7f2-d25b-4d3c-8c2b-477d03d7846f",
       "kicker": "One door into Gemini",
@@ -469,18 +481,6 @@
       "url": "https://mindmuscleperfection.com/blood-flow-restriction-training-light-weights-muscle-growth-2026/",
       "icon": "📰",
       "image_url": "https://www.shutterstock.com/image-photo/769923145"
-    },
-    {
-      "id": "bb678827-b393-46b0-8c37-2de13b9e828c",
-      "kicker": "THE PAPERWORK SHIFT",
-      "title": "ORR proposes major health-form changes for unaccompanied children",
-      "category": "Immigration",
-      "published_at": "2026-10-26T02:32:16-05:00",
-      "excerpt": "The proposal folds the serious-procedure form into ORR's medical and dental collection, per the proposal. Limited health information could also go to DHS when a child with ongoing health needs leaves…",
-      "body": "The proposal folds the serious-procedure form into ORR's medical and dental collection, per [the proposal](https://inusnews.com/immigration-proposal-health-form-changes-children/). Limited health information could also go to DHS when a child with ongoing health needs leaves custody for DHS-led repatriation, for continuity of care.",
-      "url": "https://inusnews.com/immigration-proposal-health-form-changes-children/",
-      "icon": "📰",
-      "image_url": "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=4IaLbf_1E9EkiLW00"
     }
   ]
 }
