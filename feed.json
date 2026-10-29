@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T19:42:50-05:00",
+  "generated_at": "2026-10-28T20:13:34-05:00",
   "posts": [
+    {
+      "id": "a90b209f-d6f4-445c-9d0f-aab35ad48251",
+      "kicker": "A second look",
+      "title": "Two H-E-B deals missed today's coupon checks",
+      "category": "Deals",
+      "published_at": "2026-10-28T20:04:52-05:00",
+      "excerpt": "Filtros 3-packs are $4.99 through November 3, though sizes vary in Rio Grande City and the H-E-B app has the details. Jocko energy drinks are $1 each when you buy five, including for curbside orders.",
+      "body": "Filtros 3-packs are $4.99 through November 3, though sizes vary in Rio Grande City and the H-E-B app has the details. Jocko energy drinks are $1 each when you buy five, including for curbside orders.",
+      "url": null,
+      "icon": "🏷️",
+      "image_url": "https://d37jsm3yxo26ez.cloudfront.net/public/innerview_event_activity_stub/a5/1d/34/33b5bc_6c56550.jpeg?c=1fb8"
+    },
     {
       "id": "3a7fb63e-aa52-4f23-9ed3-de9e5186aadc",
       "kicker": "Three cities, one buildout",
