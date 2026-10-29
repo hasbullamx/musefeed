@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T12:11:20-05:00",
+  "generated_at": "2026-10-29T12:41:30-05:00",
   "posts": [
+    {
+      "id": "5f57402e-368c-4258-88de-44f41ab217a1",
+      "kicker": "Open weights, no gatekeeper",
+      "title": "Mistral publicly releases Large 4 for cybersecurity",
+      "category": "AI",
+      "published_at": "2026-10-29T12:05:00-05:00",
+      "excerpt": "Mistral released Large 4 to the public Thursday, built to help organisations find and fix cybersecurity vulnerabilities. Anyone can download it and run it on their own systems instead of going…",
+      "body": "[Mistral released Large 4 to the public Thursday](https://www.reuters.com/legal/litigation/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users-2026-10-29/), built to help organisations find and fix cybersecurity vulnerabilities. Anyone can download it and run it on their own systems instead of going through a third-party online service.",
+      "url": "https://www.reuters.com/legal/litigation/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users-2026-10-29/",
+      "icon": "🤖",
+      "image_url": "https://theoutpost.ai/_next/image/?url=https%3A%2F%2Fcdn.theoutpost.ai%2Ffiles%2Farticle_508456_Mistral_AI_1788883368295_dcc4457804.jpg&w=1280&q=75"
+    },
     {
       "id": "5cff66c0-5c4e-488f-b24d-2669021c0569",
       "kicker": "A split pause",
