@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T10:41:36-05:00",
+  "generated_at": "2026-10-29T11:11:45-05:00",
   "posts": [
+    {
+      "id": "5cff66c0-5c4e-488f-b24d-2669021c0569",
+      "kicker": "A split pause",
+      "title": "Fed holds rates steady in 10-2 vote",
+      "category": "Finance",
+      "published_at": "2026-10-29T10:48:00-05:00",
+      "excerpt": "Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented from the decision to hold rates steady, preferring an immediate 0.25-percentage-point increase. The October 28 vote was 10-2,…",
+      "body": "Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented from the decision to [hold rates steady](https://www.channelnewsasia.com/world/us-fed-holds-interest-rates-steady-despite-surging-inflation-6500656), preferring an immediate 0.25-percentage-point increase. The October 28 vote was 10-2, keeping the target range at 3.75% to 4.00%.",
+      "url": "https://www.channelnewsasia.com/world/us-fed-holds-interest-rates-steady-despite-surging-inflation-6500656",
+      "icon": "📰",
+      "image_url": "https://www.thenewdispatch.com/wp-content/uploads/2026/04/fed_funds_rate-696x464.png"
+    },
     {
       "id": "3843fbd1-8771-46f0-8ef7-fca551183670",
       "kicker": "Steam, without the PC",
