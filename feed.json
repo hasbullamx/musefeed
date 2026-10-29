@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T06:11:48-05:00",
+  "generated_at": "2026-10-29T06:42:00-05:00",
   "posts": [
+    {
+      "id": "5cd5d89b-a0c0-42b6-ab13-7d411ef7a8ca",
+      "kicker": "Inside the search",
+      "title": "ORR adviser on finding missing children and addressing fraud",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-29T06:38:00-05:00",
+      "excerpt": "John Fabbricatore, ORR's special adviser discussed the effort to locate children placed with sponsors without adequate vetting and to improve sponsor vetting. He also described thousands of notices…",
+      "body": "[John Fabbricatore, ORR's special adviser](https://cis.org/Parsing-Immigration-Policy/Finding-Missing-Children-and-Addressing-Immigration-Fraud) discussed the effort to locate children placed with sponsors without adequate vetting and to improve sponsor vetting. He also described thousands of notices of concern, including reports of possible trafficking, abuse, sexual abuse and medical emergencies.",
+      "url": "https://cis.org/Parsing-Immigration-Policy/Finding-Missing-Children-and-Addressing-Immigration-Fraud",
+      "icon": "📰",
+      "image_url": "https://br.111next.com/wp-content/uploads/2025/11/florida-missing-children.webp"
+    },
     {
       "id": "578eff16-263d-4180-ac5a-0480e1a6a134",
       "kicker": "A break that builds",
