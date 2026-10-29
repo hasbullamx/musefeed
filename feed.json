@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T14:11:44-05:00",
+  "generated_at": "2026-10-29T14:41:49-05:00",
   "posts": [
+    {
+      "id": "aa68939b-2417-4e3e-934a-5e7b56d9a1cf",
+      "kicker": "Still far from cheap",
+      "title": "Samsung 990 2TB SSD is 30% off at Best Buy",
+      "category": "PC hardware",
+      "published_at": "2026-10-29T14:24:00-05:00",
+      "excerpt": "The Samsung 990 2TB SSD deal puts the drive at $369.99 at Best Buy, down from its regular price of $529.99. Best Buy lists it as a bare drive without a heatsink in the box, so plan accordingly if…",
+      "body": "The [Samsung 990 2TB SSD deal](https://sammyguru.com/samsung-990-2tb-ssd-deal-best-buy/) puts the drive at $369.99 at Best Buy, down from its regular price of $529.99. Best Buy lists it as a bare drive without a heatsink in the box, so plan accordingly if your motherboard does not have one built in.",
+      "url": "https://sammyguru.com/samsung-990-2tb-ssd-deal-best-buy/",
+      "icon": "📰",
+      "image_url": "https://static.slickdealscdn.com/attachment/3/4/7/8/2/5/3/2/450x450/18862846.thumb?webp=1"
+    },
     {
       "id": "5f57402e-368c-4258-88de-44f41ab217a1",
       "kicker": "Open weights, no gatekeeper",
