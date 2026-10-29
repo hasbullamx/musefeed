@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T00:11:46-05:00",
+  "generated_at": "2026-10-29T00:42:21-05:00",
   "posts": [
+    {
+      "id": "c62fe7f2-d25b-4d3c-8c2b-477d03d7846f",
+      "kicker": "One door into Gemini",
+      "title": "New Connected Apps Platform launches for developers",
+      "category": "AI",
+      "published_at": "2026-10-29T00:18:00-05:00",
+      "excerpt": "The preview of Google's Connected Apps Platform gives developers one route into both Search and the Gemini app. Developers connect through a cloud-hosted MCP server or Android MCP using the…",
+      "body": "The preview of [Google's Connected Apps Platform](https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place) gives developers one route into both Search and the Gemini app. Developers connect through a cloud-hosted MCP server or Android MCP using the AppFunctions APIs, then register, test, and submit through the Google Connected Console.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place",
+      "icon": "🤖",
+      "image_url": "https://cdn.nwe.io/files/x/74/00/0fdade78a3ad5bf0c125e2af22a6.jpg"
+    },
     {
       "id": "b69b5ec5-1d9e-4669-9b12-91ff15d998da",
       "kicker": "The incomplete chain",
