@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T07:11:48-05:00",
+  "generated_at": "2026-10-29T07:41:27-05:00",
   "posts": [
+    {
+      "id": "df84b4a6-4133-4b79-98be-d94278b355ca",
+      "kicker": "Four weeks early",
+      "title": "Black Friday sales start today",
+      "category": "Deals",
+      "published_at": "2026-10-29T07:24:00-05:00",
+      "excerpt": "Lowe's kicks off four weeks of Black Friday deals today, ahead of Black Friday on November 27, 2026. Costco's holiday savings follow on October 30.",
+      "body": "[Lowe's](https://www.northjersey.com/story/news/2026/10/28/black-friday-2026-sale-dates-walmart-amazon-kohls/92475985007/) kicks off four weeks of Black Friday deals today, ahead of Black Friday on November 27, 2026. Costco's holiday savings follow on October 30.",
+      "url": "https://www.northjersey.com/story/news/2026/10/28/black-friday-2026-sale-dates-walmart-amazon-kohls/92475985007/",
+      "icon": "🏷️",
+      "image_url": "https://freebies2deals.com/wp-content/uploads/2019/11/screenshot-www.bestbuy.com-2019.11.24-22-05-21-1024x501.png"
+    },
     {
       "id": "5cd5d89b-a0c0-42b6-ab13-7d411ef7a8ca",
       "kicker": "Inside the search",
