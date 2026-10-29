@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T07:41:27-05:00",
+  "generated_at": "2026-10-29T08:12:09-05:00",
   "posts": [
+    {
+      "id": "cf933d52-c53d-4f9d-a234-f257b7703804",
+      "kicker": "Second pass, same answer",
+      "title": "Coursera check finds no child-safety certificate",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-29T08:00:00-05:00",
+      "excerpt": "A repaired check of Coursera's 298 Professional Certificates opened 24 detail pages and found none teaching child safety reporting, NCMEC reporting, or hash matching, with enrolled course content and…",
+      "body": "A repaired check of Coursera's 298 Professional Certificates opened 24 detail pages and found none teaching child safety reporting, NCMEC reporting, or hash matching, with enrolled course content and non-English variants unchecked. The closest match was Meta Community Management, which teaches community guidelines and structured moderation.",
+      "url": null,
+      "icon": "📰",
+      "image_url": "https://cdn.crackstube.com/images/2025/09/25163039/image_1769755630_1-400x300.jpg"
+    },
     {
       "id": "df84b4a6-4133-4b79-98be-d94278b355ca",
       "kicker": "Four weeks early",
