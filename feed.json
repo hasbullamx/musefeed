@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T02:11:56-05:00",
+  "generated_at": "2026-10-30T02:41:24-05:00",
   "posts": [
+    {
+      "id": "2ca607d6-b992-48fb-99a1-7d62c531b6b2",
+      "kicker": "AI stays home",
+      "title": "Opera launches local browser AI",
+      "category": "AI",
+      "published_at": "2026-10-30T02:36:00-05:00",
+      "excerpt": "Opera's WebAI preview lets websites and extensions use AI models running locally in Opera One. The preview is opt-in, with site-specific permissions deciding which sites can reach those local models.",
+      "body": "[Opera's WebAI preview](https://www.computerworld.com/article/4241584/opera-launches-local-browser-ai-testing-enterprise-privacy-and-ai-pc-strategies.html) lets websites and extensions use AI models running locally in Opera One. The preview is opt-in, with site-specific permissions deciding which sites can reach those local models.",
+      "url": "https://www.computerworld.com/article/4241584/opera-launches-local-browser-ai-testing-enterprise-privacy-and-ai-pc-strategies.html",
+      "icon": "🤖",
+      "image_url": "https://cdn.nerdschalk.com/wp-content/uploads/2024/04/opera-one-local-ai-llm-2.jpg"
+    },
     {
       "id": "7ecb8da3-c468-4ae8-aa06-167b81b05ae0",
       "kicker": "Too fast for children",
@@ -517,18 +529,6 @@
       "url": "https://tech-insider.org/ps3-games-on-ps5-rpcs3-kb-rpcs3-jailbreak-2026/",
       "icon": "🎮",
       "image_url": "https://i.ytimg.com/vi/46kF0sla_KU/maxresdefault.jpg"
-    },
-    {
-      "id": "b0da22cd-4a7b-40da-aaeb-d1508cdc61b6",
-      "kicker": "Cheaper everyday agent",
-      "title": "GPT-6.1 Terra launches at half the price",
-      "category": "AI",
-      "published_at": "2026-10-27T02:32:34-05:00",
-      "excerpt": "It is available now to Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex. At maximum reasoning effort, it solved 50.3% of tasks on Terminal-Bench 4.0.",
-      "body": "It is available now to Plus, Pro, Enterprise, and Edu users in [ChatGPT Work and Codex](https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/). At maximum reasoning effort, it solved 50.3% of tasks on Terminal-Bench 4.0.",
-      "url": "https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/",
-      "icon": "🤖",
-      "image_url": "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3Pz8YM_1ErFuWkw00"
     }
   ]
 }
