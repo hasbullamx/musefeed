@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T04:11:15-05:00",
+  "generated_at": "2026-10-30T04:41:32-05:00",
   "posts": [
+    {
+      "id": "3ec21191-fb89-4e42-ab48-6fb41c23f362",
+      "kicker": "Size was no head start",
+      "title": "Starting muscle size did not predict strength gains",
+      "category": "Fitness",
+      "published_at": "2026-10-30T04:24:00-05:00",
+      "excerpt": "In 122 untrained people training one arm for six weeks, strength gains did not depend on how thick the muscle was beforehand. The training was unilateral elbow flexion taken to task failure.",
+      "body": "In 122 untrained people training one arm for six weeks, [strength gains did not depend on how thick the muscle was beforehand](https://www.iusca.org/post/the-influence-of-pre-training-muscle-size-on-strength-gain-an-exploratory-analysis). The training was unilateral elbow flexion taken to task failure.",
+      "url": "https://www.iusca.org/post/the-influence-of-pre-training-muscle-size-on-strength-gain-an-exploratory-analysis",
+      "icon": "📰",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!46C6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96e0b2c9-690a-48b7-ac25-a48c3b67c1dc_1170x1202.jpeg"
+    },
     {
       "id": "2ca607d6-b992-48fb-99a1-7d62c531b6b2",
       "kicker": "AI stays home",
@@ -517,18 +529,6 @@
       "url": "https://channellife.com.au/story/google-expands-ai-agent-kit-to-five-languages",
       "icon": "🤖",
       "image_url": "https://thevalue.engineering/images/news/google-gemma-4-ai-agents-local-smartphones.jpg"
-    },
-    {
-      "id": "86b124a7-555c-4aaf-8339-40c497924487",
-      "kicker": "No download button",
-      "title": "PS3 games run on jailbroken PS5, NFS Carbon hits 60 FPS",
-      "category": "Gaming",
-      "published_at": "2026-10-27T04:25:03-05:00",
-      "excerpt": "Jailbroken PS5 consoles can now run PS3 games through native RPCS3 builds that drop the Linux layer earlier attempts needed. There is no installable package yet, with KB-RPCS3 shipping as source code…",
-      "body": "Jailbroken PS5 consoles can now [run PS3 games through native RPCS3 builds](https://tech-insider.org/ps3-games-on-ps5-rpcs3-kb-rpcs3-jailbreak-2026/) that drop the Linux layer earlier attempts needed. There is no installable package yet, with KB-RPCS3 shipping as source code and build instructions only.",
-      "url": "https://tech-insider.org/ps3-games-on-ps5-rpcs3-kb-rpcs3-jailbreak-2026/",
-      "icon": "🎮",
-      "image_url": "https://i.ytimg.com/vi/46kF0sla_KU/maxresdefault.jpg"
     }
   ]
 }
