@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T08:41:45-05:00",
+  "generated_at": "2026-10-30T09:11:23-05:00",
   "posts": [
+    {
+      "id": "ec3ecf06-921b-4f4c-805e-74c98062986a",
+      "kicker": "On your own machine",
+      "title": "Local Code launches free private AI for Mac",
+      "category": "AI",
+      "published_at": "2026-10-30T08:42:00-05:00",
+      "excerpt": "Local Code processes prompts and files on the Mac instead of sending them to a cloud AI provider. Local use is free, with Qwen and DeepSeek models to download.",
+      "body": "[Local Code](https://www.macrumors.com/2026/10/30/local-code-free-private-ai-tool-for-mac/) processes prompts and files on the Mac instead of sending them to a cloud AI provider. Local use is free, with Qwen and DeepSeek models to download.",
+      "url": "https://www.macrumors.com/2026/10/30/local-code-free-private-ai-tool-for-mac/",
+      "icon": "🤖",
+      "image_url": "https://devtools.sh/tools/mac-code"
+    },
     {
       "id": "1ee21883-82fb-4eaa-b106-00b21b1a2184",
       "kicker": "Now at OMB",
@@ -529,18 +541,6 @@
       "url": "https://the-14.com/protein-can-help-build-and-preserve-muscle-but-eating-more-has-its-limits/",
       "icon": "📰",
       "image_url": "https://leonardo.osnova.io/6a65a833-f748-5ca8-bf9c-81c8a48f9717/-/preview/600x/"
-    },
-    {
-      "id": "67d962ee-05f6-4697-a79f-1104e72c632f",
-      "kicker": "No Python detour",
-      "title": "Google expands AI agent kit to five languages",
-      "category": "AI",
-      "published_at": "2026-10-27T08:44:31-05:00",
-      "excerpt": "Every version speaks Model Context Protocol and Agent2Agent, so a tool built once as an MCP server can be called from any of the five languages. Kotlin agents can run on-device on Android, using…",
-      "body": "Every version speaks [Model Context Protocol and Agent2Agent](https://channellife.com.au/story/google-expands-ai-agent-kit-to-five-languages), so a tool built once as an MCP server can be called from any of the five languages. Kotlin agents can run on-device on Android, using LiteRT-LM and ML Kit without a network connection.",
-      "url": "https://channellife.com.au/story/google-expands-ai-agent-kit-to-five-languages",
-      "icon": "🤖",
-      "image_url": "https://thevalue.engineering/images/news/google-gemma-4-ai-agents-local-smartphones.jpg"
     }
   ]
 }
