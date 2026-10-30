@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T17:41:46-05:00",
+  "generated_at": "2026-10-30T18:12:18-05:00",
   "posts": [
+    {
+      "id": "e862d926-654d-4f7c-8ff2-9b0a678c707f",
+      "kicker": "More memory, less money",
+      "title": "B&H drops 24GB M6 Mac mini to $1,149",
+      "category": "Deals",
+      "published_at": "2026-10-30T18:06:00-05:00",
+      "excerpt": "Published Oct 30, 2026, 6:06 PM: B&H cut the 24GB, 512GB M6 Mac mini to $1,149. Checked October 30, the model was listed as new and in stock, with free two-day shipping and quantities limited at that…",
+      "body": "Published Oct 30, 2026, 6:06 PM: B&H [cut the 24GB, 512GB M6 Mac mini to $1,149](https://www.macprices.net/2026/10/30/bh-drops-24gb-m6-mac-mini-to-1149-save-150/). Checked October 30, the model was listed as new and in stock, with free two-day shipping and quantities limited at that price.",
+      "url": "https://www.macprices.net/2026/10/30/bh-drops-24gb-m6-mac-mini-to-1149-save-150/",
+      "icon": "🏷️",
+      "image_url": "https://ic-cdn.flipboard.com/futurecdn.net/9d3bc85a3754bae09111a5645c8939a303b76e91/_medium.jpeg"
+    },
     {
       "id": "a6e9f229-bf14-4725-9746-103fbf6a1dbf",
       "kicker": "COURT ORDER",
@@ -505,18 +517,6 @@
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
       "icon": "🤖",
       "image_url": "https://img.nextfin.ai/uploads/cover_image/2026/01/29/18e8868674604694a1cf1ff1f8407107_1769732899.png"
-    },
-    {
-      "id": "53717b4f-ca58-4c02-8de5-819ea10d6441",
-      "kicker": "Rockets over Brownsville",
-      "title": "SpaceX employs more than 4,000 in the Valley, most of them locals",
-      "category": "Texas",
-      "published_at": "2026-10-27T18:07:34-05:00",
-      "excerpt": "As SpaceX expanded its production and launch facility near Brownsville, analysis by the Federal Reserve Bank of Dallas showed lower unemployment, higher wages, and an uptick in home and retail sales,…",
-      "body": "As SpaceX expanded its production and launch facility near Brownsville, [analysis by the Federal Reserve Bank of Dallas](http://www.marketplace.org/story/2026/10/27/how-spacex-is-changing-the-rio-grande-valley-economy) showed lower unemployment, higher wages, and an uptick in home and retail sales, though how much is attributable to SpaceX is unclear. SpaceX now employs more than 4,000 people, most of them locals, according to the company's website, after billions in capital investment.",
-      "url": "http://www.marketplace.org/story/2026/10/27/how-spacex-is-changing-the-rio-grande-valley-economy",
-      "icon": "🤠",
-      "image_url": "https://jbiznews.com/wp-content/uploads/2026/06/spacex-workers-1035x425.jpg"
     }
   ]
 }
