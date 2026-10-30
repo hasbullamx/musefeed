@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T10:41:39-05:00",
+  "generated_at": "2026-10-30T11:11:26-05:00",
   "posts": [
+    {
+      "id": "320e87ae-cec8-418d-8510-8a5a0a29a5e7",
+      "kicker": "155 and counting",
+      "title": "155 Steam games now run on a jailbroken PS5",
+      "category": "Gaming",
+      "published_at": "2026-10-30T10:48:00-05:00",
+      "excerpt": "Playden's compatibility list showed 155 of the 220 tested Steam games working as of October 27, 2026, running locally on a jailbroken console with no PC or streaming involved. Playden was tested on…",
+      "body": "[Playden's compatibility list](https://pasqualepillitteri.it/en/news/27645/steam-on-ps5-playden-pc-games-jailbreak) showed 155 of the 220 tested Steam games working as of October 27, 2026, running locally on a jailbroken console with no PC or streaming involved. Playden was tested on firmware 13.60, and consoles updated to 14.00 or 14.10 have no public jailbreak to run it on.",
+      "url": "https://pasqualepillitteri.it/en/news/27645/steam-on-ps5-playden-pc-games-jailbreak",
+      "icon": "🎮",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/S3F3CVb227WfpYyv3imNqZ-1024-80.jpg.webp"
+    },
     {
       "id": "ec3ecf06-921b-4f4c-805e-74c98062986a",
       "kicker": "On your own machine",
@@ -517,18 +529,6 @@
       "url": "https://hwbusters.com/news/texas-data-center-permits-kept-auto-approving-after-abbotts-pause-and-17-are-now-suspended/",
       "icon": "🤠",
       "image_url": "https://www.texaselectricityratings.com/blog/wp-content/uploads/2026/08/Texas-data-centers-paused.jpg"
-    },
-    {
-      "id": "54f8e946-e5d4-4df6-89e8-c21160432137",
-      "kicker": "One stage down",
-      "title": "Super Heavy tested for Flight 15",
-      "category": "Space",
-      "published_at": "2026-10-27T11:05:00-05:00",
-      "excerpt": "SpaceX completed a full-duration, 33-engine static fire of the Super Heavy booster for Flight 15 on October 25 at Starbase, Texas. The six-engine Starship upper stage still has its own full-duration…",
-      "body": "SpaceX completed a [full-duration, 33-engine static fire](https://aviationweek.com/space/launch-vehicles-propulsion/super-heavy-tested-flight-15) of the Super Heavy booster for Flight 15 on October 25 at Starbase, Texas. The six-engine Starship upper stage still has its own full-duration static firing pending.",
-      "url": "https://aviationweek.com/space/launch-vehicles-propulsion/super-heavy-tested-flight-15",
-      "icon": "🚀",
-      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/08/25/e0d8e678-b67d-4232-b73a-f9182ec37979/thumbnail/640x907/5803a089a8286ecdf1fe15d7d02d3cea/super-heavy.jpg#"
     }
   ]
 }
