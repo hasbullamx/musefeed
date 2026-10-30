@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T11:41:28-05:00",
+  "generated_at": "2026-10-30T12:11:21-05:00",
   "posts": [
     {
       "id": "320e87ae-cec8-418d-8510-8a5a0a29a5e7",
@@ -517,18 +517,6 @@
       "url": "https://colemanreport.com/sba-hot-topic-tuesday-sba-clarifies-acquisition-rules-corrects-7a-guaranty-fees-and-expands-icap/",
       "icon": "📰",
       "image_url": "https://www.shutterstock.com/?mase_doc_id=8893144573351479288"
-    },
-    {
-      "id": "993efa1a-d9a7-4370-b6df-95641558f890",
-      "kicker": "The pause that wasn't",
-      "title": "Texas suspended 17 data center permits after auto-approvals",
-      "category": "Texas",
-      "published_at": "2026-10-27T12:11:18-05:00",
-      "excerpt": "Texas regulators suspended 17 data center permits after watchdogs showed the STEERS portal kept approving projects following Governor Abbott's September 21 pause. The suspended permits are stormwater…",
-      "body": "Texas regulators [suspended 17 data center permits](https://hwbusters.com/news/texas-data-center-permits-kept-auto-approving-after-abbotts-pause-and-17-are-now-suspended/) after watchdogs showed the STEERS portal kept approving projects following Governor Abbott's September 21 pause. The suspended permits are stormwater construction authorizations, the paperwork that lets a developer start grading and leveling a site.",
-      "url": "https://hwbusters.com/news/texas-data-center-permits-kept-auto-approving-after-abbotts-pause-and-17-are-now-suspended/",
-      "icon": "🤠",
-      "image_url": "https://www.texaselectricityratings.com/blog/wp-content/uploads/2026/08/Texas-data-centers-paused.jpg"
     }
   ]
 }
