@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T14:11:46-05:00",
+  "generated_at": "2026-10-30T14:41:54-05:00",
   "posts": [
+    {
+      "id": "71763020-c80a-440b-bfe2-63073a736a7e",
+      "kicker": "Ottawa buys in",
+      "title": "Ottawa pledges up to $1.6 billion for Cohere stake",
+      "category": "Business",
+      "published_at": "2026-10-30T14:24:00-05:00",
+      "excerpt": "Published Oct 30, 2026, 2:24 PM: Prime Minister Mark Carney announced the staged equity investment on October 29, alongside private investors including NVIDIA, Bell and Schwarz Group. Cohere must…",
+      "body": "Published Oct 30, 2026, 2:24 PM: Prime Minister Mark Carney announced the [staged equity investment](https://thenortherncurrent.com/canada-cohere-equity-investment-october-29-2026) on October 29, alongside private investors including NVIDIA, Bell and Schwarz Group. Cohere must retain its Canadian headquarters and incorporation and add at least 1,000 new technical jobs by 2030.",
+      "url": "https://thenortherncurrent.com/canada-cohere-equity-investment-october-29-2026",
+      "icon": "📰",
+      "image_url": "https://mugglehead.com/wp-content/uploads/2024/07/Trudeau-congratulates-Torontos-AI-startup-Cohere-for-raising-half-a-billion.png"
+    },
     {
       "id": "973297df-0993-471d-b5a8-067329e280bb",
       "kicker": "A kit costs a PC",
@@ -505,18 +517,6 @@
       "url": "https://thekrazycouponlady.com/2026/10/25/save-4-on-your-12-maybelline-cosmetics-purchase-at-dollar-general",
       "icon": "🏷️",
       "image_url": "https://www.krogerkrazy.com/wp-content/uploads/2018/02/27744238_10154936044857191_1477905883_o.jpg"
-    },
-    {
-      "id": "bf6e8a02-b2e6-4f6a-bd7f-62b0170dbcf9",
-      "kicker": "No API, no problem",
-      "title": "In its own test, Pomerado onboarded two employees for 3 cents",
-      "category": "AI",
-      "published_at": "2026-10-27T14:25:11-05:00",
-      "excerpt": "Pomerado lets agents use websites with no API by building and testing each integration itself. In its own test, onboarding two employees cost 3 cents, against $41 with Codex Computer Use.",
-      "body": "[Pomerado](https://www.thetoolnerd.com/p/new-ai-tools-this-week-oct-27-2026) lets agents use websites with no API by building and testing each integration itself. In its own test, onboarding two employees cost 3 cents, against $41 with Codex Computer Use.",
-      "url": "https://www.thetoolnerd.com/p/new-ai-tools-this-week-oct-27-2026",
-      "icon": "🤖",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/MMbqyZX7TqotLSBgJgX7tb-415-80.jpg.webp"
     }
   ]
 }
