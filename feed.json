@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T22:11:31-05:00",
+  "generated_at": "2026-10-29T22:41:26-05:00",
   "posts": [
+    {
+      "id": "ffd45722-b998-4625-80a8-f8934bcf9403",
+      "kicker": "Under Copilot's hood",
+      "title": "Microsoft Copilot harness now in Foundry Agent Service",
+      "category": "AI",
+      "published_at": "2026-10-29T22:19:00-05:00",
+      "excerpt": "Microsoft introduced the Copilot harness in Foundry Agent Service in public preview, with Microsoft running the agent loop and sandbox. Harness runtime usage is free before December 1, when…",
+      "body": "[Microsoft introduced the Copilot harness in Foundry Agent Service](https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/) in public preview, with Microsoft running the agent loop and sandbox. Harness runtime usage is free before December 1, when consumption-based billing begins.",
+      "url": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
+      "icon": "🤖",
+      "image_url": "https://korporaalmedia.nl/storage/blog/51-RubrWm0f.webp"
+    },
     {
       "id": "466d01e0-0958-49b2-93f0-fef4b9efb1fd",
       "kicker": "Twenty-one cents",
@@ -505,18 +517,6 @@
       "url": "https://basic-tutorials.com/news/pc-market-plummets-20-percent-in-the-third-quarter-of-2026/",
       "icon": "📰",
       "image_url": "https://cdn.wccftech.com/wp-content/uploads/2026/09/CyberPowerPC-RTX-5070-Gaming-PC-1599.jpg"
-    },
-    {
-      "id": "b4918cbf-ed92-47f0-94e1-1acfd656246e",
-      "kicker": "CHEAPER CODING",
-      "title": "GPT-6.1 Terra is now in GitHub Copilot",
-      "category": "AI",
-      "published_at": "2026-10-26T22:21:39-05:00",
-      "excerpt": "GitHub says the model is built for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol, per GitHub. It is open to Copilot Pro, Pro+, Max, Business, and Enterprise users, with a…",
-      "body": "GitHub says the model is built for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol, per [GitHub](https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot/). It is open to Copilot Pro, Pro+, Max, Business, and Enterprise users, with a gradual rollout.",
-      "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot/",
-      "icon": "🤖",
-      "image_url": "https://github.blog/wp-content/uploads/2023/02/copilot-header.png?resize=1600%2C840"
     }
   ]
 }
