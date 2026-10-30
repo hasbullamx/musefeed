@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T12:11:21-05:00",
+  "generated_at": "2026-10-30T12:41:29-05:00",
   "posts": [
+    {
+      "id": "973297df-0993-471d-b5a8-067329e280bb",
+      "kicker": "A kit costs a PC",
+      "title": "DDR5 prices surge 760% in Japan",
+      "category": "PC hardware",
+      "published_at": "2026-10-30T12:10:00-05:00",
+      "excerpt": "The 128GB DDR5-6000 kit was listed at ¥514,800 in Akiba PC's October 17 to 24 Akihabara survey. Akiba PC notes the same amount bought a gaming PC equipped with an RTX 5090 or at least an RTX 5080…",
+      "body": "The 128GB DDR5-6000 kit was listed at ¥514,800 in [Akiba PC's October 17 to 24 Akihabara survey](https://www.guru3d.com/story/ddr5-memory-prices-surge-in-japan-128gb-kit-tops/). Akiba PC notes the same amount bought a gaming PC equipped with an RTX 5090 or at least an RTX 5080 around October 2025.",
+      "url": "https://www.guru3d.com/story/ddr5-memory-prices-surge-in-japan-128gb-kit-tops/",
+      "icon": "📰",
+      "image_url": "https://limonenote.com/wp-content/uploads/2025/12/memory-price-surge-2025-eye-900x506.webp"
+    },
     {
       "id": "320e87ae-cec8-418d-8510-8a5a0a29a5e7",
       "kicker": "155 and counting",
