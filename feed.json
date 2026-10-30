@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T16:11:53-05:00",
+  "generated_at": "2026-10-30T16:42:14-05:00",
   "posts": [
+    {
+      "id": "a6e9f229-bf14-4725-9746-103fbf6a1dbf",
+      "kicker": "COURT ORDER",
+      "title": "Judge blocks fast-tracking of child asylum cases",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-30T16:26:34-05:00",
+      "excerpt": "Judge Brendan Hurson ordered the government on October 30 to restore at least 21 days' notice and rescheduling when necessary for unaccompanied children's asylum interviews, as Reuters reported. It…",
+      "body": "Judge Brendan Hurson ordered the government on October 30 to restore at least 21 days' notice and rescheduling when necessary for unaccompanied children's asylum interviews, as [Reuters reported](https://www.reuters.com/legal/government/us-judge-blocks-trump-policies-fast-tracking-childrens-asylum-cases-2026-10-30/). It runs for 14 days, until November 13, 2026, while Hurson considers a longer-term block.",
+      "url": "https://www.reuters.com/legal/government/us-judge-blocks-trump-policies-fast-tracking-childrens-asylum-cases-2026-10-30/",
+      "icon": "📰",
+      "image_url": "https://www.prismedia.ai/_next/image?url=https%3A%2F%2Fazmbcanwixwqvviqqqol.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fimages%2Fai-generated%2Farticle-1768050776834-1768050776834.png&w=1920&q=75"
+    },
+    {
+      "id": "0c433f26-1015-412c-939a-0a7e3c680f64",
+      "kicker": "Slight move right",
+      "title": "Starship Flight 15 targeted for November 12",
+      "category": "Space",
+      "published_at": "2026-10-30T16:22:00-05:00",
+      "excerpt": "Published Oct 30, 2026, 4:22 PM: The current target is November 12, pending regulatory approval, according to new information shared by the Federal Aviation Administration. Flight 15 still needs a…",
+      "body": "Published Oct 30, 2026, 4:22 PM: The [current target](https://starlust.org/spacex-starship-flight-15-possible-launch-date-revealed/) is November 12, pending regulatory approval, according to new information shared by the Federal Aviation Administration. Flight 15 still needs a specific license for recovering the upper stage.",
+      "url": "https://starlust.org/spacex-starship-flight-15-possible-launch-date-revealed/",
+      "icon": "🚀",
+      "image_url": "https://storage.googleapis.com/nextspaceflight/media/starship/sn15.webp"
+    },
     {
       "id": "71763020-c80a-440b-bfe2-63073a736a7e",
       "kicker": "Ottawa buys in",
@@ -493,18 +517,6 @@
       "url": "http://www.marketplace.org/story/2026/10/27/how-spacex-is-changing-the-rio-grande-valley-economy",
       "icon": "🤠",
       "image_url": "https://jbiznews.com/wp-content/uploads/2026/06/spacex-workers-1035x425.jpg"
-    },
-    {
-      "id": "2d14cee1-1f47-455d-8f16-cf36ea8b4779",
-      "kicker": "Past the cache cliff",
-      "title": "Terra bills long prompts at double past 272K tokens",
-      "category": "AI",
-      "published_at": "2026-10-27T16:24:19-05:00",
-      "excerpt": "Requests over 272,000 input tokens are billed at twice the input and cache rates and 1.5 times the output rate for the whole request. In a worked example with 10 million input tokens, 97% of them…",
-      "body": "Requests over [272,000 input tokens](https://theainewsreport.com/2026-10-27-gpt-6-1-terra-pricing-agent-cost-explained.html) are billed at twice the input and cache rates and 1.5 times the output rate for the whole request. In a worked example with 10 million input tokens, 97% of them cache reads, Terra cost $1.79 against $4.94 for GPT-5.6 Terra.",
-      "url": "https://theainewsreport.com/2026-10-27-gpt-6-1-terra-pricing-agent-cost-explained.html",
-      "icon": "🤖",
-      "image_url": "https://bdsp.cc/wp-content/uploads/2026/07/gpt-5-6-sol-vs-terra-vs-luna-_-_-_-_.webp"
     }
   ]
 }
