@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T00:11:22-05:00",
+  "generated_at": "2026-10-30T00:44:42-05:00",
   "posts": [
+    {
+      "id": "7ecb8da3-c468-4ae8-aa06-167b81b05ae0",
+      "kicker": "Too fast for children",
+      "title": "A two-day Chicago docket tests due process for children",
+      "category": "Immigration courts",
+      "published_at": "2026-10-30T00:32:30-05:00",
+      "excerpt": "About 100 vulnerable immigrant children, some as young as 4, were on the Chicago Immigration Court docket on October 29 and 30. On the evening of October 29, 2026, NBC Chicago reported that the…",
+      "body": "About 100 vulnerable immigrant children, some as young as 4, were on the [Chicago Immigration Court docket](https://www.europesays.com/3340927/) on October 29 and 30. On the evening of October 29, 2026, NBC Chicago reported that the Children's Legal Center had eight days to prepare for its 90 cases.",
+      "url": "https://www.europesays.com/3340927/",
+      "icon": "📰",
+      "image_url": "https://i.ytimg.com/vi/mzForuQe124/hqdefault.jpg"
+    },
+    {
+      "id": "d41a071e-924a-4b3c-9e18-5e0fcf1c3909",
+      "kicker": "Thursday at the border",
+      "title": "Gulf cartel violence shut Brownsville–Matamoros bridges after arrest",
+      "category": "Texas",
+      "published_at": "2026-10-30T00:21:47-05:00",
+      "excerpt": "Three international bridges linking Brownsville to Matamoros were shut down for several hours Thursday afternoon after Mexican authorities arrested Axel “Titan” Cardenas. Despite gunmen setting…",
+      "body": "[Three international bridges linking Brownsville to Matamoros](http://dailynewscycle.com/gulf-cartel-violence-shuts-down-brownsville-matamoros-bridges-after-cartel-leaders-son-arrested/) were shut down for several hours Thursday afternoon after Mexican authorities arrested Axel “Titan” Cardenas. Despite gunmen setting vehicles ablaze and blocking roads to stop his transfer, Mexican authorities flew him to Mexico City.",
+      "url": "http://dailynewscycle.com/gulf-cartel-violence-shuts-down-brownsville-matamoros-bridges-after-cartel-leaders-son-arrested/",
+      "icon": "🤠",
+      "image_url": "https://s.hdnux.com/photos/63/13/71/13418052/4/480x0.jpg"
+    },
     {
       "id": "ffd45722-b998-4625-80a8-f8934bcf9403",
       "kicker": "Under Copilot's hood",
@@ -505,18 +529,6 @@
       "url": "https://siliconangle.com/2026/10/26/openai-launches-gpt-6-1-terra-for-faster-better-performing-ai-agents-at-half-the-price/",
       "icon": "🤖",
       "image_url": "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3Pz8YM_1ErFuWkw00"
-    },
-    {
-      "id": "39463a87-ea40-46e7-8a49-eaca31ad8b12",
-      "kicker": "Memory squeeze, quantified",
-      "title": "PC shipments fell 20.1% in Q3 2026",
-      "category": "PC hardware",
-      "published_at": "2026-10-27T00:19:20-05:00",
-      "excerpt": "Only 62.7 million desktops, notebooks, and workstations shipped in the third quarter, a 20.1 percent decline from a year earlier, according to preliminary figures from IDC. AI data centers are…",
-      "body": "Only 62.7 million desktops, notebooks, and workstations shipped in the third quarter, a 20.1 percent decline from a year earlier, according to [preliminary figures from IDC](https://basic-tutorials.com/news/pc-market-plummets-20-percent-in-the-third-quarter-of-2026/). AI data centers are absorbing much of the DRAM and NAND production that would otherwise go into PCs.",
-      "url": "https://basic-tutorials.com/news/pc-market-plummets-20-percent-in-the-third-quarter-of-2026/",
-      "icon": "📰",
-      "image_url": "https://cdn.wccftech.com/wp-content/uploads/2026/09/CyberPowerPC-RTX-5070-Gaming-PC-1599.jpg"
     }
   ]
 }
