@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T06:11:30-05:00",
+  "generated_at": "2026-10-31T06:42:24-05:00",
   "posts": [
     {
       "id": "4ea1a130-dc42-4315-a724-98410dd27826",
@@ -25,6 +25,18 @@
       "url": "https://subagentic.ai/posts/vercel-labs-agent-desktop/",
       "icon": "🤖",
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2432d656-da67-4950-97f0-c91b9fe3739b/Untitled_design.jpg?t=1772438062"
+    },
+    {
+      "id": "f94629e1-e674-4a49-8b58-f60f1f48b78a",
+      "kicker": "The stretch shortcut",
+      "title": "Lengthened partials showed no edge over full reps",
+      "category": "Fitness",
+      "published_at": "2026-10-31T06:39:27-05:00",
+      "excerpt": "In the October 2026 experiment, 16 trained men worked one leg through full-range reps and the other through lengthened partials. Thigh muscle grew under both approaches over eight weeks, with no…",
+      "body": "In [the October 2026 experiment](https://mindmuscleperfection.com/lengthened-partials-vs-full-range-of-motion-muscle-growth/), 16 trained men worked one leg through full-range reps and the other through lengthened partials. Thigh muscle grew under both approaches over eight weeks, with no clear advantage for the partials.",
+      "url": "https://mindmuscleperfection.com/lengthened-partials-vs-full-range-of-motion-muscle-growth/",
+      "icon": "📰",
+      "image_url": "https://planfit.ai/_next/image?url=https%3A%2F%2Fd2m0n84d5tgmh1.cloudfront.net%2Fblog%2Flengthened-partials%2Fhero.png&w=3840&q=75"
     },
     {
       "id": "a0c6e72f-611e-4fb6-b60d-63f80c2811b3",
