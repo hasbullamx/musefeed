@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T22:11:26-05:00",
+  "generated_at": "2026-10-30T22:41:35-05:00",
   "posts": [
+    {
+      "id": "da45476a-d281-45ab-b04e-9bc41a102796",
+      "kicker": "Still sent south",
+      "title": "Four of 21 pregnant girls were sent out of state for care",
+      "category": "ORR / UAC",
+      "published_at": "2026-10-30T22:20:00-05:00",
+      "excerpt": "The Trump administration is still placing pregnant unaccompanied minors in South Texas, where specialized obstetric care is scarce, an investigation by The Texas Newsroom and The California Newsroom…",
+      "body": "The Trump administration is still placing pregnant unaccompanied minors in South Texas, where specialized obstetric care is scarce, [an investigation by The Texas Newsroom and The California Newsroom](https://www.europesays.com/3340060/) found. Government records show four of the 21 pregnant girls placed in the region in the first ten months had to be transferred out of state for specialized care, including at least one abortion unavailable in Texas.",
+      "url": "https://www.europesays.com/3340060/",
+      "icon": "📰",
+      "image_url": "https://www.newsecho.com.ng/wp-content/uploads/2021/03/Screenshot_2021-03-17-March-17-2021-main-cdr-March-17-2021-Wed2-1-pdf8.png"
+    },
     {
       "id": "0d6769c2-1b15-45a5-976f-a124fa5a0067",
       "kicker": "One switch, four labs",
@@ -505,18 +517,6 @@
       "url": "https://www.securitybrief.com.au/story/akamai-launches-ai-inference-agent-sandbox-tools",
       "icon": "🤖",
       "image_url": "https://media.assettype.com/digitalterminal%2F2025-03-28%2F24sl2jzx%2FAkamai.gif?w=480&auto=format%2Ccompress&fit=max"
-    },
-    {
-      "id": "f010a788-7f9e-48f8-8183-4767fc4a7f71",
-      "kicker": "A Faustian bargain",
-      "title": "Jailbroken PS5 can play PS2 discs, but loses PSN",
-      "category": "Gaming",
-      "published_at": "2026-10-27T22:20:46-05:00",
-      "excerpt": "PS5SX2 offers 4K upscaling, widescreen support, 60fps patches and HD texture packs for PS2 discs on a jailbroken console. The catch is that Relapse works only up to system software 13.60, and staying…",
-      "body": "[PS5SX2](https://www.engadget.com/2295693/a-jailbroken-playstation-5-can-play-ps2-discs-but-sony-is-giving-users-a-tough-choice/) offers 4K upscaling, widescreen support, 60fps patches and HD texture packs for PS2 discs on a jailbroken console. The catch is that Relapse works only up to system software 13.60, and staying there costs PlayStation Network, the PlayStation Store and newer games requiring recent firmware.",
-      "url": "https://www.engadget.com/2295693/a-jailbroken-playstation-5-can-play-ps2-discs-but-sony-is-giving-users-a-tough-choice/",
-      "icon": "🎮",
-      "image_url": "https://www.notebookcheck-cn.com/fileadmin/Notebooks/News/_nc5/PS5showninJailCell.jpg"
     }
   ]
 }
