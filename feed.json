@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T11:41:22-05:00",
+  "generated_at": "2026-10-31T12:12:11-05:00",
   "posts": [
+    {
+      "id": "b3ddf9eb-911f-4b3d-8593-15d986b09966",
+      "kicker": "Memory's record squeeze",
+      "title": "PC DRAM hits a record as AI servers take the capacity",
+      "category": "PC hardware",
+      "published_at": "2026-10-31T12:09:00-05:00",
+      "excerpt": "The mainstream DDR4 chip averaged $27.50 in October, a record since TrendForce's survey began in June 2016. TrendForce now sees Korean PC DRAM output falling by more than 40% next year as Samsung and…",
+      "body": "The mainstream DDR4 chip [averaged $27.50 in October](https://biz.chosun.com/en/en-it/2026/10/30/ASPG5INZZBFOTDGSVINATFQVDI/), a record since TrendForce's survey began in June 2016. TrendForce now sees Korean PC DRAM output falling by more than 40% next year as Samsung and SK hynix shift capacity to AI server memory.",
+      "url": "https://biz.chosun.com/en/en-it/2026/10/30/ASPG5INZZBFOTDGSVINATFQVDI/",
+      "icon": "📰",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/4rwLweowdFky58YDVCMhKR-2000-80.jpg"
+    },
     {
       "id": "a5fbfba9-04b1-4b13-acce-b1536d0e6ff0",
       "kicker": "The volume ceiling",
@@ -517,18 +529,6 @@
       "url": "https://www.reuters.com/world/us-supreme-court-denies-immigration-judges-power-shelve-deportation-cases-2026-10-27/",
       "icon": "📰",
       "image_url": "https://www.srnnews.com/media/2026/04/1777115118584348lpJCvv4X5t.jpg?x90053"
-    },
-    {
-      "id": "e5c7bfcc-e298-4f2e-858c-bbb806c009f2",
-      "kicker": "Rules baked in",
-      "title": "Eco's Sauce kit keeps AI agents inside operator-set limits",
-      "category": "AI",
-      "published_at": "2026-10-28T12:10:00-05:00",
-      "excerpt": "Eco launched Sauce SDK on Wednesday, letting developers write transaction conditions in TypeScript. If a transaction cannot satisfy every condition when it runs, it never executes and no funds move.",
-      "body": "[Eco launched Sauce SDK](https://unchainedcrypto.com/ecos-new-sauce-developer-kit-keeps-ai-agents-transactions-within-operator-set-limits/) on Wednesday, letting developers write transaction conditions in TypeScript. If a transaction cannot satisfy every condition when it runs, it never executes and no funds move.",
-      "url": "https://unchainedcrypto.com/ecos-new-sauce-developer-kit-keeps-ai-agents-transactions-within-operator-set-limits/",
-      "icon": "🤖",
-      "image_url": "https://coe.us/wp-content/uploads/2026/08/coeus-chronicle-august-2026-ai-model-sandbox.jpg"
     }
   ]
 }
