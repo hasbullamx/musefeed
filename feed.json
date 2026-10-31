@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T02:11:16-05:00",
+  "generated_at": "2026-10-31T02:41:12-05:00",
   "posts": [
+    {
+      "id": "93c452b7-8feb-4841-8018-6517c98bb3a4",
+      "kicker": "Hands for agents",
+      "title": "Vercel ships agent-desktop for coding agents",
+      "category": "AI",
+      "published_at": "2026-10-31T08:30:00-05:00",
+      "excerpt": "agent-desktop lets coding agents read and operate desktop apps through the operating system's accessibility tree on macOS, Windows, and Linux. It embeds no model, so agents call it as a tool and keep…",
+      "body": "[agent-desktop](https://subagentic.ai/posts/vercel-labs-agent-desktop/) lets coding agents read and operate desktop apps through the operating system's accessibility tree on macOS, Windows, and Linux. It embeds no model, so agents call it as a tool and keep the observe, act, and verify loop themselves.",
+      "url": "https://subagentic.ai/posts/vercel-labs-agent-desktop/",
+      "icon": "🤖",
+      "image_url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/2432d656-da67-4950-97f0-c91b9fe3739b/Untitled_design.jpg?t=1772438062"
+    },
     {
       "id": "a0c6e72f-611e-4fb6-b60d-63f80c2811b3",
       "kicker": "Finally filed",
