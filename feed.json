@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T18:12:57-05:00",
+  "generated_at": "2026-10-31T18:41:58-05:00",
   "posts": [
+    {
+      "id": "f613ccf6-dafd-4c26-9962-ecbf1038c62f",
+      "kicker": "The Pro, repurposed",
+      "title": "PS5 Pro boots Ubuntu on firmware 13.60",
+      "category": "Gaming",
+      "published_at": "2026-10-31T18:07:00-05:00",
+      "excerpt": "The PS5 Linux project now boots an Ubuntu desktop on a jailbroken retail PS5 Pro running firmware 13.60. It runs alongside Sony's operating system rather than replacing it, leaving the internal SSD…",
+      "body": "The [PS5 Linux project](https://videocardz.com/newz/ps5-linux-project-adds-ps5-pro-support-runs-ubuntu-on-firmware-13-60) now boots an Ubuntu desktop on a jailbroken retail PS5 Pro running firmware 13.60. It runs alongside Sony's operating system rather than replacing it, leaving the internal SSD unchanged.",
+      "url": "https://videocardz.com/newz/ps5-linux-project-adds-ps5-pro-support-runs-ubuntu-on-firmware-13-60",
+      "icon": "🎮",
+      "image_url": "https://onejailbreak.com/site/assets/files/4162/ps5-jailbreak-ubuntu.474x0.webp"
+    },
     {
       "id": "72fbc1c3-7183-46ae-8f42-741dad253200",
       "kicker": "Buyer, meet the fine print",
