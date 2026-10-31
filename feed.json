@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T14:11:30-05:00",
+  "generated_at": "2026-10-31T14:41:11-05:00",
   "posts": [
+    {
+      "id": "6d4edab3-8df7-4f16-9528-c661a5fe8168",
+      "kicker": "A second pair of eyes",
+      "title": "Open-source MiniCPM-OCR parses documents with a 1.3B model",
+      "category": "AI",
+      "published_at": "2026-10-31T14:24:00-05:00",
+      "excerpt": "The MiniCPM-OCR release from ModelBest and OpenBMB centers on a 1.3-billion-parameter model that parses scanned, photographed, curved and tilted documents without image pre-correction. Its 2B…",
+      "body": "The [MiniCPM-OCR release](https://www.morningstar.com/news/pr-newswire/20261031cn86192/modelbest-and-openbmb-open-source-minicpm-ocr-series-delivering-high-performance-document-parsing-and-ai-powered-quality-control) from ModelBest and OpenBMB centers on a 1.3-billion-parameter model that parses scanned, photographed, curved and tilted documents without image pre-correction. Its 2B companion, Jev, compares OCR output with the source image and flags errors for human review.",
+      "url": "https://www.morningstar.com/news/pr-newswire/20261031cn86192/modelbest-and-openbmb-open-source-minicpm-ocr-series-delivering-high-performance-document-parsing-and-ai-powered-quality-control",
+      "icon": "🤖",
+      "image_url": "https://cdn.chatgate.ai/post/2026/05/minicpm-v-4-6.png"
+    },
     {
       "id": "b3ddf9eb-911f-4b3d-8593-15d986b09966",
       "kicker": "Memory's record squeeze",
@@ -517,18 +529,6 @@
       "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/",
       "icon": "🤖",
       "image_url": "https://mso.vn/wp-content/uploads/2024/06/image-189.webp"
-    },
-    {
-      "id": "fb1f1219-d250-4772-9570-85b04e1bbe4d",
-      "kicker": "The pause stays off",
-      "title": "Supreme Court denies judges the power to pause deportation cases",
-      "category": "Immigration",
-      "published_at": "2026-10-28T14:23:00-05:00",
-      "excerpt": "The Supreme Court declined Tuesday to reinstate immigration judges' authority to temporarily postpone deportation cases. Administrative closure had let judges clear cases from active dockets while a…",
-      "body": "The Supreme Court [declined Tuesday to reinstate](https://www.reuters.com/world/us-supreme-court-denies-immigration-judges-power-shelve-deportation-cases-2026-10-27/) immigration judges' authority to temporarily postpone deportation cases. Administrative closure had let judges clear cases from active dockets while a visa petition or an appeal of a criminal conviction was still pending.",
-      "url": "https://www.reuters.com/world/us-supreme-court-denies-immigration-judges-power-shelve-deportation-cases-2026-10-27/",
-      "icon": "📰",
-      "image_url": "https://www.srnnews.com/media/2026/04/1777115118584348lpJCvv4X5t.jpg?x90053"
     }
   ]
 }
