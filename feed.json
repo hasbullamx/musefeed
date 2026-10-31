@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T16:13:16-05:00",
+  "generated_at": "2026-10-31T16:43:23-05:00",
   "posts": [
+    {
+      "id": "72fbc1c3-7183-46ae-8f42-741dad253200",
+      "kicker": "Buyer, meet the fine print",
+      "title": "Green-card holders are out of SBA-financed buyouts",
+      "category": "Business",
+      "published_at": "2026-10-31T16:24:00-05:00",
+      "excerpt": "Lawful permanent residents are now treated as ineligible for SBA-financed acquisitions under a rule in effect since March 1, which requires every owner and required guarantor to be a U.S. citizen or…",
+      "body": "[Lawful permanent residents are now treated as ineligible](https://www.munizzilaw.com/blog/sba-acquisition-rules-sop-50-10-8-1) for SBA-financed acquisitions under a rule in effect since March 1, which requires every owner and required guarantor to be a U.S. citizen or national living in the United States. The rule looks back six months, so a business cannot qualify if an ineligible person owned any part of it in that window unless that person gave up every bit of the interest before the loan number issues.",
+      "url": "https://www.munizzilaw.com/blog/sba-acquisition-rules-sop-50-10-8-1",
+      "icon": "📰",
+      "image_url": "https://imgmedia.libero.pe/640x352/libero/original/2026/03/02/69a5f938ca7fdc830d074397.webp"
+    },
     {
       "id": "6d4edab3-8df7-4f16-9528-c661a5fe8168",
       "kicker": "A second pair of eyes",
@@ -505,18 +517,6 @@
       "url": "https://www.rgvbusinessjournal.com/news/27/10/2026/vanguard-academy-plans-94m-in-projects-across-three-valley-cities/",
       "icon": "🤠",
       "image_url": "https://www.dci-engineers.com/uploads/projects/_simpleGallery/a_Vanguard_1.jpg"
-    },
-    {
-      "id": "e2ff4344-7ee1-4e78-90c3-276365b04cf5",
-      "kicker": "Cheaper gift-giving",
-      "title": "Dollar General takes 10% off holiday gift cards",
-      "category": "Deals",
-      "published_at": "2026-10-28T16:26:05-05:00",
-      "excerpt": "The in-store offer covers GameStop, Domino's, and Chipotle gift cards, among others. It runs through October 31 for purchases made in store only.",
-      "body": "The [in-store offer](https://www.dealtikka.com/dollar-general-in-stores-offer-10-off-holiday-gift-cards-gamestop-dominos-chipotle-more/) covers GameStop, Domino's, and Chipotle gift cards, among others. It runs through October 31 for purchases made in store only.",
-      "url": "https://www.dealtikka.com/dollar-general-in-stores-offer-10-off-holiday-gift-cards-gamestop-dominos-chipotle-more/",
-      "icon": "🏷️",
-      "image_url": "https://gcanywhere.com/wp-content/uploads/2025/02/image-49.png"
     }
   ]
 }
