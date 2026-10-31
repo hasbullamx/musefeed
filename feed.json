@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T20:41:55-05:00",
+  "generated_at": "2026-10-30T21:11:35-05:00",
   "posts": [
+    {
+      "id": "0d6769c2-1b15-45a5-976f-a124fa5a0067",
+      "kicker": "One switch, four labs",
+      "title": "AI giants promise a new anti-scraping standard",
+      "category": "AI",
+      "published_at": "2026-10-30T21:01:00-05:00",
+      "excerpt": "OpenAI, Google, Microsoft and Anthropic pledged on Oct 30 to give websites a single standardized instruction for opting out of AI training. The setting applies only to future training, leaving…",
+      "body": "OpenAI, Google, Microsoft and Anthropic [pledged on Oct 30](https://www.straitstimes.com/world/ai-giants-promise-publishers-new-way-to-block-some-scraping) to give websites a single standardized instruction for opting out of AI training. The setting applies only to future training, leaving crawling untouched.",
+      "url": "https://www.straitstimes.com/world/ai-giants-promise-publishers-new-way-to-block-some-scraping",
+      "icon": "🤖",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMX497dZg0FKM0chnu5DEpfx_cIigYthfP_UmF_TWMfwAbyNO2NY1kJwISz8_QmmjFOdX-FtRnf-rLNfXZog95nUbBMv0n8chzQUHAnr8gC9ukZfF5lTJGKRw1ux_ev9Oxv1wWQC7sr2BFKzaQtcbG_T35lpGmDcXud0p-wrG6keGF16BEQz-raR8DpqRc/w640-h366/Wikipedia's%20Plea%20to%20AI%20Giant%20Pay%20Up%20or%20Stop%20Scraping%20Our%20Knowledge.jpeg"
+    },
     {
       "id": "e862d926-654d-4f7c-8ff2-9b0a678c707f",
       "kicker": "More memory, less money",
@@ -505,18 +517,6 @@
       "url": "https://www.engadget.com/2295693/a-jailbroken-playstation-5-can-play-ps2-discs-but-sony-is-giving-users-a-tough-choice/",
       "icon": "🎮",
       "image_url": "https://www.notebookcheck-cn.com/fileadmin/Notebooks/News/_nc5/PS5showninJailCell.jpg"
-    },
-    {
-      "id": "53acd5d3-6121-4211-9349-76d9ce491070",
-      "kicker": "Worlds that answer back",
-      "title": "Google DeepMind announces Genie 4 world simulation",
-      "category": "AI",
-      "published_at": "2026-10-27T21:02:53-05:00",
-      "excerpt": "Genie 4 simultaneously generates music, ambient noises, and interactive dialogue alongside the simulated world. It remains a research preview for trusted testers, with access coming soon to Google AI…",
-      "body": "Genie 4 [simultaneously generates music, ambient noises, and interactive dialogue](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) alongside the simulated world. It remains a research preview for trusted testers, with access coming soon to Google AI Ultra subscribers in Project Genie and early access partners in the Gemini API and Google AI Studio.",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "icon": "🤖",
-      "image_url": "https://img.nextfin.ai/uploads/cover_image/2026/01/29/18e8868674604694a1cf1ff1f8407107_1769732899.png"
     }
   ]
 }
