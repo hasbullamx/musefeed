@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T00:11:15-05:00",
+  "generated_at": "2026-10-31T00:41:30-05:00",
   "posts": [
+    {
+      "id": "a0c6e72f-611e-4fb6-b60d-63f80c2811b3",
+      "kicker": "Finally filed",
+      "title": "Anthropic files for IPO with soaring revenue, massive losses",
+      "category": "Business",
+      "published_at": "2026-10-31T06:30:00-05:00",
+      "excerpt": "Revenue reached $16.29 billion in the first half of 2026, up from $1.16 billion a year earlier, in the prospectus Anthropic filed on October 26. Most of the $80.7 billion loss was paper: a $72.4…",
+      "body": "Revenue reached $16.29 billion in the first half of 2026, up from $1.16 billion a year earlier, in the [prospectus Anthropic filed on October 26](https://news.cgtn.com/news/2026-10-27/Anthropic-files-for-IPO-reveals-soaring-revenue-massive-net-losses-1RzGVHGukKY/share_amp.html). Most of the $80.7 billion loss was paper: a $72.4 billion charge for revaluing convertible notes as Anthropic's valuation climbed.",
+      "url": "https://news.cgtn.com/news/2026-10-27/Anthropic-files-for-IPO-reveals-soaring-revenue-massive-net-losses-1RzGVHGukKY/share_amp.html",
+      "icon": "📰",
+      "image_url": "https://blog.tipranks.com/wp-content/uploads/2026/05/aaa-59-750x406.jpg"
+    },
     {
       "id": "59f789be-18e4-4dbe-8ac0-6c4b9b438b0f",
       "kicker": "The shortlist, with caveats",
@@ -517,18 +529,6 @@
       "url": "https://www.mensfitness.com/training/slow-eccentric-squats-showed-the-most-quad-growth-fast-reps-showed-the-biggest-early-force-gain",
       "icon": "📰",
       "image_url": "https://elitehockeydrills.com/assets/video-thumbs/squat-to-broad-jump.jpg"
-    },
-    {
-      "id": "c68cbc35-6978-444b-ba97-95c7f810e32e",
-      "kicker": "A boundary for agent code",
-      "title": "Akamai launches AI inference & agent sandbox tools",
-      "category": "AI",
-      "published_at": "2026-10-28T00:19:01-05:00",
-      "excerpt": "Akamai Inference serves 12 open-weight models through OpenAI-compatible APIs. The Agent Sandbox runs code agents write in WebAssembly isolation, separate from the agent runtime.",
-      "body": "[Akamai Inference](https://www.securitybrief.com.au/story/akamai-launches-ai-inference-agent-sandbox-tools) serves 12 open-weight models through OpenAI-compatible APIs. The Agent Sandbox runs code agents write in WebAssembly isolation, separate from the agent runtime.",
-      "url": "https://www.securitybrief.com.au/story/akamai-launches-ai-inference-agent-sandbox-tools",
-      "icon": "🤖",
-      "image_url": "https://media.assettype.com/digitalterminal%2F2025-03-28%2F24sl2jzx%2FAkamai.gif?w=480&auto=format%2Ccompress&fit=max"
     }
   ]
 }
