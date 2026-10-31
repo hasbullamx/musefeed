@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T08:42:05-05:00",
+  "generated_at": "2026-10-31T09:11:43-05:00",
   "posts": [
     {
       "id": "4ea1a130-dc42-4315-a724-98410dd27826",
@@ -13,6 +13,18 @@
       "url": "https://thefreebieguy.com/dollar-general-saturday-scenarios-list/",
       "icon": "🏷️",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg4ccTOixi8RVGuR770oF1HH2cMCk02Y1OWzkebeFrWfmGjKCj5qsEK5HGyezi1m7r6owDDLm1LmFnplkwP2sL6JA2YEVBt4hDbj8bdgoWoWzBP0TGIr4oVDhRmsOC5a16F5RVa7EqXvU/s640/20191228_012314.png"
+    },
+    {
+      "id": "4aeef5d9-6148-4ad6-bea4-d1273b75dc6e",
+      "kicker": "One request, hundreds of calls",
+      "title": "Factory Droid 1.0 runs tools through scripts",
+      "category": "AI",
+      "published_at": "2026-10-31T08:42:00-05:00",
+      "excerpt": "Factory Droid 1.0 makes programmatic tool calling the default, so the model writes a JavaScript program that runs hundreds of tool calls in a single pass inside a sandbox. Factory's self-reported…",
+      "body": "[Factory Droid 1.0](https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/) makes programmatic tool calling the default, so the model writes a JavaScript program that runs hundreds of tool calls in a single pass inside a sandbox. Factory's self-reported Terminal-Bench 4 run put it at 65.2% with Claude Opus 5.5.",
+      "url": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
+      "icon": "🤖",
+      "image_url": "https://discuss.pytorch.kr/uploads/default/original/2X/c/c4c921463d7a96e6f423c91de970b12d7830c7f4.jpeg"
     },
     {
       "id": "93c452b7-8feb-4841-8018-6517c98bb3a4",
@@ -517,30 +529,6 @@
       "url": "https://immigration-analytics.com/2026/10/28/refugee-status-termination-rule-paused/",
       "icon": "📰",
       "image_url": "https://e3.365dm.com/25/08/384x288/skynews-court-of-appeal-asylum-seekers_7004578.jpg?20250829141408"
-    },
-    {
-      "id": "d70f2634-6059-44f4-9710-650ce2988e8a",
-      "kicker": "No relief in sight",
-      "title": "SK hynix sees memory shortage lasting through 2030",
-      "category": "PC hardware",
-      "published_at": "2026-10-28T08:59:00-05:00",
-      "excerpt": "SK hynix expects memory demand to exceed supply through 2030, in third-quarter 2026 results announced October 28. Long-term agreements with 14 major customers already cover more than 50% of its…",
-      "body": "SK hynix [expects memory demand to exceed supply through 2030](https://www.tweaktown.com/news/114347/sk-hynix-warns-the-memory-shortage-will-last-through-2030-as-ai-demand-keeps-growing/index.html), in third-quarter 2026 results announced October 28. Long-term agreements with 14 major customers already cover more than 50% of its production capacity for 2027 and 2028.",
-      "url": "https://www.tweaktown.com/news/114347/sk-hynix-warns-the-memory-shortage-will-last-through-2030-as-ai-demand-keeps-growing/index.html",
-      "icon": "📰",
-      "image_url": "https://ranzware.com/uploads/images/202607/image_450x280_cdbc860af988856f676c6db3c6eb6342.jpg"
-    },
-    {
-      "id": "32b9e340-bce1-489b-9983-2f18f073efcb",
-      "kicker": "More tokens, less proof",
-      "title": "Amazon discourages tokenmaxxing as AI costs climb",
-      "category": "AI",
-      "published_at": "2026-10-28T08:43:00-05:00",
-      "excerpt": "Amazon's guidelines, published October 27, call token consumption, AI adoption rates, and code changes \"deeply flawed\" ways to judge teams. The company shut down an internal usage leaderboard in May…",
-      "body": "[Amazon's guidelines](https://indianexpress.com/article/technology/tech-news-technology/amazon-discourages-tokenmaxxing-ai-usage-costs-10940049/), published October 27, call token consumption, AI adoption rates, and code changes \"deeply flawed\" ways to judge teams. The company shut down an internal usage leaderboard in May after employees inflated their usage to climb the rankings.",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/amazon-discourages-tokenmaxxing-ai-usage-costs-10940049/",
-      "icon": "🤖",
-      "image_url": "https://pixelnerd.pl/content/medium/img_6a1bdbd82c142.webp"
     }
   ]
 }
