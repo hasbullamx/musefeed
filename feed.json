@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T22:11:46-05:00",
+  "generated_at": "2026-10-31T22:41:46-05:00",
   "posts": [
+    {
+      "id": "ef960a2c-b925-45b0-b470-5f9c36613128",
+      "kicker": "One brain, every screen",
+      "title": "OpenCode 2.0 turns the coding agent into a shared background service",
+      "category": "AI",
+      "published_at": "2026-10-31T22:03:00-05:00",
+      "excerpt": "OpenCode 2.0 runs as a single persistent background service, so terminal, desktop, web and phone clients share the same live session. Its Code Mode lets the agent chain multiple tool calls into one…",
+      "body": "[OpenCode 2.0](https://medium.com/@mr.f00l210/opencode-2-0-is-here-how-the-open-source-coding-agent-became-a-shared-background-service-a354024358a7) runs as a single persistent background service, so terminal, desktop, web and phone clients share the same live session. Its Code Mode lets the agent chain multiple tool calls into one JavaScript program instead of calling tools one by one.",
+      "url": "https://medium.com/@mr.f00l210/opencode-2-0-is-here-how-the-open-source-coding-agent-became-a-shared-background-service-a354024358a7",
+      "icon": "🤖",
+      "image_url": "https://pbs.twimg.com/media/G7wqDk5XYAAb-pH.jpg"
+    },
     {
       "id": "4bb46fae-d353-44f7-b5d9-dedd03da8f1d",
       "kicker": "The fund was there",
@@ -493,18 +505,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place",
       "icon": "🤖",
       "image_url": "https://cdn.nwe.io/files/x/74/00/0fdade78a3ad5bf0c125e2af22a6.jpg"
-    },
-    {
-      "id": "b69b5ec5-1d9e-4669-9b12-91ff15d998da",
-      "kicker": "The incomplete chain",
-      "title": "Prolapse exploit works on PS5 firmware 14.10",
-      "category": "Gaming",
-      "published_at": "2026-10-28T22:20:00-05:00",
-      "excerpt": "Sony patched the flaw in firmware 14.20, released October 21. The hypervisor bypass needed to run game backups still stops at 13.60, so a bootable GTA 6 backup looks unlikely when it arrives November…",
-      "body": "Sony [patched the flaw in firmware 14.20](https://news.lavx.hu/article/ps5-kernel-exploit-prolapse-works-on-firmware-14-10-but-gta-6-piracy-remains-unlikely-for-now), released October 21. The hypervisor bypass needed to run game backups still stops at 13.60, so a bootable GTA 6 backup looks unlikely when it arrives November 19.",
-      "url": "https://news.lavx.hu/article/ps5-kernel-exploit-prolapse-works-on-firmware-14-10-but-gta-6-piracy-remains-unlikely-for-now",
-      "icon": "🎮",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/k6KuVr46GgBw6zPciJZCrL-970-80.jpg"
     }
   ]
 }
