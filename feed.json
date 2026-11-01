@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T14:11:24-06:00",
+  "generated_at": "2026-11-01T14:41:30-06:00",
   "posts": [
     {
       "id": "fd83be6d-aa75-4072-9f39-cf29b9721813",
@@ -433,18 +433,6 @@
       "url": "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance",
       "icon": "🤖",
       "image_url": "https://codinglap.com/wp-content/uploads/2025/11/How-to-Fix-Android-Studio-Not-Opening-or-Crashing-on-Windows-11-958x539.jpg"
-    },
-    {
-      "id": "3c6a8130-6a5b-44ba-9df0-f5f7edfea98e",
-      "kicker": "Deadline in two days",
-      "title": "IIT Delhi launches Agentic AI certificate course",
-      "category": "Education",
-      "published_at": "2026-10-29T15:24:00-05:00",
-      "excerpt": "Applications for IIT Delhi's six-month Executive Certificate in Agentic AI Systems close October 31, 2026. The curriculum includes a dedicated AI Trust, Risk and Security Management module covering…",
-      "body": "Applications for [IIT Delhi's six-month Executive Certificate in Agentic AI Systems](https://news.careers360.com/iit-delhi-agentic-ai-systems-certificate-course-onlineworking-professionals-graduates-cep-apply-by-oct-31) close October 31, 2026. The curriculum includes a dedicated AI Trust, Risk and Security Management module covering model governance, explainability, regulatory compliance and security.",
-      "url": "https://news.careers360.com/iit-delhi-agentic-ai-systems-certificate-course-onlineworking-professionals-graduates-cep-apply-by-oct-31",
-      "icon": "📰",
-      "image_url": "https://cdn.masaischool.com/masai-website/O_Gimage2_ezgif_com_png_to_webp_converter_b0e98b1ba2.webp"
     }
   ]
 }
