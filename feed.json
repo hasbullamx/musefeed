@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T20:41:45-05:00",
+  "generated_at": "2026-10-31T21:13:22-05:00",
   "posts": [
+    {
+      "id": "4bb46fae-d353-44f7-b5d9-dedd03da8f1d",
+      "kicker": "The fund was there",
+      "title": "Judges order USDA to use contingency fund for SNAP",
+      "category": "General News",
+      "published_at": "2026-10-31T21:01:00-05:00",
+      "excerpt": "Two federal judges ruled October 31 that the USDA must use its roughly $4.6 billion contingency fund to pay November SNAP benefits. In Boston, Judge Indira Talwani gave the USDA until Monday,…",
+      "body": "[Two federal judges ruled October 31](https://www.bazaardailynews.com/2026/10/31/two-judges-said-the-money-exists-this-morning-the-card-is-still-empty/) that the USDA must use its roughly $4.6 billion contingency fund to pay November SNAP benefits. In Boston, Judge Indira Talwani gave the USDA until Monday, November 3, to present a plan to issue at least partial payments.",
+      "url": "https://www.bazaardailynews.com/2026/10/31/two-judges-said-the-money-exists-this-morning-the-card-is-still-empty/",
+      "icon": "📰",
+      "image_url": "https://test.rockymountainvoice.com/wp-content/uploads/2025/11/courtroom-decision-snap-funding-order-840x440.png"
+    },
     {
       "id": "f613ccf6-dafd-4c26-9962-ecbf1038c62f",
       "kicker": "The Pro, repurposed",
