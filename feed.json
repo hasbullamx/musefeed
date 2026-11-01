@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T23:41:56-05:00",
+  "generated_at": "2026-11-01T00:42:36-05:00",
   "posts": [
+    {
+      "id": "ffb4d0c0-1439-454a-a5a5-effcf7c1a553",
+      "kicker": "Brownsville before Tuesday",
+      "title": "Deportation drive galvanises midterm vote on Texas border",
+      "category": "Texas",
+      "published_at": "2026-11-01T08:00:00-06:00",
+      "excerpt": "A Dia de los Muertos vigil in Brownsville honoured people who died in immigration enforcement and detention, days before the November 3 midterm election. A Caminos Institute estimate put the region's…",
+      "body": "A [Dia de los Muertos vigil in Brownsville](https://www.aljazeera.com/news/2026/10/30/on-the-us-border-in-texas-trump-deportation-drive-galvanises-midterm-vote) honoured people who died in immigration enforcement and detention, days before the November 3 midterm election. A Caminos Institute estimate put the region's lost economic activity at $180.6 million from the administration's immigration policies, including construction and restaurants.",
+      "url": "https://www.aljazeera.com/news/2026/10/30/on-the-us-border-in-texas-trump-deportation-drive-galvanises-midterm-vote",
+      "icon": "🤠",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2022/02/AP21337606517403.jpg?w=770&resize=770%2C513&quality=80"
+    },
+    {
+      "id": "297bcfe6-d684-4bb5-a52a-f8865580953c",
+      "kicker": "Live funding opening",
+      "title": "ORR posts $280 million live solicitation for residential care",
+      "category": "ORR / UAC",
+      "published_at": "2026-11-01T00:27:36-05:00",
+      "excerpt": "The forecast is now a live solicitation: ORR posted Residential Services for Unaccompanied Alien Children on October 30, 2026, with applications due December 29, 2026 at 11:59 pm Eastern. It funds…",
+      "body": "The forecast is now a live solicitation: ORR posted [Residential Services for Unaccompanied Alien Children](https://simpler.grants.gov/opportunity/faf2c812-0749-4c34-9189-cea5f9af3cf9) on October 30, 2026, with applications due December 29, 2026 at 11:59 pm Eastern. It funds licensed providers offering residential care 24 hours a day, 7 days a week, with particular interest in beds and transitional foster care near the southern border, and no application documents were available on the listing when checked, with pre-application resources on ORR's [grants page](https://www.acf.hhs.gov/orr/grants/ucb).",
+      "url": "https://simpler.grants.gov/opportunity/faf2c812-0749-4c34-9189-cea5f9af3cf9",
+      "icon": "📰",
+      "image_url": "https://particle.news/cdn-cgi/image/onerror=redirect,width=640,height=640,format=webp/https://storage.googleapis.com/uploads.mongoosehq.com/url/media/19015298/9ea23400c6f33290f43ba1e56a3bc2c80a05ade60584497665e6acdf57a32cbf"
+    },
     {
       "id": "ef960a2c-b925-45b0-b470-5f9c36613128",
       "kicker": "One brain, every screen",
@@ -493,18 +517,6 @@
       "url": "https://texasborderbusiness.com/election-day-approaches-as-early-voting-begins-october-19-across-texas/",
       "icon": "🤠",
       "image_url": "https://www.aljazeera.com/wp-content/uploads/2020/11/AP_20304651409522.jpg?w=770&resize=770%2C513&quality=80"
-    },
-    {
-      "id": "c62fe7f2-d25b-4d3c-8c2b-477d03d7846f",
-      "kicker": "One door into Gemini",
-      "title": "New Connected Apps Platform launches for developers",
-      "category": "AI",
-      "published_at": "2026-10-29T00:18:00-05:00",
-      "excerpt": "The preview of Google's Connected Apps Platform gives developers one route into both Search and the Gemini app. Developers connect through a cloud-hosted MCP server or Android MCP using the…",
-      "body": "The preview of [Google's Connected Apps Platform](https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place) gives developers one route into both Search and the Gemini app. Developers connect through a cloud-hosted MCP server or Android MCP using the AppFunctions APIs, then register, test, and submit through the Google Connected Console.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place",
-      "icon": "🤖",
-      "image_url": "https://cdn.nwe.io/files/x/74/00/0fdade78a3ad5bf0c125e2af22a6.jpg"
     }
   ]
 }
