@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T04:11:55-06:00",
+  "generated_at": "2026-11-01T04:41:35-06:00",
   "posts": [
+    {
+      "id": "4c8bd47a-e6ca-4b2c-a540-3949f0e5cfd0",
+      "kicker": "Decisions, kept local",
+      "title": "Drex Max v1 open weights run locally on Apple Silicon",
+      "category": "AI",
+      "published_at": "2026-11-01T12:00:00-06:00",
+      "excerpt": "Nace AI released Drex Max v1 as open weights, shipping bf16 weights and an affine Q4 checkpoint. The affine Q4 checkpoint runs on Apple Silicon Macs with 24 GB or more, so routing, classification and…",
+      "body": "[Nace AI released Drex Max v1 as open weights](https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/), shipping bf16 weights and an affine Q4 checkpoint. The affine Q4 checkpoint runs on Apple Silicon Macs with 24 GB or more, so routing, classification and policy checks can stay on a local machine.",
+      "url": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
+      "icon": "🤖",
+      "image_url": "https://d372z8jalgxmqp.cloudfront.net/i/9/132/37/35/795.jpg"
+    },
     {
       "id": "6836d22b-d1e2-4446-81f5-d2d63dfe2aab",
       "kicker": "This week's basket",
