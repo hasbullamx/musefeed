@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-31T18:41:58-05:00",
+  "generated_at": "2026-10-31T19:13:13-05:00",
   "posts": [
     {
       "id": "f613ccf6-dafd-4c26-9962-ecbf1038c62f",
@@ -505,18 +505,6 @@
       "url": null,
       "icon": "🏷️",
       "image_url": "https://d37jsm3yxo26ez.cloudfront.net/public/innerview_event_activity_stub/a5/1d/34/33b5bc_6c56550.jpeg?c=1fb8"
-    },
-    {
-      "id": "f5eb2e2b-f214-4244-92b7-3a33b5898abd",
-      "kicker": "Proof over promises",
-      "title": "CSA launches STAR for AI Level 2 certification",
-      "category": "AI",
-      "published_at": "2026-10-28T19:05:00-05:00",
-      "excerpt": "STAR for AI Level 2 adds third-party-verified AI assurance to the Cloud Security Alliance's STAR program, alongside traditional cloud certification. The designation combines independent certification…",
-      "body": "[STAR for AI Level 2](https://cloudsecurityalliance.org/press-releases/2026/10/27/cloud-security-alliance-launches-star-for-ai-level-2-to-strengthen-ai-governance-and-trust) adds third-party-verified AI assurance to the Cloud Security Alliance's STAR program, alongside traditional cloud certification. The designation combines independent certification with automated analysis through Valid-AI-ted, aligned with the alliance's AI Controls Matrix.",
-      "url": "https://cloudsecurityalliance.org/press-releases/2026/10/27/cloud-security-alliance-launches-star-for-ai-level-2-to-strengthen-ai-governance-and-trust",
-      "icon": "🤖",
-      "image_url": "https://andesite.ai/wp-content/uploads/2025/07/CSA-Star-AI-2.png"
     }
   ]
 }
