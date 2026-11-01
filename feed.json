@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T10:41:23-06:00",
+  "generated_at": "2026-11-01T11:11:29-06:00",
   "posts": [
     {
       "id": "fd83be6d-aa75-4072-9f39-cf29b9721813",
@@ -445,18 +445,6 @@
       "url": "https://sammyguru.com/samsung-990-2tb-ssd-deal-best-buy/",
       "icon": "📰",
       "image_url": "https://static.slickdealscdn.com/attachment/3/4/7/8/2/5/3/2/450x450/18862846.thumb?webp=1"
-    },
-    {
-      "id": "5f57402e-368c-4258-88de-44f41ab217a1",
-      "kicker": "Open weights, no gatekeeper",
-      "title": "Mistral publicly releases Large 4 for cybersecurity",
-      "category": "AI",
-      "published_at": "2026-10-29T12:05:00-05:00",
-      "excerpt": "Mistral released Large 4 to the public Thursday, built to help organisations find and fix cybersecurity vulnerabilities. Anyone can download it and run it on their own systems instead of going…",
-      "body": "[Mistral released Large 4 to the public Thursday](https://www.reuters.com/legal/litigation/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users-2026-10-29/), built to help organisations find and fix cybersecurity vulnerabilities. Anyone can download it and run it on their own systems instead of going through a third-party online service.",
-      "url": "https://www.reuters.com/legal/litigation/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users-2026-10-29/",
-      "icon": "🤖",
-      "image_url": "https://theoutpost.ai/_next/image/?url=https%3A%2F%2Fcdn.theoutpost.ai%2Ffiles%2Farticle_508456_Mistral_AI_1788883368295_dcc4457804.jpg&w=1280&q=75"
     }
   ]
 }
