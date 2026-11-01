@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T08:41:30-06:00",
+  "generated_at": "2026-11-01T09:11:29-06:00",
   "posts": [
     {
       "id": "fd83be6d-aa75-4072-9f39-cf29b9721813",
@@ -469,18 +469,6 @@
       "url": "https://www.channelnewsasia.com/world/us-fed-holds-interest-rates-steady-despite-surging-inflation-6500656",
       "icon": "📰",
       "image_url": "https://www.thenewdispatch.com/wp-content/uploads/2026/04/fed_funds_rate-696x464.png"
-    },
-    {
-      "id": "3843fbd1-8771-46f0-8ef7-fca551183670",
-      "kicker": "Steam, without the PC",
-      "title": "Jailbroken PS5s can now run Steam games",
-      "category": "Gaming",
-      "published_at": "2026-10-29T10:00:00-05:00",
-      "excerpt": "Playden runs Windows games from a Steam library locally on a jailbroken PS5, using the console's own hardware instead of streaming from a PC. It is still in alpha, and games requiring kernel-level…",
-      "body": "[Playden](https://nextgenupdate.com/articles/402/jailbroken-ps5-consoles-can-now-run-steam-games-heres-how-it-works) runs Windows games from a Steam library locally on a jailbroken PS5, using the console's own hardware instead of streaming from a PC. It is still in alpha, and games requiring kernel-level anti-cheat or third-party launchers are generally unsupported.",
-      "url": "https://nextgenupdate.com/articles/402/jailbroken-ps5-consoles-can-now-run-steam-games-heres-how-it-works",
-      "icon": "🎮",
-      "image_url": "https://resize2.feedotter.com/resize/500x500/aHR0cHM6Ly9pLnBjbWFnLmNvbS9pbWFnZXJ5L2FydGljbGVzLzA2ZndsSWpUdHpRbFc2QUVhVDM1QU1RLTEuZml0X2xpbS5zaXplXzEyMDB4NjMwLnYxNzg2NzExMjkyLmpwZw.LHiSKWuUvXui"
     }
   ]
 }
