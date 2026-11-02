@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T09:11:36-06:00",
+  "generated_at": "2026-11-02T09:41:42-06:00",
   "posts": [
+    {
+      "id": "ecdccd23-1603-4cf2-95fa-b2c38dc122ca",
+      "kicker": "The shake can wait",
+      "title": "Protein before lifting works as well as after",
+      "category": "Fitness",
+      "published_at": "2026-11-02T10:13:00-06:00",
+      "excerpt": "The 2025 meta-analysis compared protein taken before versus after resistance training across five studies lasting at least four weeks. Its practical takeaway is to spread protein servings every 3–4…",
+      "body": "The [2025 meta-analysis](https://www.mensjournal.com/food/protein-before-or-after-lifting-research-challenges-a-common-muscle-building-rule) compared protein taken before versus after resistance training across five studies lasting at least four weeks. Its practical takeaway is to spread protein servings every 3–4 hours across the day, rather than rushing a shake the moment a workout ends.",
+      "url": "https://www.mensjournal.com/food/protein-before-or-after-lifting-research-challenges-a-common-muscle-building-rule",
+      "icon": "📰",
+      "image_url": "https://paskweb.com/wp-content/uploads/2025/11/Why-Choose-Protein-Before-a-Workout-1024x683.jpg"
+    },
     {
       "id": "b486237c-32c1-49dc-b99a-c99033f1ead1",
       "kicker": "The patch race continues",
