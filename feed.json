@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T06:12:44-06:00",
+  "generated_at": "2026-11-02T06:42:37-06:00",
   "posts": [
+    {
+      "id": "b486237c-32c1-49dc-b99a-c99033f1ead1",
+      "kicker": "The patch race continues",
+      "title": "Sony pushes PS5 firmware 14.22 with security fixes",
+      "category": "Gaming",
+      "published_at": "2026-11-02T06:38:00-06:00",
+      "excerpt": "Sony released PS5 firmware update 26.07-14.22.00 today, November 2, a 1.267 GB update whose patch notes cite only security fixes. It follows the October 21 release of 14.20 by 11 days.",
+      "body": "[Sony released PS5 firmware update 26.07-14.22.00](https://technewsvision.co.uk/ps5-firmware-update-14-22-released-sony-confirms-some-security-fixes-to-system-software/) today, November 2, a 1.267 GB update whose patch notes cite only security fixes. It follows the October 21 release of 14.20 by 11 days.",
+      "url": "https://technewsvision.co.uk/ps5-firmware-update-14-22-released-sony-confirms-some-security-fixes-to-system-software/",
+      "icon": "🎮",
+      "image_url": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2024/12/ps5-system-software-firmware-update.jpg?resize=768,432"
+    },
     {
       "id": "6744f6fd-d6ad-4165-8941-699764d8929a",
       "kicker": "The biggest buyer speaks",
