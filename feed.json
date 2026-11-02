@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T04:11:11-06:00",
+  "generated_at": "2026-11-02T04:41:29-06:00",
   "posts": [
+    {
+      "id": "6744f6fd-d6ad-4165-8941-699764d8929a",
+      "kicker": "The biggest buyer speaks",
+      "title": "Sam Altman calls the RAM in your PC a waste",
+      "category": "PC hardware",
+      "published_at": "2026-11-02T04:24:00-06:00",
+      "excerpt": "Altman argued on the October 29 “Cheeky Pint” podcast that scarce DRAM belongs in cloud servers running at full tilt rather than in PCs running local AI models. OpenAI's own Stargate demand could…",
+      "body": "[Altman argued on the October 29 “Cheeky Pint” podcast](https://moneywise.com/news/top-stories/sam-altman-dram-pc-openai) that scarce DRAM belongs in cloud servers running at full tilt rather than in PCs running local AI models. OpenAI's own Stargate demand could reach as much as 40% of global DRAM output, based on TechInsights' 2025 production estimate.",
+      "url": "https://moneywise.com/news/top-stories/sam-altman-dram-pc-openai",
+      "icon": "📰",
+      "image_url": "https://static.toiimg.com/thumb/msid-119712300,width-1070,height-580,imgsize-1107430,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+    },
     {
       "id": "bd5ce5f9-e840-4857-8446-f1f36545d678",
       "kicker": "Almost open again",
