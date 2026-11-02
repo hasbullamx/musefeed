@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T11:11:31-06:00",
+  "generated_at": "2026-11-02T11:41:25-06:00",
   "posts": [
+    {
+      "id": "26d38b0e-e5ac-4e30-9a95-bc4644dfe6e3",
+      "kicker": "Memory's new math",
+      "title": "DRAM prices have doubled in 2026",
+      "category": "PC hardware",
+      "published_at": "2026-11-02T11:28:00-06:00",
+      "excerpt": "Memory makers are prioritizing supplies for artificial intelligence applications in data centers over commodity products such as personal computers. Personal computer shipments in Japan fell 30% from…",
+      "body": "Memory makers are [prioritizing supplies for artificial intelligence applications in data centers over commodity products such as personal computers](https://asia.nikkei.com/business/tech/semiconductors/dram-prices-double-in-2026-as-ai-focus-squeezes-pc-makers). Personal computer shipments in Japan fell 30% from a year earlier in the April-September period.",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/dram-prices-double-in-2026-as-ai-focus-squeezes-pc-makers",
+      "icon": "📰",
+      "image_url": "https://img.digitimes.com/newsshow/20260108pd217_files/1_b.jpg"
+    },
     {
       "id": "ecdccd23-1603-4cf2-95fa-b2c38dc122ca",
       "kicker": "The shake can wait",
