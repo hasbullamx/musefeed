@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T21:12:51-06:00",
+  "generated_at": "2026-11-01T21:42:03-06:00",
   "posts": [
     {
       "id": "4aaec46f-a736-460f-b527-d00e5e31fbaa",
@@ -421,18 +421,6 @@
       "url": "http://dailynewscycle.com/gulf-cartel-violence-shuts-down-brownsville-matamoros-bridges-after-cartel-leaders-son-arrested/",
       "icon": "🤠",
       "image_url": "https://s.hdnux.com/photos/63/13/71/13418052/4/480x0.jpg"
-    },
-    {
-      "id": "ffd45722-b998-4625-80a8-f8934bcf9403",
-      "kicker": "Under Copilot's hood",
-      "title": "Microsoft Copilot harness now in Foundry Agent Service",
-      "category": "AI",
-      "published_at": "2026-10-29T22:19:00-05:00",
-      "excerpt": "Microsoft introduced the Copilot harness in Foundry Agent Service in public preview, with Microsoft running the agent loop and sandbox. Harness runtime usage is free before December 1, when…",
-      "body": "[Microsoft introduced the Copilot harness in Foundry Agent Service](https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/) in public preview, with Microsoft running the agent loop and sandbox. Harness runtime usage is free before December 1, when consumption-based billing begins.",
-      "url": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
-      "icon": "🤖",
-      "image_url": "https://korporaalmedia.nl/storage/blog/51-RubrWm0f.webp"
     }
   ]
 }
