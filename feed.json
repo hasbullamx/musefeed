@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T07:41:25-06:00",
+  "generated_at": "2026-11-02T08:11:39-06:00",
   "posts": [
     {
       "id": "b486237c-32c1-49dc-b99a-c99033f1ead1",
@@ -409,18 +409,6 @@
       "url": "https://pasqualepillitteri.it/en/news/27645/steam-on-ps5-playden-pc-games-jailbreak",
       "icon": "🎮",
       "image_url": "https://cdn.mos.cms.futurecdn.net/S3F3CVb227WfpYyv3imNqZ-1024-80.jpg.webp"
-    },
-    {
-      "id": "ec3ecf06-921b-4f4c-805e-74c98062986a",
-      "kicker": "On your own machine",
-      "title": "Local Code launches free private AI for Mac",
-      "category": "AI",
-      "published_at": "2026-10-30T08:42:00-05:00",
-      "excerpt": "Local Code processes prompts and files on the Mac instead of sending them to a cloud AI provider. Local use is free, with Qwen and DeepSeek models to download.",
-      "body": "[Local Code](https://www.macrumors.com/2026/10/30/local-code-free-private-ai-tool-for-mac/) processes prompts and files on the Mac instead of sending them to a cloud AI provider. Local use is free, with Qwen and DeepSeek models to download.",
-      "url": "https://www.macrumors.com/2026/10/30/local-code-free-private-ai-tool-for-mac/",
-      "icon": "🤖",
-      "image_url": "https://devtools.sh/tools/mac-code"
     }
   ]
 }
