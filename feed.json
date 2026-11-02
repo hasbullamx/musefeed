@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T00:11:46-06:00",
+  "generated_at": "2026-11-02T00:41:36-06:00",
   "posts": [
+    {
+      "id": "5f96e298-21a4-49dc-b3be-7afc4845e909",
+      "kicker": "Built for the long run",
+      "title": "Meituan launches LongCat-2.5 for extended coding tasks",
+      "category": "AI",
+      "published_at": "2026-11-02T00:18:00-06:00",
+      "excerpt": "Meituan released LongCat-2.5 on November 2, designed for tasks requiring sustained execution by AI agents. On Terminal Bench v2.1, Meituan's own table puts LongCat-2.5 at 88.4.",
+      "body": "[Meituan released LongCat-2.5](https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/) on November 2, designed for tasks requiring sustained execution by AI agents. On Terminal Bench v2.1, Meituan's own table puts LongCat-2.5 at 88.4.",
+      "url": "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/",
+      "icon": "🤖",
+      "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/01173255/meituan-s-market-strategy-800x420.png"
+    },
     {
       "id": "83c306b2-54fc-49ab-8d22-932b6bdc4d8e",
       "kicker": "Yes, and faster",
