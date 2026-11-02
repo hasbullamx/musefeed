@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T02:11:24-06:00",
+  "generated_at": "2026-11-02T02:41:40-06:00",
   "posts": [
+    {
+      "id": "bd5ce5f9-e840-4857-8446-f1f36545d678",
+      "kicker": "Almost open again",
+      "title": "Senate clears shutdown hurdle 60-40, House vote next",
+      "category": "Federal workforce",
+      "published_at": "2026-11-02T02:36:00-06:00",
+      "excerpt": "The package cleared a 60-40 procedural vote late Sunday, with eight Democrats joining most Republicans. It would reinstate workers who received layoff notices and guarantee back pay for furloughed…",
+      "body": "[The package cleared a 60-40 procedural vote late Sunday](https://www.air1.com/faith/news/trending/compromise-nearing-a-look-at-whats-in-the-legislation-to-end-the-federal-government-shutdown-57066), with eight Democrats joining most Republicans. It would reinstate workers who received layoff notices and guarantee back pay for furloughed workers.",
+      "url": "https://www.air1.com/faith/news/trending/compromise-nearing-a-look-at-whats-in-the-legislation-to-end-the-federal-government-shutdown-57066",
+      "icon": "📰",
+      "image_url": "https://www.sfkoreadaily.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdzatyjuhh%2Fimage%2Fupload%2Fv1762758113%2Fupload%2FGYH2025111000080004402_P4.jpg&w=1200&q=75"
+    },
     {
       "id": "5f96e298-21a4-49dc-b3be-7afc4845e909",
       "kicker": "Built for the long run",
