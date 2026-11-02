@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T03:11:49-06:00",
+  "generated_at": "2026-11-02T03:41:20-06:00",
   "posts": [
     {
       "id": "bd5ce5f9-e840-4857-8446-f1f36545d678",
@@ -409,18 +409,6 @@
       "url": "https://thefederalregister.org/documents/2026-21762/submission-for-office-of-management-and-budget-review-office-of-refugee-resettlement-orr-unaccompanied-alien-child-healt",
       "icon": "📰",
       "image_url": "https://newsgather.com/api/img?u=https%3A%2F%2Fimg.ltn.com.tw%2FUpload%2Fnews%2F600%2F2026%2F09%2F05%2F5564351_1_1.jpg&w=800&q=72&f=webp"
-    },
-    {
-      "id": "3ec21191-fb89-4e42-ab48-6fb41c23f362",
-      "kicker": "Size was no head start",
-      "title": "Starting muscle size did not predict strength gains",
-      "category": "Fitness",
-      "published_at": "2026-10-30T04:24:00-05:00",
-      "excerpt": "In 122 untrained people training one arm for six weeks, strength gains did not depend on how thick the muscle was beforehand. The training was unilateral elbow flexion taken to task failure.",
-      "body": "In 122 untrained people training one arm for six weeks, [strength gains did not depend on how thick the muscle was beforehand](https://www.iusca.org/post/the-influence-of-pre-training-muscle-size-on-strength-gain-an-exploratory-analysis). The training was unilateral elbow flexion taken to task failure.",
-      "url": "https://www.iusca.org/post/the-influence-of-pre-training-muscle-size-on-strength-gain-an-exploratory-analysis",
-      "icon": "📰",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!46C6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96e0b2c9-690a-48b7-ac25-a48c3b67c1dc_1170x1202.jpeg"
     }
   ]
 }
