@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T13:11:15-06:00",
+  "generated_at": "2026-11-02T13:41:12-06:00",
   "posts": [
     {
       "id": "26d38b0e-e5ac-4e30-9a95-bc4644dfe6e3",
@@ -397,18 +397,6 @@
       "url": "https://starlust.org/spacex-starship-flight-15-possible-launch-date-revealed/",
       "icon": "🚀",
       "image_url": "https://storage.googleapis.com/nextspaceflight/media/starship/sn15.webp"
-    },
-    {
-      "id": "71763020-c80a-440b-bfe2-63073a736a7e",
-      "kicker": "Ottawa buys in",
-      "title": "Ottawa pledges up to $1.6 billion for Cohere stake",
-      "category": "Business",
-      "published_at": "2026-10-30T14:24:00-05:00",
-      "excerpt": "Published Oct 30, 2026, 2:24 PM: Prime Minister Mark Carney announced the staged equity investment on October 29, alongside private investors including NVIDIA, Bell and Schwarz Group. Cohere must…",
-      "body": "Published Oct 30, 2026, 2:24 PM: Prime Minister Mark Carney announced the [staged equity investment](https://thenortherncurrent.com/canada-cohere-equity-investment-october-29-2026) on October 29, alongside private investors including NVIDIA, Bell and Schwarz Group. Cohere must retain its Canadian headquarters and incorporation and add at least 1,000 new technical jobs by 2030.",
-      "url": "https://thenortherncurrent.com/canada-cohere-equity-investment-october-29-2026",
-      "icon": "📰",
-      "image_url": "https://mugglehead.com/wp-content/uploads/2024/07/Trudeau-congratulates-Torontos-AI-startup-Cohere-for-raising-half-a-billion.png"
     }
   ]
 }
