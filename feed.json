@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T01:11:26-06:00",
+  "generated_at": "2026-11-02T01:41:09-06:00",
   "posts": [
     {
       "id": "5f96e298-21a4-49dc-b3be-7afc4845e909",
@@ -409,18 +409,6 @@
       "url": "https://www.iusca.org/post/the-influence-of-pre-training-muscle-size-on-strength-gain-an-exploratory-analysis",
       "icon": "📰",
       "image_url": "https://substackcdn.com/image/fetch/$s_!46C6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96e0b2c9-690a-48b7-ac25-a48c3b67c1dc_1170x1202.jpeg"
-    },
-    {
-      "id": "2ca607d6-b992-48fb-99a1-7d62c531b6b2",
-      "kicker": "AI stays home",
-      "title": "Opera launches local browser AI",
-      "category": "AI",
-      "published_at": "2026-10-30T02:36:00-05:00",
-      "excerpt": "Opera's WebAI preview lets websites and extensions use AI models running locally in Opera One. The preview is opt-in, with site-specific permissions deciding which sites can reach those local models.",
-      "body": "[Opera's WebAI preview](https://www.computerworld.com/article/4241584/opera-launches-local-browser-ai-testing-enterprise-privacy-and-ai-pc-strategies.html) lets websites and extensions use AI models running locally in Opera One. The preview is opt-in, with site-specific permissions deciding which sites can reach those local models.",
-      "url": "https://www.computerworld.com/article/4241584/opera-launches-local-browser-ai-testing-enterprise-privacy-and-ai-pc-strategies.html",
-      "icon": "🤖",
-      "image_url": "https://cdn.nerdschalk.com/wp-content/uploads/2024/04/opera-one-local-ai-llm-2.jpg"
     }
   ]
 }
