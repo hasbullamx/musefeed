@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T09:41:42-06:00",
+  "generated_at": "2026-11-02T10:11:33-06:00",
   "posts": [
     {
       "id": "ecdccd23-1603-4cf2-95fa-b2c38dc122ca",
@@ -409,18 +409,6 @@
       "url": "https://www.guru3d.com/story/ddr5-memory-prices-surge-in-japan-128gb-kit-tops/",
       "icon": "📰",
       "image_url": "https://limonenote.com/wp-content/uploads/2025/12/memory-price-surge-2025-eye-900x506.webp"
-    },
-    {
-      "id": "320e87ae-cec8-418d-8510-8a5a0a29a5e7",
-      "kicker": "155 and counting",
-      "title": "155 Steam games now run on a jailbroken PS5",
-      "category": "Gaming",
-      "published_at": "2026-10-30T10:48:00-05:00",
-      "excerpt": "Playden's compatibility list showed 155 of the 220 tested Steam games working as of October 27, 2026, running locally on a jailbroken console with no PC or streaming involved. Playden was tested on…",
-      "body": "[Playden's compatibility list](https://pasqualepillitteri.it/en/news/27645/steam-on-ps5-playden-pc-games-jailbreak) showed 155 of the 220 tested Steam games working as of October 27, 2026, running locally on a jailbroken console with no PC or streaming involved. Playden was tested on firmware 13.60, and consoles updated to 14.00 or 14.10 have no public jailbreak to run it on.",
-      "url": "https://pasqualepillitteri.it/en/news/27645/steam-on-ps5-playden-pc-games-jailbreak",
-      "icon": "🎮",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/S3F3CVb227WfpYyv3imNqZ-1024-80.jpg.webp"
     }
   ]
 }
