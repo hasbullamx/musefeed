@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T05:41:47-06:00",
+  "generated_at": "2026-11-03T06:12:13-06:00",
   "posts": [
+    {
+      "id": "e1ba6fb7-1fe5-467b-a669-c3fc2a6fb8ee",
+      "kicker": "Dead heat in Texas",
+      "title": "Talarico holds a 2.5-point lead as Texans vote today",
+      "category": "Texas",
+      "published_at": "2026-11-03T05:44:00-06:00",
+      "excerpt": "Texas polls are open from 7 a.m. to 7 p.m. today for the Senate race between James Talarico and Ken Paxton. RealClearPolling's average puts Talarico ahead by roughly 2.5 points.",
+      "body": "Texas polls are open from 7 a.m. to 7 p.m. today for the Senate race between James Talarico and Ken Paxton. [RealClearPolling's average](https://www.firstpost.com/explainers/us-midterms-2026-can-james-talarico-flip-texas-for-democrats-14057398.html) puts Talarico ahead by roughly 2.5 points.",
+      "url": "https://www.firstpost.com/explainers/us-midterms-2026-can-james-talarico-flip-texas-for-democrats-14057398.html",
+      "icon": "🤠",
+      "image_url": "https://thumbnail.smartnews.com/?fo=webp&q=50&url=https%3A%2F%2Fsmartnews-se-public-img-prd.s3.ap-northeast-1.amazonaws.com%2Fthumbnail%2F4951265131553104110%2F106c4c11f4d2e75d0f4b74794888b203.jpeg"
+    },
     {
       "id": "b7958c0f-13d9-48f9-9bfb-ed8c69176337",
       "kicker": "The free on-ramps",
