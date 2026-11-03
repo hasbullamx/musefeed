@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T14:12:56-06:00",
+  "generated_at": "2026-11-03T14:41:42-06:00",
   "posts": [
+    {
+      "id": "9f27418f-2852-423a-8878-e32d5cbc3fa1",
+      "kicker": "No-code agents at work",
+      "title": "ServiceNow expands EmployeeWorks with no-code AI agents",
+      "category": "AI",
+      "published_at": "2026-11-03T14:24:00-06:00",
+      "excerpt": "Published Nov 3, 2026, 2:24 PM: ServiceNow expanded EmployeeWorks so employees can build AI agents without coding, under administrator-defined controls. ToolSmith lets developers describe an…",
+      "body": "Published Nov 3, 2026, 2:24 PM: [ServiceNow expanded EmployeeWorks](https://www.tahawultech.com/industry/technology/servicenow-expands-employeeworks-with-no-code-ai-agents-and-developer-tools/) so employees can build AI agents without coding, under administrator-defined controls. ToolSmith lets developers describe an automation in natural language and draws on knowledge of more than 75,000 APIs to build the integration.",
+      "url": "https://www.tahawultech.com/industry/technology/servicenow-expands-employeeworks-with-no-code-ai-agents-and-developer-tools/",
+      "icon": "🤖",
+      "image_url": "https://cxf-files.nyc3.digitaloceanspaces.com/servicenow_employeeworks_f2cd843dc9.png"
+    },
     {
       "id": "3a39ffb9-e1cc-4735-b634-d749a5c1098e",
       "kicker": "The new floor",
