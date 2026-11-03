@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T13:11:58-06:00",
+  "generated_at": "2026-11-03T13:42:09-06:00",
   "posts": [
     {
       "id": "3a39ffb9-e1cc-4735-b634-d749a5c1098e",
@@ -337,18 +337,6 @@
       "url": "https://www.munizzilaw.com/blog/sba-acquisition-rules-sop-50-10-8-1",
       "icon": "📰",
       "image_url": "https://imgmedia.libero.pe/640x352/libero/original/2026/03/02/69a5f938ca7fdc830d074397.webp"
-    },
-    {
-      "id": "6d4edab3-8df7-4f16-9528-c661a5fe8168",
-      "kicker": "A second pair of eyes",
-      "title": "Open-source MiniCPM-OCR parses documents with a 1.3B model",
-      "category": "AI",
-      "published_at": "2026-10-31T14:24:00-05:00",
-      "excerpt": "The MiniCPM-OCR release from ModelBest and OpenBMB centers on a 1.3-billion-parameter model that parses scanned, photographed, curved and tilted documents without image pre-correction. Its 2B…",
-      "body": "The [MiniCPM-OCR release](https://www.morningstar.com/news/pr-newswire/20261031cn86192/modelbest-and-openbmb-open-source-minicpm-ocr-series-delivering-high-performance-document-parsing-and-ai-powered-quality-control) from ModelBest and OpenBMB centers on a 1.3-billion-parameter model that parses scanned, photographed, curved and tilted documents without image pre-correction. Its 2B companion, Jev, compares OCR output with the source image and flags errors for human review.",
-      "url": "https://www.morningstar.com/news/pr-newswire/20261031cn86192/modelbest-and-openbmb-open-source-minicpm-ocr-series-delivering-high-performance-document-parsing-and-ai-powered-quality-control",
-      "icon": "🤖",
-      "image_url": "https://cdn.chatgate.ai/post/2026/05/minicpm-v-4-6.png"
     }
   ]
 }
