@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T10:41:35-06:00",
+  "generated_at": "2026-11-03T11:11:15-06:00",
   "posts": [
+    {
+      "id": "b5fd4dae-28ac-4497-b55e-bf76e55208a9",
+      "kicker": "The prebuilt workaround",
+      "title": "RTX 5070 gaming PC scores $400 discount",
+      "category": "PC hardware",
+      "published_at": "2026-11-03T10:47:00-06:00",
+      "excerpt": "Published Nov 3, 2026, 10:47 AM: The PowerSpec G536 is listed for $1,599.99 at Micro Center. It pairs an RTX 5070 with 32GB of DDR5 RAM.",
+      "body": "Published Nov 3, 2026, 10:47 AM: The [PowerSpec G536](https://www.notebookcheck.net/RTX-5070-gaming-PC-with-32GB-of-DDR5-RAM-scores-400-discount.1440727.0.html) is listed for $1,599.99 at Micro Center. It pairs an RTX 5070 with 32GB of DDR5 RAM.",
+      "url": "https://www.notebookcheck.net/RTX-5070-gaming-PC-with-32GB-of-DDR5-RAM-scores-400-discount.1440727.0.html",
+      "icon": "📰",
+      "image_url": "https://www.pcguide.com/wp-content/uploads/2025/08/Ibuypower-y40-Black.jpg"
+    },
     {
       "id": "f0801fc6-e3e4-4501-98bf-e445cf09b1dc",
       "kicker": "The clock lies",
@@ -325,18 +337,6 @@
       "url": "https://www.morningstar.com/news/pr-newswire/20261031cn86192/modelbest-and-openbmb-open-source-minicpm-ocr-series-delivering-high-performance-document-parsing-and-ai-powered-quality-control",
       "icon": "🤖",
       "image_url": "https://cdn.chatgate.ai/post/2026/05/minicpm-v-4-6.png"
-    },
-    {
-      "id": "b3ddf9eb-911f-4b3d-8593-15d986b09966",
-      "kicker": "Memory's record squeeze",
-      "title": "PC DRAM hits a record as AI servers take the capacity",
-      "category": "PC hardware",
-      "published_at": "2026-10-31T12:09:00-05:00",
-      "excerpt": "The mainstream DDR4 chip averaged $27.50 in October, a record since TrendForce's survey began in June 2016. TrendForce now sees Korean PC DRAM output falling by more than 40% next year as Samsung and…",
-      "body": "The mainstream DDR4 chip [averaged $27.50 in October](https://biz.chosun.com/en/en-it/2026/10/30/ASPG5INZZBFOTDGSVINATFQVDI/), a record since TrendForce's survey began in June 2016. TrendForce now sees Korean PC DRAM output falling by more than 40% next year as Samsung and SK hynix shift capacity to AI server memory.",
-      "url": "https://biz.chosun.com/en/en-it/2026/10/30/ASPG5INZZBFOTDGSVINATFQVDI/",
-      "icon": "📰",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/4rwLweowdFky58YDVCMhKR-2000-80.jpg"
     }
   ]
 }
