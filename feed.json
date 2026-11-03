@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T16:11:39-06:00",
+  "generated_at": "2026-11-03T16:42:11-06:00",
   "posts": [
+    {
+      "id": "478c2114-30b2-42c1-a59e-7bf867352704",
+      "kicker": "The right model, checked",
+      "title": "Ortelan Labs launches Praus, a U.S.-based sovereign AI",
+      "category": "AI",
+      "published_at": "2026-11-03T16:15:00-06:00",
+      "excerpt": "Ortelan Labs launched Praus today, a sovereign AI harness that chooses the open-source model best suited to each request and checks the result before returning it. Ortelan estimates a typical answer…",
+      "body": "[Ortelan Labs launched Praus today](https://www.globenewswire.com/news-release/2026/11/03/3394585/0/en/ortelan-labs-launches-praus-a-u-s-based-sovereign-ai-harness-with-frontier-level-benchmark-results-at-under-a-tenth-of-a-cent-per-answer.html), a sovereign AI harness that chooses the open-source model best suited to each request and checks the result before returning it. Ortelan estimates a typical answer costs $0.00069 on its own infrastructure, below the list-price cost of all 17 frontier models it compared, though the company says the figure comes from its own unverified testing.",
+      "url": "https://www.globenewswire.com/news-release/2026/11/03/3394585/0/en/ortelan-labs-launches-praus-a-u-s-based-sovereign-ai-harness-with-frontier-level-benchmark-results-at-under-a-tenth-of-a-cent-per-answer.html",
+      "icon": "🤖",
+      "image_url": "https://www.csseo.org/wp-content/uploads/2026/04/a3ELA4Hm16mw8y8D3gatILWvZs1_vZh8LOpZfsrpsWE.jpeg"
+    },
     {
       "id": "7011b656-b81c-4455-a427-1c79708de8cc",
       "kicker": "The floor holds",
