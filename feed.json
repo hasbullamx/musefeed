@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T09:41:18-06:00",
+  "generated_at": "2026-11-03T10:11:27-06:00",
   "posts": [
+    {
+      "id": "f0801fc6-e3e4-4501-98bf-e445cf09b1dc",
+      "kicker": "The clock lies",
+      "title": "Short rests matched long rests for quad growth",
+      "category": "Fitness",
+      "published_at": "2026-11-03T09:56:00-06:00",
+      "excerpt": "Published Nov 3, 2026, 9:56 AM: A 2026 experiment matched total repetitions between 20-second and two-minute rests and found no significant difference in quadriceps growth. The short-rest leg needed…",
+      "body": "Published Nov 3, 2026, 9:56 AM: [A 2026 experiment](https://mindmuscleperfection.com/rest-between-sets-20-seconds-vs-2-minutes-quad-growth/) matched total repetitions between 20-second and two-minute rests and found no significant difference in quadriceps growth. The short-rest leg needed extra sets to reach the same total work, so the result favors matching volume over chasing a shorter timer.",
+      "url": "https://mindmuscleperfection.com/rest-between-sets-20-seconds-vs-2-minutes-quad-growth/",
+      "icon": "📰",
+      "image_url": "https://media.beehiiv.com/cdn-cgi/image/format=auto,fit=scale-down,onerror=redirect/uploads/asset/file/c9e5d2e9-6d1f-4960-b76d-8d8d8625ede6/585cd1d77a216bbd6b55358782b01c4a.jpeg"
+    },
     {
       "id": "f857a01e-57f9-402a-a44d-3a5f34ea398b",
       "kicker": "Self-graded homework",
@@ -325,18 +337,6 @@
       "url": "https://biz.chosun.com/en/en-it/2026/10/30/ASPG5INZZBFOTDGSVINATFQVDI/",
       "icon": "📰",
       "image_url": "https://cdn.mos.cms.futurecdn.net/4rwLweowdFky58YDVCMhKR-2000-80.jpg"
-    },
-    {
-      "id": "a5fbfba9-04b1-4b13-acce-b1536d0e6ff0",
-      "kicker": "The volume ceiling",
-      "title": "63 weekly sets gained nothing over normal volume",
-      "category": "Fitness",
-      "published_at": "2026-10-31T10:47:00-05:00",
-      "excerpt": "Adding about 50% more weekly lower-body sets gave trained athletes no detectable advantage in thigh-muscle thickness in the 2026 experiment. The normal-volume group performed better on the deadlift.",
-      "body": "Adding about 50% more weekly lower-body sets gave trained athletes no detectable advantage in thigh-muscle thickness in [the 2026 experiment](https://mindmuscleperfection.com/high-volume-strength-training-60-sets-muscle-growth-2026/). The normal-volume group performed better on the deadlift.",
-      "url": "https://mindmuscleperfection.com/high-volume-strength-training-60-sets-muscle-growth-2026/",
-      "icon": "📰",
-      "image_url": "https://www.lemon8-app.com/seo/image?item_id=7472741625786270225&index=2&sign=69be237012564e0aa01d5ff45c8bbdf6"
     }
   ]
 }
