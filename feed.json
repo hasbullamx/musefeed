@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T07:41:47-06:00",
+  "generated_at": "2026-11-03T08:11:33-06:00",
   "posts": [
     {
       "id": "77f3fed8-d091-4d75-835e-254894098852",
@@ -325,18 +325,6 @@
       "url": "https://thefreebieguy.com/dollar-general-saturday-scenarios-list/",
       "icon": "🏷️",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg4ccTOixi8RVGuR770oF1HH2cMCk02Y1OWzkebeFrWfmGjKCj5qsEK5HGyezi1m7r6owDDLm1LmFnplkwP2sL6JA2YEVBt4hDbj8bdgoWoWzBP0TGIr4oVDhRmsOC5a16F5RVa7EqXvU/s640/20191228_012314.png"
-    },
-    {
-      "id": "4aeef5d9-6148-4ad6-bea4-d1273b75dc6e",
-      "kicker": "One request, hundreds of calls",
-      "title": "Factory Droid 1.0 runs tools through scripts",
-      "category": "AI",
-      "published_at": "2026-10-31T08:42:00-05:00",
-      "excerpt": "Factory Droid 1.0 makes programmatic tool calling the default, so the model writes a JavaScript program that runs hundreds of tool calls in a single pass inside a sandbox. Factory's self-reported…",
-      "body": "[Factory Droid 1.0](https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/) makes programmatic tool calling the default, so the model writes a JavaScript program that runs hundreds of tool calls in a single pass inside a sandbox. Factory's self-reported Terminal-Bench 4 run put it at 65.2% with Claude Opus 5.5.",
-      "url": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
-      "icon": "🤖",
-      "image_url": "https://discuss.pytorch.kr/uploads/default/original/2X/c/c4c921463d7a96e6f423c91de970b12d7830c7f4.jpeg"
     }
   ]
 }
