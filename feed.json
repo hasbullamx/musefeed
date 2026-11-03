@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T23:12:00-06:00",
+  "generated_at": "2026-11-02T23:41:55-06:00",
   "posts": [
+    {
+      "id": "b7958c0f-13d9-48f9-9bfb-ed8c69176337",
+      "kicker": "The free on-ramps",
+      "title": "Copilot and Antigravity cost nothing to start",
+      "category": "AI",
+      "published_at": "2026-11-02T23:23:00-06:00",
+      "excerpt": "The five-way comparison, with prices as of Nov 2, 2026, puts GitHub Copilot CLI on every Copilot plan, including Free, and Antigravity CLI on a $0 individual tier. Claude Code, by contrast, is not…",
+      "body": "[The five-way comparison](https://metarix.io/best-ai-cli-coding-agents), with prices as of Nov 2, 2026, puts GitHub Copilot CLI on every Copilot plan, including Free, and Antigravity CLI on a $0 individual tier. Claude Code, by contrast, is not included in Claude's free plan, so the no-cost way into a terminal agent runs through the other agents.",
+      "url": "https://metarix.io/best-ai-cli-coding-agents",
+      "icon": "🤖",
+      "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/01/Copilot.png"
+    },
     {
       "id": "0b361faf-8137-4f00-932e-02ade4e22e6d",
       "kicker": "Running ahead of schedule",
