@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T15:12:57-06:00",
+  "generated_at": "2026-11-03T15:41:53-06:00",
   "posts": [
+    {
+      "id": "7011b656-b81c-4455-a427-1c79708de8cc",
+      "kicker": "The floor holds",
+      "title": "Cheapest 32GB DDR5 kit is $479.99 today",
+      "category": "PC hardware",
+      "published_at": "2026-11-03T15:26:00-06:00",
+      "excerpt": "DRAM makers moved production toward HBM and server memory for AI data centers, cutting the wafers given to PC memory. Of the kits tracked for two weeks or more, most cost more today than when they…",
+      "body": "[DRAM makers moved production toward HBM and server memory for AI data centers](https://www.basketprice.com/ram), cutting the wafers given to PC memory. Of the kits tracked for two weeks or more, most cost more today than when they were first recorded.",
+      "url": "https://www.basketprice.com/ram",
+      "icon": "📰",
+      "image_url": "https://www.corsair.com/ca/en/p/memory/cmh32gx5m2b6400z36/vengeance-rgb-32gb-2x16gb-ddr5-dram-6400mt-s-cl36-memory-kit-cmh32gx5m2b6400z36?position=19&queryID=f959df8abdf208dd80dff25ba75e4587"
+    },
     {
       "id": "9f27418f-2852-423a-8878-e32d5cbc3fa1",
       "kicker": "No-code agents at work",
@@ -337,18 +349,6 @@
       "url": "https://videocardz.com/newz/ps5-linux-project-adds-ps5-pro-support-runs-ubuntu-on-firmware-13-60",
       "icon": "🎮",
       "image_url": "https://onejailbreak.com/site/assets/files/4162/ps5-jailbreak-ubuntu.474x0.webp"
-    },
-    {
-      "id": "72fbc1c3-7183-46ae-8f42-741dad253200",
-      "kicker": "Buyer, meet the fine print",
-      "title": "Green-card holders are out of SBA-financed buyouts",
-      "category": "Business",
-      "published_at": "2026-10-31T16:24:00-05:00",
-      "excerpt": "Lawful permanent residents are now treated as ineligible for SBA-financed acquisitions under a rule in effect since March 1, which requires every owner and required guarantor to be a U.S. citizen or…",
-      "body": "[Lawful permanent residents are now treated as ineligible](https://www.munizzilaw.com/blog/sba-acquisition-rules-sop-50-10-8-1) for SBA-financed acquisitions under a rule in effect since March 1, which requires every owner and required guarantor to be a U.S. citizen or national living in the United States. The rule looks back six months, so a business cannot qualify if an ineligible person owned any part of it in that window unless that person gave up every bit of the interest before the loan number issues.",
-      "url": "https://www.munizzilaw.com/blog/sba-acquisition-rules-sop-50-10-8-1",
-      "icon": "📰",
-      "image_url": "https://imgmedia.libero.pe/640x352/libero/original/2026/03/02/69a5f938ca7fdc830d074397.webp"
     }
   ]
 }
