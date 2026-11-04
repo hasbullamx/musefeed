@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T19:41:38-06:00",
+  "generated_at": "2026-11-03T20:11:57-06:00",
   "posts": [
     {
       "id": "eb1bbcb2-fd93-42b7-b1f0-22a0c6b9c804",
@@ -349,18 +349,6 @@
       "url": "https://medium.com/@mr.f00l210/opencode-2-0-is-here-how-the-open-source-coding-agent-became-a-shared-background-service-a354024358a7",
       "icon": "🤖",
       "image_url": "https://pbs.twimg.com/media/G7wqDk5XYAAb-pH.jpg"
-    },
-    {
-      "id": "4bb46fae-d353-44f7-b5d9-dedd03da8f1d",
-      "kicker": "The fund was there",
-      "title": "Judges order USDA to use contingency fund for SNAP",
-      "category": "General News",
-      "published_at": "2026-10-31T21:01:00-05:00",
-      "excerpt": "Two federal judges ruled October 31 that the USDA must use its roughly $4.6 billion contingency fund to pay November SNAP benefits. In Boston, Judge Indira Talwani gave the USDA until Monday,…",
-      "body": "[Two federal judges ruled October 31](https://www.bazaardailynews.com/2026/10/31/two-judges-said-the-money-exists-this-morning-the-card-is-still-empty/) that the USDA must use its roughly $4.6 billion contingency fund to pay November SNAP benefits. In Boston, Judge Indira Talwani gave the USDA until Monday, November 3, to present a plan to issue at least partial payments.",
-      "url": "https://www.bazaardailynews.com/2026/10/31/two-judges-said-the-money-exists-this-morning-the-card-is-still-empty/",
-      "icon": "📰",
-      "image_url": "https://test.rockymountainvoice.com/wp-content/uploads/2025/11/courtroom-decision-snap-funding-order-840x440.png"
     }
   ]
 }
