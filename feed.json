@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T10:42:16-06:00",
+  "generated_at": "2026-11-04T11:13:12-06:00",
   "posts": [
+    {
+      "id": "09417c58-7bbe-4d7f-9247-e038c64a34c9",
+      "kicker": "A tenth of the bill",
+      "title": "Revolut cuts coding costs 90% with Chinese self-hosted model",
+      "category": "AI",
+      "published_at": "2026-11-04T10:48:00-06:00",
+      "excerpt": "Revolut says it swapped about 2,000 engineers from Claude Code and Codex to the self-hosted GLM 5.3 model. Running the public weights itself, on United States infrastructure, brings the blended cost…",
+      "body": "[Revolut says it swapped](https://cybernews.com/ai-news/revolut-chinese-models/) about 2,000 engineers from Claude Code and Codex to the self-hosted GLM 5.3 model. Running the public weights itself, on United States infrastructure, brings the blended cost to nearly $0.30 per million tokens.",
+      "url": "https://cybernews.com/ai-news/revolut-chinese-models/",
+      "icon": "🤖",
+      "image_url": "https://techresearchonline.com/_next/image/?url=https%3A%2F%2Ftechresearchonline.com%2Fmedia%2Fnews%2Fimages%2F2025-06-Featured-Revolut-CEO-%E2%80%98could-get-multibillion-dollar-windfall-if-its-value-passes-150bn.png&w=750&q=75"
+    },
     {
       "id": "8a885f65-ebc0-4581-bc7a-a7004fc2dcc2",
       "kicker": "Build, hold, then stop",
@@ -397,18 +409,6 @@
       "url": "https://www.business-standard.com/technology/tech-news/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic-126110100865_1.html",
       "icon": "🤖",
       "image_url": "https://helloentrepreneurs.com/wp-content/uploads/2026/08/PNN-25.jpg"
-    },
-    {
-      "id": "6836d22b-d1e2-4446-81f5-d2d63dfe2aab",
-      "kicker": "This week's basket",
-      "title": "Dollar General's Nov 1–7 ad leads with buy-one-get-one Finish tabs",
-      "category": "Deals",
-      "published_at": "2026-11-01T11:00:00-06:00",
-      "excerpt": "General Mills cereal drops to $6 for four after the digital coupon and cash back in the November 1–7 ad. After the instant saving, Scott ComfortPlus bath tissue is $13 for four.",
-      "body": "General Mills cereal drops to $6 for four after the digital coupon and cash back in the [November 1–7 ad](https://www.couponsforyourfamily.com/dollar-general-weekly-ad-scan-coupons-deals/). After the instant saving, Scott ComfortPlus bath tissue is $13 for four.",
-      "url": "https://www.couponsforyourfamily.com/dollar-general-weekly-ad-scan-coupons-deals/",
-      "icon": "🏷️",
-      "image_url": "https://dollargeneral.flyerify.com/dollar-general-sc-tx-weekly-ad-flyer-november-1-to-november-7/14"
     }
   ]
 }
