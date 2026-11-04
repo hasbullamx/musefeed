@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T14:12:54-06:00",
+  "generated_at": "2026-11-04T14:42:34-06:00",
   "posts": [
+    {
+      "id": "e06911b4-feb5-4e4b-9c77-40768b0246c9",
+      "kicker": "Top score, closed door",
+      "title": "Gemini 4 Carbon tops new intelligence index",
+      "category": "AI",
+      "published_at": "2026-11-04T14:25:00-06:00",
+      "excerpt": "Gemini 4 Carbon scored 59 on the Artificial Analysis Intelligence Index V5, one point ahead of Claude Opus 5.5. Access is limited for now to cyber defenders through Google's Fairwind program.",
+      "body": "[Gemini 4 Carbon](https://ai.dosa.dev/blog/today-in-ai-2026-11-04) scored 59 on the Artificial Analysis Intelligence Index V5, one point ahead of Claude Opus 5.5. Access is limited for now to cyber defenders through Google's Fairwind program.",
+      "url": "https://ai.dosa.dev/blog/today-in-ai-2026-11-04",
+      "icon": "🤖",
+      "image_url": "https://macaron.im/_next/image?url=https%3A%2F%2Foss-macaron-admin.macaron.im%2Fadmin%2Fimages%2Fblog_content_image%2F377b7594-fa03-4e69-90c4-4388a8b747bb.jpg%3Fx-oss-process%3Dimage%2Fformat%2Cwebp&w=750&q=80&dpl=dpl_E8TSQJfmo27eKTmPAmfafQhC9THa"
+    },
     {
       "id": "90ebfe4e-13e7-4345-a61e-abf4f23af3de",
       "kicker": "Three weeks early",
