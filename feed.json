@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T11:13:12-06:00",
+  "generated_at": "2026-11-04T11:42:38-06:00",
   "posts": [
+    {
+      "id": "6ef94dd7-fe77-4626-a45b-1a0d22c2b631",
+      "kicker": "Undercuts its own sibling",
+      "title": "Lenovo RTX 5070 Ti Legion PC falls to $2,256",
+      "category": "PC hardware",
+      "published_at": "2026-11-04T11:31:00-06:00",
+      "excerpt": "Legion Tower 5i Gen 10 drops to $2,256.24 shipped with promo codes LENOVODEAL and EXTRAFIVE. That undercuts the RTX 5070 version fetching over $2,400 at Best Buy.",
+      "body": "[Legion Tower 5i Gen 10](https://9to5toys.com/2026/11/04/save-1249-on-lenovo-rtx-5070-ti-legion-gaming-pc-lowest-price/) drops to $2,256.24 shipped with promo codes LENOVODEAL and EXTRAFIVE. That undercuts the RTX 5070 version fetching over $2,400 at Best Buy.",
+      "url": "https://9to5toys.com/2026/11/04/save-1249-on-lenovo-rtx-5070-ti-legion-gaming-pc-lowest-price/",
+      "icon": "📰",
+      "image_url": "https://article-images.tldrdaily.news/tldr-article-images/q5y3kcrb2Jsin3X9p.jpg"
+    },
     {
       "id": "09417c58-7bbe-4d7f-9247-e038c64a34c9",
       "kicker": "A tenth of the bill",
@@ -397,18 +409,6 @@
       "url": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
       "icon": "🤖",
       "image_url": "https://d372z8jalgxmqp.cloudfront.net/i/9/132/37/35/795.jpg"
-    },
-    {
-      "id": "30f0db1b-6749-4daf-933f-311bca38801d",
-      "kicker": "Watching the chat",
-      "title": "DeepSeek releases open-source Super-agent to rival Claude Code",
-      "category": "AI",
-      "published_at": "2026-11-01T11:23:00-06:00",
-      "excerpt": "The open-source Super-agent prototype monitors developer group chats on its own and proposes coding fixes without being summoned. DeepSeek says it aims to take as little human attention as possible…",
-      "body": "The open-source [Super-agent prototype](https://www.business-standard.com/technology/tech-news/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic-126110100865_1.html) monitors developer group chats on its own and proposes coding fixes without being summoned. DeepSeek says it aims to take as little human attention as possible while giving as much value as possible.",
-      "url": "https://www.business-standard.com/technology/tech-news/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic-126110100865_1.html",
-      "icon": "🤖",
-      "image_url": "https://helloentrepreneurs.com/wp-content/uploads/2026/08/PNN-25.jpg"
     }
   ]
 }
