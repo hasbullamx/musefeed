@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T22:12:06-06:00",
+  "generated_at": "2026-11-03T22:42:26-06:00",
   "posts": [
+    {
+      "id": "d3d0f4b7-7468-4dd6-97c9-657ee40cfc83",
+      "kicker": "Receipts for every reply",
+      "title": "Anthropic builds a system to prove an AI model's identity",
+      "category": "AI",
+      "published_at": "2026-11-03T22:20:00-06:00",
+      "excerpt": "FlashProve attaches a cryptographic proof to an AI answer so a user can check that it came from the model named, not a cheaper substitute swapped in behind the scenes. The specification and working…",
+      "body": "[FlashProve](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/) attaches a cryptographic proof to an AI answer so a user can check that it came from the model named, not a cheaper substitute swapped in behind the scenes. The specification and working code are open source, though Anthropic says there are no plans to deploy the system at any lab yet.",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "icon": "🤖",
+      "image_url": "https://www.tssonline.ru/hs-fs/hubfs/Anthropic.webp?width=720&name=Anthropic.webp"
+    },
     {
       "id": "4ca48a63-9978-4c87-89cf-658ee7cafefb",
       "kicker": "Early count flips",
