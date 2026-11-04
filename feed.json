@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T02:12:25-06:00",
+  "generated_at": "2026-11-04T02:42:01-06:00",
   "posts": [
+    {
+      "id": "0e5b9509-4c86-4c5d-bfba-cf40fb2b7f71",
+      "kicker": "Yours to keep",
+      "title": "Flower Labs introduces Endeavor 1.1",
+      "category": "AI",
+      "published_at": "2026-11-04T09:00:00-06:00",
+      "excerpt": "Flower Labs introduced Endeavor 1.1 on November 3, adding image inputs and inference on GPUs in the European Union. It can run Flower-managed, in a private cloud, or on premises, with outputs and…",
+      "body": "Flower Labs [introduced Endeavor 1.1 on November 3](https://flower.ai/blog/2026-11-03-introducing-endeavor-1.1), adding image inputs and inference on GPUs in the European Union. It can run Flower-managed, in a private cloud, or on premises, with outputs and reasoning traces you keep and may use to train your own models.",
+      "url": "https://flower.ai/blog/2026-11-03-introducing-endeavor-1.1",
+      "icon": "🤖",
+      "image_url": "https://resiliencemedia.co/wp-content/uploads/2025/11/image-1-750x428.png"
+    },
     {
       "id": "5af62ed3-a7e8-4999-b4db-00657b237aa4",
       "kicker": "The streak breaks",
