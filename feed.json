@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T11:42:38-06:00",
+  "generated_at": "2026-11-04T12:13:40-06:00",
   "posts": [
     {
       "id": "6ef94dd7-fe77-4626-a45b-1a0d22c2b631",
@@ -397,18 +397,6 @@
       "url": "https://www.tweaktown.com/news/114405/amd-reportedly-plans-another-radeon-price-increase-in-november-as-gddr6-memory-costs-rise/index.html",
       "icon": "📰",
       "image_url": "https://static.tweaktown.com/news/1/0/108933_1_amd-to-raise-prices-for-all-radeon-gpus-as-memory-costs-rise-report-says_full.jpg"
-    },
-    {
-      "id": "4c8bd47a-e6ca-4b2c-a540-3949f0e5cfd0",
-      "kicker": "Decisions, kept local",
-      "title": "Drex Max v1 open weights run locally on Apple Silicon",
-      "category": "AI",
-      "published_at": "2026-11-01T12:00:00-06:00",
-      "excerpt": "Nace AI released Drex Max v1 as open weights, shipping bf16 weights and an affine Q4 checkpoint. The affine Q4 checkpoint runs on Apple Silicon Macs with 24 GB or more, so routing, classification and…",
-      "body": "[Nace AI released Drex Max v1 as open weights](https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/), shipping bf16 weights and an affine Q4 checkpoint. The affine Q4 checkpoint runs on Apple Silicon Macs with 24 GB or more, so routing, classification and policy checks can stay on a local machine.",
-      "url": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
-      "icon": "🤖",
-      "image_url": "https://d372z8jalgxmqp.cloudfront.net/i/9/132/37/35/795.jpg"
     }
   ]
 }
