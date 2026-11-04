@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T23:13:03-06:00",
+  "generated_at": "2026-11-03T23:41:50-06:00",
   "posts": [
+    {
+      "id": "068fd9f6-1e86-4b98-9614-67a4213410d6",
+      "kicker": "OPERATION GUARDIAN",
+      "title": "A 17-year-old was found with adults under trafficking investigation",
+      "category": "Immigration enforcement",
+      "published_at": "2026-11-03T23:28:24-06:00",
+      "excerpt": "News9 reports that a vehicle stopped on I-40 on October 27, 2026, carried a 17-year-old girl who had previously entered the U.S. as an unaccompanied minor and was traveling with adults under active…",
+      "body": "[News9](https://www.news9.com/oklahoma-politics/oklahoma-operation-guardian-arrests) reports that a vehicle stopped on I-40 on October 27, 2026, carried a 17-year-old girl who had previously entered the U.S. as an unaccompanied minor and was traveling with adults under active investigation for human trafficking. The stop was part of Operation Guardian, which DHS says resulted in [more than 230 arrests](https://www.dhs.gov/news/2026/11/02/secretary-mullin-announces-results-operation-guardian-crackdown-illegal-aliens).",
+      "url": "https://www.news9.com/oklahoma-politics/oklahoma-operation-guardian-arrests",
+      "icon": "📰",
+      "image_url": "https://ceaf.org.ng/wp-content/uploads/2023/11/Screenshot_20231126-191119_Chrome.jpg"
+    },
     {
       "id": "d3d0f4b7-7468-4dd6-97c9-657ee40cfc83",
       "kicker": "Receipts for every reply",
@@ -349,18 +361,6 @@
       "url": "https://www.aljazeera.com/news/2026/10/30/on-the-us-border-in-texas-trump-deportation-drive-galvanises-midterm-vote",
       "icon": "🤠",
       "image_url": "https://www.aljazeera.com/wp-content/uploads/2022/02/AP21337606517403.jpg?w=770&resize=770%2C513&quality=80"
-    },
-    {
-      "id": "297bcfe6-d684-4bb5-a52a-f8865580953c",
-      "kicker": "Live funding opening",
-      "title": "ORR posts $280 million live solicitation for residential care",
-      "category": "ORR / UAC",
-      "published_at": "2026-11-01T00:27:36-05:00",
-      "excerpt": "The forecast is now a live solicitation: ORR posted Residential Services for Unaccompanied Alien Children on October 30, 2026, with applications due December 29, 2026 at 11:59 pm Eastern. It funds…",
-      "body": "The forecast is now a live solicitation: ORR posted [Residential Services for Unaccompanied Alien Children](https://simpler.grants.gov/opportunity/faf2c812-0749-4c34-9189-cea5f9af3cf9) on October 30, 2026, with applications due December 29, 2026 at 11:59 pm Eastern. It funds licensed providers offering residential care 24 hours a day, 7 days a week, with particular interest in beds and transitional foster care near the southern border, and no application documents were available on the listing when checked, with pre-application resources on ORR's [grants page](https://www.acf.hhs.gov/orr/grants/ucb).",
-      "url": "https://simpler.grants.gov/opportunity/faf2c812-0749-4c34-9189-cea5f9af3cf9",
-      "icon": "📰",
-      "image_url": "https://particle.news/cdn-cgi/image/onerror=redirect,width=640,height=640,format=webp/https://storage.googleapis.com/uploads.mongoosehq.com/url/media/19015298/9ea23400c6f33290f43ba1e56a3bc2c80a05ade60584497665e6acdf57a32cbf"
     }
   ]
 }
