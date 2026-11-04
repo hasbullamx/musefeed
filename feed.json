@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T20:43:13-06:00",
+  "generated_at": "2026-11-03T21:12:45-06:00",
   "posts": [
+    {
+      "id": "4ca48a63-9978-4c87-89cf-658ee7cafefb",
+      "kicker": "Early count flips",
+      "title": "Talarico takes early lead over Paxton in Texas Senate race",
+      "category": "Texas",
+      "published_at": "2026-11-03T20:30:00-06:00",
+      "excerpt": "With 107 of Texas' 254 counties reporting, James Talarico led Ken Paxton 54% to 44% in the U.S. Senate race. That reversed an earlier round in which Talarico trailed by 6 points, though the race…",
+      "body": "With 107 of Texas' 254 counties reporting, [James Talarico led Ken Paxton 54% to 44%](https://www.usatoday.com/story/news/state/texas/2026/11/03/texas-votes-in-high-stakes-senate-governor-races-live-election-updates--live/92515570007/) in the U.S. Senate race. That reversed an earlier round in which Talarico trailed by 6 points, though the race remained too early to call.",
+      "url": "https://www.usatoday.com/story/news/state/texas/2026/11/03/texas-votes-in-high-stakes-senate-governor-races-live-election-updates--live/92515570007/",
+      "icon": "🤠",
+      "image_url": "https://thumbnail.smartnews.com/?fo=webp&q=50&url=https%3A%2F%2Fsmartnews-se-public-img-prd.s3.ap-northeast-1.amazonaws.com%2Fthumbnail%2F4951270693648993419%2F106c4c11f4d2e75d0f4b74794888b203.jpeg"
+    },
     {
       "id": "eb1bbcb2-fd93-42b7-b1f0-22a0c6b9c804",
       "kicker": "First wave lands tomorrow",
@@ -337,18 +349,6 @@
       "url": "https://simpler.grants.gov/opportunity/faf2c812-0749-4c34-9189-cea5f9af3cf9",
       "icon": "📰",
       "image_url": "https://particle.news/cdn-cgi/image/onerror=redirect,width=640,height=640,format=webp/https://storage.googleapis.com/uploads.mongoosehq.com/url/media/19015298/9ea23400c6f33290f43ba1e56a3bc2c80a05ade60584497665e6acdf57a32cbf"
-    },
-    {
-      "id": "ef960a2c-b925-45b0-b470-5f9c36613128",
-      "kicker": "One brain, every screen",
-      "title": "OpenCode 2.0 turns the coding agent into a shared background service",
-      "category": "AI",
-      "published_at": "2026-10-31T22:03:00-05:00",
-      "excerpt": "OpenCode 2.0 runs as a single persistent background service, so terminal, desktop, web and phone clients share the same live session. Its Code Mode lets the agent chain multiple tool calls into one…",
-      "body": "[OpenCode 2.0](https://medium.com/@mr.f00l210/opencode-2-0-is-here-how-the-open-source-coding-agent-became-a-shared-background-service-a354024358a7) runs as a single persistent background service, so terminal, desktop, web and phone clients share the same live session. Its Code Mode lets the agent chain multiple tool calls into one JavaScript program instead of calling tools one by one.",
-      "url": "https://medium.com/@mr.f00l210/opencode-2-0-is-here-how-the-open-source-coding-agent-became-a-shared-background-service-a354024358a7",
-      "icon": "🤖",
-      "image_url": "https://pbs.twimg.com/media/G7wqDk5XYAAb-pH.jpg"
     }
   ]
 }
