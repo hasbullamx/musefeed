@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T17:41:39-06:00",
+  "generated_at": "2026-11-03T18:11:52-06:00",
   "posts": [
+    {
+      "id": "eb1bbcb2-fd93-42b7-b1f0-22a0c6b9c804",
+      "kicker": "First wave lands tomorrow",
+      "title": "Home Depot Black Friday deals start Nov. 4",
+      "category": "Deals",
+      "published_at": "2026-11-03T18:06:00-06:00",
+      "excerpt": "The November 5-25 savings event includes select power-tool BOGOs from RYOBI, Milwaukee and DEWALT. Best Buy and Target will match their own lower prices later in the season, while Walmart offers no…",
+      "body": "The [November 5-25 savings event](https://www.skimwire.com/black-friday-2026-tech-deals-amazon-walmart-best-buy/) includes select power-tool BOGOs from RYOBI, Milwaukee and DEWALT. Best Buy and Target will match their own lower prices later in the season, while Walmart offers no price adjustments.",
+      "url": "https://www.skimwire.com/black-friday-2026-tech-deals-amazon-walmart-best-buy/",
+      "icon": "🏷️",
+      "image_url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/4eVYnCBOcqLD2qamTQbh06/40dd6070c313fccb9e7487e4a7ad8fc6/ge_fridge_kitchen_appliance_home_depot_2.jpg?w=1920&fit=max&auto=format&q=90"
+    },
     {
       "id": "478c2114-30b2-42c1-a59e-7bf867352704",
       "kicker": "The right model, checked",
