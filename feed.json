@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T11:11:36-06:00",
+  "generated_at": "2026-11-05T11:42:13-06:00",
   "posts": [
     {
       "id": "88926c75-1faa-44d2-ae8d-2db3464a7b6e",
@@ -457,18 +457,6 @@
       "url": "https://www.rgvbusinessjournal.com/news/02/11/2026/nextdecade-rio-grande-lng-brownsville-2027-production-article/",
       "icon": "🤠",
       "image_url": "https://www.rgvbusinessjournal.com/wp-content/uploads/2026/09/9CE30DF5-3AEC-4CE6-80B6-7C1191901C3E-1024x410.jpeg"
-    },
-    {
-      "id": "26d38b0e-e5ac-4e30-9a95-bc4644dfe6e3",
-      "kicker": "Memory's new math",
-      "title": "DRAM prices have doubled in 2026",
-      "category": "PC hardware",
-      "published_at": "2026-11-02T11:28:00-06:00",
-      "excerpt": "Memory makers are prioritizing supplies for artificial intelligence applications in data centers over commodity products such as personal computers. Personal computer shipments in Japan fell 30% from…",
-      "body": "Memory makers are [prioritizing supplies for artificial intelligence applications in data centers over commodity products such as personal computers](https://asia.nikkei.com/business/tech/semiconductors/dram-prices-double-in-2026-as-ai-focus-squeezes-pc-makers). Personal computer shipments in Japan fell 30% from a year earlier in the April-September period.",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/dram-prices-double-in-2026-as-ai-focus-squeezes-pc-makers",
-      "icon": "📰",
-      "image_url": "https://img.digitimes.com/newsshow/20260108pd217_files/1_b.jpg"
     }
   ]
 }
