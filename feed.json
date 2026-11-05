@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T06:11:18-06:00",
+  "generated_at": "2026-11-05T06:41:52-06:00",
   "posts": [
+    {
+      "id": "b03529d1-5f5d-47ee-a847-d89602d6605d",
+      "kicker": "Near the floor",
+      "title": "Hisense 65U6SF Pro drops to $600 at Amazon",
+      "category": "Deals",
+      "published_at": "2026-11-05T06:37:00-06:00",
+      "excerpt": "This Hisense 65\" U6 Pro is $600 at Amazon, $500 off its $1,100 list. That sits within $2 of its all-time low there.",
+      "body": "[This Hisense 65\" U6 Pro is $600 at Amazon](https://www.dealnews.com/Hisense-U6-Pro-65-U6-SF-Pro-65-4-K-Smart-Fire-TV-for-600-free-shipping/22346890.html), $500 off its $1,100 list. That sits within $2 of its all-time low there.",
+      "url": "https://www.dealnews.com/Hisense-U6-Pro-65-U6-SF-Pro-65-4-K-Smart-Fire-TV-for-600-free-shipping/22346890.html",
+      "icon": "🏷️",
+      "image_url": "https://imgcache.dealmoon.com/thumbimg.dealmoon.com/us2606/dealmoon/4a2/a83/2a3/1dede004f083a5bf2e653b4x1500x1500x213.jpeg_600_0_3_c8b4.jpeg"
+    },
     {
       "id": "9a68b15a-90cd-4669-80c6-c9fda807d1db",
       "kicker": "Sponsor packet, revised",
@@ -409,18 +421,6 @@
       "url": "https://www.mensjournal.com/food/protein-before-or-after-lifting-research-challenges-a-common-muscle-building-rule",
       "icon": "📰",
       "image_url": "https://paskweb.com/wp-content/uploads/2025/11/Why-Choose-Protein-Before-a-Workout-1024x683.jpg"
-    },
-    {
-      "id": "b486237c-32c1-49dc-b99a-c99033f1ead1",
-      "kicker": "The patch race continues",
-      "title": "Sony pushes PS5 firmware 14.22 with security fixes",
-      "category": "Gaming",
-      "published_at": "2026-11-02T06:38:00-06:00",
-      "excerpt": "Sony released PS5 firmware update 26.07-14.22.00 today, November 2, a 1.267 GB update whose patch notes cite only security fixes. It follows the October 21 release of 14.20 by 11 days.",
-      "body": "[Sony released PS5 firmware update 26.07-14.22.00](https://technewsvision.co.uk/ps5-firmware-update-14-22-released-sony-confirms-some-security-fixes-to-system-software/) today, November 2, a 1.267 GB update whose patch notes cite only security fixes. It follows the October 21 release of 14.20 by 11 days.",
-      "url": "https://technewsvision.co.uk/ps5-firmware-update-14-22-released-sony-confirms-some-security-fixes-to-system-software/",
-      "icon": "🎮",
-      "image_url": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2024/12/ps5-system-software-firmware-update.jpg?resize=768,432"
     }
   ]
 }
