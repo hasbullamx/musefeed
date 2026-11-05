@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T08:41:53-06:00",
+  "generated_at": "2026-11-05T09:11:54-06:00",
   "posts": [
+    {
+      "id": "4ae9aa20-a37a-4eb7-bc79-d3a8bb4f5972",
+      "kicker": "The people's beach",
+      "title": "SpaceX expansion fuels fight to keep Boca Chica park public",
+      "category": "Texas",
+      "published_at": "2026-11-05T08:43:00-06:00",
+      "excerpt": "The roughly 1,060-acre Boca Chica State Park is at the center of a fight to keep public land in public hands as SpaceX expands around it. Texas Parks and Wildlife says the commission is not…",
+      "body": "The roughly 1,060-acre [Boca Chica State Park](https://www.thecooldown.com/outdoors/boca-chica-state-park-spacex-expansion/) is at the center of a fight to keep public land in public hands as SpaceX expands around it. Texas Parks and Wildlife says the commission is not considering a sale of the park at its November meeting.",
+      "url": "https://www.thecooldown.com/outdoors/boca-chica-state-park-spacex-expansion/",
+      "icon": "🤠",
+      "image_url": "https://www.engadget.com/engadget/spacex-could-soon-have-more-control-over-texas-public-road-and-beach-closures-184526421/8b3a26f0-0680-11f0-a527-5a996b4b8d02.jpg"
+    },
     {
       "id": "b03529d1-5f5d-47ee-a847-d89602d6605d",
       "kicker": "Near the floor",
