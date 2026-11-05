@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T00:11:04-06:00",
+  "generated_at": "2026-11-05T00:41:10-06:00",
   "posts": [
+    {
+      "id": "aa61098c-b15d-47d0-be04-77c763f14a6d",
+      "kicker": "Before the oath",
+      "title": "Harrison urges Abbott to limit Hinojosa's powers",
+      "category": "Texas",
+      "published_at": "2026-11-05T00:18:00-06:00",
+      "excerpt": "Less than 24 hours after Gina Hinojosa became governor-elect, Representative Brian Harrison urged Governor Greg Abbott to convene a special session to restrict the governor's emergency powers.…",
+      "body": "Less than 24 hours after Gina Hinojosa became governor-elect, Representative Brian Harrison [urged Governor Greg Abbott to convene a special session](https://fox4news.com/news/republican-lawmaker-suggests-abbott-strip-governors-emergency-powers-before-hinojosa-takes-office) to restrict the governor's emergency powers. Harrison filed a similar bill in 2022, and it never moved forward.",
+      "url": "https://fox4news.com/news/republican-lawmaker-suggests-abbott-strip-governors-emergency-powers-before-hinojosa-takes-office",
+      "icon": "🤠",
+      "image_url": "https://progresstexas.org/sites/default/files/styles/blog_large__830x437_/public/video/NORcGc5tTUg-HD.jpg?itok=6y5AdxDD"
+    },
     {
       "id": "a2db9075-d851-4e9f-847c-8db1c2324899",
       "kicker": "Animated, at last",
@@ -409,18 +421,6 @@
       "url": "https://www.air1.com/faith/news/trending/compromise-nearing-a-look-at-whats-in-the-legislation-to-end-the-federal-government-shutdown-57066",
       "icon": "📰",
       "image_url": "https://www.sfkoreadaily.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdzatyjuhh%2Fimage%2Fupload%2Fv1762758113%2Fupload%2FGYH2025111000080004402_P4.jpg&w=1200&q=75"
-    },
-    {
-      "id": "5f96e298-21a4-49dc-b3be-7afc4845e909",
-      "kicker": "Built for the long run",
-      "title": "Meituan launches LongCat-2.5 for extended coding tasks",
-      "category": "AI",
-      "published_at": "2026-11-02T00:18:00-06:00",
-      "excerpt": "Meituan released LongCat-2.5 on November 2, designed for tasks requiring sustained execution by AI agents. On Terminal Bench v2.1, Meituan's own table puts LongCat-2.5 at 88.4.",
-      "body": "[Meituan released LongCat-2.5](https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/) on November 2, designed for tasks requiring sustained execution by AI agents. On Terminal Bench v2.1, Meituan's own table puts LongCat-2.5 at 88.4.",
-      "url": "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/",
-      "icon": "🤖",
-      "image_url": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/01173255/meituan-s-market-strategy-800x420.png"
     }
   ]
 }
