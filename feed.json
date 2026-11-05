@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T09:11:54-06:00",
+  "generated_at": "2026-11-05T09:41:43-06:00",
   "posts": [
+    {
+      "id": "7792a482-d4c1-4d1d-bc6a-c65b04928059",
+      "kicker": "A fifth of the price",
+      "title": "SWE-2 Flash is live in Devin",
+      "category": "AI",
+      "published_at": "2026-11-05T09:30:00-06:00",
+      "excerpt": "Cognition's SWE-2 Flash runs three times faster than its larger sibling SWE-2. It costs one-fifth as much as SWE-2.",
+      "body": "Cognition's [SWE-2 Flash](https://cognition.com/blog/swe-2-flash) runs three times faster than its larger sibling SWE-2. It costs one-fifth as much as SWE-2.",
+      "url": "https://cognition.com/blog/swe-2-flash",
+      "icon": "🤖",
+      "image_url": "https://s1.dmcdn.net/v/A-4dp1e0uvqEMhgyD/x720"
+    },
     {
       "id": "4ae9aa20-a37a-4eb7-bc79-d3a8bb4f5972",
       "kicker": "The people's beach",
