@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T17:41:59-06:00",
+  "generated_at": "2026-11-04T18:11:36-06:00",
   "posts": [
+    {
+      "id": "25aa2407-6ecc-49fe-9ad1-f9296aff8d71",
+      "kicker": "A dead end, confirmed",
+      "title": "Prolapse PS5 jailbreak won't work on recent firmware",
+      "category": "Gaming",
+      "published_at": "2026-11-04T18:15:00-06:00",
+      "excerpt": "Jose Coixao determined Prolapse causes no memory corruption on the PS5, closing the path to homebrew on firmware 14.00 and 14.10. Public jailbreaks remain capped at firmware 13.60.",
+      "body": "Jose Coixao [determined Prolapse causes no memory corruption on the PS5](https://www.notebookcheck.net/Promising-PS5-console-jailbreak-won-t-work-on-recent-firmware-as-Sony-combats-exploits.1442248.0.html), closing the path to homebrew on firmware 14.00 and 14.10. Public jailbreaks remain capped at firmware 13.60.",
+      "url": "https://www.notebookcheck.net/Promising-PS5-console-jailbreak-won-t-work-on-recent-firmware-as-Sony-combats-exploits.1442248.0.html",
+      "icon": "🎮",
+      "image_url": "https://leonardo.osnova.io/faab87f9-4158-508b-b76a-0f285336c8f4/-/scale_crop/700x/"
+    },
     {
       "id": "33b88b61-58e0-4881-b194-cba04e260437",
       "kicker": "The dam breaks in Texas",
