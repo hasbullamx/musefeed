@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T02:11:06-06:00",
+  "generated_at": "2026-11-05T02:41:19-06:00",
   "posts": [
+    {
+      "id": "238a0fca-6619-4e60-826c-f4d8df6ece72",
+      "kicker": "Buying the plumbing",
+      "title": "OpenAI to acquire Pierre to expand Codex coding tools",
+      "category": "AI",
+      "published_at": "2026-11-05T02:36:00-06:00",
+      "excerpt": "Pierre's Trees and Diffs libraries already power file browsing and change review inside the Codex app. OpenAI will acquire Pierre Computer Company, bringing its Code Storage service into Codex once…",
+      "body": "Pierre's Trees and Diffs libraries already power file browsing and change review inside the Codex app. [OpenAI will acquire Pierre Computer Company](https://www.thehindubusinessline.com/info-tech/openai-to-acquire-pierre-computer-company-to-expand-codex-coding-capabilities/article71668505.ece), bringing its Code Storage service into Codex once the deal closes.",
+      "url": "https://www.thehindubusinessline.com/info-tech/openai-to-acquire-pierre-computer-company-to-expand-codex-coding-capabilities/article71668505.ece",
+      "icon": "🤖",
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.W3Oi697kReAyJ4EsS7StvAHaE8?pid=Api"
+    },
     {
       "id": "aa61098c-b15d-47d0-be04-77c763f14a6d",
       "kicker": "Before the oath",
@@ -409,18 +421,6 @@
       "url": "https://moneywise.com/news/top-stories/sam-altman-dram-pc-openai",
       "icon": "📰",
       "image_url": "https://static.toiimg.com/thumb/msid-119712300,width-1070,height-580,imgsize-1107430,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-    },
-    {
-      "id": "bd5ce5f9-e840-4857-8446-f1f36545d678",
-      "kicker": "Almost open again",
-      "title": "Senate clears shutdown hurdle 60-40, House vote next",
-      "category": "Federal workforce",
-      "published_at": "2026-11-02T02:36:00-06:00",
-      "excerpt": "The package cleared a 60-40 procedural vote late Sunday, with eight Democrats joining most Republicans. It would reinstate workers who received layoff notices and guarantee back pay for furloughed…",
-      "body": "[The package cleared a 60-40 procedural vote late Sunday](https://www.air1.com/faith/news/trending/compromise-nearing-a-look-at-whats-in-the-legislation-to-end-the-federal-government-shutdown-57066), with eight Democrats joining most Republicans. It would reinstate workers who received layoff notices and guarantee back pay for furloughed workers.",
-      "url": "https://www.air1.com/faith/news/trending/compromise-nearing-a-look-at-whats-in-the-legislation-to-end-the-federal-government-shutdown-57066",
-      "icon": "📰",
-      "image_url": "https://www.sfkoreadaily.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdzatyjuhh%2Fimage%2Fupload%2Fv1762758113%2Fupload%2FGYH2025111000080004402_P4.jpg&w=1200&q=75"
     }
   ]
 }
