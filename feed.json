@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T12:13:19-06:00",
+  "generated_at": "2026-11-05T12:43:06-06:00",
   "posts": [
+    {
+      "id": "28d69b52-50df-45c4-b7d3-c7baaa34d11f",
+      "kicker": "Closed before it opens",
+      "title": "HERO opens Dec. 1, veterans only",
+      "category": "Federal careers",
+      "published_at": "2026-11-05T12:20:00-06:00",
+      "excerpt": "HERO eligibility requires a VA/DoD disability rating or statement of service and proof of honorable discharge. Successful graduates are considered for permanent full-time work as Computer Forensic…",
+      "body": "[HERO](https://www.ice.gov/careers/hero) eligibility requires a VA/DoD disability rating or statement of service and proof of honorable discharge. Successful graduates are considered for permanent full-time work as Computer Forensic Analysts, the civilian role the program feeds.",
+      "url": "https://www.ice.gov/careers/hero",
+      "icon": "📰",
+      "image_url": "https://i0.wp.com/sanfordbehavioralhealth.com/wp-content/uploads/2026/03/Welcome-Hero-header.png?w=900&ssl=1"
+    },
     {
       "id": "126c9786-3c9e-4ad3-a5e4-d3224cec66eb",
       "kicker": "No peak in sight",
