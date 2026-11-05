@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T10:41:55-06:00",
+  "generated_at": "2026-11-05T11:11:36-06:00",
   "posts": [
+    {
+      "id": "88926c75-1faa-44d2-ae8d-2db3464a7b6e",
+      "kicker": "The pause widens",
+      "title": "Texas data centers face uncertain future after Hinojosa win",
+      "category": "Texas",
+      "published_at": "2026-11-05T10:48:26-06:00",
+      "excerpt": "Hinojosa vowed to ban all new data center approvals until the Legislature passes laws to protect Texans. ERCOT was already tracking more than 400 gigawatts of data center projects seeking a grid…",
+      "body": "[Hinojosa vowed](https://srnnews.com/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race/) to ban all new data center approvals until the Legislature passes laws to protect Texans. ERCOT was already tracking more than 400 gigawatts of data center projects seeking a grid connection.",
+      "url": "https://srnnews.com/texas-data-centers-face-uncertain-future-after-hinojosa-wins-governors-race/",
+      "icon": "🤠",
+      "image_url": "https://media.publit.io/file/c_fill,h_400,w_400/politicnation/gettyimages-2236733555.jpg"
+    },
     {
       "id": "ae0bdb8c-576d-4f90-861a-f8d374ada75d",
       "kicker": "Three days only",
