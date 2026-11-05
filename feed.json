@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T14:12:01-06:00",
+  "generated_at": "2026-11-05T14:41:57-06:00",
   "posts": [
+    {
+      "id": "201d2932-c00e-4f73-a096-9c0af0d52224",
+      "kicker": "Routing for cheaper coding",
+      "title": "Baseten Grid cuts coding-task costs up to 70%",
+      "category": "AI",
+      "published_at": "2026-11-05T14:26:09-06:00",
+      "excerpt": "Baseten launched Grid on November 4 in public preview, routing each coding request to the best-fit model from a team's approved list. Its router cut the cost per coding task by up to 70% in Baseten's…",
+      "body": "Baseten [launched Grid on November 4](https://www.baseten.co/blog/introducing-baseten-grid) in public preview, routing each coding request to the best-fit model from a team's approved list. Its router cut the cost per coding task by up to 70% in Baseten's initial benchmarks.",
+      "url": "https://www.baseten.co/blog/introducing-baseten-grid",
+      "icon": "🤖",
+      "image_url": "https://itmagazine.cc/thumbs/itmagazine.cc-700/1a/95/Baseten-raises-15bn-at-up-to-13bn-for-AI-inference.jpg"
+    },
     {
       "id": "28d69b52-50df-45c4-b7d3-c7baaa34d11f",
       "kicker": "Closed before it opens",
