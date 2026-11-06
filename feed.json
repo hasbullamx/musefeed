@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T10:43:08-06:00",
+  "generated_at": "2026-11-06T11:13:15-06:00",
   "posts": [
+    {
+      "id": "9b131c27-b8f1-4d80-8794-4ce1441d2265",
+      "kicker": "The free on-ramp",
+      "title": "DFIR from zero starts free, with Volatility and Autopsy",
+      "category": "Career",
+      "published_at": "2026-11-06T10:49:00-06:00",
+      "excerpt": "TryHackMe's DFIR guide starts beginners in its free DFIR module, covering file-system, Windows artefact, memory and network forensics in guided hands-on rooms. It names GCFE and GCFA as the two most…",
+      "body": "[TryHackMe's DFIR guide](https://tryhackme.com/resources/blog/how-to-get-started-in-dfir-free-training-tools-and-career-path-in-2026) starts beginners in its free DFIR module, covering file-system, Windows artefact, memory and network forensics in guided hands-on rooms. It names GCFE and GCFA as the two most widely recognised DFIR credentials, and SAL2 as the step for analysts moving from Tier 2 SOC work into advanced investigation.",
+      "url": "https://tryhackme.com/resources/blog/how-to-get-started-in-dfir-free-training-tools-and-career-path-in-2026",
+      "icon": "📰",
+      "image_url": "https://www.mandiant.com/sites/default/files/inline-images/dfir-ot1.jpg"
+    },
     {
       "id": "381356e0-7862-4ea6-8c96-bb2cc7e35e97",
       "kicker": "Ends tonight",
@@ -517,18 +529,6 @@
       "url": "https://www.basketprice.com/ssd",
       "icon": "🏷️",
       "image_url": "https://assets2.rockpapershotgun.com/ssds.jpg/BROK/resize/1920x1920%3E/format/jpg/quality/80/ssds.jpg"
-    },
-    {
-      "id": "b5fd4dae-28ac-4497-b55e-bf76e55208a9",
-      "kicker": "The prebuilt workaround",
-      "title": "RTX 5070 gaming PC scores $400 discount",
-      "category": "PC hardware",
-      "published_at": "2026-11-03T10:47:00-06:00",
-      "excerpt": "Published Nov 3, 2026, 10:47 AM: The PowerSpec G536 is listed for $1,599.99 at Micro Center. It pairs an RTX 5070 with 32GB of DDR5 RAM.",
-      "body": "Published Nov 3, 2026, 10:47 AM: The [PowerSpec G536](https://www.notebookcheck.net/RTX-5070-gaming-PC-with-32GB-of-DDR5-RAM-scores-400-discount.1440727.0.html) is listed for $1,599.99 at Micro Center. It pairs an RTX 5070 with 32GB of DDR5 RAM.",
-      "url": "https://www.notebookcheck.net/RTX-5070-gaming-PC-with-32GB-of-DDR5-RAM-scores-400-discount.1440727.0.html",
-      "icon": "📰",
-      "image_url": "https://www.pcguide.com/wp-content/uploads/2025/08/Ibuypower-y40-Black.jpg"
     }
   ]
 }
