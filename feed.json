@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T06:11:27-06:00",
+  "generated_at": "2026-11-06T06:41:35-06:00",
   "posts": [
+    {
+      "id": "7d765b3b-a4b6-44de-b10c-22bc5f573f40",
+      "kicker": "Cheaper by remembering",
+      "title": "Microsoft tool cuts AI coding costs up to 31%",
+      "category": "AI",
+      "published_at": "2026-11-06T06:37:00-06:00",
+      "excerpt": "Microsoft and UC Berkeley researchers introduced the free TokenEconomizer on October 31. It remembers useful project details from earlier tasks, so the assistant stops burning tokens rediscovering…",
+      "body": "Microsoft and UC Berkeley researchers [introduced the free TokenEconomizer](https://propakistani.pk/2026/10/31/microsofts-new-tool-can-cut-ai-coding-costs-by-up-to-31/) on October 31. It remembers useful project details from earlier tasks, so the assistant stops burning tokens rediscovering them.",
+      "url": "https://propakistani.pk/2026/10/31/microsofts-new-tool-can-cut-ai-coding-costs-by-up-to-31/",
+      "icon": "🤖",
+      "image_url": "https://frontierwisdom.com/wp-content/uploads/2026/05/microsoft-cancels-claude-code-licenses-featured-1200x600.png"
+    },
     {
       "id": "4d9f0f5f-f605-452c-8832-0a5e5c9b5068",
       "kicker": "Ninety days to decide",
