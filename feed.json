@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T04:12:05-06:00",
+  "generated_at": "2026-11-06T04:42:25-06:00",
   "posts": [
+    {
+      "id": "4d9f0f5f-f605-452c-8832-0a5e5c9b5068",
+      "kicker": "Ninety days to decide",
+      "title": "Brownsville pauses data center approvals for 90 days",
+      "category": "Texas",
+      "published_at": "2026-11-06T04:25:00-06:00",
+      "excerpt": "The Brownsville City Commission approved a 90-day moratorium on data centers during a special meeting on November 4. The pause took effect November 5 and runs through February 3, 2027.",
+      "body": "The Brownsville City Commission approved a [90-day moratorium on data centers](https://datacentersignal.com/clip/f2c1b9e9-019a-4007-9b19-989c19157f42?utm_source=facebook&utm_medium=signal-share&utm_campaign=clip&utm_content=f2c1b9e9-019a-4007-9b19-989c19157f42) during a special meeting on November 4. The pause took effect November 5 and runs through February 3, 2027.",
+      "url": "https://datacentersignal.com/clip/f2c1b9e9-019a-4007-9b19-989c19157f42?utm_source=facebook&utm_medium=signal-share&utm_campaign=clip&utm_content=f2c1b9e9-019a-4007-9b19-989c19157f42",
+      "icon": "🤠",
+      "image_url": "https://us.nexoradar.com/uploads/_r/768/ia-brownsville-pauses-data-center-plan-as-city-moves-to-draft-policy-32c350.webp"
+    },
     {
       "id": "6abc0f8d-c633-4188-805a-8ea94f899438",
       "kicker": "Hyrule, on PlayStation",
