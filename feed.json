@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T09:14:49-06:00",
+  "generated_at": "2026-11-06T09:42:27-06:00",
   "posts": [
     {
       "id": "381356e0-7862-4ea6-8c96-bb2cc7e35e97",
@@ -541,18 +541,6 @@
       "url": "https://mindmuscleperfection.com/rest-between-sets-20-seconds-vs-2-minutes-quad-growth/",
       "icon": "📰",
       "image_url": "https://media.beehiiv.com/cdn-cgi/image/format=auto,fit=scale-down,onerror=redirect/uploads/asset/file/c9e5d2e9-6d1f-4960-b76d-8d8d8625ede6/585cd1d77a216bbd6b55358782b01c4a.jpeg"
-    },
-    {
-      "id": "f857a01e-57f9-402a-a44d-3a5f34ea398b",
-      "kicker": "Self-graded homework",
-      "title": "OpenAI's LifeVal scores GPT-6 Astra 80.6% on everyday tasks",
-      "category": "AI",
-      "published_at": "2026-11-03T09:36:00-06:00",
-      "excerpt": "OpenAI published LifeVal on November 2, drawing its everyday tasks from time-use studies and a survey of 3,995 respondents. With no public task set and no rival scores, the benchmark reads as a…",
-      "body": "OpenAI [published LifeVal on November 2](https://aiweekly.co/alerts/openais-lifeval-scores-gpt-6-astra-806-on-everyday-tasks), drawing its everyday tasks from time-use studies and a survey of 3,995 respondents. With no public task set and no rival scores, the benchmark reads as a self-graded report card.",
-      "url": "https://aiweekly.co/alerts/openais-lifeval-scores-gpt-6-astra-806-on-everyday-tasks",
-      "icon": "🤖",
-      "image_url": "https://i.prt.news/4117b3eacc322f48f6fadaf11ef6cb5a.jpg"
     }
   ]
 }
