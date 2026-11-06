@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T02:11:42-06:00",
+  "generated_at": "2026-11-06T02:41:44-06:00",
   "posts": [
+    {
+      "id": "6abc0f8d-c633-4188-805a-8ea94f899438",
+      "kicker": "Hyrule, on PlayStation",
+      "title": "Zelda remake runs on jailbroken PS5 via Switch 2 emulator",
+      "category": "Gaming",
+      "published_at": "2026-11-06T02:36:00-06:00",
+      "excerpt": "A homebrew enthusiast got the Zelda: Ocarina of Time remake running on a jailbroken PS5 through the EglantinePS5 Switch 2 emulator. Frame rates struggle to eclipse 20 fps.",
+      "body": "A homebrew enthusiast got the [Zelda: Ocarina of Time remake running on a jailbroken PS5](https://www.notebookcheck.net/Zelda-Ocarina-of-Time-remake-runs-on-PS5-with-jailbreak-and-Switch-2-emulator.1443533.0.html) through the EglantinePS5 Switch 2 emulator. Frame rates struggle to eclipse 20 fps.",
+      "url": "https://www.notebookcheck.net/Zelda-Ocarina-of-Time-remake-runs-on-PS5-with-jailbreak-and-Switch-2-emulator.1443533.0.html",
+      "icon": "🎮",
+      "image_url": "https://y.com.sb/ggpht/0vB-ae2Qjh2qIUpIuWFRrHhLqrNMXYtbJ8JRes0AlNXnyCzRVYxP1_DFU8EviHSFi_X7jAwH63qRkhw=s560-c-fcrop64=1,00002000ffffdfff-rw-nd-v1"
+    },
     {
       "id": "8102fe7c-5065-4517-b997-b112cd42887b",
       "kicker": "A finder, not a chatbot",
