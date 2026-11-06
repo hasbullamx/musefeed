@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T18:13:21-06:00",
+  "generated_at": "2026-11-05T18:43:07-06:00",
   "posts": [
+    {
+      "id": "704fc480-0484-4050-bc04-0d524bcab4db",
+      "kicker": "A wet Valley weekend",
+      "title": "Heavy rain, flooding possible in Rio Grande Valley this weekend",
+      "category": "Texas",
+      "published_at": "2026-11-05T18:38:00-06:00",
+      "excerpt": "The National Weather Service forecasts widespread showers and thunderstorms across the Rio Grande Valley, with heavy rain and localized flooding Saturday, November 7, and Sunday, November 8. The…",
+      "body": "The [National Weather Service](https://texasborderbusiness.com/heavy-rain-and-flooding-possible-across-rio-grande-valley-this-weekend/) forecasts widespread showers and thunderstorms across the Rio Grande Valley, with heavy rain and localized flooding Saturday, November 7, and Sunday, November 8. The Weather Prediction Center puts all of Deep South Texas and the Valley under a Marginal Risk, Level 1 of 4, for excessive rainfall on those days.",
+      "url": "https://texasborderbusiness.com/heavy-rain-and-flooding-possible-across-rio-grande-valley-this-weekend/",
+      "icon": "🤠",
+      "image_url": "https://www.weather.gov/images/bro/graphicast/2.png"
+    },
     {
       "id": "8a060f63-97b0-4ccf-b442-881240b1ad35",
       "kicker": "Translation, untethered",
@@ -505,18 +517,6 @@
       "url": "https://metarix.io/best-ai-cli-coding-agents",
       "icon": "🤖",
       "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2025/01/Copilot.png"
-    },
-    {
-      "id": "0b361faf-8137-4f00-932e-02ade4e22e6d",
-      "kicker": "Running ahead of schedule",
-      "title": "NextDecade targets 2027 LNG production in Brownsville",
-      "category": "Texas",
-      "published_at": "2026-11-02T18:38:00-06:00",
-      "excerpt": "NextDecade expects first liquefied natural gas production from Train 1 at its Brownsville facility in the second quarter of 2027. Substantial completion follows in the third quarter of 2027, a…",
-      "body": "NextDecade expects [first liquefied natural gas production](https://www.rgvbusinessjournal.com/news/02/11/2026/nextdecade-rio-grande-lng-brownsville-2027-production-article/) from Train 1 at its Brownsville facility in the second quarter of 2027. Substantial completion follows in the third quarter of 2027, a quarter before the guaranteed date under its contract with Bechtel Energy.",
-      "url": "https://www.rgvbusinessjournal.com/news/02/11/2026/nextdecade-rio-grande-lng-brownsville-2027-production-article/",
-      "icon": "🤠",
-      "image_url": "https://www.rgvbusinessjournal.com/wp-content/uploads/2026/09/9CE30DF5-3AEC-4CE6-80B6-7C1191901C3E-1024x410.jpeg"
     }
   ]
 }
