@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T16:12:38-06:00",
+  "generated_at": "2026-11-06T16:42:13-06:00",
   "posts": [
+    {
+      "id": "06526996-7782-432b-9326-1b0794176096",
+      "kicker": "Dinner's covered",
+      "title": "Ibotta brings back its free Thanksgiving turkey",
+      "category": "Deals",
+      "published_at": "2026-11-06T16:22:00-06:00",
+      "excerpt": "The Thanksgiving Turkey bonus in the Ibotta app unlocks 100% cash back on any-brand turkey, with the offer landing within two hours of finishing it. A new side at 100% cash back drops every Tuesday…",
+      "body": "The Thanksgiving Turkey bonus in the [Ibotta app](https://home.ibotta.com/blog/seasonal/thanksgiving-2026) unlocks 100% cash back on any-brand turkey, with the offer landing within two hours of finishing it. A new side at 100% cash back drops every Tuesday in November, with the next one on November 10, and each drop lasts only while supplies last.",
+      "url": "https://home.ibotta.com/blog/seasonal/thanksgiving-2026",
+      "icon": "🏷️",
+      "image_url": "https://prod-cdn.thekrazycouponlady.com/wp-content/uploads/2022/11/ibotta-thanksgiving-meal-hack-free-turkey-table-feature-1699295147-1699295148.jpg"
+    },
     {
       "id": "599b9369-e111-4a9e-8712-c1a4c835922c",
       "kicker": "Squat, rest, jump higher",
@@ -505,18 +517,6 @@
       "url": "https://www.skimwire.com/black-friday-2026-tech-deals-amazon-walmart-best-buy/",
       "icon": "🏷️",
       "image_url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/4eVYnCBOcqLD2qamTQbh06/40dd6070c313fccb9e7487e4a7ad8fc6/ge_fridge_kitchen_appliance_home_depot_2.jpg?w=1920&fit=max&auto=format&q=90"
-    },
-    {
-      "id": "478c2114-30b2-42c1-a59e-7bf867352704",
-      "kicker": "The right model, checked",
-      "title": "Ortelan Labs launches Praus, a U.S.-based sovereign AI",
-      "category": "AI",
-      "published_at": "2026-11-03T16:15:00-06:00",
-      "excerpt": "Ortelan Labs launched Praus today, a sovereign AI harness that chooses the open-source model best suited to each request and checks the result before returning it. Ortelan estimates a typical answer…",
-      "body": "[Ortelan Labs launched Praus today](https://www.globenewswire.com/news-release/2026/11/03/3394585/0/en/ortelan-labs-launches-praus-a-u-s-based-sovereign-ai-harness-with-frontier-level-benchmark-results-at-under-a-tenth-of-a-cent-per-answer.html), a sovereign AI harness that chooses the open-source model best suited to each request and checks the result before returning it. Ortelan estimates a typical answer costs $0.00069 on its own infrastructure, below the list-price cost of all 17 frontier models it compared, though the company says the figure comes from its own unverified testing.",
-      "url": "https://www.globenewswire.com/news-release/2026/11/03/3394585/0/en/ortelan-labs-launches-praus-a-u-s-based-sovereign-ai-harness-with-frontier-level-benchmark-results-at-under-a-tenth-of-a-cent-per-answer.html",
-      "icon": "🤖",
-      "image_url": "https://www.csseo.org/wp-content/uploads/2026/04/a3ELA4Hm16mw8y8D3gatILWvZs1_vZh8LOpZfsrpsWE.jpeg"
     }
   ]
 }
