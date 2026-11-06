@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T00:12:40-06:00",
+  "generated_at": "2026-11-06T00:41:48-06:00",
   "posts": [
+    {
+      "id": "8102fe7c-5065-4517-b997-b112cd42887b",
+      "kicker": "A finder, not a chatbot",
+      "title": "OpenAI launches GPT-6 Cyber, which found 81 Firefox flaws",
+      "category": "AI",
+      "published_at": "2026-11-06T00:20:00-06:00",
+      "excerpt": "GPT-6 Cyber built working exploits for 948 Linux kernel vulnerabilities. It starts with a select group of approved Daybreak Red customers through the API and Codex, with access expanding over time.",
+      "body": "[GPT-6 Cyber](https://www.digit.in/news/general/openai-launches-gpt-6-cyber-ai-model-says-it-found-81-firefox-vulnerabilities.html/amp/) built working exploits for 948 Linux kernel vulnerabilities. It starts with a select group of approved Daybreak Red customers through the API and Codex, with access expanding over time.",
+      "url": "https://www.digit.in/news/general/openai-launches-gpt-6-cyber-ai-model-says-it-found-81-firefox-vulnerabilities.html/amp/",
+      "icon": "🤖",
+      "image_url": "https://nucleovisual.com/wp-content/uploads/2026/08/GPT-5.6-Cyber.jpg"
+    },
     {
       "id": "6b9823fd-f080-4ece-9e29-e7c67f66e632",
       "kicker": "The civilian way in",
