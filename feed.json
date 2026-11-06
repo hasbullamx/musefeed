@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T07:42:19-06:00",
+  "generated_at": "2026-11-06T08:12:08-06:00",
   "posts": [
     {
       "id": "7d765b3b-a4b6-44de-b10c-22bc5f573f40",
@@ -541,18 +541,6 @@
       "url": "https://aiweekly.co/alerts/openais-lifeval-scores-gpt-6-astra-806-on-everyday-tasks",
       "icon": "🤖",
       "image_url": "https://i.prt.news/4117b3eacc322f48f6fadaf11ef6cb5a.jpg"
-    },
-    {
-      "id": "90590866-3939-4567-9e8a-2187f04b6854",
-      "kicker": "Browsing without the ads",
-      "title": "ProsperoWeb adds ad blocker for jailbroken PS5",
-      "category": "Gaming",
-      "published_at": "2026-11-03T07:44:00-06:00",
-      "excerpt": "ProsperoWeb 0.2.0 adds a built-in ad blocker, switched on by default, for jailbroken PS5 consoles. Optional SponsorBlock support skips sponsor segments on YouTube.",
-      "body": "[ProsperoWeb 0.2.0](https://onejailbreak.com/blog/prosperoweb-browser-adds-ad-blocker-for-jailbroken-ps5/) adds a built-in ad blocker, switched on by default, for jailbroken PS5 consoles. Optional SponsorBlock support skips sponsor segments on YouTube.",
-      "url": "https://onejailbreak.com/blog/prosperoweb-browser-adds-ad-blocker-for-jailbroken-ps5/",
-      "icon": "🎮",
-      "image_url": "https://mediasavvy.pages.dev/logo.png"
     }
   ]
 }
