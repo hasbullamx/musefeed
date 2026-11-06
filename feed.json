@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T15:11:43-06:00",
+  "generated_at": "2026-11-06T15:42:26-06:00",
   "posts": [
     {
       "id": "599b9369-e111-4a9e-8712-c1a4c835922c",
@@ -517,18 +517,6 @@
       "url": "https://www.globenewswire.com/news-release/2026/11/03/3394585/0/en/ortelan-labs-launches-praus-a-u-s-based-sovereign-ai-harness-with-frontier-level-benchmark-results-at-under-a-tenth-of-a-cent-per-answer.html",
       "icon": "🤖",
       "image_url": "https://www.csseo.org/wp-content/uploads/2026/04/a3ELA4Hm16mw8y8D3gatILWvZs1_vZh8LOpZfsrpsWE.jpeg"
-    },
-    {
-      "id": "7011b656-b81c-4455-a427-1c79708de8cc",
-      "kicker": "The floor holds",
-      "title": "Cheapest 32GB DDR5 kit is $479.99 today",
-      "category": "PC hardware",
-      "published_at": "2026-11-03T15:26:00-06:00",
-      "excerpt": "DRAM makers moved production toward HBM and server memory for AI data centers, cutting the wafers given to PC memory. Of the kits tracked for two weeks or more, most cost more today than when they…",
-      "body": "[DRAM makers moved production toward HBM and server memory for AI data centers](https://www.basketprice.com/ram), cutting the wafers given to PC memory. Of the kits tracked for two weeks or more, most cost more today than when they were first recorded.",
-      "url": "https://www.basketprice.com/ram",
-      "icon": "📰",
-      "image_url": "https://www.corsair.com/ca/en/p/memory/cmh32gx5m2b6400z36/vengeance-rgb-32gb-2x16gb-ddr5-dram-6400mt-s-cl36-memory-kit-cmh32gx5m2b6400z36?position=19&queryID=f959df8abdf208dd80dff25ba75e4587"
     }
   ]
 }
