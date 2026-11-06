@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T14:12:25-06:00",
+  "generated_at": "2026-11-06T14:42:13-06:00",
   "posts": [
+    {
+      "id": "599b9369-e111-4a9e-8712-c1a4c835922c",
+      "kicker": "Squat, rest, jump higher",
+      "title": "Back squats beat hip thrusts for basketball jumps",
+      "category": "Fitness",
+      "published_at": "2026-11-06T14:24:00-06:00",
+      "excerpt": "A Frontiers in Physiology study published November 4 found that four sets of three back squats at 80% of one-rep max, followed by eight minutes of rest, lifted countermovement and approach jumps in…",
+      "body": "A [Frontiers in Physiology study published November 4](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1950623/full) found that four sets of three back squats at 80% of one-rep max, followed by eight minutes of rest, lifted countermovement and approach jumps in 20 male collegiate basketball players. Hip thrusts at the same load showed no significant edge over a basketball-specific warm-up.",
+      "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1950623/full",
+      "icon": "📰",
+      "image_url": "https://www.atgonlinecoaching.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Ffl2s6k0j0ayn%2FZB4nPL61OY4TpSWoxWamn%2F2c17f1b21cc139d3a457070f285de7c9%2Fimage.png&w=828&q=75"
+    },
     {
       "id": "b3c2b7b1-0e95-4d28-aed8-f421dbd9b3a3",
       "kicker": "No relief at retail",
@@ -517,18 +529,6 @@
       "url": "https://www.basketprice.com/ram",
       "icon": "📰",
       "image_url": "https://www.corsair.com/ca/en/p/memory/cmh32gx5m2b6400z36/vengeance-rgb-32gb-2x16gb-ddr5-dram-6400mt-s-cl36-memory-kit-cmh32gx5m2b6400z36?position=19&queryID=f959df8abdf208dd80dff25ba75e4587"
-    },
-    {
-      "id": "9f27418f-2852-423a-8878-e32d5cbc3fa1",
-      "kicker": "No-code agents at work",
-      "title": "ServiceNow expands EmployeeWorks with no-code AI agents",
-      "category": "AI",
-      "published_at": "2026-11-03T14:24:00-06:00",
-      "excerpt": "Published Nov 3, 2026, 2:24 PM: ServiceNow expanded EmployeeWorks so employees can build AI agents without coding, under administrator-defined controls. ToolSmith lets developers describe an…",
-      "body": "Published Nov 3, 2026, 2:24 PM: [ServiceNow expanded EmployeeWorks](https://www.tahawultech.com/industry/technology/servicenow-expands-employeeworks-with-no-code-ai-agents-and-developer-tools/) so employees can build AI agents without coding, under administrator-defined controls. ToolSmith lets developers describe an automation in natural language and draws on knowledge of more than 75,000 APIs to build the integration.",
-      "url": "https://www.tahawultech.com/industry/technology/servicenow-expands-employeeworks-with-no-code-ai-agents-and-developer-tools/",
-      "icon": "🤖",
-      "image_url": "https://cxf-files.nyc3.digitaloceanspaces.com/servicenow_employeeworks_f2cd843dc9.png"
     }
   ]
 }
