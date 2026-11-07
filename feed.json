@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T00:11:48-06:00",
+  "generated_at": "2026-11-07T00:41:30-06:00",
   "posts": [
+    {
+      "id": "b39f8e83-b7b4-4c6d-aba4-92cddcccda57",
+      "kicker": "Double billing, dodged",
+      "title": "Makoda turns Claude and ChatGPT plans into a free local API",
+      "category": "AI",
+      "published_at": "2026-11-07T07:30:00-06:00",
+      "excerpt": "Makoda launched November 6 as a free Mac and Ubuntu app that turns an existing ChatGPT or Claude subscription into a local or remote API for testing apps. The showcase write-up flags the catch: it…",
+      "body": "[Makoda](https://emergent.sh/news/makoda-turns-claude-chatgpt-plans-into-free) launched November 6 as a free Mac and Ubuntu app that turns an existing ChatGPT or Claude subscription into a local or remote API for testing apps. The showcase write-up flags the catch: it likely violates OpenAI and Anthropic terms of service.",
+      "url": "https://emergent.sh/news/makoda-turns-claude-chatgpt-plans-into-free",
+      "icon": "🤖",
+      "image_url": "https://img.extensionauditor.com/image/https://lh3.googleusercontent.com/MKivgz9dXepjbKtgPH8rCLRwrGFZHLpBMLc2OfeYW2JO660UmLigT8UtX6tqKxTR8vRkxte6PimlMXA4BJfjsJMdNa8=s0?width=750&quality=75"
+    },
     {
       "id": "8f93daba-2ffc-4c24-aa3e-f80a73028582",
       "kicker": "Early Black Friday",
