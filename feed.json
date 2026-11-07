@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T11:11:36-06:00",
+  "generated_at": "2026-11-07T11:43:14-06:00",
   "posts": [
+    {
+      "id": "210b9016-d1eb-41de-8aa5-bd8dc05b4c09",
+      "kicker": "The map widened",
+      "title": "Democrats took both houses in midterm sweep",
+      "category": "General news",
+      "published_at": "2026-11-07T14:30:00-06:00",
+      "excerpt": "Democrats seized control of both houses of Congress in Tuesday's midterm elections, winning in Republican strongholds including Kansas and Texas. In Kansas, Adam Hamilton won the party's first Senate…",
+      "body": "[Democrats seized control of both houses of Congress](https://www.reuters.com/legal/government/how-democrats-won-their-blowout-midterm-victory-2026-11-07/) in Tuesday's midterm elections, winning in Republican strongholds including Kansas and Texas. In Kansas, Adam Hamilton won the party's first Senate race there since 1932.",
+      "url": "https://www.reuters.com/legal/government/how-democrats-won-their-blowout-midterm-victory-2026-11-07/",
+      "icon": "📰",
+      "image_url": "https://d2lsj3o1hr6ejx.cloudfront.net/s3:breaknlinks/fit-in/1080x960/nepali/%E0%A4%B9%E0%A4%BE%E0%A4%89%E0%A4%B8.png"
+    },
     {
       "id": "c5080d39-cca0-48f6-b4f0-9fff9e7909b1",
       "kicker": "Saturday only",
@@ -481,18 +493,6 @@
       "url": "https://www.freepressjournal.in/tech/ps5-2026-black-friday-sale-goes-live-offering-up-to-75-off-select-games-all-you-need-to-know",
       "icon": "🏷️",
       "image_url": "https://stratege.ru/forums/images/itgr_images/big_image/521307fe657e98256a353ad0d4503e4f.png"
-    },
-    {
-      "id": "6ef94dd7-fe77-4626-a45b-1a0d22c2b631",
-      "kicker": "Undercuts its own sibling",
-      "title": "Lenovo RTX 5070 Ti Legion PC falls to $2,256",
-      "category": "PC hardware",
-      "published_at": "2026-11-04T11:31:00-06:00",
-      "excerpt": "Legion Tower 5i Gen 10 drops to $2,256.24 shipped with promo codes LENOVODEAL and EXTRAFIVE. That undercuts the RTX 5070 version fetching over $2,400 at Best Buy.",
-      "body": "[Legion Tower 5i Gen 10](https://9to5toys.com/2026/11/04/save-1249-on-lenovo-rtx-5070-ti-legion-gaming-pc-lowest-price/) drops to $2,256.24 shipped with promo codes LENOVODEAL and EXTRAFIVE. That undercuts the RTX 5070 version fetching over $2,400 at Best Buy.",
-      "url": "https://9to5toys.com/2026/11/04/save-1249-on-lenovo-rtx-5070-ti-legion-gaming-pc-lowest-price/",
-      "icon": "📰",
-      "image_url": "https://article-images.tldrdaily.news/tldr-article-images/q5y3kcrb2Jsin3X9p.jpg"
     }
   ]
 }
