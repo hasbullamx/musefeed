@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T23:11:55-06:00",
+  "generated_at": "2026-11-06T23:41:37-06:00",
   "posts": [
     {
       "id": "8f93daba-2ffc-4c24-aa3e-f80a73028582",
@@ -505,18 +505,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections",
       "icon": "📰",
       "image_url": "https://americap2.nyc3.digitaloceanspaces.com/upload/photos/2019/10/OBujaXaQCC2Te9b7UgI3_20_fb839c84b707a3edcc0aeb3a72c83e8f_avatar_full.png"
-    },
-    {
-      "id": "068fd9f6-1e86-4b98-9614-67a4213410d6",
-      "kicker": "OPERATION GUARDIAN",
-      "title": "A 17-year-old was found with adults under trafficking investigation",
-      "category": "Immigration enforcement",
-      "published_at": "2026-11-03T23:28:24-06:00",
-      "excerpt": "News9 reports that a vehicle stopped on I-40 on October 27, 2026, carried a 17-year-old girl who had previously entered the U.S. as an unaccompanied minor and was traveling with adults under active…",
-      "body": "[News9](https://www.news9.com/oklahoma-politics/oklahoma-operation-guardian-arrests) reports that a vehicle stopped on I-40 on October 27, 2026, carried a 17-year-old girl who had previously entered the U.S. as an unaccompanied minor and was traveling with adults under active investigation for human trafficking. The stop was part of Operation Guardian, which DHS says resulted in [more than 230 arrests](https://www.dhs.gov/news/2026/11/02/secretary-mullin-announces-results-operation-guardian-crackdown-illegal-aliens).",
-      "url": "https://www.news9.com/oklahoma-politics/oklahoma-operation-guardian-arrests",
-      "icon": "📰",
-      "image_url": "https://ceaf.org.ng/wp-content/uploads/2023/11/Screenshot_20231126-191119_Chrome.jpg"
     }
   ]
 }
