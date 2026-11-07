@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T06:11:25-06:00",
+  "generated_at": "2026-11-07T06:41:44-06:00",
   "posts": [
     {
       "id": "c5080d39-cca0-48f6-b4f0-9fff9e7909b1",
@@ -25,6 +25,18 @@
       "url": "https://emergent.sh/news/makoda-turns-claude-chatgpt-plans-into-free",
       "icon": "🤖",
       "image_url": "https://img.extensionauditor.com/image/https://lh3.googleusercontent.com/MKivgz9dXepjbKtgPH8rCLRwrGFZHLpBMLc2OfeYW2JO660UmLigT8UtX6tqKxTR8vRkxte6PimlMXA4BJfjsJMdNa8=s0?width=750&quality=75"
+    },
+    {
+      "id": "0316ff57-ce7f-4d6c-b466-8abc6bac0ef1",
+      "kicker": "Across the river",
+      "title": "Mexican police fatally shoot 7-year-old American girl",
+      "category": "Texas",
+      "published_at": "2026-11-07T06:38:50-06:00",
+      "excerpt": "Published Nov 7, 2026, 11:30 AM Tamaulipas prosecutors confirmed Friday that police gunfire from a helicopter killed Aranza, a seven-year-old born in the United States, in Matamoros on October 29.…",
+      "body": "Published Nov 7, 2026, 11:30 AM [Tamaulipas prosecutors confirmed Friday](https://gulfnews.com/amp/story/world%2Famericas%2Fmexico-confirms-police-shot-us-girl-dead-in-cartel-chase-1.500739284) that police gunfire from a helicopter killed Aranza, a seven-year-old born in the United States, in Matamoros on October 29. Her mother said the family stopped their pickup and her husband got out to say they were civilians with children, but they were fired at anyway.",
+      "url": "https://gulfnews.com/amp/story/world%2Famericas%2Fmexico-confirms-police-shot-us-girl-dead-in-cartel-chase-1.500739284",
+      "icon": "🤠",
+      "image_url": "https://ciudadanospormexico.org/wp-content/uploads/2022/09/Screenshot_1-2.gif"
     },
     {
       "id": "0fc6cc16-8f7a-49c4-bec4-0084191e8046",
@@ -529,18 +541,6 @@
       "url": "https://www.reuters.com/world/us/james-talarico-becomes-first-democrat-win-statewide-texas-since-1994-2026-11-04/",
       "icon": "🤠",
       "image_url": "https://worldtimesdaily.com/images/news/democrat-talarico-wins-texas-senate-seat-in-runoff-election.jpg"
-    },
-    {
-      "id": "cc07a627-2b07-45e7-a18a-6440553c7f00",
-      "kicker": "The gavel changes hands",
-      "title": "Democrats regain House majority",
-      "category": "General news",
-      "published_at": "2026-11-04T06:15:13-06:00",
-      "excerpt": "Hakeem Jeffries will likely be selected as speaker, putting him third in line for the presidency. Democrats needed to gain five seats to flip a chamber Republicans had held since the 2022 midterms.",
-      "body": "Hakeem Jeffries will likely be selected as speaker, putting him third in line for the presidency. Democrats needed to [gain five seats](https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections) to flip a chamber Republicans had held since the 2022 midterms.",
-      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections",
-      "icon": "📰",
-      "image_url": "https://americap2.nyc3.digitaloceanspaces.com/upload/photos/2019/10/OBujaXaQCC2Te9b7UgI3_20_fb839c84b707a3edcc0aeb3a72c83e8f_avatar_full.png"
     }
   ]
 }
