@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T08:41:33-06:00",
+  "generated_at": "2026-11-07T09:11:45-06:00",
   "posts": [
     {
       "id": "c5080d39-cca0-48f6-b4f0-9fff9e7909b1",
@@ -13,6 +13,18 @@
       "url": "https://dealhurryup.com/deal-news/1205/dollar-general-get-29-75-worth-of-household-essentials-for-just-7-75.html",
       "icon": "🏷️",
       "image_url": "https://hip2save.com/wp-content/uploads/2022/03/Dollar-General-Clearance-2.jpg"
+    },
+    {
+      "id": "edf820ef-deab-4610-9bfe-1af33196d0c5",
+      "kicker": "From prompt to live link",
+      "title": "Cursor adds built-in hosting for web apps",
+      "category": "AI",
+      "published_at": "2026-11-07T08:45:03-06:00",
+      "excerpt": "Cursor now turns a description into a hosted web app, with its cloud agent setting up the database and sign-in. That replaces the old step of connecting your own Vercel account to deploy it.",
+      "body": "[Cursor](https://techenclave.com/news/items/cursor-adds-built-in-hosting-for-web-apps) now turns a description into a hosted web app, with its cloud agent setting up the database and sign-in. That replaces the old step of connecting your own Vercel account to deploy it.",
+      "url": "https://techenclave.com/news/items/cursor-adds-built-in-hosting-for-web-apps",
+      "icon": "🤖",
+      "image_url": "https://business-style.net/wp-content/uploads/2026/08/3c0505a61ceedabc26bfa724f57cf8bd-600x600.jpg"
     },
     {
       "id": "b39f8e83-b7b4-4c6d-aba4-92cddcccda57",
@@ -517,18 +529,6 @@
       "url": "https://kffhealthnews.org/public-health/trump-deportation-immigration-unaccompanied-children-stuck-in-shelters-ice-texas/",
       "icon": "📰",
       "image_url": "https://i.ytimg.com/vi/skeocYl6tdo/hq720.jpg"
-    },
-    {
-      "id": "0e5b9509-4c86-4c5d-bfba-cf40fb2b7f71",
-      "kicker": "Yours to keep",
-      "title": "Flower Labs introduces Endeavor 1.1",
-      "category": "AI",
-      "published_at": "2026-11-04T09:00:00-06:00",
-      "excerpt": "Flower Labs introduced Endeavor 1.1 on November 3, adding image inputs and inference on GPUs in the European Union. It can run Flower-managed, in a private cloud, or on premises, with outputs and…",
-      "body": "Flower Labs [introduced Endeavor 1.1 on November 3](https://flower.ai/blog/2026-11-03-introducing-endeavor-1.1), adding image inputs and inference on GPUs in the European Union. It can run Flower-managed, in a private cloud, or on premises, with outputs and reasoning traces you keep and may use to train your own models.",
-      "url": "https://flower.ai/blog/2026-11-03-introducing-endeavor-1.1",
-      "icon": "🤖",
-      "image_url": "https://resiliencemedia.co/wp-content/uploads/2025/11/image-1-750x428.png"
     }
   ]
 }
