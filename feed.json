@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T10:41:46-06:00",
+  "generated_at": "2026-11-07T11:11:36-06:00",
   "posts": [
     {
       "id": "c5080d39-cca0-48f6-b4f0-9fff9e7909b1",
@@ -493,18 +493,6 @@
       "url": "https://9to5toys.com/2026/11/04/save-1249-on-lenovo-rtx-5070-ti-legion-gaming-pc-lowest-price/",
       "icon": "📰",
       "image_url": "https://article-images.tldrdaily.news/tldr-article-images/q5y3kcrb2Jsin3X9p.jpg"
-    },
-    {
-      "id": "09417c58-7bbe-4d7f-9247-e038c64a34c9",
-      "kicker": "A tenth of the bill",
-      "title": "Revolut cuts coding costs 90% with Chinese self-hosted model",
-      "category": "AI",
-      "published_at": "2026-11-04T10:48:00-06:00",
-      "excerpt": "Revolut says it swapped about 2,000 engineers from Claude Code and Codex to the self-hosted GLM 5.3 model. Running the public weights itself, on United States infrastructure, brings the blended cost…",
-      "body": "[Revolut says it swapped](https://cybernews.com/ai-news/revolut-chinese-models/) about 2,000 engineers from Claude Code and Codex to the self-hosted GLM 5.3 model. Running the public weights itself, on United States infrastructure, brings the blended cost to nearly $0.30 per million tokens.",
-      "url": "https://cybernews.com/ai-news/revolut-chinese-models/",
-      "icon": "🤖",
-      "image_url": "https://techresearchonline.com/_next/image/?url=https%3A%2F%2Ftechresearchonline.com%2Fmedia%2Fnews%2Fimages%2F2025-06-Featured-Revolut-CEO-%E2%80%98could-get-multibillion-dollar-windfall-if-its-value-passes-150bn.png&w=750&q=75"
     }
   ]
 }
