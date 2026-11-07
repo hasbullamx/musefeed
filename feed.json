@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T17:13:58-06:00",
+  "generated_at": "2026-11-07T17:42:06-06:00",
   "posts": [
+    {
+      "id": "b5b2b349-172d-448f-a4a2-595fd5462391",
+      "kicker": "Above the data centers",
+      "title": "SpaceX targets 2027 launch for orbital supercomputers with NVIDIA",
+      "category": "Technology",
+      "published_at": "2026-11-07T17:36:00-06:00",
+      "excerpt": "SpaceX plans to begin launching its StarMind SI computing systems into orbit in the third quarter of 2027, with deployment accelerating through 2028 and 2029. The first systems will run on NVIDIA's…",
+      "body": "SpaceX plans to [begin launching its StarMind SI computing systems into orbit](https://interestingengineering.com/ai-robotics/spacex-starmind-orbital-supercomputers) in the third quarter of 2027, with deployment accelerating through 2028 and 2029. The first systems will run on NVIDIA's Vera Rubin NVL72 platform, developed alongside NVIDIA.",
+      "url": "https://interestingengineering.com/ai-robotics/spacex-starmind-orbital-supercomputers",
+      "icon": "📰",
+      "image_url": "https://hch.tv/wp-content/uploads/2026/08/SpaceX-llevara-inteligencia-artificial-al-espacio-con-satelites-equipados-con-Nvidia.jpg"
+    },
     {
       "id": "937aee69-38b2-46dd-a8bd-83aca408427a",
       "kicker": "Not a border arrival",
