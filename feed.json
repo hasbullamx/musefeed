@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T09:41:33-06:00",
+  "generated_at": "2026-11-07T10:11:36-06:00",
   "posts": [
     {
       "id": "c5080d39-cca0-48f6-b4f0-9fff9e7909b1",
@@ -505,30 +505,6 @@
       "url": "https://cybernews.com/ai-news/revolut-chinese-models/",
       "icon": "🤖",
       "image_url": "https://techresearchonline.com/_next/image/?url=https%3A%2F%2Ftechresearchonline.com%2Fmedia%2Fnews%2Fimages%2F2025-06-Featured-Revolut-CEO-%E2%80%98could-get-multibillion-dollar-windfall-if-its-value-passes-150bn.png&w=750&q=75"
-    },
-    {
-      "id": "8a885f65-ebc0-4581-bc7a-a7004fc2dcc2",
-      "kicker": "Build, hold, then stop",
-      "title": "Stop lifting 2 to 3 weeks before race day",
-      "category": "Fitness",
-      "published_at": "2026-11-04T10:00:00-06:00",
-      "excerpt": "One strength session a week, at the same weight, kept nearly all the strength built over 12 weeks, with leg press strength down just 1%. Heavy half squats three times a week for eight weeks raised…",
-      "body": "[One strength session a week](https://runnersconnect.net/strength-training-between-races/), at the same weight, kept nearly all the strength built over 12 weeks, with leg press strength down just 1%. Heavy half squats three times a week for eight weeks raised runners' maximum squat by 33%.",
-      "url": "https://runnersconnect.net/strength-training-between-races/",
-      "icon": "📰",
-      "image_url": "https://marathonhandbook.com/wp-content/uploads/The-Surprising-Benefits-of-Detraining-taking-a-two-week-break-from-exercise-3.jpg"
-    },
-    {
-      "id": "1838f67c-fb2b-4077-b270-a689fd8e18f5",
-      "kicker": "A childhood on hold",
-      "title": "Children stuck in shelters for months abandon hopes of staying in US",
-      "category": "ORR / UAC",
-      "published_at": "2026-11-04T09:42:00-06:00",
-      "excerpt": "Average stays stretched to nearly six months. Attorneys said they have to sue for release even when sponsorship requirements are met.",
-      "body": "[Average stays stretched to nearly six months](https://kffhealthnews.org/public-health/trump-deportation-immigration-unaccompanied-children-stuck-in-shelters-ice-texas/). Attorneys said they have to sue for release even when sponsorship requirements are met.",
-      "url": "https://kffhealthnews.org/public-health/trump-deportation-immigration-unaccompanied-children-stuck-in-shelters-ice-texas/",
-      "icon": "📰",
-      "image_url": "https://i.ytimg.com/vi/skeocYl6tdo/hq720.jpg"
     }
   ]
 }
