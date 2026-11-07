@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T06:41:44-06:00",
+  "generated_at": "2026-11-07T07:11:40-06:00",
   "posts": [
     {
       "id": "c5080d39-cca0-48f6-b4f0-9fff9e7909b1",
@@ -529,18 +529,6 @@
       "url": "https://flower.ai/blog/2026-11-03-introducing-endeavor-1.1",
       "icon": "🤖",
       "image_url": "https://resiliencemedia.co/wp-content/uploads/2025/11/image-1-750x428.png"
-    },
-    {
-      "id": "5af62ed3-a7e8-4999-b4db-00657b237aa4",
-      "kicker": "The streak breaks",
-      "title": "Talarico wins Texas Senate seat, first Democrat statewide since 1994",
-      "category": "Texas",
-      "published_at": "2026-11-04T07:00:00-06:00",
-      "excerpt": "State Representative James Talarico won the U.S. Senate race in Texas on Tuesday, defeating President Donald Trump-backed Republican Ken Paxton. Republicans spent more than $316 million to retain the…",
-      "body": "[State Representative James Talarico won the U.S. Senate race in Texas on Tuesday](https://www.reuters.com/world/us/james-talarico-becomes-first-democrat-win-statewide-texas-since-1994-2026-11-04/), defeating President Donald Trump-backed Republican Ken Paxton. Republicans spent more than $316 million to retain the seat.",
-      "url": "https://www.reuters.com/world/us/james-talarico-becomes-first-democrat-win-statewide-texas-since-1994-2026-11-04/",
-      "icon": "🤠",
-      "image_url": "https://worldtimesdaily.com/images/news/democrat-talarico-wins-texas-senate-seat-in-runoff-election.jpg"
     }
   ]
 }
