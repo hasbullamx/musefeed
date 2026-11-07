@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T04:11:27-06:00",
+  "generated_at": "2026-11-07T04:41:22-06:00",
   "posts": [
     {
       "id": "c5080d39-cca0-48f6-b4f0-9fff9e7909b1",
@@ -25,6 +25,18 @@
       "url": "https://emergent.sh/news/makoda-turns-claude-chatgpt-plans-into-free",
       "icon": "🤖",
       "image_url": "https://img.extensionauditor.com/image/https://lh3.googleusercontent.com/MKivgz9dXepjbKtgPH8rCLRwrGFZHLpBMLc2OfeYW2JO660UmLigT8UtX6tqKxTR8vRkxte6PimlMXA4BJfjsJMdNa8=s0?width=750&quality=75"
+    },
+    {
+      "id": "0fc6cc16-8f7a-49c4-bec4-0084191e8046",
+      "kicker": "Shopping by text",
+      "title": "Amazon brings AI-powered Alexa shopping assistant to text messages",
+      "category": "Technology",
+      "published_at": "2026-11-07T04:26:02-06:00",
+      "excerpt": "Amazon said US customers can use its Alexa for Shopping assistant to search for products and make purchases through text messages. The feature is rolling out first to a small group of invited US…",
+      "body": "[Amazon](https://www.thehindubusinessline.com/info-tech/amazon-lets-us-customers-shop-through-text-messages-using-ai-powered-alexa/article71677133.ece) said US customers can use its Alexa for Shopping assistant to search for products and make purchases through text messages. The feature is rolling out first to a small group of invited US customers, ahead of a broader launch in the coming weeks.",
+      "url": "https://www.thehindubusinessline.com/info-tech/amazon-lets-us-customers-shop-through-text-messages-using-ai-powered-alexa/article71677133.ece",
+      "icon": "📰",
+      "image_url": "https://ai.watch.impress.co.jp/img/aiw/list/2109/005/0200.jpg"
     },
     {
       "id": "8f93daba-2ffc-4c24-aa3e-f80a73028582",
