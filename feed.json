@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-06T22:11:48-06:00",
+  "generated_at": "2026-11-06T22:42:37-06:00",
   "posts": [
+    {
+      "id": "8f93daba-2ffc-4c24-aa3e-f80a73028582",
+      "kicker": "Early Black Friday",
+      "title": "M5 MacBook Air hits lowest price in months",
+      "category": "Deals",
+      "published_at": "2026-11-06T22:22:00-06:00",
+      "excerpt": "Amazon has the 13-inch M5 MacBook Air with 16GB of RAM and a 1TB SSD down to $1,349 shipped in its early Black Friday sale. Amazon calls it the best price it has tracked in nearly five months.",
+      "body": "Amazon has [the 13-inch M5 MacBook Air](https://9to5mac.com/2026/11/06/deals-macbook-air-apple-watch-ultra-homeview-airpods/) with 16GB of RAM and a 1TB SSD down to $1,349 shipped in its early Black Friday sale. Amazon calls it the best price it has tracked in nearly five months.",
+      "url": "https://9to5mac.com/2026/11/06/deals-macbook-air-apple-watch-ultra-homeview-airpods/",
+      "icon": "🏷️",
+      "image_url": "https://www.pcguide.com/wp-content/uploads/2026/10/MacBook-Air-M5-deal.jpg"
+    },
     {
       "id": "475a8e83-36a6-4969-a7b5-667a945fb348",
       "kicker": "One key, open models",
@@ -505,18 +517,6 @@
       "url": "https://www.news9.com/oklahoma-politics/oklahoma-operation-guardian-arrests",
       "icon": "📰",
       "image_url": "https://ceaf.org.ng/wp-content/uploads/2023/11/Screenshot_20231126-191119_Chrome.jpg"
-    },
-    {
-      "id": "d3d0f4b7-7468-4dd6-97c9-657ee40cfc83",
-      "kicker": "Receipts for every reply",
-      "title": "Anthropic builds a system to prove an AI model's identity",
-      "category": "AI",
-      "published_at": "2026-11-03T22:20:00-06:00",
-      "excerpt": "FlashProve attaches a cryptographic proof to an AI answer so a user can check that it came from the model named, not a cheaper substitute swapped in behind the scenes. The specification and working…",
-      "body": "[FlashProve](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/) attaches a cryptographic proof to an AI answer so a user can check that it came from the model named, not a cheaper substitute swapped in behind the scenes. The specification and working code are open source, though Anthropic says there are no plans to deploy the system at any lab yet.",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "icon": "🤖",
-      "image_url": "https://www.tssonline.ru/hs-fs/hubfs/Anthropic.webp?width=720&name=Anthropic.webp"
     }
   ]
 }
