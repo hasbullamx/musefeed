@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T15:13:02-06:00",
+  "generated_at": "2026-11-07T15:42:11-06:00",
   "posts": [
+    {
+      "id": "937aee69-38b2-46dd-a8bd-83aca408427a",
+      "kicker": "Not a border arrival",
+      "title": "Haitian third-grader placed in ORR care after check-in",
+      "category": "ORR / UAC",
+      "published_at": "2026-11-07T15:21:00-06:00",
+      "excerpt": "An 8-year-old Haitian third-grader at Fay Elementary in San Diego was taken into federal custody after an ICE check-in this week. DHS said his uncle could not establish legal guardianship, so the boy…",
+      "body": "An 8-year-old Haitian third-grader at Fay Elementary in San Diego was taken into federal custody after an ICE check-in this week. DHS said his uncle could not establish legal guardianship, so the boy was determined an unaccompanied minor and placed in ORR care, according to [USA TODAY](https://www.usatoday.com/story/news/nation/2026/11/07/haitian-third-grader-taken-into-federal-custody/92661950007/).",
+      "url": "https://www.usatoday.com/story/news/nation/2026/11/07/haitian-third-grader-taken-into-federal-custody/92661950007/",
+      "icon": "📰",
+      "image_url": "https://teleradioamerica.com/wp-content/uploads/2024/11/8427363818-414x276.png"
+    },
     {
       "id": "210b9016-d1eb-41de-8aa5-bd8dc05b4c09",
       "kicker": "The map widened",
