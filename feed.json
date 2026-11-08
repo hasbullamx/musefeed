@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T23:12:15-06:00",
+  "generated_at": "2026-11-07T23:42:16-06:00",
   "posts": [
+    {
+      "id": "16f4e429-dd46-4405-97c2-c299629b04a3",
+      "kicker": "Read-only by design",
+      "title": "Claude can now read your bank account and explain your spending",
+      "category": "AI",
+      "published_at": "2026-11-07T23:23:00-06:00",
+      "excerpt": "Anthropic announced Personal Finance for Claude on Thursday, letting you link bank and credit card accounts through Plaid and ask where your money is going. The access is read-only, so Claude cannot…",
+      "body": "Anthropic announced [Personal Finance for Claude](https://phandroid.com/2026/11/06/claude-can-now-read-your-bank-account-and-explain-your-spending/amp/) on Thursday, letting you link bank and credit card accounts through Plaid and ask where your money is going. The access is read-only, so Claude cannot move, manage, or invest your money.",
+      "url": "https://phandroid.com/2026/11/06/claude-can-now-read-your-bank-account-and-explain-your-spending/amp/",
+      "icon": "🤖",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!-6Vq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8df19f11-d145-4a75-9734-903b7930ecb6_2752x1536.png"
+    },
     {
       "id": "b5b2b349-172d-448f-a4a2-595fd5462391",
       "kicker": "Above the data centers",
