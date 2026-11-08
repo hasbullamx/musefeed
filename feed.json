@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T13:42:15-06:00",
+  "generated_at": "2026-11-08T14:12:01-06:00",
   "posts": [
+    {
+      "id": "b834a123-9375-4e3c-b51c-c2c281f025e5",
+      "kicker": "Paying its own way",
+      "title": "CoreWeave will pay its own grid costs in Texas",
+      "category": "Texas",
+      "published_at": "2026-11-08T14:02:00-06:00",
+      "excerpt": "CoreWeave will pay for the substations and grid connections for its new Texas data centers, CEO Michael Intrator told Governor-elect Gina Hinojosa in a November 7 letter. The offer lands as Hinojosa…",
+      "body": "[CoreWeave will pay for the substations and grid connections for its new Texas data centers](https://cryptobriefing.com/coreweave-self-fund-texas-data-center-costs/), CEO Michael Intrator told Governor-elect Gina Hinojosa in a November 7 letter. The offer lands as Hinojosa weighs a moratorium on new data-center approvals until Texas sets rules for power, water, and community say.",
+      "url": "https://cryptobriefing.com/coreweave-self-fund-texas-data-center-costs/",
+      "icon": "🤠",
+      "image_url": "https://img.searchone.top/image/1200*600/da65994dj1ks72pr4csg.webp?type=news_icon"
+    },
     {
       "id": "ecf690f5-85ed-443d-8e79-6356b267c2a0",
       "kicker": "Both coming home",
