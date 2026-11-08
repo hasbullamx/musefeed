@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T05:41:11-06:00",
+  "generated_at": "2026-11-08T06:11:28-06:00",
   "posts": [
+    {
+      "id": "4e785bd1-5926-430b-8a02-611adfa193ba",
+      "kicker": "Every game, one box",
+      "title": "Jailbroken PS5 now runs Android, Switch 2, and PC games",
+      "category": "PS5 Homebrew",
+      "published_at": "2026-11-08T05:44:00-06:00",
+      "excerpt": "Hydroid lets a jailbroken PS5 run 64-bit Android games directly, without Linux or a virtual machine, Android Authority reported November 2. It works only on firmware 13.60 or below, which Sony has…",
+      "body": "[Hydroid lets a jailbroken PS5 run 64-bit Android games directly](https://mobile.androidauthority.com/ps5-run-android-switch-2-pc-games-3730686/), without Linux or a virtual machine, Android Authority reported November 2. It works only on firmware 13.60 or below, which Sony has already patched for online play.",
+      "url": "https://mobile.androidauthority.com/ps5-run-android-switch-2-pc-games-3730686/",
+      "icon": "🎮",
+      "image_url": "https://techraptor.net/sites/default/files/styles/image_header/public/2022-10/PS5%20Jailbreak%20Main.jpg?itok=KevgiYVv"
+    },
     {
       "id": "16f4e429-dd46-4405-97c2-c299629b04a3",
       "kicker": "Read-only by design",
