@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T12:42:10-06:00",
+  "generated_at": "2026-11-08T13:13:31-06:00",
   "posts": [
+    {
+      "id": "ecf690f5-85ed-443d-8e79-6356b267c2a0",
+      "kicker": "Both coming home",
+      "title": "SpaceX to conduct 15th Starship test launch in mid-November",
+      "category": "Technology",
+      "published_at": "2026-11-08T13:12:00-06:00",
+      "excerpt": "SpaceX said Flight 15 could launch as early as Friday, Nov 13, pending regulatory approval, with the 75-minute window opening at 4:45 PM CT. The mission will be the first attempt to catch both…",
+      "body": "[SpaceX said](https://www.freemalaysiatoday.com/category/world/2026/11/08/spacex-to-conduct-15th-starship-test-launch-in-mid-november) Flight 15 could launch as early as Friday, Nov 13, pending regulatory approval, with the 75-minute window opening at 4:45 PM CT. The mission will be the first attempt to catch both Starship and its Super Heavy booster at the launch site.",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/11/08/spacex-to-conduct-15th-starship-test-launch-in-mid-november",
+      "icon": "📰",
+      "image_url": "https://tse1.mm.bing.net/th?id=OIP.WnKLoWBAyk7O-Okt_uPxkAHaEK&pid=15.1"
+    },
     {
       "id": "3855da1b-2763-43c7-b410-cee6d5060b83",
       "kicker": "Longer, cheaper video",
