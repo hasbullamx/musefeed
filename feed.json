@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T02:11:43-06:00",
+  "generated_at": "2026-11-08T02:41:55-06:00",
   "posts": [
     {
       "id": "16f4e429-dd46-4405-97c2-c299629b04a3",
@@ -433,18 +433,6 @@
       "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22610/expedited-office-of-management-and-budget-review-and-public-comment-unaccompanied-alien-children",
       "icon": "📰",
       "image_url": "https://img.youtube.com/vi/4GjdLVBg42w/hqdefault.jpg"
-    },
-    {
-      "id": "238a0fca-6619-4e60-826c-f4d8df6ece72",
-      "kicker": "Buying the plumbing",
-      "title": "OpenAI to acquire Pierre to expand Codex coding tools",
-      "category": "AI",
-      "published_at": "2026-11-05T02:36:00-06:00",
-      "excerpt": "Pierre's Trees and Diffs libraries already power file browsing and change review inside the Codex app. OpenAI will acquire Pierre Computer Company, bringing its Code Storage service into Codex once…",
-      "body": "Pierre's Trees and Diffs libraries already power file browsing and change review inside the Codex app. [OpenAI will acquire Pierre Computer Company](https://www.thehindubusinessline.com/info-tech/openai-to-acquire-pierre-computer-company-to-expand-codex-coding-capabilities/article71668505.ece), bringing its Code Storage service into Codex once the deal closes.",
-      "url": "https://www.thehindubusinessline.com/info-tech/openai-to-acquire-pierre-computer-company-to-expand-codex-coding-capabilities/article71668505.ece",
-      "icon": "🤖",
-      "image_url": "https://tse3.mm.bing.net/th/id/OIP.W3Oi697kReAyJ4EsS7StvAHaE8?pid=Api"
     }
   ]
 }
