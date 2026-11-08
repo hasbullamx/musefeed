@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T18:11:41-06:00",
+  "generated_at": "2026-11-07T18:41:52-06:00",
   "posts": [
     {
       "id": "b5b2b349-172d-448f-a4a2-595fd5462391",
@@ -469,18 +469,6 @@
       "url": "https://thefreebieguy.com/dollar-general-saturday-scenarios-list/",
       "icon": "🏷️",
       "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjokpOdRJW7Ozcf5iQShae3ASvdYvtEESZH95njiYkANB3LeIP0rVeO7ujfYTRIWgbZVTjD9B4ivSbCxworyyAXjMgcdeiHdajd2NonDrXsa_1ThoRcexsOrhgDIZATe9vm27NHTTrnzkI/w640-h358/20200625_223433.png"
-    },
-    {
-      "id": "25aa2407-6ecc-49fe-9ad1-f9296aff8d71",
-      "kicker": "A dead end, confirmed",
-      "title": "Prolapse PS5 jailbreak won't work on recent firmware",
-      "category": "Gaming",
-      "published_at": "2026-11-04T18:15:00-06:00",
-      "excerpt": "Jose Coixao determined Prolapse causes no memory corruption on the PS5, closing the path to homebrew on firmware 14.00 and 14.10. Public jailbreaks remain capped at firmware 13.60.",
-      "body": "Jose Coixao [determined Prolapse causes no memory corruption on the PS5](https://www.notebookcheck.net/Promising-PS5-console-jailbreak-won-t-work-on-recent-firmware-as-Sony-combats-exploits.1442248.0.html), closing the path to homebrew on firmware 14.00 and 14.10. Public jailbreaks remain capped at firmware 13.60.",
-      "url": "https://www.notebookcheck.net/Promising-PS5-console-jailbreak-won-t-work-on-recent-firmware-as-Sony-combats-exploits.1442248.0.html",
-      "icon": "🎮",
-      "image_url": "https://leonardo.osnova.io/faab87f9-4158-508b-b76a-0f285336c8f4/-/scale_crop/700x/"
     }
   ]
 }
