@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T09:12:27-06:00",
+  "generated_at": "2026-11-08T09:42:06-06:00",
   "posts": [
     {
       "id": "4e785bd1-5926-430b-8a02-611adfa193ba",
@@ -397,18 +397,6 @@
       "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1990002/full",
       "icon": "📰",
       "image_url": "https://members.runningmagazine.ca/wp-content/uploads/2021/12/f0033-012-1-1200x811.jpg"
-    },
-    {
-      "id": "7792a482-d4c1-4d1d-bc6a-c65b04928059",
-      "kicker": "A fifth of the price",
-      "title": "SWE-2 Flash is live in Devin",
-      "category": "AI",
-      "published_at": "2026-11-05T09:30:00-06:00",
-      "excerpt": "Cognition's SWE-2 Flash runs three times faster than its larger sibling SWE-2. It costs one-fifth as much as SWE-2.",
-      "body": "Cognition's [SWE-2 Flash](https://cognition.com/blog/swe-2-flash) runs three times faster than its larger sibling SWE-2. It costs one-fifth as much as SWE-2.",
-      "url": "https://cognition.com/blog/swe-2-flash",
-      "icon": "🤖",
-      "image_url": "https://s1.dmcdn.net/v/A-4dp1e0uvqEMhgyD/x720"
     }
   ]
 }
