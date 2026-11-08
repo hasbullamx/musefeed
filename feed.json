@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T11:42:07-06:00",
+  "generated_at": "2026-11-08T12:12:39-06:00",
   "posts": [
     {
       "id": "3855da1b-2763-43c7-b410-cee6d5060b83",
@@ -361,18 +361,6 @@
       "url": "https://www.baseten.co/blog/introducing-baseten-grid",
       "icon": "🤖",
       "image_url": "https://itmagazine.cc/thumbs/itmagazine.cc-700/1a/95/Baseten-raises-15bn-at-up-to-13bn-for-AI-inference.jpg"
-    },
-    {
-      "id": "126c9786-3c9e-4ad3-a5e4-d3224cec66eb",
-      "kicker": "No peak in sight",
-      "title": "DDR5 chip prices up 452%, relief slips to 2028",
-      "category": "PC hardware",
-      "published_at": "2026-11-05T11:48:00-06:00",
-      "excerpt": "TeamGroup chief executive Chen Ching-wen told investors on November 2 that the memory shortage has not peaked, with the worst stretch running from the final quarter of 2026 through the second quarter…",
-      "body": "TeamGroup chief executive Chen Ching-wen told investors on November 2 that the memory shortage has not peaked, with the worst stretch running from the final quarter of 2026 through the second quarter of 2027. The contract price of a 16Gb DDR5 chip [rose from $8.70 in October 2025 to about $48 in September 2026](https://tech-insider.org/team-group-ddr5-chip-price-452-percent-shortage-2028-2026/), a roughly 452% increase.",
-      "url": "https://tech-insider.org/team-group-ddr5-chip-price-452-percent-shortage-2028-2026/",
-      "icon": "📰",
-      "image_url": "https://img.digitimes.com/en/images/logos/2025/11/10/686_b.jpg"
     }
   ]
 }
