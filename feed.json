@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T16:12:17-06:00",
+  "generated_at": "2026-11-08T16:42:02-06:00",
   "posts": [
     {
       "id": "b834a123-9375-4e3c-b51c-c2c281f025e5",
@@ -361,18 +361,6 @@
       "url": "https://www.preferred.jp/en/news/pr20261105",
       "icon": "🤖",
       "image_url": "https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/3/2026/08/google-s-pocket-translator-now-runs-offline-on-raspberry-pi-20260811.jpg"
-    },
-    {
-      "id": "229901cb-fc0f-4756-ac74-56d4dd77929d",
-      "kicker": "Clip before Saturday",
-      "title": "Family Dollar: $5 off $25 Saturday, free Febreze",
-      "category": "Deals",
-      "published_at": "2026-11-05T16:25:04-06:00",
-      "excerpt": "Family Dollar's $5 off $25 Smart Coupon lands Saturday, November 7, on a $25-plus basket before tax. Febreze Air Mist stacks its buy-one-get-one-free ad price with a $3.50-off-two coupon, so two…",
-      "body": "[Family Dollar's $5 off $25 Smart Coupon](https://weeklyadhunters.com/family-dollar-weekly-ad/) lands Saturday, November 7, on a $25-plus basket before tax. Febreze Air Mist stacks its buy-one-get-one-free ad price with a $3.50-off-two coupon, so two bottles ring up free.",
-      "url": "https://weeklyadhunters.com/family-dollar-weekly-ad/",
-      "icon": "🏷️",
-      "image_url": "https://static.rabato.com/us/image/i/family-dollar/99926/001.jpg"
     }
   ]
 }
