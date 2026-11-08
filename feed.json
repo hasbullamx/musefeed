@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T00:11:43-06:00",
+  "generated_at": "2026-11-08T00:41:50-06:00",
   "posts": [
     {
       "id": "16f4e429-dd46-4405-97c2-c299629b04a3",
@@ -445,18 +445,6 @@
       "url": "https://www.thehindubusinessline.com/info-tech/openai-to-acquire-pierre-computer-company-to-expand-codex-coding-capabilities/article71668505.ece",
       "icon": "🤖",
       "image_url": "https://tse3.mm.bing.net/th/id/OIP.W3Oi697kReAyJ4EsS7StvAHaE8?pid=Api"
-    },
-    {
-      "id": "aa61098c-b15d-47d0-be04-77c763f14a6d",
-      "kicker": "Before the oath",
-      "title": "Harrison urges Abbott to limit Hinojosa's powers",
-      "category": "Texas",
-      "published_at": "2026-11-05T00:18:00-06:00",
-      "excerpt": "Less than 24 hours after Gina Hinojosa became governor-elect, Representative Brian Harrison urged Governor Greg Abbott to convene a special session to restrict the governor's emergency powers.…",
-      "body": "Less than 24 hours after Gina Hinojosa became governor-elect, Representative Brian Harrison [urged Governor Greg Abbott to convene a special session](https://fox4news.com/news/republican-lawmaker-suggests-abbott-strip-governors-emergency-powers-before-hinojosa-takes-office) to restrict the governor's emergency powers. Harrison filed a similar bill in 2022, and it never moved forward.",
-      "url": "https://fox4news.com/news/republican-lawmaker-suggests-abbott-strip-governors-emergency-powers-before-hinojosa-takes-office",
-      "icon": "🤠",
-      "image_url": "https://progresstexas.org/sites/default/files/styles/blog_large__830x437_/public/video/NORcGc5tTUg-HD.jpg?itok=6y5AdxDD"
     }
   ]
 }
