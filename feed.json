@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T08:42:05-06:00",
+  "generated_at": "2026-11-09T09:13:40-06:00",
   "posts": [
     {
       "id": "a2c8ea45-a42d-4e79-8533-f9afdf0e1d5c",
@@ -277,18 +277,6 @@
       "url": "https://tryhackme.com/resources/blog/how-to-get-started-in-dfir-free-training-tools-and-career-path-in-2026",
       "icon": "📰",
       "image_url": "https://www.mandiant.com/sites/default/files/inline-images/dfir-ot1.jpg"
-    },
-    {
-      "id": "381356e0-7862-4ea6-8c96-bb2cc7e35e97",
-      "kicker": "Ends tonight",
-      "title": "Six free Walgreens photo cards end tonight",
-      "category": "Deals",
-      "published_at": "2026-11-06T08:43:00-06:00",
-      "excerpt": "Six free 5×7 Premium Photo cards at Walgreens come with code QUALITY6 at checkout. Choose in-store pickup and your total should be $0.00.",
-      "body": "[Six free 5×7 Premium Photo cards at Walgreens](https://moneysavingmom.com/walgreens-free-photo-cards-free-in-store-pickup/) come with code QUALITY6 at checkout. Choose in-store pickup and your total should be $0.00.",
-      "url": "https://moneysavingmom.com/walgreens-free-photo-cards-free-in-store-pickup/",
-      "icon": "🏷️",
-      "image_url": "https://hip2save.com/wp-content/uploads/2025/11/Walgreens-Premium-Photo-Cards.jpg?w=912&resize=912%2C479&strip=all"
     }
   ]
 }
