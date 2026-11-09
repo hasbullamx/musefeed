@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T20:41:51-06:00",
+  "generated_at": "2026-11-08T21:11:59-06:00",
   "posts": [
     {
       "id": "3cf30716-054d-4cb5-9b14-9cbff61b1d16",
@@ -325,18 +325,6 @@
       "url": "https://cyberdefenders.org/blog/how-to-become-digital-forensics-analyst/",
       "icon": "📰",
       "image_url": "https://dataspaceacademy.com/_next/image?url=https:%2F%2Fblog.dataspaceacademy.com%2Fwp-content%2Fuploads%2F2023%2F11%2FBlog-1-Nov_Top-Cyber-Forensics-Certifications-for-a-Successful-Career-in-Cyber-Forensics.jpg&w=1200&q=75"
-    },
-    {
-      "id": "61a6f79c-d292-4c07-a6ad-8739bcdcda7a",
-      "kicker": "Seventeen days sooner",
-      "title": "Starship Flight 15 moves up to November 13",
-      "category": "Texas",
-      "published_at": "2026-11-05T21:02:00-06:00",
-      "excerpt": "Starship Flight 15 moved up 17 days today, from November 30 to November 13. SpaceX plans to catch both Booster 22 and Ship 42 at Starbase on the same flight.",
-      "body": "[Starship Flight 15](https://spacelaunchlive.com/launches/starship-flight-15/) moved up 17 days today, from November 30 to November 13. SpaceX plans to catch both Booster 22 and Ship 42 at Starbase on the same flight.",
-      "url": "https://spacelaunchlive.com/launches/starship-flight-15/",
-      "icon": "🤠",
-      "image_url": "https://photo-baomoi.bmcdn.me/w700_r1/2023_04_23_83_45631202/4eb794b9e2f40baa52e5.jpg"
     }
   ]
 }
