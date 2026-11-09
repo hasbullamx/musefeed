@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T18:12:15-06:00",
+  "generated_at": "2026-11-08T18:42:43-06:00",
   "posts": [
     {
       "id": "3cf30716-054d-4cb5-9b14-9cbff61b1d16",
@@ -349,18 +349,6 @@
       "url": null,
       "icon": "📰",
       "image_url": "https://img.hearthis.at/1/3/5/_/uploads/9063450/image_track/11674522/w600_h600_c3a3a3a_q70_ptrue_v2_m1736815806----cropped_1736815794531.jpg?m=1736815806"
-    },
-    {
-      "id": "704fc480-0484-4050-bc04-0d524bcab4db",
-      "kicker": "A wet Valley weekend",
-      "title": "Heavy rain, flooding possible in Rio Grande Valley this weekend",
-      "category": "Texas",
-      "published_at": "2026-11-05T18:38:00-06:00",
-      "excerpt": "The National Weather Service forecasts widespread showers and thunderstorms across the Rio Grande Valley, with heavy rain and localized flooding Saturday, November 7, and Sunday, November 8. The…",
-      "body": "The [National Weather Service](https://texasborderbusiness.com/heavy-rain-and-flooding-possible-across-rio-grande-valley-this-weekend/) forecasts widespread showers and thunderstorms across the Rio Grande Valley, with heavy rain and localized flooding Saturday, November 7, and Sunday, November 8. The Weather Prediction Center puts all of Deep South Texas and the Valley under a Marginal Risk, Level 1 of 4, for excessive rainfall on those days.",
-      "url": "https://texasborderbusiness.com/heavy-rain-and-flooding-possible-across-rio-grande-valley-this-weekend/",
-      "icon": "🤠",
-      "image_url": "https://www.weather.gov/images/bro/graphicast/2.png"
     }
   ]
 }
