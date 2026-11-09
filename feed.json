@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T12:12:33-06:00",
+  "generated_at": "2026-11-09T12:43:19-06:00",
   "posts": [
     {
       "id": "e1167037-e138-493b-af5d-0813ada6637d",
@@ -289,18 +289,6 @@
       "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1950623/full",
       "icon": "📰",
       "image_url": "https://www.atgonlinecoaching.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Ffl2s6k0j0ayn%2FZB4nPL61OY4TpSWoxWamn%2F2c17f1b21cc139d3a457070f285de7c9%2Fimage.png&w=828&q=75"
-    },
-    {
-      "id": "b3c2b7b1-0e95-4d28-aed8-f421dbd9b3a3",
-      "kicker": "No relief at retail",
-      "title": "DDR5 hits $19.68 a gigabyte, up 13.9% in 30 days",
-      "category": "PC hardware",
-      "published_at": "2026-11-06T12:13:35-06:00",
-      "excerpt": "RamRadar's RAM Price Index puts desktop DDR5 at $19.68 per gigabyte as of November 6, 2026. That is up 13.9% in the 30 days since October 7.",
-      "body": "[RamRadar's RAM Price Index](https://ramradar.app/ram-price-index) puts desktop DDR5 at $19.68 per gigabyte as of November 6, 2026. That is up 13.9% in the 30 days since October 7.",
-      "url": "https://ramradar.app/ram-price-index",
-      "icon": "📰",
-      "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/CorsairVengeanceDDR5RAM.jpg"
     }
   ]
 }
