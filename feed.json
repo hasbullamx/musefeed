@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T17:12:38-06:00",
+  "generated_at": "2026-11-09T17:42:00-06:00",
   "posts": [
+    {
+      "id": "b9a31898-1170-4cf1-915c-5fa7e8138e2e",
+      "kicker": "No emulator required",
+      "title": "Zelda remake gets two native PC ports with frame generation",
+      "category": "PC Gaming",
+      "published_at": "2026-11-09T17:37:00-06:00",
+      "excerpt": "Hookshot and NX2navi rebuild the Zelda remake natively for PC, with frame generation and DLSS/FSR upscaling. On one tester's RTX 5090, frame generation pushed Hookshot to 180 fps.",
+      "body": "[Hookshot and NX2navi](https://wccftech.com/zelda-ocarina-of-time-remake-pc-recompilation-switch-2-emulator-ps5/) rebuild the Zelda remake natively for PC, with frame generation and DLSS/FSR upscaling. On one tester's RTX 5090, frame generation pushed Hookshot to 180 fps.",
+      "url": "https://wccftech.com/zelda-ocarina-of-time-remake-pc-recompilation-switch-2-emulator-ps5/",
+      "icon": "🎮",
+      "image_url": "https://www.techspot.com/images2/news/bigimage/2026/09/2026-09-08-image-22-j_1100.webp"
+    },
     {
       "id": "e1167037-e138-493b-af5d-0813ada6637d",
       "kicker": "Free to build on",
