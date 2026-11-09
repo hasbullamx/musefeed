@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T23:11:34-06:00",
+  "generated_at": "2026-11-08T23:41:32-06:00",
   "posts": [
+    {
+      "id": "ab351892-0fb9-4155-8273-805e4f038efe",
+      "kicker": "Read the fine print",
+      "title": "DeepMind AI found two weaknesses in 1024-bit RSA",
+      "category": "AI",
+      "published_at": "2026-11-08T23:26:47-06:00",
+      "excerpt": "DeepMind's AI agents found two weaknesses in legacy 1024-bit RSA on November 6, working under human supervision alongside academic cryptographers. The headline 1,600x speedup is a theoretical…",
+      "body": "[DeepMind's AI agents found two weaknesses in legacy 1024-bit RSA](https://aitoolsrecap.com/Blog/deepmind-ai-agents-rsa-1024-weaknesses-2026) on November 6, working under human supervision alongside academic cryptographers. The headline 1,600x speedup is a theoretical estimate, while the reproduction that actually ran used 3.5 times less CPU time than the earlier method.",
+      "url": "https://aitoolsrecap.com/Blog/deepmind-ai-agents-rsa-1024-weaknesses-2026",
+      "icon": "🤖",
+      "image_url": "https://i1.wp.com/www.criptonoticias.com/wp-content/uploads/2026/04/RSA-Cuantica-Estudio.jpg"
+    },
     {
       "id": "3cf30716-054d-4cb5-9b14-9cbff61b1d16",
       "kicker": "Everything but the turkey",
