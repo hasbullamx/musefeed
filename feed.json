@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T09:42:13-06:00",
+  "generated_at": "2026-11-09T10:12:11-06:00",
   "posts": [
+    {
+      "id": "1c34efc1-2a31-4365-872b-4094c9376d6d",
+      "kicker": "The logjam breaks",
+      "title": "Senate votes 60-40 to advance deal ending 40-day shutdown",
+      "category": "Federal Government",
+      "published_at": "2026-11-09T09:56:00-06:00",
+      "excerpt": "The Senate voted 60-40 on Sunday night to advance the bipartisan deal to end the 40-day shutdown, the longest in U.S. history. It reverses the shutdown firings, restoring those jobs with back pay.",
+      "body": "The [Senate voted 60-40 on Sunday night](http://mohintechbd.blogspot.com/2026/11/blog-post_796.html) to advance the bipartisan deal to end the 40-day shutdown, the longest in U.S. history. It reverses the shutdown firings, restoring those jobs with back pay.",
+      "url": "http://mohintechbd.blogspot.com/2026/11/blog-post_796.html",
+      "icon": "📰",
+      "image_url": "https://img.dunyanews.tv/news/2025/November/11-11-25/news_big_images/917182_36272729.jpg"
+    },
     {
       "id": "a2c8ea45-a42d-4e79-8533-f9afdf0e1d5c",
       "kicker": "Back on weekdays",
