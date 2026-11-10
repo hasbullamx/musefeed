@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T15:11:40-06:00",
+  "generated_at": "2026-11-10T15:41:52-06:00",
   "posts": [
+    {
+      "id": "306b2c72-641f-4387-9c2d-36c322df4fcc",
+      "kicker": "Still no word",
+      "title": "Six lawmakers demand to know where the Haitian boy is held",
+      "category": "ORR / UAC",
+      "published_at": "2026-11-10T15:21:00-06:00",
+      "excerpt": "On Tuesday, Representatives Juan Vargas, Sara Jacobs, Mike Levin and Scott Peters, and Senators Alex Padilla and Adam Schiff sought confirmation from the federal government of the child's whereabouts…",
+      "body": "On Tuesday, Representatives Juan Vargas, Sara Jacobs, Mike Levin and Scott Peters, and Senators Alex Padilla and Adam Schiff [sought confirmation from the federal government of the child's whereabouts and whether his family had been told his location](https://www.news-mash.com/2026/11/10/lawmakers-seek-whereabouts-of-haitian-boy-taken-at-ice-appointment/). His family still did not know where he is being held as of Monday, six days after he was [taken at a routine ICE check-in in San Diego](https://www.usatoday.com/story/news/nation/2026/11/07/haitian-third-grader-taken-into-federal-custody/92661950007/).",
+      "url": "https://www.news-mash.com/2026/11/10/lawmakers-seek-whereabouts-of-haitian-boy-taken-at-ice-appointment/",
+      "icon": "📰",
+      "image_url": "https://www.semana.com/resizer/v2/FUNZ4CVVPNB6HN62QFPLDKUVXI.JPG?smart=true&auth=eacf4cce43e3d5547d43708b6a59bcf01c994390e87ca646e4142f82c981d1ef&width=1280&height=720"
+    },
     {
       "id": "49d78881-21f2-4acf-9164-cdc97f95947b",
       "kicker": "One vote left",
@@ -193,18 +205,6 @@
       "url": "https://interestingengineering.com/ai-robotics/spacex-starmind-orbital-supercomputers",
       "icon": "📰",
       "image_url": "https://hch.tv/wp-content/uploads/2026/08/SpaceX-llevara-inteligencia-artificial-al-espacio-con-satelites-equipados-con-Nvidia.jpg"
-    },
-    {
-      "id": "937aee69-38b2-46dd-a8bd-83aca408427a",
-      "kicker": "Not a border arrival",
-      "title": "Haitian third-grader placed in ORR care after check-in",
-      "category": "ORR / UAC",
-      "published_at": "2026-11-07T15:21:00-06:00",
-      "excerpt": "An 8-year-old Haitian third-grader at Fay Elementary in San Diego was taken into federal custody after an ICE check-in this week. DHS said his uncle could not establish legal guardianship, so the boy…",
-      "body": "An 8-year-old Haitian third-grader at Fay Elementary in San Diego was taken into federal custody after an ICE check-in this week. DHS said his uncle could not establish legal guardianship, so the boy was determined an unaccompanied minor and placed in ORR care, according to [USA TODAY](https://www.usatoday.com/story/news/nation/2026/11/07/haitian-third-grader-taken-into-federal-custody/92661950007/).",
-      "url": "https://www.usatoday.com/story/news/nation/2026/11/07/haitian-third-grader-taken-into-federal-custody/92661950007/",
-      "icon": "📰",
-      "image_url": "https://teleradioamerica.com/wp-content/uploads/2024/11/8427363818-414x276.png"
     }
   ]
 }
