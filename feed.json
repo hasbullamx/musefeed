@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T20:42:01-06:00",
+  "generated_at": "2026-11-09T21:12:20-06:00",
   "posts": [
     {
       "id": "b9a31898-1170-4cf1-915c-5fa7e8138e2e",
@@ -253,18 +253,6 @@
       "url": "https://9to5mac.com/2026/11/06/deals-macbook-air-apple-watch-ultra-homeview-airpods/",
       "icon": "🏷️",
       "image_url": "https://www.pcguide.com/wp-content/uploads/2026/10/MacBook-Air-M5-deal.jpg"
-    },
-    {
-      "id": "475a8e83-36a6-4969-a7b5-667a945fb348",
-      "kicker": "One key, open models",
-      "title": "Otari Subscriptions make open-weight coding models the easy choice",
-      "category": "AI",
-      "published_at": "2026-11-06T21:01:00-06:00",
-      "excerpt": "Mozilla AI launched Otari Subscriptions today, a $10-a-month plan for open-weight coding models behind a single key. It routes each request by price, health and latency.",
-      "body": "[Mozilla AI launched Otari Subscriptions today](https://blog.mozilla.ai/otari-subscriptions-making-open-weight-models-the-easy-choice-for-coding/?utm_source=superpowerdaily-com&utm_medium=referral&utm_campaign=mozilla-ai-opens-early-access-to-ai-coding-subscriptions-starting-at-10&utm_content=article-link-1), a $10-a-month plan for open-weight coding models behind a single key. It routes each request by price, health and latency.",
-      "url": "https://blog.mozilla.ai/otari-subscriptions-making-open-weight-models-the-easy-choice-for-coding/?utm_source=superpowerdaily-com&utm_medium=referral&utm_campaign=mozilla-ai-opens-early-access-to-ai-coding-subscriptions-starting-at-10&utm_content=article-link-1",
-      "icon": "🤖",
-      "image_url": "https://src.n-ix.com/uploads/2026/09/30/619b051c-eb8b-40b9-b214-671324ea55ed.webp"
     }
   ]
 }
