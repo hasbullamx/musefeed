@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T23:11:33-06:00",
+  "generated_at": "2026-11-09T23:41:44-06:00",
   "posts": [
+    {
+      "id": "a4dc4c8c-2a63-405c-94e9-de43579a77ea",
+      "kicker": "Schools push back",
+      "title": "San Diego Unified demands closer school placements",
+      "category": "ORR / UAC",
+      "published_at": "2026-11-09T23:27:09-06:00",
+      "excerpt": "San Diego Unified leaders, in a November 6 letter to DHS Secretary Markwayne Mullin and HHS Secretary Robert F Kennedy Jr, demanded HHS and ORR place unaccompanied children as close as possible to…",
+      "body": "San Diego Unified leaders, in a November 6 letter to DHS Secretary Markwayne Mullin and HHS Secretary Robert F Kennedy Jr, demanded HHS and ORR place unaccompanied children as close as possible to their home schools and consult local districts before relocation decisions, according to [USA TODAY](https://www.usatoday.com/story/news/state/california/2026/11/09/san-diego-unified-haitian-child-ice-dhs-custody/92696559007/). DHS disputed the district's account, calling claims that ICE took a third grader into custody for detention \"FALSE\" and saying the incident occurred November 5, not November 4, and that the man who brought the boy was not his uncle.",
+      "url": "https://www.usatoday.com/story/news/state/california/2026/11/09/san-diego-unified-haitian-child-ice-dhs-custody/92696559007/",
+      "icon": "📰",
+      "image_url": "https://www.sdea.net/wp-content/uploads/HooverCPI_Slider.jpg"
+    },
+    {
+      "id": "5cce9e2d-ca07-47fb-80f3-177e4176e35c",
+      "kicker": "Both stages, one tower",
+      "title": "SpaceX goes for a Starship double catch",
+      "category": "Technology",
+      "published_at": "2026-11-09T23:25:02-06:00",
+      "excerpt": "Flight 15 opens its 75-minute window at 4:45 PM CT on Friday, November 13, from Starbase. Ship will then spend more than 22 hours in orbit before attempting the tower catch the next day.",
+      "body": "[Flight 15 opens its 75-minute window at 4:45 PM CT on Friday, November 13](https://www.astronomy.com/whats-launching-this-week/spacex-goes-for-a-starship-double-catch/), from Starbase. Ship will then spend more than 22 hours in orbit before attempting the tower catch the next day.",
+      "url": "https://www.astronomy.com/whats-launching-this-week/spacex-goes-for-a-starship-double-catch/",
+      "icon": "📰",
+      "image_url": "https://mangrv.com/_next/image?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fspacexs-ipo-wont-be-forced-onto-the-biggest-stock-index-after-all%2Fl-intro-1780652551.jpg&w=1080&q=75"
+    },
     {
       "id": "b9a31898-1170-4cf1-915c-5fa7e8138e2e",
       "kicker": "No emulator required",
