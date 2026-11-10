@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T17:12:21-06:00",
+  "generated_at": "2026-11-10T17:42:08-06:00",
   "posts": [
+    {
+      "id": "555e399a-dd89-4dad-8c7c-a6cf1ec40f15",
+      "kicker": "AI ate the RAM",
+      "title": "32GB DDR5 kits climb past $550",
+      "category": "PC Hardware",
+      "published_at": "2026-11-10T17:36:00-06:00",
+      "excerpt": "The cheapest 32GB DDR5 kits climbed past $550 by early November. AI data centers are buying the same wafers for high-bandwidth memory, leaving PC builders with what is left.",
+      "body": "The [cheapest 32GB DDR5 kits climbed past $550](https://ismagazine.com/Home/Post/8928/Why-Is-RAM-So-Expensive-in-2026-The-AI-Memory-Squeeze-Explained) by early November. AI data centers are buying the same wafers for high-bandwidth memory, leaving PC builders with what is left.",
+      "url": "https://ismagazine.com/Home/Post/8928/Why-Is-RAM-So-Expensive-in-2026-The-AI-Memory-Squeeze-Explained",
+      "icon": "🤖",
+      "image_url": "https://www.pcguide.com/wp-content/uploads/2026/06/DDR5-RAM-prices.jpg"
+    },
     {
       "id": "306b2c72-641f-4387-9c2d-36c322df4fcc",
       "kicker": "Still no word",
@@ -193,18 +205,6 @@
       "url": "https://phandroid.com/2026/11/06/claude-can-now-read-your-bank-account-and-explain-your-spending/amp/",
       "icon": "🤖",
       "image_url": "https://substackcdn.com/image/fetch/$s_!-6Vq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8df19f11-d145-4a75-9734-903b7930ecb6_2752x1536.png"
-    },
-    {
-      "id": "b5b2b349-172d-448f-a4a2-595fd5462391",
-      "kicker": "Above the data centers",
-      "title": "SpaceX targets 2027 launch for orbital supercomputers with NVIDIA",
-      "category": "Technology",
-      "published_at": "2026-11-07T17:36:00-06:00",
-      "excerpt": "SpaceX plans to begin launching its StarMind SI computing systems into orbit in the third quarter of 2027, with deployment accelerating through 2028 and 2029. The first systems will run on NVIDIA's…",
-      "body": "SpaceX plans to [begin launching its StarMind SI computing systems into orbit](https://interestingengineering.com/ai-robotics/spacex-starmind-orbital-supercomputers) in the third quarter of 2027, with deployment accelerating through 2028 and 2029. The first systems will run on NVIDIA's Vera Rubin NVL72 platform, developed alongside NVIDIA.",
-      "url": "https://interestingengineering.com/ai-robotics/spacex-starmind-orbital-supercomputers",
-      "icon": "📰",
-      "image_url": "https://hch.tv/wp-content/uploads/2026/08/SpaceX-llevara-inteligencia-artificial-al-espacio-con-satelites-equipados-con-Nvidia.jpg"
     }
   ]
 }
