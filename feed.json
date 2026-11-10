@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T08:43:16-06:00",
+  "generated_at": "2026-11-10T09:15:19-06:00",
   "posts": [
     {
       "id": "49d78881-21f2-4acf-9164-cdc97f95947b",
@@ -229,18 +229,6 @@
       "url": "https://dealhurryup.com/deal-news/1205/dollar-general-get-29-75-worth-of-household-essentials-for-just-7-75.html",
       "icon": "🏷️",
       "image_url": "https://hip2save.com/wp-content/uploads/2022/03/Dollar-General-Clearance-2.jpg"
-    },
-    {
-      "id": "edf820ef-deab-4610-9bfe-1af33196d0c5",
-      "kicker": "From prompt to live link",
-      "title": "Cursor adds built-in hosting for web apps",
-      "category": "AI",
-      "published_at": "2026-11-07T08:45:03-06:00",
-      "excerpt": "Cursor now turns a description into a hosted web app, with its cloud agent setting up the database and sign-in. That replaces the old step of connecting your own Vercel account to deploy it.",
-      "body": "[Cursor](https://techenclave.com/news/items/cursor-adds-built-in-hosting-for-web-apps) now turns a description into a hosted web app, with its cloud agent setting up the database and sign-in. That replaces the old step of connecting your own Vercel account to deploy it.",
-      "url": "https://techenclave.com/news/items/cursor-adds-built-in-hosting-for-web-apps",
-      "icon": "🤖",
-      "image_url": "https://business-style.net/wp-content/uploads/2026/08/3c0505a61ceedabc26bfa724f57cf8bd-600x600.jpg"
     }
   ]
 }
