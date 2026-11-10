@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T14:11:53-06:00",
+  "generated_at": "2026-11-10T14:42:27-06:00",
   "posts": [
     {
       "id": "49d78881-21f2-4acf-9164-cdc97f95947b",
@@ -205,18 +205,6 @@
       "url": "https://www.usatoday.com/story/news/nation/2026/11/07/haitian-third-grader-taken-into-federal-custody/92661950007/",
       "icon": "📰",
       "image_url": "https://teleradioamerica.com/wp-content/uploads/2024/11/8427363818-414x276.png"
-    },
-    {
-      "id": "210b9016-d1eb-41de-8aa5-bd8dc05b4c09",
-      "kicker": "The map widened",
-      "title": "Democrats took both houses in midterm sweep",
-      "category": "General news",
-      "published_at": "2026-11-07T14:30:00-06:00",
-      "excerpt": "Democrats seized control of both houses of Congress in Tuesday's midterm elections, winning in Republican strongholds including Kansas and Texas. In Kansas, Adam Hamilton won the party's first Senate…",
-      "body": "[Democrats seized control of both houses of Congress](https://www.reuters.com/legal/government/how-democrats-won-their-blowout-midterm-victory-2026-11-07/) in Tuesday's midterm elections, winning in Republican strongholds including Kansas and Texas. In Kansas, Adam Hamilton won the party's first Senate race there since 1932.",
-      "url": "https://www.reuters.com/legal/government/how-democrats-won-their-blowout-midterm-victory-2026-11-07/",
-      "icon": "📰",
-      "image_url": "https://d2lsj3o1hr6ejx.cloudfront.net/s3:breaknlinks/fit-in/1080x960/nepali/%E0%A4%B9%E0%A4%BE%E0%A4%89%E0%A4%B8.png"
     }
   ]
 }
