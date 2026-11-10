@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T04:11:32-06:00",
+  "generated_at": "2026-11-10T04:41:25-06:00",
   "posts": [
     {
       "id": "a4dc4c8c-2a63-405c-94e9-de43579a77ea",
@@ -253,18 +253,6 @@
       "url": "https://gulfnews.com/amp/story/world%2Famericas%2Fmexico-confirms-police-shot-us-girl-dead-in-cartel-chase-1.500739284",
       "icon": "🤠",
       "image_url": "https://ciudadanospormexico.org/wp-content/uploads/2022/09/Screenshot_1-2.gif"
-    },
-    {
-      "id": "0fc6cc16-8f7a-49c4-bec4-0084191e8046",
-      "kicker": "Shopping by text",
-      "title": "Amazon brings AI-powered Alexa shopping assistant to text messages",
-      "category": "Technology",
-      "published_at": "2026-11-07T04:26:02-06:00",
-      "excerpt": "Amazon said US customers can use its Alexa for Shopping assistant to search for products and make purchases through text messages. The feature is rolling out first to a small group of invited US…",
-      "body": "[Amazon](https://www.thehindubusinessline.com/info-tech/amazon-lets-us-customers-shop-through-text-messages-using-ai-powered-alexa/article71677133.ece) said US customers can use its Alexa for Shopping assistant to search for products and make purchases through text messages. The feature is rolling out first to a small group of invited US customers, ahead of a broader launch in the coming weeks.",
-      "url": "https://www.thehindubusinessline.com/info-tech/amazon-lets-us-customers-shop-through-text-messages-using-ai-powered-alexa/article71677133.ece",
-      "icon": "📰",
-      "image_url": "https://ai.watch.impress.co.jp/img/aiw/list/2109/005/0200.jpg"
     }
   ]
 }
