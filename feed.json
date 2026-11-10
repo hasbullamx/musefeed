@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T05:11:12-06:00",
+  "generated_at": "2026-11-10T06:11:29-06:00",
   "posts": [
+    {
+      "id": "49d78881-21f2-4acf-9164-cdc97f95947b",
+      "kicker": "One vote left",
+      "title": "Senate passes bill to end shutdown 60-40",
+      "category": "Federal Government",
+      "published_at": "2026-11-10T05:43:00-06:00",
+      "excerpt": "Eight Democrats broke ranks on Monday night to join Republicans. The deal guarantees back pay for nearly 800,000 federal workers.",
+      "body": "[Eight Democrats broke ranks](https://red-bear-785726.hostingersite.com/government-shutdown-ends-senate-passes-bill/) on Monday night to join Republicans. The deal guarantees back pay for nearly 800,000 federal workers.",
+      "url": "https://red-bear-785726.hostingersite.com/government-shutdown-ends-senate-passes-bill/",
+      "icon": "📰",
+      "image_url": "https://ddindia.co.in/wp-content/uploads/2025/11/GettyImages-2245219147.jpg"
+    },
     {
       "id": "a4dc4c8c-2a63-405c-94e9-de43579a77ea",
       "kicker": "Schools push back",
