@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T17:42:00-06:00",
+  "generated_at": "2026-11-09T18:11:51-06:00",
   "posts": [
     {
       "id": "b9a31898-1170-4cf1-915c-5fa7e8138e2e",
@@ -265,18 +265,6 @@
       "url": "https://blog.mozilla.ai/otari-subscriptions-making-open-weight-models-the-easy-choice-for-coding/?utm_source=superpowerdaily-com&utm_medium=referral&utm_campaign=mozilla-ai-opens-early-access-to-ai-coding-subscriptions-starting-at-10&utm_content=article-link-1",
       "icon": "🤖",
       "image_url": "https://src.n-ix.com/uploads/2026/09/30/619b051c-eb8b-40b9-b214-671324ea55ed.webp"
-    },
-    {
-      "id": "24fc3399-aa4a-4648-bb15-ad309a17d167",
-      "kicker": "Thirty-seven and counting",
-      "title": "Government shutdown reaches day 37",
-      "category": "Federal shutdown",
-      "published_at": "2026-11-06T18:07:00-06:00",
-      "excerpt": "Today, November 6, marks the 37th day of the federal government shutdown, surpassing the previous 35-day record from late 2018 to early 2019. Senate Democrats are assessing support for a three-bill…",
-      "body": "Today, November 6, marks the 37th day of the [federal government shutdown](https://mailchi.mp/nlihc/cta_government_shutdown_110625?e=791d028d32), surpassing the previous 35-day record from late 2018 to early 2019. Senate Democrats are assessing support for a three-bill spending package that includes the fiscal year 2026 Transportation, Housing and Urban Development bill.",
-      "url": "https://mailchi.mp/nlihc/cta_government_shutdown_110625?e=791d028d32",
-      "icon": "📰",
-      "image_url": "https://images04.military.com/sites/default/files/styles/full/public/2025-11/ApNewsroom_Government_Shutdown_91923.jpg"
     }
   ]
 }
