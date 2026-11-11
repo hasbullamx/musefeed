@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T10:42:44-06:00",
+  "generated_at": "2026-11-11T11:12:55-06:00",
   "posts": [
+    {
+      "id": "e194d2c4-464b-4b81-861a-21f6c1c61b45",
+      "kicker": "Two catches, one flight",
+      "title": "Starship Flight 15 tests full recovery on Nov. 13",
+      "category": "Texas",
+      "published_at": "2026-11-11T11:05:00-06:00",
+      "excerpt": "SpaceX is targeting Friday, November 13, at 4:45 PM CST for Starship Flight 15 from Starbase, Texas, in the first attempt to catch both stages at the launch tower. Ship 42 would circle Earth about 14…",
+      "body": "[SpaceX is targeting Friday, November 13, at 4:45 PM CST](https://texasborderbusiness.com/spacex-starship-flight-15-tests-mission-for-full-vehicle-recovery-demonstration-nov-13th/) for Starship Flight 15 from Starbase, Texas, in the first attempt to catch both stages at the launch tower. Ship 42 would circle Earth about 14 times over more than 22 hours before its own catch attempt around 3:17 PM CST on Saturday, November 14.",
+      "url": "https://texasborderbusiness.com/spacex-starship-flight-15-tests-mission-for-full-vehicle-recovery-demonstration-nov-13th/",
+      "icon": "🤠",
+      "image_url": "https://bigthink.com/wp-content/uploads/2024/10/starship-booster-recovery.jpeg?w=4096"
+    },
     {
       "id": "8f4e709c-ec1c-4712-8f9d-2574f804b8c4",
       "kicker": "NON-COMPLIANCE ORDER",
