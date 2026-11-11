@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T23:12:30-06:00",
+  "generated_at": "2026-11-10T23:41:57-06:00",
   "posts": [
     {
       "id": "555e399a-dd89-4dad-8c7c-a6cf1ec40f15",
@@ -193,18 +193,6 @@
       "url": "https://mobile.androidauthority.com/ps5-run-android-switch-2-pc-games-3730686/",
       "icon": "🎮",
       "image_url": "https://techraptor.net/sites/default/files/styles/image_header/public/2022-10/PS5%20Jailbreak%20Main.jpg?itok=KevgiYVv"
-    },
-    {
-      "id": "16f4e429-dd46-4405-97c2-c299629b04a3",
-      "kicker": "Read-only by design",
-      "title": "Claude can now read your bank account and explain your spending",
-      "category": "AI",
-      "published_at": "2026-11-07T23:23:00-06:00",
-      "excerpt": "Anthropic announced Personal Finance for Claude on Thursday, letting you link bank and credit card accounts through Plaid and ask where your money is going. The access is read-only, so Claude cannot…",
-      "body": "Anthropic announced [Personal Finance for Claude](https://phandroid.com/2026/11/06/claude-can-now-read-your-bank-account-and-explain-your-spending/amp/) on Thursday, letting you link bank and credit card accounts through Plaid and ask where your money is going. The access is read-only, so Claude cannot move, manage, or invest your money.",
-      "url": "https://phandroid.com/2026/11/06/claude-can-now-read-your-bank-account-and-explain-your-spending/amp/",
-      "icon": "🤖",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!-6Vq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8df19f11-d145-4a75-9734-903b7930ecb6_2752x1536.png"
     }
   ]
 }
