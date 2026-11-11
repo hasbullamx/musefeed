@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T05:41:22-06:00",
+  "generated_at": "2026-11-11T06:11:34-06:00",
   "posts": [
+    {
+      "id": "2267fb20-b8ef-4a16-b8d1-b1a3afe403a0",
+      "kicker": "Back in session",
+      "title": "Senate passes shutdown deal; House votes Wednesday",
+      "category": "Federal Government",
+      "published_at": "2026-11-11T05:45:26-06:00",
+      "excerpt": "The House is expected to hold its final vote on the shutdown deal Wednesday evening. When it reconvenes Wednesday, it will be the House's first session in 54 days.",
+      "body": "The House is expected to hold its [final vote on the shutdown deal](https://newsoneusa.com/senate-passes-deal-to-end-longest-us-government-shutdown-as-house-vote-nears/) Wednesday evening. When it reconvenes Wednesday, it will be the House's first session in 54 days.",
+      "url": "https://newsoneusa.com/senate-passes-deal-to-end-longest-us-government-shutdown-as-house-vote-nears/",
+      "icon": "📰",
+      "image_url": "https://image.bastillepost.com/1200x/wp-content/uploads/global/2025/11/5771f2befb15f4ab45e327369f2e98d9_Government_Shutdown_44827.jpg.webp"
+    },
     {
       "id": "63d1d1fb-eed7-4755-b6e5-317e73ca0799",
       "kicker": "Widgets, in plain words",
@@ -193,18 +205,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "icon": "🤖",
       "image_url": "https://indiemakershub.com/items/geminiomniim_image.png"
-    },
-    {
-      "id": "4e785bd1-5926-430b-8a02-611adfa193ba",
-      "kicker": "Every game, one box",
-      "title": "Jailbroken PS5 now runs Android, Switch 2, and PC games",
-      "category": "PS5 Homebrew",
-      "published_at": "2026-11-08T05:44:00-06:00",
-      "excerpt": "Hydroid lets a jailbroken PS5 run 64-bit Android games directly, without Linux or a virtual machine, Android Authority reported November 2. It works only on firmware 13.60 or below, which Sony has…",
-      "body": "[Hydroid lets a jailbroken PS5 run 64-bit Android games directly](https://mobile.androidauthority.com/ps5-run-android-switch-2-pc-games-3730686/), without Linux or a virtual machine, Android Authority reported November 2. It works only on firmware 13.60 or below, which Sony has already patched for online play.",
-      "url": "https://mobile.androidauthority.com/ps5-run-android-switch-2-pc-games-3730686/",
-      "icon": "🎮",
-      "image_url": "https://techraptor.net/sites/default/files/styles/image_header/public/2022-10/PS5%20Jailbreak%20Main.jpg?itok=KevgiYVv"
     }
   ]
 }
