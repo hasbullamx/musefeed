@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T11:12:55-06:00",
+  "generated_at": "2026-11-11T11:41:48-06:00",
   "posts": [
     {
       "id": "e194d2c4-464b-4b81-861a-21f6c1c61b45",
@@ -217,18 +217,6 @@
       "url": "https://www.freemalaysiatoday.com/category/world/2026/11/08/spacex-to-conduct-15th-starship-test-launch-in-mid-november",
       "icon": "📰",
       "image_url": "https://tse1.mm.bing.net/th?id=OIP.WnKLoWBAyk7O-Okt_uPxkAHaEK&pid=15.1"
-    },
-    {
-      "id": "3855da1b-2763-43c7-b410-cee6d5060b83",
-      "kicker": "Longer, cheaper video",
-      "title": "Gemini Omni 1.2 Flash stretches video to 15 seconds for less",
-      "category": "AI",
-      "published_at": "2026-11-08T11:29:00-06:00",
-      "excerpt": "Google made Gemini Omni 1.2 Flash generally available on November 5, with native video clips up to 15 seconds. It also adds multi-turn conversational editing, so a clip can be refined turn by turn…",
-      "body": "[Google made Gemini Omni 1.2 Flash generally available](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/) on November 5, with native video clips up to 15 seconds. It also adds multi-turn conversational editing, so a clip can be refined turn by turn instead of regenerated from scratch.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "icon": "🤖",
-      "image_url": "https://indiemakershub.com/items/geminiomniim_image.png"
     }
   ]
 }
