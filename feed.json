@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T17:11:21-06:00",
+  "generated_at": "2026-11-11T17:41:52-06:00",
   "posts": [
+    {
+      "id": "67cfb5ed-fc2e-4757-ada8-f7f6b76a8601",
+      "kicker": "Half price, for now",
+      "title": "Google rolls out Gemini 4 Carbon for coding and cybersecurity",
+      "category": "AI / Technology",
+      "published_at": "2026-11-11T17:13:00-06:00",
+      "excerpt": "Introductory API pricing for Gemini 4 Carbon is $2 per million input tokens through November 30, 2026, before it doubles on December 1. Google built it for multi-step coding, debugging and open-ended…",
+      "body": "[Introductory API pricing](https://www.fonearena.com/blog/496805/google-gemini-4-carbon-roll-out.html) for Gemini 4 Carbon is $2 per million input tokens through November 30, 2026, before it doubles on December 1. Google built it for multi-step coding, debugging and open-ended research.",
+      "url": "https://www.fonearena.com/blog/496805/google-gemini-4-carbon-roll-out.html",
+      "icon": "🤖",
+      "image_url": "https://images.fonearena.com/blog/wp-content/uploads/2026/10/Gemini-4-Carbon-1024x575.jpg"
+    },
     {
       "id": "3081faf5-a02a-49e1-b511-46ccae2095fe",
       "kicker": "Five gels, one rhythm",
@@ -205,18 +217,6 @@
       "url": "https://aitoolsrecap.com/Blog/deepmind-ai-agents-rsa-1024-weaknesses-2026",
       "icon": "🤖",
       "image_url": "https://i1.wp.com/www.criptonoticias.com/wp-content/uploads/2026/04/RSA-Cuantica-Estudio.jpg"
-    },
-    {
-      "id": "3cf30716-054d-4cb5-9b14-9cbff61b1d16",
-      "kicker": "Everything but the turkey",
-      "title": "Dollar General holiday meal for under $20",
-      "category": "Deals",
-      "published_at": "2026-11-08T17:38:19-06:00",
-      "excerpt": "Dollar General's spend $15, save $5 starts November 8 on about 90 holiday food items, running through December 24. Campbell's cream soups are $1 in the same push.",
-      "body": "[Dollar General's spend $15, save $5](https://lifestyle.thepointnews.com/story/983411/how-dollar-general-helps-customers-serve-everything-but-the-turkey-for-under-20-this-holiday-season/) starts November 8 on about 90 holiday food items, running through December 24. Campbell's cream soups are $1 in the same push.",
-      "url": "https://lifestyle.thepointnews.com/story/983411/how-dollar-general-helps-customers-serve-everything-but-the-turkey-for-under-20-this-holiday-season/",
-      "icon": "🏷️",
-      "image_url": "https://retailwire.com/wp-content/uploads/Dollar-General-Announces-Thanksgiving-on-a-Budget-Deals.jpg"
     }
   ]
 }
