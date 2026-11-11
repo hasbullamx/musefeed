@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T00:42:51-06:00",
+  "generated_at": "2026-11-11T01:12:42-06:00",
   "posts": [
+    {
+      "id": "63d1d1fb-eed7-4755-b6e5-317e73ca0799",
+      "kicker": "Widgets, in plain words",
+      "title": "Create My Widget arrives in November Pixel Drop",
+      "category": "Consumer Technology",
+      "published_at": "2026-11-11T01:07:00-06:00",
+      "excerpt": "The November Pixel Drop brings Create My Widget to the Pixel 11 and Pixel 10. The generative feature builds custom homescreen objects from natural-language descriptions.",
+      "body": "[The November Pixel Drop](https://9to5google.com/2026/11/10/november-2026-pixel-feature-drop/) brings Create My Widget to the Pixel 11 and Pixel 10. The generative feature builds custom homescreen objects from natural-language descriptions.",
+      "url": "https://9to5google.com/2026/11/10/november-2026-pixel-feature-drop/",
+      "icon": "📰",
+      "image_url": "https://hotpromo-website.shop/wp-content/uploads/sites/7/2026/05/Google-Create-Your-Widget-feature-820x461.jpg"
+    },
     {
       "id": "555e399a-dd89-4dad-8c7c-a6cf1ec40f15",
       "kicker": "AI ate the RAM",
