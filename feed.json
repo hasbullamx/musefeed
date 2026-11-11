@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T11:41:48-06:00",
+  "generated_at": "2026-11-11T12:11:45-06:00",
   "posts": [
+    {
+      "id": "7eea23a7-429d-4b40-97aa-f3b37dcb9841",
+      "kicker": "From notes to teammate",
+      "title": "Fireflies turns its notetaker into an AI teammate",
+      "category": "AI / Technology",
+      "published_at": "2026-11-11T12:05:00-06:00",
+      "excerpt": "Fireflies launched Fred today, turning its meeting notetaker into an AI teammate. Paid plans start at $10 per user per month, billed annually.",
+      "body": "[Fireflies launched Fred today](https://www.globenewswire.com/news-release/2026/11/11/3400748/0/en/fireflies-ai-evolves-from-ai-notetaker-to-ai-teammate-in-its-most-significant-expansion-to-date.html), turning its meeting notetaker into an AI teammate. Paid plans start at $10 per user per month, billed annually.",
+      "url": "https://www.globenewswire.com/news-release/2026/11/11/3400748/0/en/fireflies-ai-evolves-from-ai-notetaker-to-ai-teammate-in-its-most-significant-expansion-to-date.html",
+      "icon": "🤖",
+      "image_url": "https://news.mit.edu/sites/default/files/styles/term_page__news_article/public/images/202005/MIT-Fireflies-Ai-01.jpg?itok=PtttGP9G"
+    },
     {
       "id": "e194d2c4-464b-4b81-861a-21f6c1c61b45",
       "kicker": "Two catches, one flight",
