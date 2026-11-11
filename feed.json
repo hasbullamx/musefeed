@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T07:11:18-06:00",
+  "generated_at": "2026-11-11T07:41:34-06:00",
   "posts": [
+    {
+      "id": "8f4e709c-ec1c-4712-8f9d-2574f804b8c4",
+      "kicker": "NON-COMPLIANCE ORDER",
+      "title": "Judge orders USCIS to undo violations of child asylum order",
+      "category": "ORR / UAC",
+      "published_at": "2026-11-11T07:21:00-06:00",
+      "excerpt": "On November 10, Judge Brendan Hurson ordered USCIS to remedy its non-compliance with his October 30 temporary restraining order restoring 21-day written notice and rescheduling for unaccompanied…",
+      "body": "On November 10, Judge Brendan Hurson ordered USCIS to remedy its non-compliance with his October 30 temporary restraining order restoring 21-day written notice and rescheduling for unaccompanied children's asylum interviews, after the [six legal-aid plaintiffs'](https://youthlaw.org/cases/the-door-v-edlow/) November 5 sworn affidavits described reschedule requests denied or ignored. It requires USCIS to vacate failure-to-appear notices issued October 30–November 9 where a reschedule request consistent with the order was denied or unanswered.",
+      "url": "https://youthlaw.org/cases/the-door-v-edlow/",
+      "icon": "📰",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!teco!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F624d142f-6610-46c6-addf-02af6d857e54_1024x536.jpeg"
+    },
     {
       "id": "2267fb20-b8ef-4a16-b8d1-b1a3afe403a0",
       "kicker": "Back in session",
