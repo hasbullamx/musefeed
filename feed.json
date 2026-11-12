@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T17:11:44-06:00",
+  "generated_at": "2026-11-12T17:42:01-06:00",
   "posts": [
+    {
+      "id": "0829cc90-8434-4ba6-8a31-92d76fe93ba9",
+      "kicker": "Old firmware, new door",
+      "title": "New PS5 hypervisor exploit targets firmware 2.xx and below",
+      "category": "PS5 jailbreak",
+      "published_at": "2026-11-12T17:29:18-06:00",
+      "excerpt": "Research dubbed Byepervisor has surfaced for PlayStation 5 system software 2.xx and below, using the console's sleep-and-wake sequence to reach past Sony's protections. For now its Homebrew Enabler…",
+      "body": "[Research dubbed Byepervisor](https://en.gamegpu.com/news/zhelezo/ps5-poluchila-novyj-eksplojt-gipervizora-dlya-proshivok-versii-2-xx-i-nizhe) has surfaced for PlayStation 5 system software 2.xx and below, using the console's sleep-and-wake sequence to reach past Sony's protections.\nFor now its Homebrew Enabler works only on firmware 2.50.",
+      "url": "https://en.gamegpu.com/news/zhelezo/ps5-poluchila-novyj-eksplojt-gipervizora-dlya-proshivok-versii-2-xx-i-nizhe",
+      "icon": "🎮",
+      "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/PS5HypervisorBypass.jpg"
+    },
     {
       "id": "d3cc7052-c681-4c77-8401-f0aedb7058dd",
       "kicker": "Approved in a day",
@@ -193,18 +205,6 @@
       "url": "https://www.astronomy.com/whats-launching-this-week/spacex-goes-for-a-starship-double-catch/",
       "icon": "📰",
       "image_url": "https://mangrv.com/_next/image?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fspacexs-ipo-wont-be-forced-onto-the-biggest-stock-index-after-all%2Fl-intro-1780652551.jpg&w=1080&q=75"
-    },
-    {
-      "id": "b9a31898-1170-4cf1-915c-5fa7e8138e2e",
-      "kicker": "No emulator required",
-      "title": "Zelda remake gets two native PC ports with frame generation",
-      "category": "PC Gaming",
-      "published_at": "2026-11-09T17:37:00-06:00",
-      "excerpt": "Hookshot and NX2navi rebuild the Zelda remake natively for PC, with frame generation and DLSS/FSR upscaling. On one tester's RTX 5090, frame generation pushed Hookshot to 180 fps.",
-      "body": "[Hookshot and NX2navi](https://wccftech.com/zelda-ocarina-of-time-remake-pc-recompilation-switch-2-emulator-ps5/) rebuild the Zelda remake natively for PC, with frame generation and DLSS/FSR upscaling. On one tester's RTX 5090, frame generation pushed Hookshot to 180 fps.",
-      "url": "https://wccftech.com/zelda-ocarina-of-time-remake-pc-recompilation-switch-2-emulator-ps5/",
-      "icon": "🎮",
-      "image_url": "https://www.techspot.com/images2/news/bigimage/2026/09/2026-09-08-image-22-j_1100.webp"
     }
   ]
 }
