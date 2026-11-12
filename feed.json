@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T15:11:35-06:00",
+  "generated_at": "2026-11-12T15:42:04-06:00",
   "posts": [
+    {
+      "id": "d3cc7052-c681-4c77-8401-f0aedb7058dd",
+      "kicker": "Approved in a day",
+      "title": "OMB approves revised sponsor packet with ID-selfie check",
+      "category": "ORR / UAC",
+      "published_at": "2026-11-12T15:30:29-06:00",
+      "excerpt": "The White House Office of Management and Budget approved HHS's revised Unaccompanied Alien Children Sponsor Application Packet under emergency procedures on November 6, 2026, with approval running…",
+      "body": "The White House Office of Management and Budget [approved HHS's revised Unaccompanied Alien Children Sponsor Application Packet](https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202611-0970-003) under emergency procedures on November 6, 2026, with approval running through April 30, 2027. The revised packet requires each sponsor, every adult in the household, and the backup caregiver to [submit a photo holding their identification document next to their face](https://idtechwire.com/omb-fast-tracks-hhs-form-asking-migrant-childrens-sponsors-and-their-households-for-id-selfies/).",
+      "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202611-0970-003",
+      "icon": "📰",
+      "image_url": "https://unidosus.org/wp-content/uploads/2026/08/shutterstock_2825561623-scaled.jpg"
+    },
     {
       "id": "9ab65c80-ec7c-47ff-9c7f-6c8c98052632",
       "kicker": "Prices moved the wrong way",
