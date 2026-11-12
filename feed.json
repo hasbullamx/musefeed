@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T23:11:43-06:00",
+  "generated_at": "2026-11-11T23:42:29-06:00",
   "posts": [
+    {
+      "id": "c9468843-6259-4a2b-880d-9915e666a6bc",
+      "kicker": "SIJS children fast-tracked",
+      "title": "Two dozen abused children rushed toward deportation",
+      "category": "ORR / UAC",
+      "published_at": "2026-11-11T23:21:00-06:00",
+      "excerpt": "At least two dozen children, ages 6 to 18, in the Kansas City area are now in active deportation proceedings, and some could soon be ordered removed, the Missouri Independent reported. The…",
+      "body": "At least two dozen children, ages 6 to 18, in the Kansas City area are now in active deportation proceedings, and some could soon be ordered removed, [the Missouri Independent reported](https://missouriindependent.com/2026/11/11/dozens-of-immigrant-children-in-kc-face-fast-tracked-deportation-after-losing-protections/). The deferred-action protection that kept them from being pursued while their green-card cases moved forward was canceled for new grants and renewals effective May 10, 2026.",
+      "url": "https://missouriindependent.com/2026/11/11/dozens-of-immigrant-children-in-kc-face-fast-tracked-deportation-after-losing-protections/",
+      "icon": "📰",
+      "image_url": "https://ichi.nghiatu.com/assets/images/max/724/1*hh43IRu0n7dRDdQDOoa88A.jpeg"
+    },
     {
       "id": "67cfb5ed-fc2e-4757-ada8-f7f6b76a8601",
       "kicker": "Half price, for now",
@@ -205,18 +217,6 @@
       "url": "http://networkingmamasidehustlevault.blogspot.com/2026/11/weekly-freebies-cheap-deals-november-8.html",
       "icon": "🏷️",
       "image_url": "https://ts2.mm.bing.net/th?q=Dollar+General+5+off+25+coupon+valid+Friday"
-    },
-    {
-      "id": "ab351892-0fb9-4155-8273-805e4f038efe",
-      "kicker": "Read the fine print",
-      "title": "DeepMind AI found two weaknesses in 1024-bit RSA",
-      "category": "AI",
-      "published_at": "2026-11-08T23:26:47-06:00",
-      "excerpt": "DeepMind's AI agents found two weaknesses in legacy 1024-bit RSA on November 6, working under human supervision alongside academic cryptographers. The headline 1,600x speedup is a theoretical…",
-      "body": "[DeepMind's AI agents found two weaknesses in legacy 1024-bit RSA](https://aitoolsrecap.com/Blog/deepmind-ai-agents-rsa-1024-weaknesses-2026) on November 6, working under human supervision alongside academic cryptographers. The headline 1,600x speedup is a theoretical estimate, while the reproduction that actually ran used 3.5 times less CPU time than the earlier method.",
-      "url": "https://aitoolsrecap.com/Blog/deepmind-ai-agents-rsa-1024-weaknesses-2026",
-      "icon": "🤖",
-      "image_url": "https://i1.wp.com/www.criptonoticias.com/wp-content/uploads/2026/04/RSA-Cuantica-Estudio.jpg"
     }
   ]
 }
