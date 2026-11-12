@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T11:11:53-06:00",
+  "generated_at": "2026-11-12T12:12:19-06:00",
   "posts": [
     {
       "id": "ab3b86ce-ae01-4632-b3f3-cc8e751914d9",
@@ -181,18 +181,6 @@
       "url": "https://wccftech.com/zelda-ocarina-of-time-remake-pc-recompilation-switch-2-emulator-ps5/",
       "icon": "🎮",
       "image_url": "https://www.techspot.com/images2/news/bigimage/2026/09/2026-09-08-image-22-j_1100.webp"
-    },
-    {
-      "id": "e1167037-e138-493b-af5d-0813ada6637d",
-      "kicker": "Free to build on",
-      "title": "LG opens K-EXAONE 2.5 API for free",
-      "category": "AI",
-      "published_at": "2026-11-09T11:28:00-06:00",
-      "excerpt": "Developers, startups, and research institutions can get an API key through LG's developer platform and use K-EXAONE 2.5 for service development and research without additional cost. LG says the model…",
-      "body": "[Developers, startups, and research institutions can get an API key through LG's developer platform](https://www.digitaltoday.co.kr/en/view/122771/lg-ai-research-opens-k-exaone-2-5-api-free-says-performance-up-70-percent) and use K-EXAONE 2.5 for service development and research without additional cost. LG says the model improved more than 70 percent against the version released in August, based on a combined assessment of 24 evaluation metrics.",
-      "url": "https://www.digitaltoday.co.kr/en/view/122771/lg-ai-research-opens-k-exaone-2-5-api-free-says-performance-up-70-percent",
-      "icon": "🤖",
-      "image_url": "https://cphoto.asiae.co.kr/listimglink/1/2025123015254274175_1767075943.jpg"
     }
   ]
 }
