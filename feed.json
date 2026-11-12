@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T13:43:10-06:00",
+  "generated_at": "2026-11-12T14:11:56-06:00",
   "posts": [
+    {
+      "id": "9ab65c80-ec7c-47ff-9c7f-6c8c98052632",
+      "kicker": "Prices moved the wrong way",
+      "title": "AI API prices rose more than they fell this week",
+      "category": "AI / Technology",
+      "published_at": "2026-11-12T13:40:00-06:00",
+      "excerpt": "This week's AI pricing digest counted more price increases than cuts across the models it tracks. The biggest cut was Baidu's ERNIE 5.5 Flash Preview, whose input price fell to zero.",
+      "body": "This week's [AI pricing digest](https://veprompts.com/reports/weekly-pricing-digest/) counted more price increases than cuts across the models it tracks. The biggest cut was Baidu's ERNIE 5.5 Flash Preview, whose input price fell to zero.",
+      "url": "https://veprompts.com/reports/weekly-pricing-digest/",
+      "icon": "🤖",
+      "image_url": "https://cloudfront.selectdc1.com/jRxUEgvoEUw2Dcz-.png"
+    },
     {
       "id": "ab3b86ce-ae01-4632-b3f3-cc8e751914d9",
       "kicker": "Back to work",
