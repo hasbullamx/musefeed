@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T17:42:01-06:00",
+  "generated_at": "2026-11-12T18:13:48-06:00",
   "posts": [
+    {
+      "id": "2155cb5a-f590-4f5d-8ec1-730b750ec7ad",
+      "kicker": "Storage, finally cheaper",
+      "title": "Samsung 2TB 9100 Pro hits one of its lowest prices at B&H",
+      "category": "PC Hardware",
+      "published_at": "2026-11-12T17:43:00-06:00",
+      "excerpt": "B&H has the 2TB Samsung 9100 PRO with heatsink for $429.99. The heatsink version also fits a PS5, so it can expand console storage as well as a PC.",
+      "body": "[B&H has the 2TB Samsung 9100 PRO with heatsink for $429.99](https://bhpho.to/4eAzZDI). The heatsink version also fits a PS5, so it can expand console storage as well as a PC.",
+      "url": "https://bhpho.to/4eAzZDI",
+      "icon": "📰",
+      "image_url": "https://c1.neweggimages.com/productimage/nb640/20-147-907-03.jpg"
+    },
     {
       "id": "0829cc90-8434-4ba6-8a31-92d76fe93ba9",
       "kicker": "Old firmware, new door",
