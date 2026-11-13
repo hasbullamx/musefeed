@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T17:13:13-06:00",
+  "generated_at": "2026-11-13T17:41:50-06:00",
   "posts": [
     {
       "id": "820ae8c8-c407-4304-af1e-12f4636d76d2",
@@ -205,18 +205,6 @@
       "url": "https://9to5google.com/2026/11/10/november-2026-pixel-feature-drop/",
       "icon": "📰",
       "image_url": "https://hotpromo-website.shop/wp-content/uploads/sites/7/2026/05/Google-Create-Your-Widget-feature-820x461.jpg"
-    },
-    {
-      "id": "555e399a-dd89-4dad-8c7c-a6cf1ec40f15",
-      "kicker": "AI ate the RAM",
-      "title": "32GB DDR5 kits climb past $550",
-      "category": "PC Hardware",
-      "published_at": "2026-11-10T17:36:00-06:00",
-      "excerpt": "The cheapest 32GB DDR5 kits climbed past $550 by early November. AI data centers are buying the same wafers for high-bandwidth memory, leaving PC builders with what is left.",
-      "body": "The [cheapest 32GB DDR5 kits climbed past $550](https://ismagazine.com/Home/Post/8928/Why-Is-RAM-So-Expensive-in-2026-The-AI-Memory-Squeeze-Explained) by early November. AI data centers are buying the same wafers for high-bandwidth memory, leaving PC builders with what is left.",
-      "url": "https://ismagazine.com/Home/Post/8928/Why-Is-RAM-So-Expensive-in-2026-The-AI-Memory-Squeeze-Explained",
-      "icon": "🤖",
-      "image_url": "https://www.pcguide.com/wp-content/uploads/2026/06/DDR5-RAM-prices.jpg"
     }
   ]
 }
