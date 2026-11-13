@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T17:03:49-06:00",
+  "generated_at": "2026-11-13T17:13:13-06:00",
   "posts": [
+    {
+      "id": "820ae8c8-c407-4304-af1e-12f4636d76d2",
+      "kicker": "Off the pad",
+      "title": "Starship launches on its first round-trip flight",
+      "category": "Texas",
+      "published_at": "2026-11-13T17:04:00-06:00",
+      "excerpt": "SpaceX launched Starship Flight 15 from Starbase on Friday, aiming for the first round trip to orbit and back to the same launch site. Starship is due back at the tower around 2:45 PM CT Saturday…",
+      "body": "SpaceX [launched Starship Flight 15 from Starbase](https://963jackfm.com/2026/11/13/spacex-to-attempt-first-starship-spacecraft-recovery-on-land-in-15th-flight/) on Friday, aiming for the first round trip to orbit and back to the same launch site. Starship is due back at the tower around 2:45 PM CT Saturday after completing 14 orbits.",
+      "url": "https://963jackfm.com/2026/11/13/spacex-to-attempt-first-starship-spacecraft-recovery-on-land-in-15th-flight/",
+      "icon": "🤠",
+      "image_url": "https://th-thumbnailer.cdn-si-edu.com/Q87CikyeDpCTzxg6sxEm5Y2NwYk=/768x512/filters:focal(1573x885:1574x886)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/27/b0279ed8-dbd3-4933-80eb-fd5f95efe523/screenshot_2024-10-15_at_120255.png"
+    },
     {
       "id": "3d860fbc-46aa-458f-bd28-d865a2601480",
       "kicker": "Bring him home",
