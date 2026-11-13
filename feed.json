@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T05:11:09-06:00",
+  "generated_at": "2026-11-13T05:41:24-06:00",
   "posts": [
+    {
+      "id": "ceaa40a0-5548-4d3c-a063-69ffe4788a06",
+      "kicker": "Let it sit on hold",
+      "title": "Muse now calls US businesses for paid subscribers",
+      "category": "AI / Technology",
+      "published_at": "2026-11-13T05:40:00-06:00",
+      "excerpt": "Meta's Muse can now place calls to U.S. businesses on behalf of its users, but only for paid subscribers. Plans start at $20 a month for 500 million Muse tokens per week.",
+      "body": "[Meta's Muse](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/?ref=explainx) can now place calls to U.S. businesses on behalf of its users, but only for paid subscribers. Plans start at $20 a month for 500 million Muse tokens per week.",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/?ref=explainx",
+      "icon": "🤖",
+      "image_url": "https://jarayid.com/_next/image?url=https%3A%2F%2Fwww.alkhaleej.ae%2Falkhaleej%2Fuploads%2Fimages%2F2026%2F10%2F15%2F8181836.webp&w=3840&q=75"
+    },
     {
       "id": "2155cb5a-f590-4f5d-8ec1-730b750ec7ad",
       "kicker": "Storage, finally cheaper",
