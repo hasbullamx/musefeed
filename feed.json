@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T15:12:03-06:00",
+  "generated_at": "2026-11-13T15:42:12-06:00",
   "posts": [
+    {
+      "id": "3d860fbc-46aa-458f-bd28-d865a2601480",
+      "kicker": "Bring him home",
+      "title": "A week later, still no location for the boy taken at check-in",
+      "category": "ORR / UAC",
+      "published_at": "2026-11-13T15:24:00-06:00",
+      "excerpt": "Hundreds of parents, teachers and elected officials rallied outside the federal building in downtown San Diego on Thursday, November 12, chanting \"Bring him home, bring him home.\" KPBS reported that…",
+      "body": "Hundreds of parents, teachers and elected officials rallied outside the federal building in downtown San Diego on Thursday, November 12, chanting \"Bring him home, bring him home.\" [KPBS reported](https://www.kpbs.org/news/border-immigration/2026/11/12/bring-him-home-san-diego-officials-parents-teachers-rally-for-8-year-old-boy-detained-by-ice) that HHS has yet to respond to its multiple requests asking where he is being kept.",
+      "url": "https://www.kpbs.org/news/border-immigration/2026/11/12/bring-him-home-san-diego-officials-parents-teachers-rally-for-8-year-old-boy-detained-by-ice",
+      "icon": "📰",
+      "image_url": "https://cdn.abcotvs.com/dip/images/14745518_043024-split-pct4-missing-boy.jpg?w=660&r=16%3A9"
+    },
     {
       "id": "39f8d0df-d99d-4e0b-8f6a-d9b55dbc128c",
       "kicker": "While it lasts",
@@ -205,18 +217,6 @@
       "url": "https://ismagazine.com/Home/Post/8928/Why-Is-RAM-So-Expensive-in-2026-The-AI-Memory-Squeeze-Explained",
       "icon": "🤖",
       "image_url": "https://www.pcguide.com/wp-content/uploads/2026/06/DDR5-RAM-prices.jpg"
-    },
-    {
-      "id": "306b2c72-641f-4387-9c2d-36c322df4fcc",
-      "kicker": "Still no word",
-      "title": "Six lawmakers demand to know where the Haitian boy is held",
-      "category": "ORR / UAC",
-      "published_at": "2026-11-10T15:21:00-06:00",
-      "excerpt": "On Tuesday, Representatives Juan Vargas, Sara Jacobs, Mike Levin and Scott Peters, and Senators Alex Padilla and Adam Schiff sought confirmation from the federal government of the child's whereabouts…",
-      "body": "On Tuesday, Representatives Juan Vargas, Sara Jacobs, Mike Levin and Scott Peters, and Senators Alex Padilla and Adam Schiff [sought confirmation from the federal government of the child's whereabouts and whether his family had been told his location](https://www.news-mash.com/2026/11/10/lawmakers-seek-whereabouts-of-haitian-boy-taken-at-ice-appointment/). His family still did not know where he is being held as of Monday, six days after he was [taken at a routine ICE check-in in San Diego](https://www.usatoday.com/story/news/nation/2026/11/07/haitian-third-grader-taken-into-federal-custody/92661950007/).",
-      "url": "https://www.news-mash.com/2026/11/10/lawmakers-seek-whereabouts-of-haitian-boy-taken-at-ice-appointment/",
-      "icon": "📰",
-      "image_url": "https://www.semana.com/resizer/v2/FUNZ4CVVPNB6HN62QFPLDKUVXI.JPG?smart=true&auth=eacf4cce43e3d5547d43708b6a59bcf01c994390e87ca646e4142f82c981d1ef&width=1280&height=720"
     }
   ]
 }
