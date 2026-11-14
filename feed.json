@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T17:41:50-06:00",
+  "generated_at": "2026-11-13T18:11:50-06:00",
   "posts": [
+    {
+      "id": "69114d37-f940-4d14-9131-3cf79ab6860c",
+      "kicker": "The dump door shuts",
+      "title": "PS5 firmware 14.xx blocks executable dumps",
+      "category": "PS5 jailbreak",
+      "published_at": "2026-11-13T17:40:00-06:00",
+      "excerpt": "PS5 firmware 14.xx has blocked the old method for dumping executable files, leaving kernel access alone insufficient to copy encrypted game files. Public jailbreaks still stop at 13.60, with no…",
+      "body": "[PS5 firmware 14.xx has blocked the old method for dumping executable files](https://en.gamegpu.com/news/zhelezo/khakery-stolknulis-s-blokirovkoj-dampa-ispolnyaemykh-fajlov-na-proshivkakh-ps5-vetki-14-xx), leaving kernel access alone insufficient to copy encrypted game files. Public jailbreaks still stop at 13.60, with no public exploit for 14.20 or 14.22.",
+      "url": "https://en.gamegpu.com/news/zhelezo/khakery-stolknulis-s-blokirovkoj-dampa-ispolnyaemykh-fajlov-na-proshivkakh-ps5-vetki-14-xx",
+      "icon": "🎮",
+      "image_url": "https://www.dekazeta.net/foro/uploads/monthly_2026_01/2048158283_PS5DumpRunnerInstaller.webp.eb1ddb752e3a1a5cbe8ae6e66341a01a.webp"
+    },
     {
       "id": "820ae8c8-c407-4304-af1e-12f4636d76d2",
       "kicker": "Off the pad",
