@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T05:11:13-06:00",
+  "generated_at": "2026-11-20T05:41:26-06:00",
   "posts": [
+    {
+      "id": "d6c6dd32-41f3-46ca-8a63-3777c431fc3b",
+      "kicker": "Salesforce moves into Copilot",
+      "title": "Salesforce and Microsoft launch Copilotforce",
+      "category": "AI / Technology",
+      "published_at": "2026-11-20T05:39:00-06:00",
+      "excerpt": "Salesforce and Microsoft announced Copilotforce at Microsoft Ignite on November 17, bringing Salesforce customer context and sales actions into Microsoft Copilot in public preview. The Fabric side is…",
+      "body": "[Salesforce and Microsoft announced Copilotforce](https://www.salesforce.com/in/news/stories/copilotforce-announcement/?bc=OTH) at Microsoft Ignite on November 17, bringing Salesforce customer context and sales actions into Microsoft Copilot in public preview. The Fabric side is the part that is actually live today, with Data Federation generally available so teams can query Microsoft Fabric OneLake data inside Salesforce Data 360 without duplicating datasets.",
+      "url": "https://www.salesforce.com/in/news/stories/copilotforce-announcement/?bc=OTH",
+      "icon": "🤖",
+      "image_url": "https://www.netcost-security.fr/wp-content/uploads/2024/10/PDG-de-Salesforce-Microsoft-Copilot-est-vraiment-le-nouveau.jpeg"
+    },
     {
       "id": "89ac144e-f877-4bb5-9561-1b791374b0a5",
       "kicker": "After Tuesday's no",
