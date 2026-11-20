@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T14:41:46-06:00",
+  "generated_at": "2026-11-20T15:11:57-06:00",
   "posts": [
     {
       "id": "d6c6dd32-41f3-46ca-8a63-3777c431fc3b",
@@ -133,18 +133,6 @@
       "url": "https://www.wwdmag.com/utility-management/news/55419504/spacex-deposits-additional-30m-for-brownsville-water-infrastructure",
       "icon": "🤠",
       "image_url": "https://s.hdnux.com/photos/01/33/70/05/24084850/3/ratio3x2_480.jpg"
-    },
-    {
-      "id": "1bf15aa6-5635-4ba9-9806-0d7851a50bed",
-      "kicker": "Microsoft's own coder",
-      "title": "MAI Code 2 and MAI Code 2 Flash land in GitHub Copilot",
-      "category": "AI / Technology",
-      "published_at": "2026-11-17T15:07:00-06:00",
-      "excerpt": "Published Nov 17, 2026, 3:07 PM: MAI Code 2 and MAI Code 2 Flash have arrived in GitHub Copilot for complex, agentic software engineering. Code 2 Flash is open to Copilot Free and Student plans,…",
-      "body": "Published Nov 17, 2026, 3:07 PM: [MAI Code 2 and MAI Code 2 Flash](https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot/) have arrived in GitHub Copilot for complex, agentic software engineering. Code 2 Flash is open to Copilot Free and Student plans, while Code 2 is limited to Pro, Pro+, Max, Business, and Enterprise.",
-      "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot/",
-      "icon": "🤖",
-      "image_url": "https://xerifetech.com/wp-content/uploads/2026/11/MAI-Code-1.1-Flash-running-On-Device-through-GitHub-Copilot-344d5f-1024x576.gif"
     }
   ]
 }
