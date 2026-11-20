@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T17:11:50-06:00",
+  "generated_at": "2026-11-20T17:41:25-06:00",
   "posts": [
     {
       "id": "d6c6dd32-41f3-46ca-8a63-3777c431fc3b",
@@ -109,18 +109,6 @@
       "url": "https://cwsglobal.org/blog/daily-state-of-play-trumps-indefinite-refugee-ban-and-funding-halt/",
       "icon": "📰",
       "image_url": "https://news.spreely.com/wp-content/uploads/2025/12/senate-bill-would-give-nearly-6-billion-to-refugee-programs-despite-record-low-intake-numbers.webp"
-    },
-    {
-      "id": "ee7fb1c8-5674-4bb1-a1b7-48a3946abab0",
-      "kicker": "The coder gets a manager",
-      "title": "Cognition bets on Devin Bots to manage AI coders",
-      "category": "AI / Technology",
-      "published_at": "2026-11-17T17:40:00-06:00",
-      "excerpt": "Published Nov 17, 2026, 5:40 PM: Devin Bots are persistent agents from Cognition that own an engineering goal end to end and lead teams of Devin sessions in parallel. Each Bot picks its own models…",
-      "body": "Published Nov 17, 2026, 5:40 PM: [Devin Bots](https://dnyuz.com/2026/11/17/exclusive-cognition-bets-on-devin-bots-coding-agents-in-challenge-to-anthropics-duet-and-openais-dots/) are persistent agents from Cognition that own an engineering goal end to end and lead teams of Devin sessions in parallel. Each Bot picks its own models for the job, using faster, cheaper ones for routine code.",
-      "url": "https://dnyuz.com/2026/11/17/exclusive-cognition-bets-on-devin-bots-coding-agents-in-challenge-to-anthropics-duet-and-openais-dots/",
-      "icon": "🤖",
-      "image_url": "https://breakinglog.com/wp-content/uploads/2026/09/bl-2867c0c6e3729439-194299205ffd2100a207d5213aebde2ad93cf2ad602cae0dd532edc016f3b41b-1536x900.png"
     }
   ]
 }
