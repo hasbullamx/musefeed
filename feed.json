@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T17:41:25-06:00",
+  "generated_at": "2026-11-20T18:12:11-06:00",
   "posts": [
+    {
+      "id": "7f0a5003-b8b6-459b-84cc-c5d1e81734a1",
+      "kicker": "A new vetting list",
+      "title": "ORR proposes monitoring overhaul for care facilities",
+      "category": "ORR / UAC",
+      "published_at": "2026-11-20T17:40:00-06:00",
+      "excerpt": "ORR published a November 18 proposal overhauling monitoring and compliance for its care provider facilities, with comments due December 18, 2026. It would create an Advisory Terminations List for…",
+      "body": "[ORR published a November 18 proposal](https://thefederalregister.org/documents/2026-23460/submission-for-office-of-management-and-budget-review-monitoring-and-compliance-for-office-of-refugee-resettlement-care-) overhauling monitoring and compliance for its care provider facilities, with comments due December 18, 2026. It would create an Advisory Terminations List for staff dismissed over substantiated child-safety allegations, so they cannot move unchecked to another shelter.",
+      "url": "https://thefederalregister.org/documents/2026-23460/submission-for-office-of-management-and-budget-review-monitoring-and-compliance-for-office-of-refugee-resettlement-care-",
+      "icon": "📰",
+      "image_url": "https://dailyround.news/wp-content/uploads/2026/09/Care-Home-Ordered-to-Improve.jpg"
+    },
     {
       "id": "d6c6dd32-41f3-46ca-8a63-3777c431fc3b",
       "kicker": "Salesforce moves into Copilot",
