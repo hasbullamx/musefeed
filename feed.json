@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T17:11:20-06:00",
+  "generated_at": "2026-11-21T17:41:34-06:00",
   "posts": [
+    {
+      "id": "e0984116-86d3-4d2d-8e06-aa3c733d6182",
+      "kicker": "Encrypted chat, on console",
+      "title": "XPS5 1.1.0 lands for jailbroken PS5",
+      "category": "PS5 Homebrew",
+      "published_at": "2026-11-21T17:40:00-06:00",
+      "excerpt": "XPS5 1.1.0 adds encrypted X Chat to the jailbroken-PS5 X app. If you are still on 1.0.1, install it by hand, since the 99.9 MiB installer exceeds that version’s update limit.",
+      "body": "[XPS5 1.1.0](https://store.brewology.com/ps5/xps5/) adds encrypted X Chat to the jailbroken-PS5 X app. If you are still on 1.0.1, install it by hand, since the 99.9 MiB installer exceeds that version’s update limit.",
+      "url": "https://store.brewology.com/ps5/xps5/",
+      "icon": "🎮",
+      "image_url": "https://cultura-informatica.com/wp-content/uploads/2022/10/La-PlayStation-5-ya-tiene-jailbreak-768x432.png"
+    },
     {
       "id": "31c3f37c-9db4-4838-be14-b810ffd1e287",
       "kicker": "The clock shrinks",
@@ -133,18 +145,6 @@
       "url": "https://www.businesswire.com/news/home/20261118527754/en/Newegg-Kicks-Off-Black-Friday-with-Thousands-of-Tech-Deals-and-New-Doorbusters-Every-Morning",
       "icon": "📰",
       "image_url": "https://www.iebschool.com/hub/wp-content/uploads/2021/11/image-17-1536x727.png"
-    },
-    {
-      "id": "ad7b3fcf-9912-4f9f-a3f1-fa697e2fb276",
-      "kicker": "From solo to shared",
-      "title": "Microsoft unveils Copilot Workspaces, new AI models at Ignite",
-      "category": "AI / Technology",
-      "published_at": "2026-11-18T17:40:00-06:00",
-      "excerpt": "Copilot Workspaces gives teams and their AI agents one shared space built around shared context. OpenAI's GPT-6.2 also arrives in Microsoft Foundry, alongside Meta's latest models.",
-      "body": "[Copilot Workspaces](https://www.newkerala.com/news/a/microsoft-rolls-out-agentic-ai-tools-copilot-workspaces-467.htm) gives teams and their AI agents one shared space built around shared context. OpenAI's GPT-6.2 also arrives in Microsoft Foundry, alongside Meta's latest models.",
-      "url": "https://www.newkerala.com/news/a/microsoft-rolls-out-agentic-ai-tools-copilot-workspaces-467.htm",
-      "icon": "🤖",
-      "image_url": "https://vladtalkstech.com/wp-content/uploads/2026/10/ignite-2026-photo-copilot-expo-2024.jpg.w480.webp"
     }
   ]
 }
