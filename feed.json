@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T14:41:19-06:00",
+  "generated_at": "2026-11-21T15:11:42-06:00",
   "posts": [
+    {
+      "id": "31c3f37c-9db4-4838-be14-b810ffd1e287",
+      "kicker": "The clock shrinks",
+      "title": "Deportation appeals cut to 10 days from December 17",
+      "category": "ORR / UAC",
+      "published_at": "2026-11-21T14:53:00-06:00",
+      "excerpt": "The Justice Department's final rule cuts most deportation appeals to 10 calendar days for decisions issued on or after December 17, 2026. A single Board member must dismiss an appeal within 15 days…",
+      "body": "[The Justice Department's final rule](https://mikebakerlaw.com/blog/2026/11/21/bia-appeal-rule-ten-day-deadline-final/) cuts most deportation appeals to 10 calendar days for decisions issued on or after December 17, 2026. A single Board member must dismiss an appeal within 15 days unless a majority votes to hear it.",
+      "url": "https://mikebakerlaw.com/blog/2026/11/21/bia-appeal-rule-ten-day-deadline-final/",
+      "icon": "📰",
+      "image_url": "https://visa-hq-news-images.s3.us-east-1.amazonaws.com/news_images/29f8aa60-5c9e-485c-8796-88a71ffda9b7_middle.jpg"
+    },
     {
       "id": "0c848c1c-07d6-46c2-a1f7-4d51b14536f7",
       "kicker": "Looping, not scaling",
