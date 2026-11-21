@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T16:41:11-06:00",
+  "generated_at": "2026-11-21T17:11:20-06:00",
   "posts": [
     {
       "id": "31c3f37c-9db4-4838-be14-b810ffd1e287",
@@ -145,18 +145,6 @@
       "url": "https://www.newkerala.com/news/a/microsoft-rolls-out-agentic-ai-tools-copilot-workspaces-467.htm",
       "icon": "🤖",
       "image_url": "https://vladtalkstech.com/wp-content/uploads/2026/10/ignite-2026-photo-copilot-expo-2024.jpg.w480.webp"
-    },
-    {
-      "id": "b10fc3b6-00f4-4212-9f8e-36b30e5b7a50",
-      "kicker": "A starting point, not law",
-      "title": "Senate draft sets $4.32 billion for ORR refugee account",
-      "category": "ORR / UAC",
-      "published_at": "2026-11-18T17:02:00-06:00",
-      "excerpt": "Published Nov 18, 2026, 5:02 PM: The Senate draft Labor-HHS bill puts $4.32 billion into the Refugee & Entrant Assistance account that funds ORR, including services for unaccompanied children. The…",
-      "body": "Published Nov 18, 2026, 5:02 PM: The [Senate draft Labor-HHS bill](https://cwsglobal.org/blog/daily-state-of-play-trumps-indefinite-refugee-ban-and-funding-halt/) puts $4.32 billion into the Refugee & Entrant Assistance account that funds ORR, including services for unaccompanied children. The draft also adds guardrails to strengthen congressional oversight of services for unaccompanied children.",
-      "url": "https://cwsglobal.org/blog/daily-state-of-play-trumps-indefinite-refugee-ban-and-funding-halt/",
-      "icon": "📰",
-      "image_url": "https://news.spreely.com/wp-content/uploads/2025/12/senate-bill-would-give-nearly-6-billion-to-refugee-programs-despite-record-low-intake-numbers.webp"
     }
   ]
 }
