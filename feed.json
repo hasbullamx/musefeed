@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T05:11:10-06:00",
+  "generated_at": "2026-11-21T05:41:20-06:00",
   "posts": [
+    {
+      "id": "e73efeff-d119-4384-9ea8-8ac5ddb9c2b7",
+      "kicker": "Local AI, plugged in",
+      "title": "NVIDIA RTX Spark compact desktops are out now",
+      "category": "PC Hardware",
+      "published_at": "2026-11-21T05:39:00-06:00",
+      "excerpt": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available now, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to…",
+      "body": "[New NVIDIA RTX Spark compact desktops](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/?type=News) from ASUS, Dell and MSI are available now, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory, they can run large local models without sending files to the cloud.",
+      "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/?type=News",
+      "icon": "🤖",
+      "image_url": "https://cdn1.techbang.com/system/images/796331/original/389d0029c8ee1aa251b8f300a1d3d544.jpg?1792123292"
+    },
     {
       "id": "7f0a5003-b8b6-459b-84cc-c5d1e81734a1",
       "kicker": "A new vetting list",
