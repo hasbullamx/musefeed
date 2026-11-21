@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T13:41:25-06:00",
+  "generated_at": "2026-11-21T14:11:56-06:00",
   "posts": [
+    {
+      "id": "0c848c1c-07d6-46c2-a1f7-4d51b14536f7",
+      "kicker": "Looping, not scaling",
+      "title": "Inkling 2 Mini runs on a 32GB Mac",
+      "category": "AI / Technology",
+      "published_at": "2026-11-21T13:53:00-06:00",
+      "excerpt": "Published Nov 21, 2026, 1:53 PM Thinking Machines' Inkling 2 Mini loops its middle layers three times per token instead of adding more weights. That makes it a local option for agentic coding, tool…",
+      "body": "Published Nov 21, 2026, 1:53 PM [Thinking Machines' Inkling 2 Mini](https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/) loops its middle layers three times per token instead of adding more weights. That makes it a local option for agentic coding, tool use and document work.",
+      "url": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+      "icon": "🤖",
+      "image_url": "https://dreamridiculous.com/wp-content/uploads/2026/07/ai-innovation-alert-what-thinking-machines-inkling-suggests-featured-560x300.jpg"
+    },
     {
       "id": "e73efeff-d119-4384-9ea8-8ac5ddb9c2b7",
       "kicker": "Local AI, plugged in",
