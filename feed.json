@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T10:12:09-06:00",
+  "generated_at": "2026-11-22T10:42:27-06:00",
   "posts": [
+    {
+      "id": "16514ffa-93cc-417c-b998-3e124f0ff082",
+      "kicker": "AI art, on console",
+      "title": "PS5SD 1.8.5 released for jailbroken PS5",
+      "category": "PS5 Homebrew",
+      "published_at": "2026-11-22T10:28:00-06:00",
+      "excerpt": "PS5SD 1.8.5 pauses downloads together when Civitai rate-limits them, retrying on a backoff instead of giving up after about a minute. It also adds a search box to the prompt collections, so you can…",
+      "body": "[PS5SD 1.8.5](https://store.brewology.com/ps5/ps5sd/) pauses downloads together when Civitai rate-limits them, retrying on a backoff instead of giving up after about a minute. It also adds a search box to the prompt collections, so you can find a collection by name or by its entries.",
+      "url": "https://store.brewology.com/ps5/ps5sd/",
+      "icon": "🎮",
+      "image_url": "https://ukrgame.com.ua/image/cache/catalog/vadym/ps5sd-600x600.png"
+    },
     {
       "id": "5532a416-7376-43db-8df6-62f012239cbd",
       "kicker": "Prebuilt, priced right",
@@ -97,18 +109,6 @@
       "url": "https://wccftech.com/spacex-breaks-silence-says-10-year-100-tax-abatement-for-24-billion-starbase-data-center-infrastructure-is-necessary-to-avoid-rapid-tax-value-fluctuations/",
       "icon": "🤠",
       "image_url": "https://www.nmas.com.mx/_next/image/?url=https%3A%2F%2Fstatic.nmas.com.mx%2FNmas%2Fcms%2F1774060601179-starbase-qu-se-sabe-de-la-nueva-ciudad-creada-en-texas-para-empleados-de-spacex-foto-spacesudoer-1920x1080.jpg&w=1920&q=65"
-    },
-    {
-      "id": "1177c20a-b255-406c-974c-61cd694bbc2b",
-      "kicker": "Agents, on a leash",
-      "title": "LangSmith Tool Gateway governs agent tool use",
-      "category": "AI / Technology",
-      "published_at": "2026-11-19T10:35:00-06:00",
-      "excerpt": "LangChain launched LangSmith Tool Gateway in public beta, a managed layer that handles credentials, identity, and access for every agent tool call. Approval policies can require a person to confirm a…",
-      "body": "[LangChain launched LangSmith Tool Gateway](https://www.langchain.com/blog/langsmith-tool-gateway) in public beta, a managed layer that handles credentials, identity, and access for every agent tool call. Approval policies can require a person to confirm a sensitive call before it runs.",
-      "url": "https://www.langchain.com/blog/langsmith-tool-gateway",
-      "icon": "🤖",
-      "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*ANLw_M8wkURbQK1JJwbNBg.png"
     }
   ]
 }
