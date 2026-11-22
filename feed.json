@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T05:11:04-06:00",
+  "generated_at": "2026-11-22T05:41:07-06:00",
   "posts": [
+    {
+      "id": "5532a416-7376-43db-8df6-62f012239cbd",
+      "kicker": "Prebuilt, priced right",
+      "title": "Alienware Aurora RTX 5070 drops to $1,899.97 on Amazon",
+      "category": "PC Hardware",
+      "published_at": "2026-11-22T05:39:00-06:00",
+      "excerpt": "Amazon has the Alienware Aurora with an RTX 5070 at $1,899.97 in its Black Friday sale. It pairs the Core Ultra 7 265F with that RTX 5070 for gaming and productivity alike.",
+      "body": "[Amazon has the Alienware Aurora with an RTX 5070](https://www.pcguide.com/deals/rtx-5070-core-ultra-7-265f-alienware-gaming-pc-gets-price-drop-in-amazon-black-friday-deal/) at $1,899.97 in its Black Friday sale. It pairs the Core Ultra 7 265F with that RTX 5070 for gaming and productivity alike.",
+      "url": "https://www.pcguide.com/deals/rtx-5070-core-ultra-7-265f-alienware-gaming-pc-gets-price-drop-in-amazon-black-friday-deal/",
+      "icon": "📰",
+      "image_url": "https://img.couponsgarden.com/ccsimg/mkt/product_image/17b994e1729bc5a74a9c261686770d77.webp"
+    },
     {
       "id": "e0984116-86d3-4d2d-8e06-aa3c733d6182",
       "kicker": "Encrypted chat, on console",
@@ -109,18 +121,6 @@
       "url": "https://pharr-tx.gov/city-of-pharr-awarded-4-8-million-to-expand-broadband-workforce-in-south-texas-and-launch-pharr-connect-u/",
       "icon": "🤠",
       "image_url": "https://www.seeclearfield.com/dynamic-media/assets/images/home/training-people-with-product.png.webp?gravity=center&v=responsiveImage&format=webp&width=1010&k=2XO5KO0RTVqZYo4rDMxZ5Q"
-    },
-    {
-      "id": "fc630b0c-bc8e-46f7-aa73-ca45ccc2bc34",
-      "kicker": "The midnight trade-off",
-      "title": "PS5 update 14.23 is required to play GTA 6",
-      "category": "Gaming",
-      "published_at": "2026-11-19T05:40:03-06:00",
-      "excerpt": "Sony confirmed PS5 players must install firmware 14.23 before playing GTA 6, which launches at midnight on November 19. Updating trades the homebrew path for the game, since newer firmware can cut…",
-      "body": "[Sony confirmed PS5 players must install firmware 14.23 before playing GTA 6](https://www.firstpost.com/tech/planning-to-play-gta-6-on-ps5-make-sure-you-install-this-mandatory-update-first-14061055.html), which launches at midnight on November 19. Updating trades the homebrew path for the game, since newer firmware can cut off the exploits jailbreaks rely on.",
-      "url": "https://www.firstpost.com/tech/planning-to-play-gta-6-on-ps5-make-sure-you-install-this-mandatory-update-first-14061055.html",
-      "icon": "🎮",
-      "image_url": "https://mp1st.com/wp-content/uploads/2026/10/gta-6-ps5-768x432.png"
     }
   ]
 }
