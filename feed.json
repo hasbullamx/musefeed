@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T17:13:38-06:00",
+  "generated_at": "2026-11-22T17:41:35-06:00",
   "posts": [
     {
       "id": "16514ffa-93cc-417c-b998-3e124f0ff082",
@@ -97,18 +97,6 @@
       "url": "https://www.salesforce.com/in/news/stories/copilotforce-announcement/?bc=OTH",
       "icon": "🤖",
       "image_url": "https://www.netcost-security.fr/wp-content/uploads/2024/10/PDG-de-Salesforce-Microsoft-Copilot-est-vraiment-le-nouveau.jpeg"
-    },
-    {
-      "id": "89ac144e-f877-4bb5-9561-1b791374b0a5",
-      "kicker": "After Tuesday's no",
-      "title": "SpaceX says Starbase tax break would steady county revenue",
-      "category": "Texas",
-      "published_at": "2026-11-19T17:40:00-06:00",
-      "excerpt": "SpaceX argued its proposed payments in lieu of taxes would give Cameron County predictable revenue from the Starbase data center. It warned that Texas tax rules can swing rates year to year as the…",
-      "body": "[SpaceX argued](https://wccftech.com/spacex-breaks-silence-says-10-year-100-tax-abatement-for-24-billion-starbase-data-center-infrastructure-is-necessary-to-avoid-rapid-tax-value-fluctuations/) its proposed payments in lieu of taxes would give Cameron County predictable revenue from the Starbase data center. It warned that Texas tax rules can swing rates year to year as the computing equipment rapidly depreciates, creating a future revenue cliff.",
-      "url": "https://wccftech.com/spacex-breaks-silence-says-10-year-100-tax-abatement-for-24-billion-starbase-data-center-infrastructure-is-necessary-to-avoid-rapid-tax-value-fluctuations/",
-      "icon": "🤠",
-      "image_url": "https://www.nmas.com.mx/_next/image/?url=https%3A%2F%2Fstatic.nmas.com.mx%2FNmas%2Fcms%2F1774060601179-starbase-qu-se-sabe-de-la-nueva-ciudad-creada-en-texas-para-empleados-de-spacex-foto-spacesudoer-1920x1080.jpg&w=1920&q=65"
     }
   ]
 }
