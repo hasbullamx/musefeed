@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T09:12:07-06:00",
+  "generated_at": "2026-11-22T09:41:39-06:00",
   "posts": [
     {
       "id": "5532a416-7376-43db-8df6-62f012239cbd",
@@ -109,18 +109,6 @@
       "url": "https://www.langchain.com/blog/langsmith-tool-gateway",
       "icon": "🤖",
       "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*ANLw_M8wkURbQK1JJwbNBg.png"
-    },
-    {
-      "id": "f90db3fb-34e6-40f6-9fe6-66975161a3fd",
-      "kicker": "Fiber, for free",
-      "title": "Pharr launched tuition-free fiber technician training",
-      "category": "Texas",
-      "published_at": "2026-11-19T09:36:00-06:00",
-      "excerpt": "Pharr Connect U is a tuition-free fiber-optic technician program in Pharr, announced December 17, 2025. It plans to prepare 240 trainees for industry-recognized certifications, with paid internships…",
-      "body": "[Pharr Connect U](https://pharr-tx.gov/city-of-pharr-awarded-4-8-million-to-expand-broadband-workforce-in-south-texas-and-launch-pharr-connect-u/) is a tuition-free fiber-optic technician program in Pharr, announced December 17, 2025. It plans to prepare 240 trainees for industry-recognized certifications, with paid internships and job placement with local broadband employers.",
-      "url": "https://pharr-tx.gov/city-of-pharr-awarded-4-8-million-to-expand-broadband-workforce-in-south-texas-and-launch-pharr-connect-u/",
-      "icon": "🤠",
-      "image_url": "https://www.seeclearfield.com/dynamic-media/assets/images/home/training-people-with-product.png.webp?gravity=center&v=responsiveImage&format=webp&width=1010&k=2XO5KO0RTVqZYo4rDMxZ5Q"
     }
   ]
 }
