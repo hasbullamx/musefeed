@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-23T05:41:14-06:00",
+  "generated_at": "2026-11-23T06:11:39-06:00",
   "posts": [
+    {
+      "id": "3a6ec21a-c4aa-436f-90f3-ec5894ddcb32",
+      "kicker": "The front moves through",
+      "title": "Cold front brings a cooler week to Brownsville",
+      "category": "Weather",
+      "published_at": "2026-11-23T05:40:00-06:00",
+      "excerpt": "The National Weather Service in Brownsville says northerly winds will hold Brownsville highs in the 60s through Thanksgiving. Wednesday and Thursday morning lows drop into the 40s.",
+      "body": "[The National Weather Service in Brownsville](https://forecast.weather.gov/product.php?site=DMX&issuedby=BRO&product=AFD&format=CI&version=4&glossary=0) says northerly winds will hold Brownsville highs in the 60s through Thanksgiving.\nWednesday and Thursday morning lows drop into the 40s.",
+      "url": "https://forecast.weather.gov/product.php?site=DMX&issuedby=BRO&product=AFD&format=CI&version=4&glossary=0",
+      "icon": "🌀",
+      "image_url": "https://i.ytimg.com/vi/zVk4foREzGA/maxresdefault.jpg"
+    },
     {
       "id": "18dfa9f2-dd31-4fbd-8f3f-6f38e7db24ea",
       "kicker": "Worlds you can steer",
