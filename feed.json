@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T17:41:35-06:00",
+  "generated_at": "2026-11-22T18:12:07-06:00",
   "posts": [
+    {
+      "id": "18dfa9f2-dd31-4fbd-8f3f-6f38e7db24ea",
+      "kicker": "Worlds you can steer",
+      "title": "Genie 4 now available through the Gemini API",
+      "category": "AI / Technology",
+      "published_at": "2026-11-22T17:40:00-06:00",
+      "excerpt": "Genie 4 generates continuous 720p worlds with synchronized native audio from a text prompt, a reference image, or both. Real-time keyboard controls and live text prompts let you navigate and change…",
+      "body": "[Genie 4](https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/) generates continuous 720p worlds with synchronized native audio from a text prompt, a reference image, or both. Real-time keyboard controls and live text prompts let you navigate and change weather, lighting, objects, or events on the fly.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+      "icon": "🤖",
+      "image_url": "https://pogovet.com/_next/image?url=%2Fpage-asset%2Fyoutube%2Fgenie-4-world-model-control%2F6099.poster.png%3Fv%3Dbd6ec81651fa6708&w=828&q=75"
+    },
     {
       "id": "16514ffa-93cc-417c-b998-3e124f0ff082",
       "kicker": "AI art, on console",
