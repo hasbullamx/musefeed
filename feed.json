@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-24T05:11:09-06:00",
+  "generated_at": "2026-11-24T05:41:17-06:00",
   "posts": [
+    {
+      "id": "06b3b0e2-0687-423b-8d40-fae46d9ab892",
+      "kicker": "The mirage check",
+      "title": "Cheapest GPUs still run 63.6% over list price",
+      "category": "PC Hardware",
+      "published_at": "2026-11-24T05:39:00-06:00",
+      "excerpt": "TechFuel's Black Friday price check, published November 20 and updated today, finds every tracked GPU 63.6% to 120.2% above launch MSRP. The one real cut it caught was Corsair's 32GB DDR5 kit at…",
+      "body": "[TechFuel's Black Friday price check](https://techfuelhq.com/articles/black-friday-pc-parts-deals-2026/), published November 20 and updated today, finds every tracked GPU 63.6% to 120.2% above launch MSRP. The one real cut it caught was Corsair's 32GB DDR5 kit at $519.99.",
+      "url": "https://techfuelhq.com/articles/black-friday-pc-parts-deals-2026/",
+      "icon": "📰",
+      "image_url": "https://www.bug.hr/img/cijene-grafickih-kartica-padaju-navodno_TLD3-X.jpg"
+    },
     {
       "id": "1986990d-a255-4a4f-8b5a-dbdd2bf36db3",
       "kicker": "The second pass",
@@ -97,18 +109,6 @@
       "url": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
       "icon": "🤖",
       "image_url": "https://dreamridiculous.com/wp-content/uploads/2026/07/ai-innovation-alert-what-thinking-machines-inkling-suggests-featured-560x300.jpg"
-    },
-    {
-      "id": "e73efeff-d119-4384-9ea8-8ac5ddb9c2b7",
-      "kicker": "Local AI, plugged in",
-      "title": "NVIDIA RTX Spark compact desktops are out now",
-      "category": "PC Hardware",
-      "published_at": "2026-11-21T05:39:00-06:00",
-      "excerpt": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available now, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to…",
-      "body": "[New NVIDIA RTX Spark compact desktops](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/?type=News) from ASUS, Dell and MSI are available now, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory, they can run large local models without sending files to the cloud.",
-      "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/?type=News",
-      "icon": "🤖",
-      "image_url": "https://cdn1.techbang.com/system/images/796331/original/389d0029c8ee1aa251b8f300a1d3d544.jpg?1792123292"
     }
   ]
 }
