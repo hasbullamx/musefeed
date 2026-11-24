@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-24T12:41:38-06:00",
+  "generated_at": "2026-11-24T13:12:30-06:00",
   "posts": [
+    {
+      "id": "ed382936-775f-4feb-a4bc-4a0d079a8ee0",
+      "kicker": "The bottleneck moves",
+      "title": "Claude Ship reviews, fixes, and approves pull requests",
+      "category": "AI / Technology",
+      "published_at": "2026-11-24T13:03:00-06:00",
+      "excerpt": "Anthropic launched Claude Ship in beta, letting agents take a pull request from review to approval. Eligible Enterprise organizations can claim at least $10,000 in Claude Ship credits by January 15,…",
+      "body": "[Anthropic launched Claude Ship in beta](https://claude.com/resources/articles/introducing-claude-ship), letting agents take a pull request from review to approval. Eligible Enterprise organizations can claim at least $10,000 in Claude Ship credits by January 15, 2027, to use within 30 days of claiming.",
+      "url": "https://claude.com/resources/articles/introducing-claude-ship",
+      "icon": "🤖",
+      "image_url": "https://framerusercontent.com/images/9TtB7uBOk5iD8EqNevv60rHbM.png?width=1080&height=1080"
+    },
     {
       "id": "06b3b0e2-0687-423b-8d40-fae46d9ab892",
       "kicker": "The mirage check",
