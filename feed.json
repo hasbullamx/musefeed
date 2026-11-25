@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "generated_at": "2026-11-24T13:12:30-06:00",
+  "generated_at": "2026-11-25T12:11:55-06:00",
   "posts": [
+    {
+      "id": "36da55df-e91d-46a7-ab7a-d5c37dd7eb33",
+      "kicker": "Out of the chat",
+      "title": "Claude Now Lets You Install Artifacts as Desktop Apps",
+      "category": "AI / Technology",
+      "published_at": "2026-11-25T04:27:00-06:00",
+      "excerpt": "Anthropic released a beta feature that lets you install a Claude artifact as a desktop app on Mac and Windows, with its own icon and window. The top tier, full computer access, can run programs and…",
+      "body": "Anthropic released a beta feature that lets you [install a Claude artifact as a desktop app](https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/) on Mac and Windows, with its own icon and window. The top tier, full computer access, can run programs and read, change, or delete files without asking each time.",
+      "url": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
+      "icon": "🤖",
+      "image_url": "https://images.siliconangle.com/blogs.dir/1/files/2025/06/Claude-Create-Artifacts-Desktop-Mobile-Crop1.png"
+    },
+    {
+      "id": "604118f2-165f-438c-8bef-fdb2d0b348e0",
+      "kicker": "Heat, right on cue",
+      "title": "Sunday's half warms to 79°F",
+      "category": "Fitness / Running",
+      "published_at": "2026-11-25T00:18:00-06:00",
+      "excerpt": "Sunday's forecast calls for partly cloudy skies over Brownsville, with a west wind to keep the air moving. Temperatures climb through the week after a cool Thanksgiving, so the half will feel warmer…",
+      "body": "[Sunday's forecast](https://weather.com/us/tx/city/brownsville/tenday) calls for partly cloudy skies over Brownsville, with a west wind to keep the air moving. Temperatures climb through the week after a cool Thanksgiving, so the half will feel warmer than the training days behind it.",
+      "url": "https://weather.com/us/tx/city/brownsville/tenday",
+      "icon": "🏈",
+      "image_url": "https://media.tegna-media.com/assets/WTHR/images/fa567c13-bf0a-4cf5-903d-f6cbdc8a2004/20240824T124236/fa567c13-bf0a-4cf5-903d-f6cbdc8a2004_1920x1080.jpg"
+    },
+    {
+      "id": "58dbc7fa-2cf3-4b11-aa93-bbec675357c0",
+      "kicker": "The fraud memo, challenged",
+      "title": "Wyden calls HHS fraud report bogus",
+      "category": "ORR / UAC",
+      "published_at": "2026-11-24T17:39:00-06:00",
+      "excerpt": "Senate Finance ranking member Ron Wyden called HHS's sponsor-fraud report bogus, saying it rested on a sample of less than 2% of sponsor releases. He demanded HHS preserve all records behind the…",
+      "body": "Senate Finance ranking member Ron Wyden [called HHS's sponsor-fraud report bogus](https://www.finance.senate.gov/ranking-members-news/wyden-slams-bogus-hhs-fraud-report-used-to-justify-stripping-protections-from-unaccompanied-children/), saying it rested on a sample of less than 2% of sponsor releases. He demanded HHS preserve all records behind the report.",
+      "url": "https://www.finance.senate.gov/ranking-members-news/wyden-slams-bogus-hhs-fraud-report-used-to-justify-stripping-protections-from-unaccompanied-children/",
+      "icon": "📰",
+      "image_url": "https://media.washtimes.com/media/image/2017/10/03/russian_hacking_states_91866.jpg"
+    },
+    {
+      "id": "36492357-2c33-44d4-9681-f30c75e1557f",
+      "kicker": "No reinstall required",
+      "title": "NoUpdate bypasses PS5 game-update blocks",
+      "category": "PS5 Jailbreak",
+      "published_at": "2026-11-24T13:49:00-06:00",
+      "excerpt": "NoUpdate, a new open-source payload from developer Zer0Day, lifts the launch block that stops a game from running after the console detects an available update, so it plays again without the download…",
+      "body": "[NoUpdate](https://nextgenupdate.com/articles/459/new-ps5-homebrew-tool-noupdate-helps-bypass-game-update-restrictions), a new open-source payload from developer Zer0Day, lifts the launch block that stops a game from running after the console detects an available update, so it plays again without the download or a reinstall. It targets PS5 firmware 6.xx through 13.60, though Zer0Day has confirmed testing only on 10.01 so far.",
+      "url": "https://nextgenupdate.com/articles/459/new-ps5-homebrew-tool-noupdate-helps-bypass-game-update-restrictions",
+      "icon": "🎮",
+      "image_url": "https://youxite.ru/wp-content/uploads/disable-game-auto-update-cover.avif"
+    },
     {
       "id": "ed382936-775f-4feb-a4bc-4a0d079a8ee0",
       "kicker": "The bottleneck moves",
@@ -61,66 +109,6 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
       "icon": "🤖",
       "image_url": "https://pogovet.com/_next/image?url=%2Fpage-asset%2Fyoutube%2Fgenie-4-world-model-control%2F6099.poster.png%3Fv%3Dbd6ec81651fa6708&w=828&q=75"
-    },
-    {
-      "id": "16514ffa-93cc-417c-b998-3e124f0ff082",
-      "kicker": "AI art, on console",
-      "title": "PS5SD 1.8.5 released for jailbroken PS5",
-      "category": "PS5 Homebrew",
-      "published_at": "2026-11-22T10:28:00-06:00",
-      "excerpt": "PS5SD 1.8.5 pauses downloads together when Civitai rate-limits them, retrying on a backoff instead of giving up after about a minute. It also adds a search box to the prompt collections, so you can…",
-      "body": "[PS5SD 1.8.5](https://store.brewology.com/ps5/ps5sd/) pauses downloads together when Civitai rate-limits them, retrying on a backoff instead of giving up after about a minute. It also adds a search box to the prompt collections, so you can find a collection by name or by its entries.",
-      "url": "https://store.brewology.com/ps5/ps5sd/",
-      "icon": "🎮",
-      "image_url": "https://ukrgame.com.ua/image/cache/catalog/vadym/ps5sd-600x600.png"
-    },
-    {
-      "id": "5532a416-7376-43db-8df6-62f012239cbd",
-      "kicker": "Prebuilt, priced right",
-      "title": "Alienware Aurora RTX 5070 drops to $1,899.97 on Amazon",
-      "category": "PC Hardware",
-      "published_at": "2026-11-22T05:39:00-06:00",
-      "excerpt": "Amazon has the Alienware Aurora with an RTX 5070 at $1,899.97 in its Black Friday sale. It pairs the Core Ultra 7 265F with that RTX 5070 for gaming and productivity alike.",
-      "body": "[Amazon has the Alienware Aurora with an RTX 5070](https://www.pcguide.com/deals/rtx-5070-core-ultra-7-265f-alienware-gaming-pc-gets-price-drop-in-amazon-black-friday-deal/) at $1,899.97 in its Black Friday sale. It pairs the Core Ultra 7 265F with that RTX 5070 for gaming and productivity alike.",
-      "url": "https://www.pcguide.com/deals/rtx-5070-core-ultra-7-265f-alienware-gaming-pc-gets-price-drop-in-amazon-black-friday-deal/",
-      "icon": "📰",
-      "image_url": "https://img.couponsgarden.com/ccsimg/mkt/product_image/17b994e1729bc5a74a9c261686770d77.webp"
-    },
-    {
-      "id": "e0984116-86d3-4d2d-8e06-aa3c733d6182",
-      "kicker": "Encrypted chat, on console",
-      "title": "XPS5 1.1.0 lands for jailbroken PS5",
-      "category": "PS5 Homebrew",
-      "published_at": "2026-11-21T17:40:00-06:00",
-      "excerpt": "XPS5 1.1.0 adds encrypted X Chat to the jailbroken-PS5 X app. If you are still on 1.0.1, install it by hand, since the 99.9 MiB installer exceeds that version’s update limit.",
-      "body": "[XPS5 1.1.0](https://store.brewology.com/ps5/xps5/) adds encrypted X Chat to the jailbroken-PS5 X app. If you are still on 1.0.1, install it by hand, since the 99.9 MiB installer exceeds that version’s update limit.",
-      "url": "https://store.brewology.com/ps5/xps5/",
-      "icon": "🎮",
-      "image_url": "https://cultura-informatica.com/wp-content/uploads/2022/10/La-PlayStation-5-ya-tiene-jailbreak-768x432.png"
-    },
-    {
-      "id": "31c3f37c-9db4-4838-be14-b810ffd1e287",
-      "kicker": "The clock shrinks",
-      "title": "Deportation appeals cut to 10 days from December 17",
-      "category": "ORR / UAC",
-      "published_at": "2026-11-21T14:53:00-06:00",
-      "excerpt": "The Justice Department's final rule cuts most deportation appeals to 10 calendar days for decisions issued on or after December 17, 2026. A single Board member must dismiss an appeal within 15 days…",
-      "body": "[The Justice Department's final rule](https://mikebakerlaw.com/blog/2026/11/21/bia-appeal-rule-ten-day-deadline-final/) cuts most deportation appeals to 10 calendar days for decisions issued on or after December 17, 2026. A single Board member must dismiss an appeal within 15 days unless a majority votes to hear it.",
-      "url": "https://mikebakerlaw.com/blog/2026/11/21/bia-appeal-rule-ten-day-deadline-final/",
-      "icon": "📰",
-      "image_url": "https://visa-hq-news-images.s3.us-east-1.amazonaws.com/news_images/29f8aa60-5c9e-485c-8796-88a71ffda9b7_middle.jpg"
-    },
-    {
-      "id": "0c848c1c-07d6-46c2-a1f7-4d51b14536f7",
-      "kicker": "Looping, not scaling",
-      "title": "Inkling 2 Mini runs on a 32GB Mac",
-      "category": "AI / Technology",
-      "published_at": "2026-11-21T13:53:00-06:00",
-      "excerpt": "Published Nov 21, 2026, 1:53 PM Thinking Machines' Inkling 2 Mini loops its middle layers three times per token instead of adding more weights. That makes it a local option for agentic coding, tool…",
-      "body": "Published Nov 21, 2026, 1:53 PM [Thinking Machines' Inkling 2 Mini](https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/) loops its middle layers three times per token instead of adding more weights. That makes it a local option for agentic coding, tool use and document work.",
-      "url": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
-      "icon": "🤖",
-      "image_url": "https://dreamridiculous.com/wp-content/uploads/2026/07/ai-innovation-alert-what-thinking-machines-inkling-suggests-featured-560x300.jpg"
     }
   ]
 }
