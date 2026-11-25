@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T15:41:23-06:00",
+  "generated_at": "2026-11-25T16:11:09-06:00",
   "posts": [
+    {
+      "id": "74c7f926-efdb-4285-b4d9-22fc30c91750",
+      "kicker": "Free until December 8",
+      "title": "Cognition releases SWE-2.1 for Devin",
+      "category": "AI / Technology",
+      "published_at": "2026-11-25T15:40:00-06:00",
+      "excerpt": "Published Nov 25, 2026, 3:40 PM: Cognition released SWE-2.1, its new coding model inside Devin, free on Desktop and CLI through December 8. Cognition reports it more than doubles SWE-2 on…",
+      "body": "Published Nov 25, 2026, 3:40 PM: [Cognition released SWE-2.1](https://cognition.com/blog/swe-2-1), its new coding model inside Devin, free on Desktop and CLI through December 8. Cognition reports it more than doubles SWE-2 on Terminal-Bench 4.1.",
+      "url": "https://cognition.com/blog/swe-2-1",
+      "icon": "🤖",
+      "image_url": "https://claypier.com/wp-content/uploads/2026/09/cognition-swe-2-launch.png"
+    },
     {
       "id": "2ccef600-d23c-4e87-a922-5e1b22059560",
       "kicker": "Half off, one day",
