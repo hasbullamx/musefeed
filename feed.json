@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T17:11:56-06:00",
+  "generated_at": "2026-11-25T17:41:54-06:00",
   "posts": [
+    {
+      "id": "dcf759a5-bbf7-4003-8383-4cefcbcd1d97",
+      "kicker": "Old firmware, new game",
+      "title": "GTA 6 dump runs on a jailbroken PS5",
+      "category": "PS5 Jailbreak",
+      "published_at": "2026-11-25T17:20:00-06:00",
+      "excerpt": "Published Nov 25, 2026, 5:20 PM: A GTA 6 dump is reportedly running on a jailbroken PS5. Videos show it booting on firmware 11.60, well below the 14.23 the retail game requires.",
+      "body": "Published Nov 25, 2026, 5:20 PM: [A GTA 6 dump is reportedly running on a jailbroken PS5](https://www.notebookcheck.net/GTA-6-game-dump-runs-on-PS5-console-jailbreak-boosting-piracy-and-PC-emulator.1460007.0.html). Videos show it booting on firmware 11.60, well below the 14.23 the retail game requires.",
+      "url": "https://www.notebookcheck.net/GTA-6-game-dump-runs-on-PS5-console-jailbreak-boosting-piracy-and-PC-emulator.1460007.0.html",
+      "icon": "🎮",
+      "image_url": "https://api.eurosky.network/img/feed_thumbnail/plain/did:plc:mowco3drch24phy6ob2vt6s4/bafkreihs4ibauhraf3rkigmei4ntwrf2ymcq6xsgjthxn5ftbemblvtw2u"
+    },
     {
       "id": "3240ff3b-6f39-4c6e-a8df-bad397a43d41",
       "kicker": "Your trainer, on clearance",
@@ -133,18 +145,6 @@
       "url": "https://forecast.weather.gov/product.php?site=DMX&issuedby=BRO&product=AFD&format=CI&version=4&glossary=0",
       "icon": "🌀",
       "image_url": "https://i.ytimg.com/vi/zVk4foREzGA/maxresdefault.jpg"
-    },
-    {
-      "id": "18dfa9f2-dd31-4fbd-8f3f-6f38e7db24ea",
-      "kicker": "Worlds you can steer",
-      "title": "Genie 4 now available through the Gemini API",
-      "category": "AI / Technology",
-      "published_at": "2026-11-22T17:40:00-06:00",
-      "excerpt": "Genie 4 generates continuous 720p worlds with synchronized native audio from a text prompt, a reference image, or both. Real-time keyboard controls and live text prompts let you navigate and change…",
-      "body": "[Genie 4](https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/) generates continuous 720p worlds with synchronized native audio from a text prompt, a reference image, or both. Real-time keyboard controls and live text prompts let you navigate and change weather, lighting, objects, or events on the fly.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
-      "icon": "🤖",
-      "image_url": "https://pogovet.com/_next/image?url=%2Fpage-asset%2Fyoutube%2Fgenie-4-world-model-control%2F6099.poster.png%3Fv%3Dbd6ec81651fa6708&w=828&q=75"
     }
   ]
 }
