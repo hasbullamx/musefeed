@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-26T05:11:08-06:00",
+  "generated_at": "2026-11-26T05:41:05-06:00",
   "posts": [
+    {
+      "id": "57af7468-b63f-4fa7-8abc-7242f9c68337",
+      "kicker": "Data centers, in orbit",
+      "title": "FCC clears SpaceX to launch 1 million Starmind satellites",
+      "category": "Texas Business",
+      "published_at": "2026-11-26T05:39:00-06:00",
+      "excerpt": "Musk said he anticipates the first Starmind spacecraft launching in the third quarter of 2027. SpaceX will manufacture the satellites in Bastrop, Texas, about 350 miles north of Starbase.",
+      "body": "Musk said he anticipates the [first Starmind spacecraft launching in the third quarter of 2027](https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/). SpaceX will manufacture the satellites in Bastrop, Texas, about 350 miles north of Starbase.",
+      "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
+      "icon": "🤠",
+      "image_url": "https://i.gzn.jp/img/2026/01/13/fcc-approves-spacex-7500/02_m.jpg"
+    },
     {
       "id": "f1159eca-392c-4c67-9d15-55340642da64",
       "kicker": "A faster clock, in Texas",
@@ -205,18 +217,6 @@
       "url": "https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size",
       "icon": "🤖",
       "image_url": "https://yourtechdiet.com/wp-content/uploads/2026/02/Agentic-Engineering.png"
-    },
-    {
-      "id": "3a6ec21a-c4aa-436f-90f3-ec5894ddcb32",
-      "kicker": "The front moves through",
-      "title": "Cold front brings a cooler week to Brownsville",
-      "category": "Weather",
-      "published_at": "2026-11-23T05:40:00-06:00",
-      "excerpt": "The National Weather Service in Brownsville says northerly winds will hold Brownsville highs in the 60s through Thanksgiving. Wednesday and Thursday morning lows drop into the 40s.",
-      "body": "[The National Weather Service in Brownsville](https://forecast.weather.gov/product.php?site=DMX&issuedby=BRO&product=AFD&format=CI&version=4&glossary=0) says northerly winds will hold Brownsville highs in the 60s through Thanksgiving.\nWednesday and Thursday morning lows drop into the 40s.",
-      "url": "https://forecast.weather.gov/product.php?site=DMX&issuedby=BRO&product=AFD&format=CI&version=4&glossary=0",
-      "icon": "🌀",
-      "image_url": "https://i.ytimg.com/vi/zVk4foREzGA/maxresdefault.jpg"
     }
   ]
 }
