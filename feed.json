@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T23:41:46-06:00",
+  "generated_at": "2026-11-26T00:11:41-06:00",
   "posts": [
+    {
+      "id": "eaec51c9-0f2c-4485-8ffb-d821eb519e85",
+      "kicker": "The permits cleared first",
+      "title": "SpaceX's $74 billion data-center showdown lands December 9",
+      "category": "Texas Business",
+      "published_at": "2026-11-25T23:40:00-06:00",
+      "excerpt": "SpaceX's $24 billion Starbase facility has secured air permits for 35 on-site natural gas turbines. A public hearing and vote on a 10-year, 100 percent property tax abatement for the project are…",
+      "body": "[SpaceX's $24 billion Starbase facility](https://wccftech.com/__trashed-18/) has secured air permits for 35 on-site natural gas turbines. A public hearing and vote on a 10-year, 100 percent property tax abatement for the project are scheduled for December 9.",
+      "url": "https://wccftech.com/__trashed-18/",
+      "icon": "🤠",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blt5613c05fe517f376/6a7b13860dd8b22257329ee6/Screenshot_2026-08-11_075753.png?width=1400&auto=webp&quality=80&disable=upscale"
+    },
     {
       "id": "6ea70a3c-6c8a-4c05-a454-70d1f1a543b9",
       "kicker": "A prebuilt, priced plainly",
