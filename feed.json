@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-26T01:41:38-06:00",
+  "generated_at": "2026-11-26T02:11:49-06:00",
   "posts": [
+    {
+      "id": "f3467667-cdfa-49ff-8d99-1d9efe346e7a",
+      "kicker": "Half the wait",
+      "title": "DeepL launches Aure v2, its fastest voice translation model",
+      "category": "AI / Technology",
+      "published_at": "2026-11-26T01:40:00-06:00",
+      "excerpt": "DeepL launched Aure v2 today, cutting median translation delay by 50% versus its predecessor. The model translates directly from speech to speech, skipping the separate transcription, translation,…",
+      "body": "[DeepL launched Aure v2 today](https://www.prnewswire.com/news-releases/deepl-introduces-aure-v2-its-fastest-voice-ai-translation-model-302950629.html), cutting median translation delay by 50% versus its predecessor. The model translates directly from speech to speech, skipping the separate transcription, translation, and speech steps.",
+      "url": "https://www.prnewswire.com/news-releases/deepl-introduces-aure-v2-its-fastest-voice-ai-translation-model-302950629.html",
+      "icon": "🤖",
+      "image_url": "https://images.technopolis.news/articles/deepl-unveils-aure-its-most-lifelike-voice-ai-translation-model-yet/1200.webp"
+    },
     {
       "id": "eaec51c9-0f2c-4485-8ffb-d821eb519e85",
       "kicker": "The permits cleared first",
