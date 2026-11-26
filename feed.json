@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T17:41:54-06:00",
+  "generated_at": "2026-11-25T18:12:00-06:00",
   "posts": [
+    {
+      "id": "f16503b4-de31-4f0e-b491-e7b9545cda40",
+      "kicker": "Protest denied, contract stands",
+      "title": "Our Rescue keeps HHS migrant-child legal support contract",
+      "category": "ORR / UAC",
+      "published_at": "2026-11-25T17:40:00-06:00",
+      "excerpt": "Published Nov 25, 2026, 5:40 PM: The Government Accountability Office on Monday denied Acacia Center for Justice's protest of HHS's sole-source award for legal representation for unaccompanied…",
+      "body": "Published Nov 25, 2026, 5:40 PM: The Government Accountability Office on Monday [denied Acacia Center for Justice's protest](https://news.bgov.com/federal-contracting/our-rescue-keeps-hhss-migrant-child-legal-support-contract) of HHS's sole-source award for legal representation for unaccompanied migrant children. Utah-based Our Rescue can move forward with the contract, whose potential length is 18 months.",
+      "url": "https://news.bgov.com/federal-contracting/our-rescue-keeps-hhss-migrant-child-legal-support-contract",
+      "icon": "📰",
+      "image_url": "https://sherafy.com/data/uploads/2026/08/our-rescue-244-million-migrant-children-contract-sherafy-processed-1200x675-1024x576.webp"
+    },
     {
       "id": "dcf759a5-bbf7-4003-8383-4cefcbcd1d97",
       "kicker": "Old firmware, new game",
