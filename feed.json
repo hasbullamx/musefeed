@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-26T17:11:19-06:00",
+  "generated_at": "2026-11-26T17:41:28-06:00",
   "posts": [
     {
       "id": "57af7468-b63f-4fa7-8abc-7242f9c68337",
@@ -205,18 +205,6 @@
       "url": "https://techfuelhq.com/articles/black-friday-pc-parts-deals-2026/",
       "icon": "📰",
       "image_url": "https://www.bug.hr/img/cijene-grafickih-kartica-padaju-navodno_TLD3-X.jpg"
-    },
-    {
-      "id": "1986990d-a255-4a4f-8b5a-dbdd2bf36db3",
-      "kicker": "The second pass",
-      "title": "Z.ai says GLM-5.4 thinks like a model four times its size",
-      "category": "AI / Technology",
-      "published_at": "2026-11-23T17:39:00-06:00",
-      "excerpt": "Z.ai released GLM-5.4 on Monday, a 750-billion-parameter model that runs its 28 layers twice instead of stacking more weights. Coding Plan subscribers get 50% more usage than they did with GLM-5.3.",
-      "body": "[Z.ai released GLM-5.4](https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size) on Monday, a 750-billion-parameter model that runs its 28 layers twice instead of stacking more weights. Coding Plan subscribers get 50% more usage than they did with GLM-5.3.",
-      "url": "https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size",
-      "icon": "🤖",
-      "image_url": "https://yourtechdiet.com/wp-content/uploads/2026/02/Agentic-Engineering.png"
     }
   ]
 }
