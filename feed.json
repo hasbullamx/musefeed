@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-25T21:11:07-06:00",
+  "generated_at": "2026-11-25T21:41:53-06:00",
   "posts": [
+    {
+      "id": "6ea70a3c-6c8a-4c05-a454-70d1f1a543b9",
+      "kicker": "A prebuilt, priced plainly",
+      "title": "CyberPowerPC Black Friday sale starts at $1,665",
+      "category": "PC Hardware",
+      "published_at": "2026-11-25T21:39:00-06:00",
+      "excerpt": "Published Nov 25, 2026, 9:39 PM: CyberPowerPC's Black Friday sale pairs an RTX 5060 with 16GB of DDR5 memory and a 1TB SSD. Enter BLACKFRIDAY at checkout for 5% off qualifying orders of $999 or more.",
+      "body": "Published Nov 25, 2026, 9:39 PM: [CyberPowerPC's Black Friday sale](https://www.cyberpowergaming.com/current-mega-special-deals/) pairs an RTX 5060 with 16GB of DDR5 memory and a 1TB SSD. Enter BLACKFRIDAY at checkout for 5% off qualifying orders of $999 or more.",
+      "url": "https://www.cyberpowergaming.com/current-mega-special-deals/",
+      "icon": "📰",
+      "image_url": "https://www.pcguide.com/wp-content/uploads/2025/11/CyberPowerPC-Gamer-Xtreme-VR-Gaming-PC.jpg"
+    },
     {
       "id": "9281109f-ca45-4e3e-869b-599799a35700",
       "kicker": "Faster, without thinking",
