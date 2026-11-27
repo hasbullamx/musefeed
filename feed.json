@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-27T17:12:01-06:00",
+  "generated_at": "2026-11-27T17:42:10-06:00",
   "posts": [
+    {
+      "id": "c25ecbbd-c456-40d6-9bac-2dfbc137bf0e",
+      "kicker": "Permit before the handover",
+      "title": "Texas grants SpaceX permit for $24 billion Boca Chica gas plant",
+      "category": "Texas Business",
+      "published_at": "2026-11-27T17:40:00-06:00",
+      "excerpt": "The permits came last week, after Texas lifted its pause on data-center project approvals. Starbase commissioners still hold a public hearing on December 9 on the proposed property tax break for the…",
+      "body": "[The permits came last week](https://timesofindia.indiatimes.com/technology/tech-news/weeks-before-democrat-governor-gina-hinojosa-takes-office-texas-grants-permit-to-spacexs-24-billion-boca-chica-gas-power-plant-as-the-now-blue-state-resumes-/articleshow/136214665.cms), after Texas lifted its pause on data-center project approvals. Starbase commissioners still hold a public hearing on December 9 on the proposed property tax break for the 444-acre project near the Port of Brownsville.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/weeks-before-democrat-governor-gina-hinojosa-takes-office-texas-grants-permit-to-spacexs-24-billion-boca-chica-gas-power-plant-as-the-now-blue-state-resumes-/articleshow/136214665.cms",
+      "icon": "🤠",
+      "image_url": "https://astronet.pl/wp-content/uploads/2026/06/1280px-USA_-_Texas_-_Boca_Chica_-_Starbase_51285307187-750x422.jpg"
+    },
     {
       "id": "ae7667da-f5ad-4f8d-bf2a-e60c1fc92f38",
       "kicker": "Cheaper at the register",
@@ -181,18 +193,6 @@
       "url": "https://weather.com/us/tx/city/brownsville/tenday",
       "icon": "🏈",
       "image_url": "https://media.tegna-media.com/assets/WTHR/images/fa567c13-bf0a-4cf5-903d-f6cbdc8a2004/20240824T124236/fa567c13-bf0a-4cf5-903d-f6cbdc8a2004_1920x1080.jpg"
-    },
-    {
-      "id": "58dbc7fa-2cf3-4b11-aa93-bbec675357c0",
-      "kicker": "The fraud memo, challenged",
-      "title": "Wyden calls HHS fraud report bogus",
-      "category": "ORR / UAC",
-      "published_at": "2026-11-24T17:39:00-06:00",
-      "excerpt": "Senate Finance ranking member Ron Wyden called HHS's sponsor-fraud report bogus, saying it rested on a sample of less than 2% of sponsor releases. He demanded HHS preserve all records behind the…",
-      "body": "Senate Finance ranking member Ron Wyden [called HHS's sponsor-fraud report bogus](https://www.finance.senate.gov/ranking-members-news/wyden-slams-bogus-hhs-fraud-report-used-to-justify-stripping-protections-from-unaccompanied-children/), saying it rested on a sample of less than 2% of sponsor releases. He demanded HHS preserve all records behind the report.",
-      "url": "https://www.finance.senate.gov/ranking-members-news/wyden-slams-bogus-hhs-fraud-report-used-to-justify-stripping-protections-from-unaccompanied-children/",
-      "icon": "📰",
-      "image_url": "https://media.washtimes.com/media/image/2017/10/03/russian_hacking_states_91866.jpg"
     }
   ]
 }
