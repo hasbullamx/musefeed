@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-27T13:41:50-06:00",
+  "generated_at": "2026-11-27T14:11:32-06:00",
   "posts": [
     {
       "id": "ae7667da-f5ad-4f8d-bf2a-e60c1fc92f38",
@@ -193,18 +193,6 @@
       "url": "https://www.finance.senate.gov/ranking-members-news/wyden-slams-bogus-hhs-fraud-report-used-to-justify-stripping-protections-from-unaccompanied-children/",
       "icon": "📰",
       "image_url": "https://media.washtimes.com/media/image/2017/10/03/russian_hacking_states_91866.jpg"
-    },
-    {
-      "id": "36492357-2c33-44d4-9681-f30c75e1557f",
-      "kicker": "No reinstall required",
-      "title": "NoUpdate bypasses PS5 game-update blocks",
-      "category": "PS5 Jailbreak",
-      "published_at": "2026-11-24T13:49:00-06:00",
-      "excerpt": "NoUpdate, a new open-source payload from developer Zer0Day, lifts the launch block that stops a game from running after the console detects an available update, so it plays again without the download…",
-      "body": "[NoUpdate](https://nextgenupdate.com/articles/459/new-ps5-homebrew-tool-noupdate-helps-bypass-game-update-restrictions), a new open-source payload from developer Zer0Day, lifts the launch block that stops a game from running after the console detects an available update, so it plays again without the download or a reinstall. It targets PS5 firmware 6.xx through 13.60, though Zer0Day has confirmed testing only on 10.01 so far.",
-      "url": "https://nextgenupdate.com/articles/459/new-ps5-homebrew-tool-noupdate-helps-bypass-game-update-restrictions",
-      "icon": "🎮",
-      "image_url": "https://youxite.ru/wp-content/uploads/disable-game-auto-update-cover.avif"
     }
   ]
 }
