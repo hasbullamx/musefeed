@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-27T05:11:09-06:00",
+  "generated_at": "2026-11-27T05:41:08-06:00",
   "posts": [
+    {
+      "id": "ae7667da-f5ad-4f8d-bf2a-e60c1fc92f38",
+      "kicker": "Cheaper at the register",
+      "title": "Dollar General takes 20% off select gift cards through Saturday",
+      "category": "Deals",
+      "published_at": "2026-11-27T05:40:00-06:00",
+      "excerpt": "Dollar General's three-day sale takes 20% off select gift cards and multipacks through Saturday, November 28, including Xbox, Roblox, McDonald's and Domino's. The discount applies automatically at…",
+      "body": "[Dollar General's three-day sale](https://savingtowardabetterlife.com/2026/11/dollar-general-black-friday-2026/) takes 20% off select gift cards and multipacks through Saturday, November 28, including Xbox, Roblox, McDonald's and Domino's. The discount applies automatically at the register in store, with no digital coupon to clip.",
+      "url": "https://savingtowardabetterlife.com/2026/11/dollar-general-black-friday-2026/",
+      "icon": "🏷️",
+      "image_url": "https://gcanywhere.com/wp-content/uploads/2024/11/112424_dollargeneral.png"
+    },
     {
       "id": "80c80b89-907e-46e6-8cef-a057592bd5c0",
       "kicker": "Everything is a plugin",
@@ -205,18 +217,6 @@
       "url": "https://claude.com/resources/articles/introducing-claude-ship",
       "icon": "🤖",
       "image_url": "https://framerusercontent.com/images/9TtB7uBOk5iD8EqNevv60rHbM.png?width=1080&height=1080"
-    },
-    {
-      "id": "06b3b0e2-0687-423b-8d40-fae46d9ab892",
-      "kicker": "The mirage check",
-      "title": "Cheapest GPUs still run 63.6% over list price",
-      "category": "PC Hardware",
-      "published_at": "2026-11-24T05:39:00-06:00",
-      "excerpt": "TechFuel's Black Friday price check, published November 20 and updated today, finds every tracked GPU 63.6% to 120.2% above launch MSRP. The one real cut it caught was Corsair's 32GB DDR5 kit at…",
-      "body": "[TechFuel's Black Friday price check](https://techfuelhq.com/articles/black-friday-pc-parts-deals-2026/), published November 20 and updated today, finds every tracked GPU 63.6% to 120.2% above launch MSRP. The one real cut it caught was Corsair's 32GB DDR5 kit at $519.99.",
-      "url": "https://techfuelhq.com/articles/black-friday-pc-parts-deals-2026/",
-      "icon": "📰",
-      "image_url": "https://www.bug.hr/img/cijene-grafickih-kartica-padaju-navodno_TLD3-X.jpg"
     }
   ]
 }
