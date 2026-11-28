@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-28T00:12:09-06:00",
+  "generated_at": "2026-11-28T00:41:24-06:00",
   "posts": [
     {
       "id": "c25ecbbd-c456-40d6-9bac-2dfbc137bf0e",
@@ -181,18 +181,6 @@
       "url": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
       "icon": "🤖",
       "image_url": "https://images.siliconangle.com/blogs.dir/1/files/2025/06/Claude-Create-Artifacts-Desktop-Mobile-Crop1.png"
-    },
-    {
-      "id": "604118f2-165f-438c-8bef-fdb2d0b348e0",
-      "kicker": "Heat, right on cue",
-      "title": "Sunday's half warms to 79°F",
-      "category": "Fitness / Running",
-      "published_at": "2026-11-25T00:18:00-06:00",
-      "excerpt": "Sunday's forecast calls for partly cloudy skies over Brownsville, with a west wind to keep the air moving. Temperatures climb through the week after a cool Thanksgiving, so the half will feel warmer…",
-      "body": "[Sunday's forecast](https://weather.com/us/tx/city/brownsville/tenday) calls for partly cloudy skies over Brownsville, with a west wind to keep the air moving. Temperatures climb through the week after a cool Thanksgiving, so the half will feel warmer than the training days behind it.",
-      "url": "https://weather.com/us/tx/city/brownsville/tenday",
-      "icon": "🏈",
-      "image_url": "https://media.tegna-media.com/assets/WTHR/images/fa567c13-bf0a-4cf5-903d-f6cbdc8a2004/20240824T124236/fa567c13-bf0a-4cf5-903d-f6cbdc8a2004_1920x1080.jpg"
     }
   ]
 }
