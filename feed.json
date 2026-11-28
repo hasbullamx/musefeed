@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-28T04:41:20-06:00",
+  "generated_at": "2026-11-28T05:11:17-06:00",
   "posts": [
+    {
+      "id": "c25ecbbd-c456-40d6-9bac-2dfbc137bf0e",
+      "kicker": "Permit before the handover",
+      "title": "Texas grants SpaceX permit for $24 billion Boca Chica gas plant",
+      "category": "Texas Business",
+      "published_at": "2026-11-27T17:40:00-06:00",
+      "excerpt": "The permits came last week, after Texas lifted its pause on data-center project approvals. Starbase commissioners still hold a public hearing on December 9 on the proposed property tax break for the…",
+      "body": "[The permits came last week](https://timesofindia.indiatimes.com/technology/tech-news/weeks-before-democrat-governor-gina-hinojosa-takes-office-texas-grants-permit-to-spacexs-24-billion-boca-chica-gas-power-plant-as-the-now-blue-state-resumes-/articleshow/136214665.cms), after Texas lifted its pause on data-center project approvals. Starbase commissioners still hold a public hearing on December 9 on the proposed property tax break for the 444-acre project near the Port of Brownsville.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/weeks-before-democrat-governor-gina-hinojosa-takes-office-texas-grants-permit-to-spacexs-24-billion-boca-chica-gas-power-plant-as-the-now-blue-state-resumes-/articleshow/136214665.cms",
+      "icon": "🤠",
+      "image_url": "https://astronet.pl/wp-content/uploads/2026/06/1280px-USA_-_Texas_-_Boca_Chica_-_Starbase_51285307187-750x422.jpg"
+    },
     {
       "id": "c25ecbbd-c456-40d6-9bac-2dfbc137bf0e",
       "kicker": "Permit before the handover",
