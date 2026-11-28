@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-28T04:11:18-06:00",
+  "generated_at": "2026-11-28T04:41:20-06:00",
   "posts": [
     {
       "id": "c25ecbbd-c456-40d6-9bac-2dfbc137bf0e",
@@ -169,18 +169,6 @@
       "url": "https://piratesandprincesses.net/dollar-general-black-friday-2026-50-off-trees-and-25-air-fryers/",
       "icon": "🏷️",
       "image_url": "https://kubrick.qa.htvapps.com/hmg-prod.s3.amazonaws.com/images/gh-102320-air-fryers-black-friday-1603471129.png?crop=0.888888888888889xw:1xh;center,top&resize=900:*"
-    },
-    {
-      "id": "36da55df-e91d-46a7-ab7a-d5c37dd7eb33",
-      "kicker": "Out of the chat",
-      "title": "Claude Now Lets You Install Artifacts as Desktop Apps",
-      "category": "AI / Technology",
-      "published_at": "2026-11-25T04:27:00-06:00",
-      "excerpt": "Anthropic released a beta feature that lets you install a Claude artifact as a desktop app on Mac and Windows, with its own icon and window. The top tier, full computer access, can run programs and…",
-      "body": "Anthropic released a beta feature that lets you [install a Claude artifact as a desktop app](https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/) on Mac and Windows, with its own icon and window. The top tier, full computer access, can run programs and read, change, or delete files without asking each time.",
-      "url": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
-      "icon": "🤖",
-      "image_url": "https://images.siliconangle.com/blogs.dir/1/files/2025/06/Claude-Create-Artifacts-Desktop-Mobile-Crop1.png"
     }
   ]
 }
