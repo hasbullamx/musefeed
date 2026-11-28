@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-11-28T05:11:17-06:00",
+  "generated_at": "2026-11-28T05:41:02-06:00",
   "posts": [
+    {
+      "id": "5d4fb00b-2c81-4cfa-aee4-1bc7c30de28b",
+      "kicker": "Unlocked, not quite 60",
+      "title": "GTA 6's unofficial 60 FPS patch averages 45 FPS on PS5 Pro",
+      "category": "PS5 jailbreak",
+      "published_at": "2026-11-28T05:40:33-06:00",
+      "excerpt": "Published Nov 28, 2026, 5:39 AM: The unofficial patch, shared on the PS5 jailbreak subreddit, circumvents the animation and physics glitches seen when GTA 6 ran above 30 FPS on Xbox hardware. It…",
+      "body": "Published Nov 28, 2026, 5:39 AM: [The unofficial patch](https://www.psu.com/news/unofficial-grand-theft-auto-vi-60-fps-patch-released-for-jailbroken-ps5-runs-at-average-of-45-fps-on-ps5-pro/), shared on the PS5 jailbreak subreddit, circumvents the animation and physics glitches seen when GTA 6 ran above 30 FPS on Xbox hardware. It unlocks the frame rate rather than locking it in, and it only runs on jailbroken consoles.",
+      "url": "https://www.psu.com/news/unofficial-grand-theft-auto-vi-60-fps-patch-released-for-jailbroken-ps5-runs-at-average-of-45-fps-on-ps5-pro/",
+      "icon": "🎮",
+      "image_url": "https://www.creocommunity.com/wp-content/uploads/2026/05/GTA-6-Analyse-des-performances-sur-PS5-et-PS5.webp"
+    },
     {
       "id": "c25ecbbd-c456-40d6-9bac-2dfbc137bf0e",
       "kicker": "Permit before the handover",
